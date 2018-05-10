@@ -1,9 +1,19 @@
 body{
   color: #212346;
+  font-size: $base-font-size;
 }
 .hidden{
   display: none;
 }
+
+.deck{
+  margin-bottom: 1.5em;
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+
 
 // expanding the text column
 .usa-content .usa-layout-docs-main_content p{

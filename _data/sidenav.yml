@@ -12,15 +12,16 @@
   - text: "Our Team"
     url: /about/out-team/
 - text: "Our Work"
+  url: /work/
   sub_nav:
   - text: "Contact Center CoE"
-    url: /
+    url: /work/contact-center/
   - text: "IT Infrastructure Optimization CoE"
-    url: /
+    url: /work/it-tnfrastructure-optimization/
   - text: "Data and Analytics CoE"
-    url: /
+    url: /work/
   - text: "Cloud Adoption CoE"
-    url: /
+    url: /work/
   - text: "Customer Experience CoE"
     url: /
 - text: "Our Customers"
