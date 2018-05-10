@@ -11,18 +11,18 @@
     url: /about/collaborators/
   - text: "Our Team"
     url: /about/out-team/
-- text: "Our Work"
+- text: "Centers of Excellence"
   url: /work/
   sub_nav:
-  - text: "Contact Center CoE"
+  - text: "Contact Center "
     url: /work/contact-center/
-  - text: "IT Infrastructure Optimization CoE"
+  - text: "IT Infrastructure Optimization"
     url: /work/it-tnfrastructure-optimization/
-  - text: "Data and Analytics CoE"
+  - text: "Data and Analytics "
     url: /work/data-analytics/
-  - text: "Cloud Adoption CoE"
+  - text: "Cloud Adoption"
     url: /work/cloud-adoption/
-  - text: "Customer Experience CoE"
+  - text: "Customer Experience"
     url: /work/customer-experience/
 - text: "Our Customers"
   url: /our-customers/
@@ -30,5 +30,5 @@
   url: /updates/
 - text: "Collaborate"
   url: /collaborate/
-- text: "Join"
+- text: "Join us!"
   url: /join-us/
