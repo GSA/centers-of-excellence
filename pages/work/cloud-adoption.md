@@ -10,15 +10,15 @@ description: ""
 
 By using an agile and flexible framework the CoE will accelerate adoption across the executive branch enterprise.
 
-
 ## Accomplishments
-text here...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## USDA Past Performance
-text here...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## Snapshot of Metrics Dashboard
-text here...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## Contact Information
-text here...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
