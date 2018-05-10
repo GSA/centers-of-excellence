@@ -25,10 +25,9 @@
   - text: "Customer Experience CoE"
     url: /work/customer-experience/
 - text: "Our Customers"
-  sub_nav:
-  - text: "USDA"
-    url: /
+  url: /our-customers/
 - text: "Latest Updates"
+  url: /updates/
 - text: "Collaborate"
   sub_nav:
   - text: "For Agencies"
