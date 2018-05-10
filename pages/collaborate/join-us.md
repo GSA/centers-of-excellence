@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Us
-permalink: /collaborate/join-us/
+permalink: /join-us/
 description: ""
 
 ---
