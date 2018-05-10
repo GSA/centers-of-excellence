@@ -1,0 +1,50 @@
+body{
+  color: #212346;
+}
+.hidden{
+  display: none;
+}
+
+// expanding the text column
+.usa-content .usa-layout-docs-main_content p{
+  max-width: none;
+}
+
+
+
+
+.usa-content .usa-layout-docs-sidenav{
+  margin-top: 4rem;
+  width: 100%;
+  border-top:3px solid #212346;
+  ul.usa-sidenav-list{
+    max-width: none;
+    li strong{
+      padding:1rem 1.4rem;
+      display: inline-block;
+    }
+  }
+}
+
+
+
+@media screen and (min-width: 1201px) {
+  .usa-content .usa-layout-docs-sidenav{
+    margin-top: 0;
+    border:none;
+    width: 23.23176%;
+    ul.usa-sidenav-list{
+      max-width: 53rem;
+    }
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .usa-nav{
+    display: none;
+  }
+}
+
+.emoji{
+  // width:
+}

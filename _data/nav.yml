@@ -1,0 +1,9 @@
+# Nav
+# List links that should appear in the site sidebar here
+nav:
+- text: "Home"
+  url: /
+- text: "Work"
+  url: /work/
+- text: "About"
+  url: /about/

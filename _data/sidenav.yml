@@ -1,0 +1,38 @@
+# Side Nav
+# List links that should appear in the site sidebar here
+- text: "Home"
+  url: /
+- text: "About"
+  url: /about/
+  sub_nav:
+  - text: "Organization"
+    url: /
+  - text: "Collaborators"
+    url: /
+  - text: "Our Team"
+    url: /
+- text: "Our Work"
+  sub_nav:
+  - text: "Contact Center CoE"
+    url: /
+  - text: "IT Infrastructure Optimization CoE"
+    url: /
+  - text: "Data and Analytics CoE"
+    url: /
+  - text: "Cloud Adoption CoE"
+    url: /
+  - text: "Customer Experience CoE"
+    url: /
+- text: "Our Customers"
+  sub_nav:
+  - text: "USDA"
+    url: /
+- text: "Latest Updates"
+- text: "Collaborate"
+  sub_nav:
+  - text: "For Agencies"
+    url: /
+  - text: "For Contractors"
+    url: /
+  - text: "Join"
+    url: /

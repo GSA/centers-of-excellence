@@ -1,0 +1,149 @@
+
+
+// Controls the height and color of the navbar
+.usa-header{
+  background: #212346;
+  border: none;
+  .usa-navbar{
+    height: auto;
+
+    .usa-logo{
+      img{
+        width: 60px;
+        float:left;
+      }
+      .title{
+        margin-top: 3px;
+        margin-left: 15px;
+        float:left;
+        width: 600px;
+        h1{
+          font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+          font-size: 2.5rem;
+          a{
+            color:#fff;
+          }
+        }
+        h2{
+          margin:0;
+          font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+          color:#fff;
+          font-size: 1.7rem;
+          font-weight: 400;
+        }
+      }
+    }
+
+
+    .contribute{
+      margin: 0;
+      float: right;
+      top: 40px;
+      position: relative;
+      display: none;
+    }
+  }
+}
+
+
+@media screen and (min-width: 600px) {
+  .usa-header{
+    .usa-navbar{
+      // height: 8rem;
+    }
+  }
+}
+@media screen and (min-width: 951px) {
+  .usa-header{
+    .usa-navbar{
+      // height: 10rem;
+    }
+  }
+}
+@media screen and (min-width: 1201px) {
+  .usa-header{
+    .usa-navbar{
+      // height: 10rem;
+      .contribute{
+        top: 40px;
+        display: block;
+      }
+    }
+  }
+}
+
+
+
+// .usa-logo {
+//   width:80%;
+//   h1{
+//     margin-top: 1rem;
+//     font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+//     font-size: 2.2rem;
+//     a{
+//       color:#fff;
+//     }
+//     .emoji{
+//       margin-left: 8px;
+//       position: relative;
+//       width: 24px;
+//       height: 24px;
+//       top:6px;
+//     }
+//     .gsa{
+//       margin-right: 15px;
+//       width: 40px;
+//       display: block;
+//       float: left;
+//       position: relative;
+//       top:6px;
+//     }
+//   }
+// }
+// @media screen and (min-width: 600px) {
+//   .usa-logo {
+//     h1{
+//       margin-top: 2.5rem;
+//       font-size: 2.2rem;
+//       .emoji{
+//         width: 28px;
+//         height: 28px;
+//         top:8px;
+//       }
+//       .gsa{
+//         width: 40px;
+//         top:-6px;
+//       }
+//     }
+//   }
+// }
+// @media screen and (min-width: 951px) {
+//   .usa-header-extended .usa-logo {
+//     margin: 0;
+//     margin-top: 2.8rem;
+//
+//     h1{
+//       margin-top: 0;
+//       font-size: 3rem;
+//       .emoji{
+//         width: 32px;
+//         height: 32px;
+//         top:6px;
+//       }
+//       .gsa{
+//         width: 50px;
+//         top:-6px;
+//       }
+//     }
+//   }
+// }
+// @media screen and (min-width: 1201px) {
+//   .usa-logo {
+//     h1{
+//       margin-top: 0;
+//       .gsa{
+//         top:-8px;
+//       }
+//     }
+//   }
+// }
