@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Hello! :wave:
+# Hello!
 
 We are working on building out this new site. Feel free to click around.
 
@@ -16,3 +16,5 @@ We are working on building out this new site. Feel free to click around.
 - Announcements and success
 
 coming soon...
+
+:fox_face:
