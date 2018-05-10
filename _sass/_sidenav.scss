@@ -4,9 +4,11 @@
   border-top:3px solid #212346;
   ul.usa-sidenav-list{
     max-width: none;
-    li strong{
-      padding:1rem 1.4rem;
-      display: inline-block;
+    li {
+      font-weight: bold;
+      li{
+        font-weight: normal;
+      }
     }
   }
 }
