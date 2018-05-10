@@ -32,8 +32,8 @@
   url: /collaborate/
   sub_nav:
   - text: "For Agencies"
-    url: /
+    url: /collaborate/agencies/
   - text: "For Contractors"
-    url: /
+    url: /collaborate/industry/
   - text: "Join"
-    url: /
+    url: /collaborate/join-us/
