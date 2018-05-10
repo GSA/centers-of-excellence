@@ -30,10 +30,5 @@
   url: /updates/
 - text: "Collaborate"
   url: /collaborate/
-  sub_nav:
-  - text: "For Agencies"
-    url: /collaborate/agencies/
-  - text: "For Contractors"
-    url: /collaborate/industry/
-  - text: "Join"
-    url: /collaborate/join-us/
+- text: "Join"
+  url: /join-us/
