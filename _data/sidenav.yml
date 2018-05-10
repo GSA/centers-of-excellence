@@ -29,6 +29,7 @@
 - text: "Latest Updates"
   url: /updates/
 - text: "Collaborate"
+  url: /collaborate/
   sub_nav:
   - text: "For Agencies"
     url: /
