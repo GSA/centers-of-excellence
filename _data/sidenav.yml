@@ -6,11 +6,11 @@
   url: /about/
   sub_nav:
   - text: "Organization"
-    url: /
+    url: /about/organization/
   - text: "Collaborators"
-    url: /
+    url: /about/collaborators/
   - text: "Our Team"
-    url: /
+    url: /about/out-team/
 - text: "Our Work"
   sub_nav:
   - text: "Contact Center CoE"

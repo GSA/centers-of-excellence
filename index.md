@@ -4,3 +4,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
+# :wave:
+
+### What will go on the homepage:
+
+- Placeholder for CoE graphics and team photos
+- Latest tweets, blogs and articles
+- Announcements and success
+
+coming soon...
