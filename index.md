@@ -5,7 +5,9 @@
 layout: default
 ---
 
-# :wave:
+# Hello! :wave:
+
+We are working on building out this new site. Feel free to click around.
 
 ### What will go on the homepage:
 
