@@ -8,22 +8,19 @@ description: ""
 
 [Head shot images, short blurb below with a read more link that  leads to a bio page]
 
-### PMO
+### Program Management Office
 - Joanne Collins Smee
 - Bob DeLuca
 - Brian Whittaker
 
-### Leads
-- Dan Pomeroy
-- Jay Huie
-- Simchah Suveyke-Bogin
-- Meghan Daly
-- Thomas Hallaran
-
+### Teams
+- **Cloud Adoption** - Jay Huie *(Lead)*, Scott Finke, Therese Gallagher
+- **Contact Center** - Meghan Daly *(Lead)*, Dana Watts, Sudhir Surendran
+- **Customer Experience** - Simchah Suveyke-Bogin *(Lead)*, Tamieca Hamlin
+- **Data and Analytics** - Thomas Hallaran *(Lead)*, Christopher Alvares 
+- **IT Infrastructure Optimization** - Dan Pomeroy *(Lead)*, Teresa Curtis, Morris Johnson, Shawn Watson
 
 ### Acquisition
 - Al Munoz
 - Omid Ghaffari-Tabrizi
 
-
-_List or mention GSA detailees, USDA detailees and/or contractor staff_
