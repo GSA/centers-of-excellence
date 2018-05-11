@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Center
+title: Contact Center of the Future
 permalink: /work/contact-center/
 description: ""
 
