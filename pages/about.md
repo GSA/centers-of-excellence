@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Our Mission
+permalink: /our-mission/
 description: ""
 
 ---
 
-## Our Mission:
-
-Accelerate the modernization of IT across government by leveraging private sector innovation and centralized best practices and expertise.
+<div class="deck">Accelerate the modernization of IT across government by leveraging private sector innovation and centralized best practices and expertise.</div>
 
 ## Our Values:
 
