@@ -1,0 +1,61 @@
+// Quote Box
+
+#quote-frame{
+  .quote-submit{
+    padding: 3px 7px 4px 7px;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: right;
+    display: block;
+    font-style: italic;
+  }
+  .paper{
+    // margin-top: 20px;
+    // border-top: 2px #000 dotted;
+    padding: 10px 15px 0 15px;
+    padding: 30px 40px 40px 40px;
+    // background: #1e0340;
+    color: #fff;
+    background: #0071bc;
+
+    .quote{
+      font-size: 28px;
+      font-weight: 700;
+      font-style: italic;
+      line-height: 36px;
+      text-indent: -10px;
+      display: none;
+      span{
+        margin-top: 20px;
+        margin-left: 10px;
+        display: block;
+        text-indent: -18px;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        font-style: normal;
+      }
+    }
+    .active{
+      display: block;
+    }
+  }
+
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  #quote-box {
+    margin-top: 0;
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }
