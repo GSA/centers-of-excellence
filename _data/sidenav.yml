@@ -21,8 +21,8 @@
   url: /about/out-team/
 - text: "Our Customers"
   url: /our-customers/
-  - text: "Our Partners"
-    url: /our-partners/
+- text: "Our Partners"
+  url: /our-partners/
 - text: "Latest Updates"
   url: /updates/
 - text: "Press"
