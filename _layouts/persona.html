@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1 class="post-title">{{ page.title | escape }}</h1>
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+<div class="post-meta">
+  <a class="button button-edit" href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}">Edit</a>
+</div>
