@@ -6,11 +6,11 @@ description: ""
 
 ---
 
-## Position in GSA/TTS:
+## Position in GSA/Technology Transformation Services (TTS):
 
-The CoEs are led by Bob DeLuca who reports directly to Joanne Collins Smee, the Deputy Commissioner of the Federal Acquisition Service (FAS) and Director of the Technology Transformation Services (TTS).
+The CoEs are led by Bob DeLuca who reports directly to Joanne Collins Smee, the Deputy Commissioner of the Federal Acquisition Service (FAS) and Director of TTS.
 
-## Relation to USSM:
+## Relation to Unified Shared Services Management (USSM):
 
 CoEs have a clear understanding of USSM’s services and ensure they are considered prior to developing a new product.
 
