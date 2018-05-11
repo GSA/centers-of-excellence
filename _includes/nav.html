@@ -1,0 +1,15 @@
+<ul class="nav-list">
+  {% for item in site.data.nav %}
+    {% assign current = '' %}
+    {% if page.url == item.url %}
+      {% assign current = 'usa-current' %}
+    {% endif %}
+    <li>
+      {% if item.url %}
+      <a class="{{ current }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.text }} »</a>
+      {%else%}
+      <strong>{{ item.text }}</strong>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

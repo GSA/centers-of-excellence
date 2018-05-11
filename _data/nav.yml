@@ -1,9 +1,10 @@
 # Nav
 # List links that should appear in the site sidebar here
-nav:
-- text: "Home"
-  url: /
-- text: "Work"
+- text: "Our Centers of Excellence"
   url: /work/
-- text: "About"
+- text: "Who we're working with"
+  url: /our-customers/
+- text: "How to collaborate"
+  url: /collaborate/
+- text: "Our team"
   url: /about/

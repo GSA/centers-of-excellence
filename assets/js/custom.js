@@ -26,7 +26,7 @@
       maxHeight = maxHeight > $(this).height() ? maxHeight : $(this).height();
     });
     console.log(maxHeight);
-    $('#quote-frame .paper').height(maxHeight + 30);
+    $('#quote-frame .paper').height(maxHeight);
 
   });
 })(jQuery);

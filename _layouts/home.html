@@ -2,12 +2,22 @@
 layout: default
 ---
 
-<h1 class="post-title">{{ page.title | escape }}</h1>
+<div class="usa-width-one-whole usa-layout-docs-main_content">
+  <div class="big-quote">Write a big inspirational quote that is not too long. That's what we aim to do.</div>
 
-<div class="post-content">
-  {{ content }}
+  {% include nav.html %}
 </div>
 
-{% include quotes.html %}
 
-{% include post-meta.html %}
+
+<div class="usa-width-three-fourths usa-layout-docs-main_content">
+
+  {% include quotes.html %}
+  
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% include post-meta.html %}
+
+</div>
