@@ -28,6 +28,8 @@
   url: /our-customers/
 - text: "Latest Updates"
   url: /updates/
+- text: "Press"
+  url: /press/
 - text: "Collaborate"
   url: /collaborate/
 - text: "Join us!"
