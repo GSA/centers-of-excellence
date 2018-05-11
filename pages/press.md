@@ -14,4 +14,4 @@ description: ""
 - [Short Modernized Headline (Politico)](#)
 - [Technology Modernized Headline (Wired)](#)
 
-_Please contact [press@gsa.gov](mailto:press@gsa.gov)_
+_For all press inquiries, please contact [press@gsa.gov](mailto:press@gsa.gov)_
