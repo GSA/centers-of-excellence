@@ -2,15 +2,8 @@
 # List links that should appear in the site sidebar here
 - text: "Home"
   url: /
-- text: "About"
+- text: "Mission"
   url: /about/
-  sub_nav:
-  - text: "Organization"
-    url: /about/organization/
-  - text: "Collaborators"
-    url: /about/collaborators/
-  - text: "Our Team"
-    url: /about/out-team/
 - text: "Centers of Excellence"
   url: /work/
   sub_nav:
@@ -24,8 +17,12 @@
     url: /work/cloud-adoption/
   - text: "Customer Experience"
     url: /work/customer-experience/
+- text: "Our Team"
+  url: /about/out-team/
 - text: "Our Customers"
   url: /our-customers/
+  - text: "Our Partners"
+    url: /our-partners/
 - text: "Latest Updates"
   url: /updates/
 - text: "Press"
