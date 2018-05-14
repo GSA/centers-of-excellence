@@ -1,0 +1,35 @@
+
+
+.popup-frame{
+  display: none;
+  .close{
+    color: #fff;
+    text-align: center;
+    display: block;
+    // width: 50%;
+  }
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  background: rgba(17, 17, 17, .85);
+  .paper{
+    padding: 50px 70px 65px 70px;
+    background: #009AFA;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top:15%;
+    .popup{
+      p{
+        margin: 0 0 1.5rem 0;
+      }
+      button{
+        margin: 0;
+        font-size: 2.6rem;
+      }
+      font-size: 3rem;
+      color: #fff;
+    }
+  }
+}
