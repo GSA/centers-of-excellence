@@ -10,9 +10,9 @@
   - text: "Partners"
     url: /our-partners/
 - text: "Our Work at USDA"
-  url: /our-customers/
+  url: /our-work/
 - text: "Centers of Excellence"
-  url: /work/
+  url: /centers-of-excellence/
   sub_nav:
   - text: "Contact Center of the Future"
     url: /work/contact-center/

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Work
-permalink: /work/
+title: Centers of Excellence
+permalink: /centers-of-excellence/
 description: ""
 
 ---

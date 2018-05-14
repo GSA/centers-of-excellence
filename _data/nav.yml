@@ -1,9 +1,9 @@
 # Nav
 # List links that should appear in the site sidebar here
 - text: "Our Centers of Excellence"
-  url: /work/
+  url: /centers-of-excellence/
 - text: "Who we're working with"
-  url: /our-customers/
+  url: /our-work/
 - text: "How to collaborate"
   url: /collaborate/
 - text: "Our Mission"
