@@ -5,12 +5,12 @@
 - text: "Our Mission & Values"
   url: /our-mission/
   sub_nav:
-  - text: "Our Team"
+  - text: "Team"
     url: /about/out-team/
-  - text: "Our Customers"
-    url: /our-customers/
-  - text: "Our Partners"
+  - text: "Partners"
     url: /our-partners/
+- text: "Our Work at USDA"
+  url: /our-customers/
 - text: "Centers of Excellence"
   url: /work/
   sub_nav:
