@@ -8,7 +8,7 @@ description: ""
 
 
 ### Cloud Adoption
-- SIE Consulting - SIE Consulting Group specializes in cost savings and IT modernization through seamless cloud adoption and reductions in duplicative and wasteful spending. This allows decision makers to focus on investing in capabilities that enable their core missions. 
+- SIE Consulting - Specializes in cost savings and IT modernization through seamless cloud adoption and reductions in duplicative and wasteful spending. This allows decision makers to focus on investing in capabilities that enable their core missions. 
 
 ### Contact Center of the Future
 - Kaiser Associates - We are a global consulting firm recognized by our clients as the gold standard in fact based strategy and implementation.
