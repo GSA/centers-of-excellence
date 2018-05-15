@@ -6,8 +6,6 @@ description: ""
 
 ---
 
-[Head shot images, short blurb below with a read more link that  leads to a bio page]
-
 ### Program Management Office
 - Joanne Collins Smee
 - Bob DeLuca
@@ -24,3 +22,4 @@ description: ""
 - Al Munoz
 - Omid Ghaffari-Tabrizi
 
+![The Centers]({{ "/assets/photos/team.jpeg" | absolute_url }})
