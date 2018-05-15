@@ -20,4 +20,4 @@ description: ""
 
 * **Centralize our resources** - By standing up the Centers of Excellence we strive to be a centralized resource of the brightest talent, best practices, proven processes and acquisition vehicles to yield the best results across government.
 
-![The Centers]({{ "/assets/photos/team.jpeg" | absolute_url }})
+
