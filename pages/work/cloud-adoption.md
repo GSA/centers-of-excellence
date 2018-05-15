@@ -14,11 +14,6 @@ By using an agile and flexible framework the CoE will accelerate adoption across
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-## USDA Past Performance
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 ## Snapshot of Metrics Dashboard
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-## Contact Information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
