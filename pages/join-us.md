@@ -9,16 +9,16 @@ description: ""
 ## Apply Now
 We’re looking for highly skilled professionals that are passionate about making a positive impact in the government and thrive in fast paced environments. Interested candidates with hands on experience in the following areas are encouraged to apply:
 
--Business Analysts
--Cloud Migrations
--Contact Center Operations
--Data Center Operations
--Data Scientists 
--Human Centered Design
--Contract Officers/Lawyers 
--Program Managers
+- Business Analysts
+- Cloud Migrations
+- Contact Center Operations
+- Data Center Operations
+- Data Scientists 
+- Human Centered Design
+- Contract Officers/Lawyers 
+- Program Managers
 
 ### Upcoming Openings
 
-- ** Cloud Adoption Lead
-- ** Program Manager
+- ** Cloud Adoption Lead**
+- ** Program Manager**
