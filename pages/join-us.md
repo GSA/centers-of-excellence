@@ -20,5 +20,5 @@ We’re looking for highly skilled professionals that are passionate about makin
 
 ### Upcoming Openings
 
-- ** Cloud Adoption Lead**
-- ** Program Manager**
+- **Cloud Adoption Lead** (link forth coming)
+- **Program Manager** (to be approved) 
