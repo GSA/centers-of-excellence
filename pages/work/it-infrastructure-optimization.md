@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IT Infrastructure Optimization
-permalink: /work/it-tnfrastructure-optimization/
+permalink: /work/it-infrastructure-optimization/
 description: ""
 
 ---
