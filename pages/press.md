@@ -26,4 +26,6 @@ description: ""
 **October 2017**
 - [GSA launching office to house White House innovation office’s centers of excellence (FedScoop)](https://www.fedscoop.com/gsa-launching-office-house-white-house-innovation-offices-centers-excellence/)
 
+---
+
 _For all press inquiries, please contact [press@gsa.gov](mailto:press@gsa.gov)_
