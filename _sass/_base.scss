@@ -7,7 +7,7 @@ body{
 }
 
 .deck{
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 2.75rem;
   font-weight: 500;
@@ -30,7 +30,9 @@ body{
   max-width: none;
 }
 
-
+.usa-content ul:not(.usa-accordion):not(.usa-accordion-bordered){
+  max-width: 65rem;
+}
 
 .emoji{
   // width:

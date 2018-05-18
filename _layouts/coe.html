@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% include sidenav.html %}
+
+<div class="usa-width-three-fourths usa-layout-docs-main_content">
+
+  <h1 class="post-title">{{ page.title | escape }}</h1>
+
+
+  <div class="post-content">
+    <div class="deck">{{ page.deck | escape }}</div>
+    <div class="page-nav">
+      <a href="#accomplishments">Accomplishments</a> | <a href="#latest-updates">Latest Updates</a>
+    </div>
+
+    {{ content }}
+  </div>
+
+  <div id="latest-updates">
+    <h2>Latest Updates</h2>
+  {% for post in site.posts %}
+    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+  		<div class="article-head">
+  			<h3 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a> <span class="date">{{ post.date | date: "%b %d, %Y" }}</span></h3>
+  		</div><!--/.article-head-->
+  		<div class="article-content">
+  		{{ post.content }}
+  		</div><!--/.article-content-->
+  	</article>
+  	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
+  {% endfor %}
+  </div>
+  {% include post-meta.html %}
+
+</div>

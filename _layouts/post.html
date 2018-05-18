@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include sidenav.html %}
+
+<div class="usa-width-three-fourths usa-layout-docs-main_content">
+
+  <h1 class="post-title">POST {{ page.title | escape }}</h1>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% include post-meta.html %}
+
+</div>
