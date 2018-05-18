@@ -8,6 +8,8 @@ plugins:
   - jemoji
   - jekyll-redirect-from
 
+include: ["_pages"]
+
 exclude:
 - ".ruby-version"
 - ".jekyll-metadata"

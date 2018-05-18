@@ -18,13 +18,7 @@ The goal of the Contact Center CoE is to establish a repeatable methodology to h
 
 
 ## Accomplishments
-- Launching and analyzing survey results to develop a comprehensive inventory of USDA’s external-facing contact centers
-- Engaging with stakeholders within USDA and across Federal government to identify areas of opportunity and lessons learned to expedite contact center optimization
-- Conducting best practice research to identify best-in-class contact center features including: standard performance metrics, customer feedback metrics, quality assurance, and other KPIs for USDA
-- Documenting the current customer journey and interactions with USDA by mapping phone trees of external-facing contact centers
-- Leveraging preliminary Contact Center Maturity Index as a framework for assessing the current state of USDA’s contact center capabilities
-- Developing a clear vision and roadmap for USDA’ contact center consolidation and optimization plan leveraging best practice research to enable USDA’s mission
-
+text here...
 
 ## Snapshot of Metrics Dashboard
 text here...
