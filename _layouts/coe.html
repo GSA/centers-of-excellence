@@ -18,12 +18,12 @@ layout: default
     {{ content }}
   </div>
 
-  <div id="latest-updates">
+  <div id="coe-updates" class="updates">
     <h2>Latest Updates</h2>
   {% for post in site.posts %}
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
   		<div class="article-head">
-  			<h3 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a> <span class="date">{{ post.date | date: "%b %d, %Y" }}</span></h3>
+  			<h3 class="title"><a href="/{{ post.url }}/">{{ post.title }}</a> <span class="date">{{ post.date | date: "%b %d, %Y" }}</span></h3>
   		</div><!--/.article-head-->
   		<div class="article-content">
   		{{ post.content }}

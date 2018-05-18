@@ -3,8 +3,7 @@
   font-weight: bold;
 }
 
-
-#latest-updates{
+.updates{
   margin: 40px 0;
   padding: 10px 0;
   border-top: 1px #000 solid;
@@ -23,13 +22,38 @@
       a:hover{
         text-decoration: underline;
       }
+      .date{
+        margin-left: 5px;
+        font-size: 1.6rem;
+        color: #555;
+      }
     }
-    .date{
-      margin-left: 5px;
-      font-size: 1.6rem;
-      color: #555;
-      // font-weight: normal;
+    h6{
+      font-weight: bold;
+      font-size: 14px;
+      a{
+        text-decoration: none;
+      }
+      a{
+        text-decoration: none;
+      }
     }
+    p{
+      margin-top: 0;
+    }
+  }
+}
+
+
+#latest-updates{
+
+}
+
+
+#coe-updates{
+  article{
+    margin-bottom: 30px;
+
     p{
       margin-top: 0;
     }

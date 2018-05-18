@@ -1,0 +1,16 @@
+# COEs
+contact-center:
+  name: "Contact Center"
+  path: URL
+data-analytics:
+  name: "Data Analytics"
+  path: URL
+it-infrastructure:
+  name: "IT Infrastructure"
+  path: URL
+customer-experience:
+- name: "Customer Experience"
+  path: URL
+cloud-adoption:
+  name: "Cloud Adoption"
+  path: URL
