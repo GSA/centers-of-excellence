@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include sidenav.html %}
+
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
 
   <div id="latest-updates" class="updates">
@@ -18,4 +20,5 @@ layout: default
     	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
     {% endfor %}
   </div>
+
 </div>
