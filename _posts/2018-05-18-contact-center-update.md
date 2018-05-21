@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Update Headline
+title: 'Tell Sonny!'
 description: "Short Lorem ipsum dolor sit amet."
 coe: contact-center
 
 ---
 
-hello Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper. Donec egestas felis id turpis sollicitudin blandit vitae quis libero. Ut massa arcu, condimentum vitae laoreet auctor, blandit sit amet enim. Phasellus ornare rhoncus urna a lacinia. Nullam leo velit, ullamcorper id est ac, consectetur porttitor diam. In eu mollis nulla. Aenean molestie, urna non accumsan posuere, libero leo hendrerit ex, at lobortis nisl justo at nisi. Suspendisse potenti. Etiam nibh leo, vulputate sed ligula ac, mattis dictum sapien. Proin eu mi vitae sapien fringilla consequat. Maecenas vel purus nec mauris dignissim pellentesque. Maecenas lectus eros, posuere id eros ut, luctus suscipit odio.
+The Secretary launched his second “Backed to Our Roots” RV Tour across the country on April 3, 2018. In support of this tour, the Contact Center Center of Excellence (CoE) helped launch a single, easy to use web form and an toll-free number that allows the public to provide direct feedback to USDA leadership. In close collaboration with USDA staff and agency leadership, the CoE developed questions for the web form and contact center script. The CoE created created short-term solution for escalating customer issues and ensuring their inquiries are resolved.  Supporting Tell Sonny gave us important insights into USDA's internal processes and points of contact for the intake, tracking, and resolving of customer feedback and provides a great preview for our broader CoE work around the Voice of the Customer.
