@@ -25,3 +25,16 @@ You'll need to provide three things:
 ```
 {% include image-wide.html path="contact-center/sonny.png" alt-text="this is the alt text" caption="Sonny" %}
 ```
+
+
+## Videos
+
+YouTube videos can be embedded in pages.
+
+1. Copy the the `ID` of the youtube video URL
+  1. Example — `https://www.youtube.com/watch?v=JcwG4iwN6Fk` the ID of this video is `JcwG4iwN6Fk`
+2. Paste the `ID` into the following shortcode.
+
+```
+{% include youtube.html id="JcwG4iwN6Fk" %}
+```
