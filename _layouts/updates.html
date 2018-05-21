@@ -13,7 +13,7 @@ layout: default
       {% assign coe = site.data.coe[post.coe] %}
       <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
     		<div class="article-head">
-          <h6><a href="{{ coe.path }}">{{ coe.name }}</a></h6>
+          <h6 class="kicker"><a href="{{ coe.path }}">{{ coe.name }}</a></h6>
     			<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%b %d, %Y" }}</span></h3>
     		</div><!--/.article-head-->
     	</article>

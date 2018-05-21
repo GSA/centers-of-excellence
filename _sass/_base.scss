@@ -20,9 +20,41 @@ body{
   font-weight: 800;
 }
 
-
+.kicker{
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: 900;
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+}
+.date{
+  margin: 0;
+  font-size: 1.6rem;
+  color: #555;
+  font-weight: bold;
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+.post-title{
+  margin: 0;
+}
 .post-meta{
   margin-top: 50px;
+  .button-edit{
+    padding: 5px 12px 7px 12px;
+    color: #000;
+    background: rgb(228, 237, 244);
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .button-edit:hover{
+    background: rgb(202, 222, 235);
+  }
 }
 
 // expanding the text column
