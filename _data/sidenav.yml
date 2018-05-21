@@ -3,10 +3,10 @@
 - text: "Home"
   url: /
 - text: "Our Mission & Values"
-  url: /our-mission/
+  url: /mission/
   sub_nav:
   - text: "Team"
-    url: /about/out-team/
+    url: /mission/out-team/
   - text: "Partners"
     url: /our-partners/
 - text: "Our Work at USDA"
