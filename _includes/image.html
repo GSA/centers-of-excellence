@@ -1,6 +1,7 @@
 {% if include.path %}
+{% assign img_path = "/images/" | append: include.path %}
 <div class="media image">
-  <img src="/images/{{ include.path }}" {% if include.alt-text %} alt="{{ include.alt-text }}"{% endif %}>
+  <img src="{{ img_path | absolute_url }}" {% if include.alt-text %} alt="{{ include.alt-text }}"{% endif %}>
   {% if include.caption %}
     <span class="caption">{{ include.caption }}</span>
   {% endif %}
