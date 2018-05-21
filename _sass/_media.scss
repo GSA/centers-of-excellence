@@ -1,0 +1,27 @@
+// images
+.media{
+  margin-bottom: 25px;
+  color: #555;
+  .caption{
+    display: block;
+    font-size: 14px;
+  }
+}
+.image{
+  margin-left: 2rem;
+  width:300px;
+  float: right;
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {  }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }

@@ -1,0 +1,8 @@
+{% if include.path %}
+<div class="media image">
+  <img src="/images/{{ include.path }}" {% if include.alt-text %} alt="{{ include.alt-text }}"{% endif %}>
+  {% if include.caption %}
+    <span class="caption">{{ include.caption }}</span>
+  {% endif %}
+</div>
+{% endif %}
