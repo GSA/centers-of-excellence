@@ -9,8 +9,23 @@
 }
 .image{
   margin-left: 2rem;
-  width:300px;
+  width:350px;
   float: right;
+}
+
+.video{
+  // width:729px;
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
 }
 
 
