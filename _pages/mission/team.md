@@ -22,4 +22,4 @@ description: ""
 - Al Munoz
 - Omid Ghaffari-Tabrizi
 
-![The Centers]({{ "/assets/photos/team.jpeg" | absolute_url }})
+{% include team.html %}

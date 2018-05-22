@@ -1,0 +1,19 @@
+.team-members{
+  .person{
+    // width:150px;
+    display: inline-block;
+    text-align: center;
+    img{
+      width:150px;
+      height:150px;
+      border-radius: 75px;
+      object-fit: cover;
+      border:3px #ccc solid;
+    }
+    p{
+      margin: 0;
+      font-size: 15px;
+      font-weight: bold;
+    }
+  }
+}

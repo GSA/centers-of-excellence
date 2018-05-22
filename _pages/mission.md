@@ -19,3 +19,5 @@ description: ""
 * **Rely on best practices** - We also partner with the private sector to implement the latest technology, leverage best practices, accelerate modernization and avoid common pitfalls.
 
 * **Centralize our resources** - By standing up the Centers of Excellence we strive to be a centralized resource of the brightest talent, best practices, proven processes and acquisition vehicles to yield the best results across government.
+
+{% include image-wide.html path="/team/team.jpeg" alt-text="The COE team" caption="The COE Team" %}
