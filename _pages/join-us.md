@@ -13,5 +13,5 @@ If you have any questions, please contact our Talent Team at joinTTS@gsa.gov.
 
 ### Upcoming Openings
 
-- **Cloud Adoption Lead** (link forth coming)
-- **Program Managers** (link forth coming) 
+- [**Cloud Adoption Lead** ](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-lead/)
+
