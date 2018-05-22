@@ -7,6 +7,7 @@ description: ""
 ---
 **May 2018**
 - [GSA, USDA Make Progress on IT Modernization via Centers of Excellence (FedTech Magazine)](https://fedtechmagazine.com/article/2018/05/gsa-usda-make-progress-it-modernization-centers-excellence)
+
 **April 2018**
 - [Work kicks off at USDA IT Modernization Centers of Excellence (FedScoop)](https://www.fedscoop.com/usda-modernization-centers-excellence-joanne-collins-smee/)
 
