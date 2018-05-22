@@ -6,7 +6,7 @@
   url: /mission/
   sub_nav:
   - text: "Team"
-    url: /mission/out-team/
+    url: /mission/team/
   - text: "Partners"
     url: /our-partners/
 - text: "Our Work at USDA"
