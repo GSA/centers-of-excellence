@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Team
-permalink: /about/team/
+permalink: /mission/team/
 description: ""
 
 ---

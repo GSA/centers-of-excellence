@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organization
-permalink: /about/organization/
+permalink: /mission/organization/
 description: ""
 
 ---
@@ -16,4 +16,4 @@ CoEs have a clear understanding of USSM’s services and ensure they are conside
 
 ## [Relation to 18F](https://18f.gsa.gov/):
 
-When a shared service isn’t available or an off the shelf product isn’t available for acquisition, the CoEs will look for opportunities to leverage 18F product development and management expertise in our engagements.  
+When a shared service isn’t available or an off the shelf product isn’t available for acquisition, the CoEs will look for opportunities to leverage 18F product development and management expertise in our engagements.

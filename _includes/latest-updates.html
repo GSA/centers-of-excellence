@@ -1,0 +1,21 @@
+<!-- Gets the number of updates for that COE -->
+{% assign num_updates = site.posts | where:"coe",page.coe | size %}
+
+{% if num_updates != 0 %}
+{% assign updates = site.posts | where:"coe",page.coe %}
+  <div id="coe-updates" class="updates">
+    <h2>Latest Updates</h2>
+
+    {% for post in updates %}
+      <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+        <div class="article-head">
+          <h3 class="title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%b %d, %Y" }}</span></h3>
+        </div><!--/.article-head-->
+        <div class="article-content">
+        {{ post.content }}
+        </div><!--/.article-content-->
+      </article>
+      {% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
+    {% endfor %}
+  </div>
+{% endif %}

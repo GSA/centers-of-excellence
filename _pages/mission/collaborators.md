@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborators
-permalink: /about/collaborators/
+permalink: /mission/collaborators/
 description: ""
 
 ---
@@ -20,4 +20,3 @@ The CoEs seek to leverage best of class tools and services in our engagements, i
 
 ## [18F](https://18f.gsa.gov/):
 Collaborates with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
-
