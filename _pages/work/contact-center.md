@@ -11,8 +11,11 @@ coe: contact-center
 We understand the importance of connecting customers with the right resources and expertise across all all information channels. Through conducting best practice research, the Contact Center CoE is developing a data-driven strategy leveraging proven practices and lessons learned from both public and private sector organizations. The goal is to establish a repeatable methodology to help agencies improve how they deliver services and interact with their citizens.
 
 ## Service Offerings
-- User stories and customer journey mapping/workflow documentation support
-- Knowledge management strategy development support
+
+- User story development
+- Customer journey mapping
+- Workflow documentation support
+- Knowledge management stragey development
 
 
 ## Accomplishments
