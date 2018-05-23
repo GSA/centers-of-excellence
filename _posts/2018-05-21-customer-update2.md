@@ -3,9 +3,7 @@ layout: post
 title: 'Farm Loan Personas'
 description: "Short Lorem ipsum dolor sit amet."
 coe: customer-experience
-
 ---
-
 
 {% include image.html path="customer/Personas.pdf" alt-text="this is the alt text" caption="Farm Loan Personas" %}
 

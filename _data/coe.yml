@@ -9,7 +9,7 @@ it-infrastructure:
   name: "IT Infrastructure"
   path: it-infrastructure
 customer-experience:
-- name: "Customer Experience"
+  name: "Customer Experience"
   path: customer-experience
 cloud-adoption:
   name: "Cloud Adoption"

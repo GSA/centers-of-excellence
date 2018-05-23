@@ -5,12 +5,15 @@
 
 
 .updates{
-  margin: 40px 0;
+  margin: 40px 0 0 0;
   padding: 10px 0;
   h2{
     margin:20px 0;
   }
   article{
+    border-top: 1px #000 solid;
+    clear: both;
+    padding: 15px 0;
     margin-bottom: 30px;
     h3{
       margin:0 0 10px 0;
@@ -41,6 +44,9 @@
     p{
       margin-top: 0;
     }
+  }
+  article.first{
+    border: none;
   }
 }
 
