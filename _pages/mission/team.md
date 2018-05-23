@@ -8,7 +8,7 @@ description: ""
 
 ### Program Management Office
 - Joanne Collins Smee
-- Bob DeLuca
+- Bob De Luca
 - Brian Whittaker
 - Rachel Jackson
 
