@@ -14,7 +14,9 @@ By using an agile and flexible framework the CoE will accelerate adoption across
 - Portfolio/architecture analysis
 - Application/system analysis
 - Cloud migration planning
+- Solution architecture support
 - Cloud governance implementation
+- Cloud security assessment
 - FedRAMP advancement
 
 
