@@ -6,7 +6,7 @@ layout: default
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
   {% assign coe = site.data.coe[page.coe] %}
-  <h6 class="kicker"><a href="{{ coe.path }}">{{ coe.name }}</a></h6>
+  <h6 class="kicker"><a href="{{ coe.path | absolute_url }}" title="{{ coe.name }}">{{ coe.name }}</a></h6>
   <h1 class="post-title">{{ page.title | escape }}</h1>
   <p class="date">{{ page.date | date: "%b %d, %Y" }}</p>
   <div class="post-content">
