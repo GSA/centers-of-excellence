@@ -1,10 +1,10 @@
 ---
 layout: coe
 title: IT Infrastructure Optimization
-permalink: /work/it-infrastructure-optimization/
+permalink: /work/it-infrastructure/
 description: ""
 deck: "Will assist the strategic planning activities of federal agencies."
-
+coe: it-infrastructure
 ---
 
 This CoE will assist agencies with the development of a unified and optimized IT infrastructure, leveraging federally owned data centers, cloud computing services, and commercial data centers (e.g. co-location).
@@ -27,4 +27,3 @@ This CoE will assist agencies with the development of a unified and optimized IT
 - Held a two-day workshop with Forest Service’s Geospatial Technology and Applications Center(FS-GTAC) and Farm Service Agency Aerial Photography Field Office (FSA-APFO)(May 2018)
 - Completed data center site inspections in Dallas, TX, Albany, CA and Salt Lake City, UT (May 2018)
 - Created and submitted a Cost Assessment Analysis on FS-GTAC in Salt Lake City, UT (May 2018)
-
