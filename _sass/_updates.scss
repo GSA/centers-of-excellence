@@ -11,10 +11,8 @@
     margin:20px 0;
   }
   article{
-    border-top: 1px #000 solid;
     clear: both;
-    padding: 15px 0;
-    margin-bottom: 30px;
+    padding: 10px 0;
     h3{
       margin:0 0 10px 0;
       font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
@@ -32,6 +30,7 @@
       }
     }
     h6{
+      margin: 0;
       font-weight: bold;
       font-size: 14px;
       a{
@@ -45,9 +44,6 @@
       margin-top: 0;
     }
   }
-  article.first{
-    border: none;
-  }
 }
 
 
@@ -60,10 +56,13 @@
   border-top: 1px #000 solid;
   article{
     margin-bottom: 30px;
-
+    border-top: 1px #000 solid;
     p{
       margin-top: 0;
     }
+  }
+  article.first{
+    border: none;
   }
 
 }
