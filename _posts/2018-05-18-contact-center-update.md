@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tell Sonny!'
+title: 'Tell Sonny! Initiative'
 description: "Short Lorem ipsum dolor sit amet."
 coe: contact-center
 
