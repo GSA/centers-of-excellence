@@ -1,12 +1,12 @@
 # COEs
 contact-center:
-  name: "Contact Center"
+  name: "Contact Center of the Future"
   path: /centers-of-excellence/contact-center
 data-analytics:
-  name: "Data Analytics"
+  name: "Data and Analytics"
   path: /centers-of-excellence/data-analytics
 it-infrastructure:
-  name: "IT Infrastructure"
+  name: "IT Infrastructure Optimization"
   path: /centers-of-excellence/it-infrastructure
 customer-experience:
   name: "Customer Experience"

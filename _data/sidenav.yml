@@ -14,16 +14,16 @@
 - text: "Centers of Excellence"
   url: /centers-of-excellence/
   sub_nav:
-  - text: "Contact Center of the Future"
-    url: /centers-of-excellence/contact-center/
-  - text: "IT Infrastructure Optimization"
-    url: /centers-of-excellence/it-infrastructure/
-  - text: "Data and Analytics "
-    url: /centers-of-excellence/data-analytics/
   - text: "Cloud Adoption"
     url: /centers-of-excellence/cloud-adoption/
+  - text: "Contact Center of the Future"
+    url: /centers-of-excellence/contact-center/
   - text: "Customer Experience"
     url: /centers-of-excellence/customer-experience/
+  - text: "Data and Analytics "
+    url: /centers-of-excellence/data-analytics/
+  - text: "IT Infrastructure Optimization"
+    url: /centers-of-excellence/it-infrastructure/
 - text: "Latest Updates"
   url: /updates/
 - text: "Press"

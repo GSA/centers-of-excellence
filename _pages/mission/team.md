@@ -18,7 +18,7 @@ description: ""
 
 ### Centers of Excellence
 - **Cloud Adoption** - Jay Huie *(Lead)*, Scott Finke, Therese Gallagher, Mat Caughron
-- **Contact Center** - Meghan Daly *(Lead)*, Dana Watts, Sudhir Surendran
+- **Contact Center of the Future** - Meghan Daly *(Lead)*, Dana Watts, Sudhir Surendran
 - **Customer Experience** - Simchah Suveyke-Bogin *(Lead)*, Tamieca Hamlin
 - **Data and Analytics** - Thomas Hallaran *(Lead)*, Amira Boland, Christopher Alvares
 - **IT Infrastructure Optimization** - Dan Pomeroy *(Lead)*, Teresa Curtis, Morris Johnson, Shawn Watson
