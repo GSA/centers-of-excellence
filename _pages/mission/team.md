@@ -16,7 +16,7 @@ description: ""
 - Al Munoz
 - Omid Ghaffari-Tabrizi
 
-### Teams
+### Centers of Excellence
 - **Cloud Adoption** - Jay Huie *(Lead)*, Scott Finke, Therese Gallagher, Mat Caughron
 - **Contact Center** - Meghan Daly *(Lead)*, Dana Watts, Sudhir Surendran
 - **Customer Experience** - Simchah Suveyke-Bogin *(Lead)*, Tamieca Hamlin
