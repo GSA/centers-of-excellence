@@ -7,7 +7,7 @@ deck: "Will create experiences that meet or exceed customer expectations."
 coe: customer-experience
 ---
 
-To be successful, demonstrate the business value of customer experience as a discipline, work with agencies to design outstanding experiences and the capacity to deliver them, and lead its adoption across the organization.
+The Customer Experience Center of Excellence (CoE) demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of their customers and their needs and helps translate those findings into actions that create outstanding experiences. 
 
 ## Service Offerings
 
