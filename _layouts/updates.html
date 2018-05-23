@@ -8,7 +8,7 @@ layout: default
 
   <div id="latest-updates" class="updates">
     <h2>Latest Updates</h2>
-    <div class="deck">Every week, our team posts update to the lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+    <div class="deck">Every week, our team posts updates on our work, best practices or progress. Please visit this page often to see the latest informataion on the Centers of Excellence.</div>
     {% for post in site.posts %}
       {% assign coe = site.data.coe[post.coe] %}
       <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
