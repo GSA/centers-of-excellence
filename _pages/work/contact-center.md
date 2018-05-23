@@ -15,14 +15,18 @@ We understand the importance of connecting customers with the right resources an
 - User story development
 - Customer journey mapping
 - Workflow documentation support
-- Knowledge management stragey development
+- Knowledge management strategy development
+- Future state visioning support
+- Tailored best practice research
+- Contact center maturity assessment
+
 
 
 ## Accomplishments
 
-- Launched and analyzed survey results to develop a comprehensive inventory of USDA’s external-facing contact centers
-- Engaged with stakeholders within USDA and across Federal government to identify areas of opportunity and lessons learned to expedite contact center optimization
-- Conducted best practice research to identify best-in-class contact center features including: standard performance metrics, customer feedback metrics, quality assurance, and other KPIs for USDA
-- Documented the current customer journey and interactions with USDA by mapping phone trees of external-facing contact centers
-- Leveraged preliminary Contact Center Maturity Index as a framework for assessing the current state of USDA’s contact center capabilities
-- Developed a clear vision and roadmap for USDA’ contact center consolidation and optimization plan leveraging best practice research to enable USDA’s mission
+- Launched and analyzed survey results to develop a comprehensive inventory of USDA’s external-facing contact centers  (April 2018)
+- Leveraged preliminary Contact Center Maturity Index as a framework for assessing the current state of USDA’s contact center capabilities (April 2018)
+- Conducted best practice research to identify best-in-class contact center features enabling mission, increasing customer satisfaction, and reducing costs (April 2018)
+- Engaged with stakeholders within USDA and across Federal government to identify areas of opportunity and lessons learned to expedite contact center optimization (April 2018)
+- Documented the current customer journey and interactions with USDA by mapping phone trees of external-facing contact centers (May 2018)
+
