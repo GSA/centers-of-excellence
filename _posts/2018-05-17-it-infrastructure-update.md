@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Update from Hollis, Oklahoma'
+title: '18 Data Centers Closed!'
 description: "Short Lorem ipsum dolor sit amet."
 coe: it-infrastructure
 ---
