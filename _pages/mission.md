@@ -10,7 +10,7 @@ description: ""
 
 ## Our Values:
 
-* **Customer before anything else** - Understanding and predicting the needs of citizens/customers is our highest priority. Regularly obtaining customer feedback allows an agency to modernize technology in a way that continuously meets the customers needs while creating a positive experience.
+* **Customer before anything else** - Understanding and anticipating the needs of customer is our highest priority. Speaking with our customers and regularly gathering customer insights allows agencies to rethink the way they deliver technology solutions today.
 
 * **Innovate from within** - There is a lot of great technical talent across the government, we strive to identify those innovators and harness their experience in the CoEs.
 
