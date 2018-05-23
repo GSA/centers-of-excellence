@@ -6,7 +6,7 @@ description: ""
 
 ---
 
-<div class="deck">Accelerate the modernization of IT to improve the customer experience and reduce legacy IT spending across the government.</div>
+<div class="deck">To Accelerate IT modernization to improve the citizen experience, improve outcomes and reduce legacy IT spending across the government.</div>
 
 ## Our Values:
 
