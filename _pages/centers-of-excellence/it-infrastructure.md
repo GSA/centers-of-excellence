@@ -1,7 +1,7 @@
 ---
 layout: coe
 title: IT Infrastructure Optimization
-permalink: /work/it-infrastructure/
+permalink: /centers-of-excellence/it-infrastructure/
 description: ""
 deck: "Will assist the strategic planning activities of federal agencies."
 coe: it-infrastructure

@@ -1,16 +1,16 @@
 # COEs
 contact-center:
   name: "Contact Center"
-  path: /work/contact-center
+  path: /centers-of-excellence/contact-center
 data-analytics:
   name: "Data Analytics"
-  path: /work/data-analytics
+  path: /centers-of-excellence/data-analytics
 it-infrastructure:
   name: "IT Infrastructure"
-  path: /work/it-infrastructure
+  path: /centers-of-excellence/it-infrastructure
 customer-experience:
   name: "Customer Experience"
-  path: /work/customer-experience
+  path: /centers-of-excellence/customer-experience
 cloud-adoption:
   name: "Cloud Adoption"
-  path: /work/cloud-adoption
+  path: /centers-of-excellence/cloud-adoption

@@ -1,7 +1,7 @@
 ---
 layout: coe
 title: Contact Center of the Future
-permalink: /work/contact-center/
+permalink: /centers-of-excellence/contact-center/
 description: ""
 deck: "The Contact Center Center of Excellence (CoE) is focused on accelerating IT modernization and optimizing external-facing contact centers across USDA."
 coe: contact-center
@@ -29,4 +29,3 @@ We understand the importance of connecting customers with the right resources an
 - Conducted best practice research to identify best-in-class contact center features enabling mission, increasing customer satisfaction, and reducing costs (April 2018)
 - Engaged with stakeholders within USDA and across Federal government to identify areas of opportunity and lessons learned to expedite contact center optimization (April 2018)
 - Documented the current customer journey and interactions with USDA by mapping phone trees of external-facing contact centers (May 2018)
-

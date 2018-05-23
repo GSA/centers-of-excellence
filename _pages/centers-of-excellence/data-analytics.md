@@ -1,7 +1,7 @@
 ---
 layout: coe
 title: Data and Analytics
-permalink: /work/data-analytics/
+permalink: /centers-of-excellence/data-analytics/
 description: ""
 deck: "Provides a clearing house for best practices around data and analytics, instruments metrics to support service delivery processes, and builds tools that facilitate continuous process improvement."
 coe: data-analytics
@@ -25,7 +25,3 @@ The modernization and transformation efforts of all of the CoEs are focused on d
 - Developed Tableau Dashboards using Crop Acreage/Loan Participation data to identify sites for Customer Experience Researchers to visit (April 2018)
 - Published version one of Centers of Excellence IT modernization dashboards (May 2018)
 - Developed Contact Center Dashboard of existing contact centers with over 10 FTE across the U.S. (May 2018)
-
-
-
-

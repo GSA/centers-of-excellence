@@ -15,15 +15,15 @@
   url: /centers-of-excellence/
   sub_nav:
   - text: "Contact Center of the Future"
-    url: /work/contact-center/
+    url: /centers-of-excellence/contact-center/
   - text: "IT Infrastructure Optimization"
-    url: /work/it-infrastructure/
+    url: /centers-of-excellence/it-infrastructure/
   - text: "Data and Analytics "
-    url: /work/data-analytics/
+    url: /centers-of-excellence/data-analytics/
   - text: "Cloud Adoption"
-    url: /work/cloud-adoption/
+    url: /centers-of-excellence/cloud-adoption/
   - text: "Customer Experience"
-    url: /work/customer-experience/
+    url: /centers-of-excellence/customer-experience/
 - text: "Latest Updates"
   url: /updates/
 - text: "Press"

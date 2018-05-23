@@ -1,13 +1,13 @@
 ---
 layout: coe
 title: Customer Experience
-permalink: /work/customer-experience/
+permalink: /centers-of-excellence/customer-experience/
 description: ""
 deck: "Will create experiences that meet or exceed customer expectations."
 coe: customer-experience
 ---
 
-The Customer Experience Center of Excellence (CoE) demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of their customers and their needs and helps translate those findings into actions that create outstanding experiences. 
+The Customer Experience Center of Excellence (CoE) demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of their customers and their needs and helps translate those findings into actions that create outstanding experiences.
 
 ## Service Offerings
 
@@ -29,4 +29,3 @@ The Customer Experience Center of Excellence (CoE) demonstrates the business val
 - Team traveled to Fredericksburg, VA to conduct Field Office/Farmer Interviews and Farm Visits (May 2018)
 - Developed a Farm Loans Hypothesis Workshop Report and Farm Loans Hypothesis Journey Map (May 2018)
 - Traveled to three FSA Field Offices in New York, Georgia and Oklahoma to interview staff and producers at their farms. (May 2018)
-
