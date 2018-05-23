@@ -1,18 +1,20 @@
 .team-members{
+  padding: 50px 0 0 0;
   .person{
-    // width:150px;
+    margin-bottom: 40px;
+    margin-right: 30px;
     display: inline-block;
     text-align: center;
     img{
-      width:150px;
-      height:150px;
+      width:135px;
+      height:135px;
       border-radius: 75px;
       object-fit: cover;
-      border:3px #ccc solid;
+      border:3px #c79a26 solid;
     }
     p{
       margin: 0;
-      font-size: 15px;
+      font-size: 16px;
       font-weight: bold;
     }
   }
