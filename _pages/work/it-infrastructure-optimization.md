@@ -23,7 +23,6 @@ This CoE will assist agencies with the development of a unified and optimized IT
 
 - Completed data collection for cost benefit analysis for the National Finance Center data center (per Public Law No: 115-141 Title VII §702) (April 2018)
 - Developed methodology to calculate the real estate value of data closures for the USDA data center portfolio (April 2018)
-- Led an initial application rationalization workshop with AMS on three business applications (April 2018)
 - Of the first 18 closed, data received to date shows an estimated cost savings of $1.4-2.3M; (May 2018)
 - Held a two-day workshop with Forest Service’s Geospatial Technology and Applications Center(FS-GTAC) and Farm Service Agency Aerial Photography Field Office (FSA-APFO)(May 2018)
 - Completed data center site inspections in Dallas, TX, Albany, CA and Salt Lake City, UT (May 2018)
