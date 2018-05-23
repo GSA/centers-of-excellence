@@ -5,7 +5,7 @@ description: "Short Lorem ipsum dolor sit amet."
 coe: customer-experience
 
 ---
-{% include image.html path="customer/journey_map_process.png" alt-text="this is the alt text" caption="Journey Map Process" %}
+{% include image-wide.html path="customer/journey_map_process.png" alt-text="this is the alt text" caption="Journey Map Process" %}
 
 Customer Journey Mapping (CJM) is intended to guide program development and decision making and help operationalize a customer-centric approach at USDA. For the Farm Loans program, CJM activities capture program touchpoints at each step of the customer’s journey to provide a research-based understanding of producers’ and loan officers’ pain points, points of delight, and moments of truth.
 
