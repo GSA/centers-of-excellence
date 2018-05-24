@@ -11,6 +11,7 @@ description: ""
 Key activities undertaken in our engagement with the USDA, our Lighthouse Agency include:
 
 - Accelerating cloud adoption
-- Consolidating data centers and call centers
+- Consolidating data centers 
+- Optimizing call centers with the latest technology
 - Developing metrics and dashboards to drive process improvement
 - Helping to Stand up the new Customer Experience office
