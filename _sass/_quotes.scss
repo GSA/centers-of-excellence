@@ -1,26 +1,20 @@
 // Quote Box
 
 #quote-frame{
-
+  margin-bottom: 5rem;
   .paper{
-    padding: 10px 15px 0 15px;
-    padding: 30px 40px 40px 40px;
-    color: #fff;
-    background: #0071bc;
-
     .quote{
-      font-size: 28px;
-      font-weight: 700;
-      font-style: italic;
-      line-height: 36px;
-      text-indent: -10px;
+      font-size: 4.5rem;
+      font-weight: 900;
+      font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+      text-indent: -34px;
       display: none;
       span{
         margin-top: 20px;
-        margin-left: 10px;
+        margin-left: 0;
         display: block;
-        text-indent: -18px;
-        font-size: 16px;
+        text-indent: 0;
+        font-size: 2.5rem;
         line-height: 24px;
         font-weight: 400;
         font-style: normal;
