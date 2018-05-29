@@ -43,6 +43,7 @@ body{
 }
 .post-meta{
   margin-top: 30px;
+  display: none;
   .button-edit{
     padding: 5px 12px 7px 12px;
     color: #000;
@@ -51,6 +52,7 @@ body{
     border-radius: 3px;
     font-size: 16px;
     font-weight: bold;
+    display: none;
   }
   .button-edit:hover{
     background: rgb(202, 222, 235);
@@ -83,3 +85,24 @@ body{
     top:5px;
   }
 }
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .post-meta{
+    display: block;
+  }
+  .button-edit{
+    display: block;
+  }
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }

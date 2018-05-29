@@ -54,6 +54,7 @@
 
 #coe-updates{
   border-top: 1px #000 solid;
+  padding-bottom: 0;
   article{
     margin-bottom: 30px;
     border-top: 1px #000 solid;
@@ -64,5 +65,8 @@
   article.first{
     border: none;
   }
-
+  article:last-child{
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
 }
