@@ -3,10 +3,9 @@ layout: page
 title: Our Mission
 permalink: /mission/
 description: ""
-
+deck: 'To Accelerate IT modernization to improve the citizen experience, improve outcomes and reduce legacy IT spending across the government.'
 ---
 
-<div class="deck">To Accelerate IT modernization to improve the citizen experience, improve outcomes and reduce legacy IT spending across the government.</div>
 
 ## Our Values:
 

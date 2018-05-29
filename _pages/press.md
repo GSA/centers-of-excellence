@@ -5,6 +5,7 @@ permalink: /press/
 description: ""
 
 ---
+
 **May 2018**
 - [GSA, USDA Make Progress on IT Modernization via Centers of Excellence](https://fedtechmagazine.com/article/2018/05/gsa-usda-make-progress-it-modernization-centers-excellence) (FedTech Magazine)
 

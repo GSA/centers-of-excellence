@@ -5,4 +5,4 @@ permalink: /updates/
 description: ""
 
 ---
-hello
+latest updates
