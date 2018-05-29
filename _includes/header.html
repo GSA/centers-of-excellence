@@ -13,7 +13,6 @@
       </div>
 
     </div>
-    <a class="usa-button contribute" href="{{ site.baseurl }}{% link _pages/mission.md %}">About</a>
   </div>
 
   <nav role="navigation" class="usa-nav">
@@ -21,7 +20,7 @@
       <img src="{{ site.baseurl }}/assets/img/close.svg" alt="close">
     </button>
     <ul class="usa-nav-primary usa-accordion">
-      {% for item in site.navigation %}
+      {% for item in site.data.sidenav %}
         {% assign current = '' %}
         {% if page.url == item.url %}
           {% assign current = 'usa-current' %}
