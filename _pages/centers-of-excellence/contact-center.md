@@ -3,7 +3,7 @@ layout: coe
 title: Contact Center of the Future
 permalink: /centers-of-excellence/contact-center/
 description: ""
-deck: "The Contact Center Center of Excellence (CoE) is focused on accelerating IT modernization and optimizing external-facing contact centers across USDA."
+deck: "Will accelerate IT modernization and optimize external-facing contact centers across USDA."
 coe: contact-center
 
 ---
