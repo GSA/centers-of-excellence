@@ -4,15 +4,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Centers of Excellence
-deck: 'The CoEs seek to accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by providing access to best practices and expertise.'
+deck: 'The Centers of Excellence (CoEs) seek to accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise.'
 ---
 
-Key activities undertaken in our engagement with the USDA, our Lighthouse Agency include:
+Key activities undertaken with USDA, our Lighthouse Agency, include:
+:
 
-- Accelerating cloud adoption
-- Consolidating data centers
-- Optimizing call centers with the latest technology
-- Developing metrics and dashboards to drive process improvement
-- Helping to Stand up the new Customer Experience office
+- [Accelerating cloud adoption](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/cloud-adoption/)
+- [Consolidating data centers](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/it-infrastructure/)
+- [Optimizing call centers with the latest technology](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/contact-center/)
+- [Developing metrics and dashboards to drive process improvement](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/data-analytics/)
+- [Helping to Stand up the new Customer Experience office](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/customer-experience/)
 
 :fox_face:
