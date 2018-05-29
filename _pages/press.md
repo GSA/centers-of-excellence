@@ -7,12 +7,13 @@ description: ""
 ---
 
 **May 2018**
-- [GSA, USDA Make Progress on IT Modernization via Centers of Excellence](https://fedtechmagazine.com/article/2018/05/gsa-usda-make-progress-it-modernization-centers-excellence) (FedTech Magazine)
+- [GSA, USDA make progress on IT modernization via Centers of Excellence](https://fedtechmagazine.com/article/2018/05/gsa-usda-make-progress-it-modernization-centers-excellence) (FedTech Magazine)
 
 **April 2018**
 - [Work kicks off at USDA IT Modernization Centers of Excellence](https://www.fedscoop.com/usda-modernization-centers-excellence-joanne-collins-smee/) (FedScoop)
 
 **March 2018**
+- [GSA issues initial awards for IT Modernization Centers of Excellence](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-initial-awards-for-it-modernization-centers-of-excellence)(GSA)
 - [GSA picks 4 vendors to test Centers of Excellence IT modernization initiative](https://federalnewsradio.com/cio-news/2018/03/gsa-picks-the-4-vendors-to-test-out-the-centers-of-excellence-it-modernization-initiative/) (Federal News Radio)
 - [White House-backed IT modernization push makes first contract awards](https://fcw.com/articles/2018/03/14/gsa-awards-modernization-coe.aspx) (FCW)
 - [GSA awards 5 contracts for USDA’s modernization Centers of Excellence](https://www.fedscoop.com/gsa-issues-5-awards-centers-excellence/) (FedScoop)
