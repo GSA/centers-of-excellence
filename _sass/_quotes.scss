@@ -3,11 +3,13 @@
 #quote-frame{
   margin-bottom: 5rem;
   .paper{
+    background: #2ad2b4;
+    padding: 40px 65px 55px 65px;
     .quote{
-      font-size: 4.5rem;
+      font-size: 4rem;
       font-weight: 900;
       font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-      text-indent: -34px;
+      text-indent: -30px;
       display: none;
       span{
         margin-top: 20px;

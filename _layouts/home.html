@@ -2,17 +2,15 @@
 layout: default
 ---
 
-<div class="usa-width-one-whole usa-layout-docs-main_content">
-  {% include quotes.html %}
-  {% include nav.html %}
-</div>
-
-
+{% include sidenav.html %}
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
 
+  <h1 class="post-title">{{ page.title | escape }}</h1>
+  <div class="deck">{{ page.deck | escape }}</div>
   <div class="post-content">
     {{ content }}
+    {% include quotes.html %}
   </div>
 
   {% include post-meta.html %}
