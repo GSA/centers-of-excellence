@@ -34,3 +34,5 @@ description: ""
 ---
 
 _For all press inquiries, please contact [press@gsa.gov](mailto:press@gsa.gov)_
+
+_See our [linking policy](https://www.gsa.gov/website-information/linking-policy)_
