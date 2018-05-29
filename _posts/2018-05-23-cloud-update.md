@@ -5,7 +5,7 @@ description: "Short Lorem ipsum dolor sit amet."
 coe: cloud-adoption
 
 ---
-The Cloud Adoption CoE facilitated a workshop for USDA technical leaders.  The objective was to provide background information and gain stakeholder support for the foundation of the Commercial Cloud Platform Services (CCPS) organization.  CCPS is to be the USDA pathway to cloud services and is contingent on the acceptance and participation of all workshop attendees.  To achieve this end, the workshop was conducted as a collaborative 2-day offsite that brought together stakeholders from across OCIO to discuss roles, responsibilities and expectations in conducting next steps.  The CCPS is a logical first step for USDA to leverage and harness the commercial cloud marketplace to add value to farmers, ranchers, and producers (consumers) via three primary roles:
+The Cloud Adoption CoE facilitated a workshop for USDA technical leaders.  The objective was to provide background information and gain stakeholder support for the foundation of the Commercial Cloud Platform Services (CCPS) organization.  CCPS is to be the USDA pathway to cloud services and is contingent on the acceptance and participation of all workshop attendees. The workshop was conducted as a collaborative two-day offsite that brought together stakeholders from across OCIO to discuss roles, responsibilities and expectations in conducting next steps.  The CCPS is a logical first step for USDA to leverage and harness the commercial cloud marketplace to add value to farmers, ranchers, and producers (consumers) via three primary roles:
 
 - **Aggregation**: Combining and integrating multiple services
 
