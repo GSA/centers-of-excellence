@@ -9,7 +9,7 @@ deck: 'To Accelerate IT modernization to improve the citizen experience, improve
 
 ## Our Values:
 
-* **Customer before anything else** - Understanding and anticipating the needs of our customer is our highest priority. Speaking with our customers and regularly gathering their insights allows agencies to rethink the way they deliver technology solutions today.
+* **Know our customer** - Understanding and anticipating the needs of our customer is our highest priority. Speaking with our customers and regularly gathering their insights allows agencies to rethink the way they deliver technology solutions today.
 
 * **Innovate from within** - There is a lot of great technical talent across the government, we strive to identify those innovators and harness their experience in the  Centers of Excellence (CoEs).
 

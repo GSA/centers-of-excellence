@@ -8,7 +8,6 @@ deck: 'The Centers of Excellence (CoEs) seek to accelerate the modernization of 
 ---
 
 Key activities undertaken with USDA, our Lighthouse Agency, include:
-:
 
 - [Accelerating cloud adoption](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/cloud-adoption/)
 - [Consolidating data centers](https://federalist-proxy.app.cloud.gov/site/gsa/centers-of-excellence/centers-of-excellence/it-infrastructure/)
