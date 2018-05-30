@@ -13,10 +13,9 @@ If you have any questions, please contact our Talent Team at joinTTS@gsa.gov.
 
 ### Upcoming Openings
 
-- [**Cloud Adoption Lead** ](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-lead/)
-- [**Cloud Adoption Specialist** ](Coming soon)
-- [**Contact Center Specialist** ](https://join.tts.gsa.gov/join/upcoming-coe-contact-center-optimization-lead/)
-- [**Customer Experience Specialist** ](https://join.tts.gsa.gov/join/upcoming-coe-customer-experience-lead/)
+- [**Cloud Adoption Specialist** ](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-specialist/)
+- [**Contact Center Specialist** ](https://join.tts.gsa.gov/join/upcoming-coe-contact-center-optimization-specialist/)
+- [**Customer Experience Specialist** ](https://join.tts.gsa.gov/join/upcoming-coe-customer-experience-specialist/)
 - **Data and Analytics Specialist** (Coming soon)
-- [**IT Infrastructure Optimization Specialist**] (https://join.tts.gsa.gov/join/upcoming-coe-infrastructure-optimization-lead/)
+- [**IT Infrastructure Optimization Specialist**](https://join.tts.gsa.gov/join/upcoming-coe-infrastructure-optimization-specialist/)
 
