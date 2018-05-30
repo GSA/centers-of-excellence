@@ -1,17 +1,40 @@
 var gulp            = require('gulp'),
-    tap             = require('gulp-tap'),
     responsive      = require('gulp-responsive');
+var $               = require('gulp-load-plugins')();
 
 gulp.task('img', function () {
-  return gulp.src('/_images/**/*.{jpg,png,jpeg,gif,PNG,JPEG,JPG}')
-    .pipe(tap(function (file) {
-      console.log(file.path);
-      var uid = get_image_uid(file.path);
-      var format = get_image_format(file.path);
-      var dimensions = sizeOf(file.path);
-      fs.writeFile('dist/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height, format));
+  return gulp.src('_images/**/*.{jpg,png,jpeg,gif}')
+    .pipe($.responsive({
+      // Resize all images to 100 pixels wide and add suffix -thumbnail
+      '**/*': [{
+        width: 200,
+        rename: {
+          suffix: '_w200',
+          extname: '.png',
+        },
+      }, {
+        width: 200,
+        grayscale: true,
+        rename: {
+          suffix: '_w200bw',
+          extname: '.png',
+        },
+      }, {
+        // Empty case to produce a copy of the original
+      }],
+    }, {
+      // Global configuration for all images
+      // The output quality for JPEG, WebP and TIFF output formats
+      quality: 80,
+      // Use progressive (interlace) scan for JPEG and PNG output
+      progressive: true,
+      // Zlib compression level of PNG output format
+      compressionLevel: 6,
+      // Strip all metadata
+      withMetadata: false,
+      skipOnEnlargement: true,
     }))
-
+    .pipe(gulp.dest('dist'));
 });
 
 // Set watch as default task
