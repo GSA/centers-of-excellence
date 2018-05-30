@@ -3,7 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Centers of Excellence
 deck: 'The Centers of Excellence (CoEs) are accelerating the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise.'
 ---
 
