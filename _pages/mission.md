@@ -19,4 +19,4 @@ deck: 'Accelerate IT modernization to improve the citizen experience, improve ou
 
 * **Centralize our resources** - By standing up the CoEs we strive to centralize and share the brightest talent, proven processes and acquisition vehicles to yield the best results across government.
 
-{% include image-wide.html path="/team/team.jpeg" alt-text="The COE team" caption="The CoE Team and USDA Partners" %}
+{% include image-wide.html path="/team/team" alt-text="The COE team" caption="The CoE Team and USDA Partners" %}
