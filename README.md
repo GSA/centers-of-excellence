@@ -42,9 +42,9 @@ YouTube videos can be embedded in pages.
 ## PDFs
 
 Insert links to PDFs within pages/posts like this:
- - path to PDF (needs to be within the `/images/` folder)
+ - path to PDF (needs to be within the `/pdf/` folder)
  - title of PDF
 
 ```
-{% include pdf.html path="customer/Personas.pdf" title="This is the title of the PDF" %}
+{% include pdf.html path="Personas.pdf" title="This is the title of the PDF" %}
 ```
