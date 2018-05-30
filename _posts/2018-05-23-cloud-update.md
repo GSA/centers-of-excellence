@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Creating a Cloud First Organization'
-description: "Short Lorem ipsum dolor sit amet."
+description: "The Cloud Adoption CoE facilitated a workshop for USDA technical leaders."
 coe: cloud-adoption
 
 ---

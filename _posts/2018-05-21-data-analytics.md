@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Tell Sonny Dashboard'
-description: "Short Lorem ipsum dolor sit amet."
+description: "The USDA's Office of Customer Experience has collaborated with the GSA CoE and OCIO to pilot a web and phone contact line for USDA Secretary Sonny Perdue."
 coe: data-analytics
 
 ---
 
-{% include image.html path="data-analytics/tell-sonny-state.png" alt-text="this is the alt text" caption="Tell Sonny State Dashboard" %}
+{% include image.html path="data-analytics/tell-sonny-state" alt-text="Tell Sonny State Dashboard" caption="Tell Sonny State Dashboard" %}
 
 The USDA's Office of Customer Experience has collaborated with the GSA CoE and OCIO to pilot a web and phone contact line for USDA Secretary Sonny Perdue.  The [Tell Sonny website](https://www.usda.gov/tellsonny) and contact center line give USDA's customers the opportunity to reach out and communicate directly with the USDA about the issues that matter to them most across all USDA agencies and programs.
 

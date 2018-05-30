@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Farm Loan Personas'
-description: "Short Lorem ipsum dolor sit amet."
+description: "We’re working with leaders across USDA’s Farm Production and Conservation Mission Area to inform the development of Farmers.gov a simple, one-stop-shop that consolidates information for farmers, ranchers and producers."
 coe: customer-experience
 ---
 

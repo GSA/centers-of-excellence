@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Tell Sonny Initiative'
-description: "Short Lorem ipsum dolor sit amet."
+description: "In support of this tour, the Contact Center CoE, in partnership with USDA’s Office of Communications and Office of Customer Experience, helped launch a single, easy to use web form and an toll-free number that allows the public to provide direct feedback to USDA leadership."
 coe: contact-center
 
 ---
 
 
-{% include image.html path="contact-center/sonny.png" alt-text="this is the alt text" caption="Sonny" %}
+{% include image.html path="contact-center/sonny" alt-text="this is the alt text" caption="Sonny" %}
 
 On April 3, 2018, USDA Secretary Sonny Perdue launched his second [“Backed to Our Roots”](https://www.youtube.com/watch?v=JcwG4iwN6Fk) RV Tour across the country.
 
