@@ -3,7 +3,7 @@ var gulp            = require('gulp'),
 var $               = require('gulp-load-plugins')();
 
 gulp.task('img', function () {
-  return gulp.src('_images/**/*.{jpg,png,jpeg,gif}')
+  return gulp.src('_images/**/*.{jpg,png,jpeg,gif,JPG,PNG}')
     .pipe($.responsive({
       // Resize all images to 100 pixels wide and add suffix -thumbnail
       '**/*': [{
