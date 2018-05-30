@@ -3,6 +3,25 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  {% if page.title %}
+  <title>{{ page.title }} — {{ site.name }} | GSA</title>
+  <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  <meta property="og:site_name" content="{{ site.name | xml_escape }}">
+  {% else %}
+  <title>{{ site.name }} | GSA</title>
+  <meta property="og:title" content="{{ site.name | xml_escape }}" />
+  <meta property="og:site_name" content="{{ site.name | xml_escape }}">
+  {% endif %}
+  {% if page.description %}
+  <meta name="description" content="{{ page.description | xml_escape }}">
+  <meta property="og:description" content="{{ page.description | xml_escape }}" />
+  {% else %}
+  <meta name="description" content="{{ site.description | xml_escape }}">
+  <meta property="og:description" content="{{ site.description | xml_escape }}" />
+  {% endif %}
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | xml_escape }}" />
+
   <!-- Le CSS -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/uswds.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
@@ -15,22 +34,6 @@
   <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/assets/img/fox.png" />
 
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
-  {% if page.title %}
-    <title>{{ page.title }}</title>
-    <meta property="og:title" content="{{ page.title | xml_escape }}" />
-  {% else %}
-    <title>{{ site.title }}</title>
-    <meta property="og:title" content="{{ site.title | xml_escape }}" />
-  {% endif %}
-
-  {% if page.description %}
-    <meta name="description" content="{{ page.description | xml_escape }}">
-    <meta property="og:description" content="{{ page.description | xml_escape }}" />
-  {% else %}
-    <meta name="description" content="{{ site.description | xml_escape }}">
-    <meta property="og:description" content="{{ site.description | xml_escape }}" />
-  {% endif %}
 
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

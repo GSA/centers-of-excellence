@@ -3,7 +3,7 @@ layout: page
 title: Connect
 permalink: /connect/
 description: ""
-deck: "The success of the IT Modernization Centers of Excellence depends on our ability to identify and harness best practices within and outside of government."
+deck: "The success of the Centers of Excellence depends on our ability to identify and harness best practices within and outside of government."
 
 ---
 
