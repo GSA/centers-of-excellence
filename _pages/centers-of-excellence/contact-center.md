@@ -27,5 +27,5 @@ We understand the importance of connecting customers with the right resources an
 - Launched and analyzed survey results to develop a comprehensive inventory of USDA’s external-facing contact centers  (April 2018)
 - Leveraged preliminary Contact Center Maturity Index as a framework for assessing the current state of USDA’s contact center capabilities (April 2018)
 - Conducted best practice research to identify best-in-class contact center features enabling mission, increasing customer satisfaction, and reducing costs (April 2018)
-- Engaged with stakeholders within USDA and across Federal government to identify areas of opportunity and lessons learned to expedite contact center optimization (April 2018)
+- Engaged with stakeholders within USDA and across federal government to identify areas of opportunity and lessons learned to expedite contact center optimization (April 2018)
 - Documented the current customer journey and interactions with USDA by mapping phone trees of external-facing contact centers (May 2018)
