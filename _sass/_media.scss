@@ -8,6 +8,9 @@
   }
 }
 .image{
+  margin-left: 2rem;
+  width:200px;
+  float: right;
 }
 
 .video{
@@ -31,12 +34,6 @@
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-  .image{
-    margin-left: 2rem;
-    width:250px;
-    float: right;
-  }
-
 }
 
 // Large devices (desktops, 992px and up)
