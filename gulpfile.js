@@ -34,7 +34,7 @@ gulp.task('img', function () {
       withMetadata: false,
       skipOnEnlargement: true,
     }))
-    .pipe(gulp.dest('dist'));
+    .pipe(gulp.dest('dist/images'));
 });
 
 // Set watch as default task

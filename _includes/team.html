@@ -1,9 +1,9 @@
 <div class="team-members">
   {% assign people = site.data.team | sort:"name" %}
   {% for person in people %}
-  {% assign img_path = "/images/team/" | append: person.img %}
+  {% assign img_path = "/dist/images/team/" | append: person.img %}
     <div class="person">
-      <img src="{{ img_path | absolute_url }}" alt="Photo of {{ person.name }}">
+      <img src="{{ img_path | absolute_url }}_w200.png" alt="Photo of {{ person.name }}">
       <p>{{ person.name }}</p>
     </div>
 
