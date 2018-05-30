@@ -5,7 +5,7 @@ permalink: /centers-of-excellence/
 description: ""
 deck: 'The CoEs seek to accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by providing access to best practices and expertise.'
 ---
-
+{% include image-wide.html path="team/CoE_Overview.png" alt-text="this is the alt text" caption="Centers of Excellence" %}
 Key activities undertaken in our engagement with the USDA, our Lighthouse Agency include:
 
 - Accelerating cloud adoption
