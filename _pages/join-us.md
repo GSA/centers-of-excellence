@@ -19,3 +19,4 @@ If you have any questions, please contact our Talent Team at joinTTS@gsa.gov.
 - **Data and Analytics Specialist** (Coming soon)
 - [**IT Infrastructure Optimization Specialist**](https://join.tts.gsa.gov/join/upcoming-coe-infrastructure-optimization-specialist/)
 
+<img class="fox" src="{{ 'assets/img/fox.png' | absolute_url }}" title="Foxes are nimble, quick and alert. Be the fox." alt="Foxes are nimble, quick and alert. Be the fox.">
