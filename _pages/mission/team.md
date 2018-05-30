@@ -11,6 +11,7 @@ description: ""
 - Bob De Luca
 - Brian Whittaker
 - Rachel Jackson
+- Julie Berarducci
 
 ### Acquisition
 - Al Munoz
