@@ -12,8 +12,6 @@ We understand the importance of connecting customers with the right resources an
 
 ## Service Offerings
 
-- User story development
-- Customer journey mapping
 - Workflow documentation support
 - Knowledge management strategy development
 - Future state visioning support
