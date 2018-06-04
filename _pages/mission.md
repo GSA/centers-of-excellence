@@ -2,7 +2,7 @@
 layout: page
 title: Our Mission
 permalink: /mission/
-description: ""
+description: "Provide insight to the core mission and values of the Centers of Excellence."
 deck: 'Accelerate IT modernization to improve the citizen experience, improve outcomes and reduce legacy IT spending across the government.'
 ---
 
