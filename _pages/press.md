@@ -2,7 +2,7 @@
 layout: page
 title: Press
 permalink: /press/
-description: ""
+description: "The latest online coverage about the Centers of Excellence"
 
 ---
 
