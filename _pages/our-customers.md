@@ -2,7 +2,7 @@
 layout: page
 title: Our work at USDA
 permalink: /our-work/
-description: ""
+description: "A brief overview of each CoE customer and their committment to accelerating IT Modernization in their agency."
 
 ---
 
