@@ -2,7 +2,7 @@
 layout: page
 title: Connect
 permalink: /connect/
-description: ""
+description: "Stating we are interested in connecting with agencies and industry partners and providing a means to connect."
 deck: "The success of the Centers of Excellence depends on our ability to identify and harness best practices within and outside of government."
 
 ---
