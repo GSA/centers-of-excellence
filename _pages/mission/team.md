@@ -2,7 +2,7 @@
 layout: page
 title: Our Team
 permalink: /mission/team/
-description: ""
+description: "Identify the Centers of Excellence teams, which include the Program Management Office, Acquisition, Cloud Adoption, IT Infrastructure Optimization, Customer Experience, Contact Center, and Data and Analytics."
 
 ---
 
