@@ -12,6 +12,7 @@ We’re looking for highly skilled professionals that are passionate about makin
 
 If you have any questions, please contact our Talent Team at joinTTS@gsa.gov.
 
+
 ### Upcoming Openings
 
 - [**Cloud Adoption Specialist** ](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-specialist/)
