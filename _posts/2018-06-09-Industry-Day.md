@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Join Us at the Phase II CoE Industry Day'
+title: 'Register for our Phase II Industry Day'
 description: "Inviting Industry Partners to the Phase II CoE Industry Day."
-coe: 
+coe: General Update
 
 ---
 
