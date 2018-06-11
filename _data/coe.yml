@@ -14,3 +14,7 @@ customer-experience:
 cloud-adoption:
   name: "Cloud Adoption"
   path: /centers-of-excellence/cloud-adoption
+general-update:
+  name: "Centers of Excellence"
+  path: /centers-of-excellence/
+  
