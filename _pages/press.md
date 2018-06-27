@@ -5,6 +5,8 @@ permalink: /press/
 description: "The latest online coverage about the Centers of Excellence"
 
 ---
+**June 2018**
+- [An exclusive look inside the USDA IT Modernization Centers of Excellence](https://www.fedscoop.com/usda-it-modernization-centers-of-excellence-white-house-gsa-office-of-american-innovation/) (FedScoop)
 
 **May 2018**
 - [GSA, USDA make progress on IT modernization via Centers of Excellence](https://fedtechmagazine.com/article/2018/05/gsa-usda-make-progress-it-modernization-centers-excellence) (FedTech Magazine)
