@@ -7,6 +7,8 @@ description: "The latest online coverage about the Centers of Excellence"
 ---
 **June 2018**
 - [An exclusive look inside the USDA IT Modernization Centers of Excellence](https://www.fedscoop.com/usda-it-modernization-centers-of-excellence-white-house-gsa-office-of-american-innovation/) (FedScoop)
+- [GSA: Phase II Centers of Excellence bids will begin in July](https://www.nextgov.com/it-modernization/2018/06/gsa-phase-ii-centers-excellence-bids-will-begin-july/149340/) (NextGov)
+- [USDA reports success with Centers of Excellence program](https://fcw.com/articles/2018/06/28/usda-coe-phase2.aspx) (FCW)
 
 **May 2018**
 - [GSA, USDA make progress on IT modernization via Centers of Excellence](https://fedtechmagazine.com/article/2018/05/gsa-usda-make-progress-it-modernization-centers-excellence) (FedTech Magazine)
