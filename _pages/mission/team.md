@@ -12,10 +12,10 @@ description: "Identify the Centers of Excellence teams, which include the Progra
 - Brian Whittaker
 - Rachel Jackson
 - Julie Berarducci
+- Omid Ghaffari-Tabrizi
 
 ### Acquisition
 - Al Munoz
-- Omid Ghaffari-Tabrizi
 
 ### Centers of Excellence
 - **Cloud Adoption** - Jay Huie *(Lead)*, Scott Finke, Therese Gallagher, Mat Caughron
