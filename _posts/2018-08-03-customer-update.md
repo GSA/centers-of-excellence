@@ -6,7 +6,8 @@ coe: customer-experience
 ---
 
 
-{% include image.html path="customer/2018-05-15-Oklahoma.jpg" alt-text="Hollis, Oklahoma" caption="Hollis, Oklahoma" %}
+{% include image-wide.html path="customer/2018-05-15-Oklahoma.jpg" alt-text="Hollis, Oklahoma" caption="Hollis, Oklahoma" %}
+
 
 Driving through a landscape of stretched cotton fields and grasslands towards Hollis, Oklahoma was both mesmerizing and a refreshing reminder I was far from the traffic-ridden hustle of downtown DC. Located in the southwest corner of Oklahoma, Hollis could be considered a nondescript pass-through town on a cross-country drive, but for my fellow researcher and I, Hollis, a small town with a population just above 2,000 people, was a long-planned destination. 
  
