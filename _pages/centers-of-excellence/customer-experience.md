@@ -29,3 +29,8 @@ The Customer Experience CoE demonstrates the business value of customer experien
 - Team traveled to Fredericksburg, VA to conduct Field Office/Farmer Interviews and Farm Visits (May 2018)
 - Developed a Farm Loans Hypothesis Workshop Report and Farm Loans Hypothesis Journey Map (May 2018)
 - Traveled to three FSA Field Offices in New York, Georgia and Oklahoma to interview staff and producers at their farms. (May 2018)
+- Visited two FSA Field Offices in Oregon and North Dakota to interview staff and producers at their farms. (June 2018)
+- Facilitated Farm Loans Solutioning Workshop (June 2018)
+- Developed Farm Loans Final Report (July 2018)
+- Completed Farm Production and Conservation Mission area Voice of the Customer Assessment (August 2018)
+- Facilitated Voice of the Customer Workshop (August 2018)
