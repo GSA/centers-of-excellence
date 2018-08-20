@@ -5,10 +5,11 @@ description: "Short Lorem ipsum dolor sit amet."
 coe: customer-experience
 ---
 
-Customer Journey Mapping for the USDA Direct Farm Loan Program
-The Customer Experience (CX) Center of Excellence followed a customer journey mapping model for the Farm Service Agency (FSA) to document the current customer journeys of producers and service center staff in applying for and processing direct farm loan applications. 
+Customer Journey Analysis for the USDA Direct Farm Loans Program
+The Customer Experience Center of Excellence followed a customer journey mapping model for the Farm Service Agency (FSA) to evaluate the experience of producers and service center staff in applying for and processing direct farm loan applications.
 
-Interviews and/or ethnographic observations were performed with over 20 FPAC subject matter experts in Washington DC, two dozen interviews with FPAC employees at six service centers, and almost 40 producers in six states. A further four workshops were hosted in Washington, DC to guide the research, update the customer journey map, vet important findings, and develop recommended solutions to improve the customer experience.
+We conducted interviews and ethnographic observations with over 40 FPAC subject matter experts and employees in Washington DC and at six service centers, and almost 40 producers in six states. We also hosted four workshops with stakeholders in Washington, DC to guide the research, update the customer journey map, vet important findings, and develop recommended solutions to improve the customer experience.
+
 Among the 13 key findings, the following were identified as the most impactful:
 - Producers value in person interactions with Loan Officers
 - Loan Officers deal with fragile and limited technology at service centers
