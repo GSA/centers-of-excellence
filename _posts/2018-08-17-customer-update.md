@@ -18,7 +18,7 @@ Among the 13 key findings, the following were identified as the most impactful:
 
 This report spans three volumes:
 
-{% include pdf.html path="customer/Findings-Volume-1-Farm-Loans-Final Report-FINAL" title="Research Findings and Recommendations (PDF, 3 MB)" %}
+{% include pdf.html path="customer/Findings-Volume-1-Farm-Loans-Final Report-FINAL.pdf" title="Research Findings and Recommendations (PDF, 3 MB)" %}
 - What we learned over the course of four workshops and visits to six different regions
 
 {% include pdf.html path="customer/Methodology-Volume-2-Farm-Loans-Final-Report-FINAL.pdf" title="Methodology (PDF, 14 MB)" %}
