@@ -7,7 +7,6 @@ description: "Identify the Centers of Excellence teams, which include the Progra
 ---
 
 ### Program Management Office
-- Joanne Collins Smee
 - Bob De Luca
 - Brian Whittaker
 - Rachel Jackson
