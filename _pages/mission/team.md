@@ -11,7 +11,6 @@ description: "Identify the Centers of Excellence teams, which include the Progra
 - Brian Whittaker
 - Rachel Jackson
 - Julie Berarducci
-- Omid Ghaffari-Tabrizi
 
 ### Acquisition
 - Al Munoz
