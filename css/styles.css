@@ -1,0 +1,1221 @@
+@charset "UTF-8";
+/* CSS Document */
+/* -------------------- Grid Overrides -------------------- */
+.usa-grid {
+    max-width: 1240px;
+}
+.usa-width-one-fifth:first-child > :first-child  {
+  margin-top: 0;
+}
+.usa-width-one-fifth:last-child > :last-child {
+  margin-bottom: 0;
+}
+.usa-width-one-fifth {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 17.93176%;
+}
+.usa-width-one-fifth:last-child {
+    margin-right: 0;
+}
+.usa-width-one-fifth:nth-child(2n) {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 17.93176%;
+}
+@media screen and (max-width: 1200px) {
+    .usa-width-one-fifth:nth-of-type(1),
+    .usa-width-one-fifth:nth-of-type(2),
+    .usa-width-one-fifth:nth-of-type(3) {
+        float: left;
+        display: block;
+        margin-right: 4.82916%;
+        width: 30.11389%;
+    }
+    .usa-width-one-fifth:nth-of-type(3) {
+        margin-right: 0;
+    }
+    .usa-width-one-fifth:nth-of-type(4),
+    .usa-width-one-fifth:nth-of-type(5) {
+        margin-right: 4.82916%;
+        width: 30.11389%;
+    }
+    .usa-width-one-fifth:nth-of-type(4) {
+        margin-left: 17%;
+    }
+    .usa-width-one-fifth:nth-of-type(5) {
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 768px) {
+    .usa-width-one-fifth:nth-of-type(1),
+    .usa-width-one-fifth:nth-of-type(2),
+    .usa-width-one-fifth:nth-of-type(3),
+    .usa-width-one-fifth:nth-of-type(4),
+    .usa-width-one-fifth:nth-of-type(5) {
+        margin-right: 4.82916%;
+        width: 47.58542%;
+    }
+    .usa-width-one-fifth:nth-of-type(4) {
+        margin-left: 0;
+    }
+    .usa-width-one-fifth:nth-of-type(2),
+    .usa-width-one-fifth:nth-of-type(4) {
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 600px) {
+    .usa-width-one-fifth:nth-of-type(1),
+    .usa-width-one-fifth:nth-of-type(2),
+    .usa-width-one-fifth:nth-of-type(3),
+    .usa-width-one-fifth:nth-of-type(4),
+    .usa-width-one-fifth:nth-of-type(5) {
+        margin-right: 0;
+        width: 100%;
+    }
+}
+
+/* -------------------- Buttons Overrides -------------------- */
+.usa-button-primary.usa-button-big, .usa-button-primary:visited.usa-button-big, .usa-button.usa-button-big, .usa-button:visited.usa-button-big, [type=button].usa-button-big, [type=image].usa-button-big, [type=reset].usa-button-big, [type=submit].usa-button-big, button.usa-button-big {
+    border-radius: 3px;
+}
+.usa-button, .usa-button-primary, .usa-button-primary:visited, .usa-button:visited, [type=button], [type=image], [type=reset], [type=submit], button {
+    border-radius: 3px;
+}
+
+
+/* -------------------- Flex Attributes -------------------- */
+.flex-container {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* -------------------- Header -------------------- */
+header.main-header {
+    position: relative;
+    -webkit-box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
+    -moz-box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
+    -ms-box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
+    -o-box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
+    box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
+}
+header .usa-navbar {
+    height:10rem;
+}
+.coe-logo {
+    width:30rem;
+    height: auto;
+    padding-top: 2.5rem;
+}
+
+/* -------------------- Navigation -------------------- */
+header.main-header nav.usa-nav {
+    padding: 5px 5px 0px 5px;
+}
+.usa-nav-primary>li {
+    position: relative;
+}
+.usa-nav-primary>li>.usa-nav-link {
+    font-size:1.7rem;
+    padding:4rem 2.8rem;
+    color: #212121;
+}
+.usa-nav-primary>li>button.usa-nav-link {
+    padding-right:4.2rem;
+}
+.usa-nav-primary>li>.usa-nav-link,
+.usa-nav-primary>li>button.usa-nav-link {
+    border-bottom: 0.4rem solid #ffffff;
+}
+.usa-nav-link:focus span,
+.usa-nav-link:hover span {
+    border-bottom: 0;
+}
+.usa-nav-primary .usa-current, 
+.usa-nav-primary a.usa-current,
+.usa-nav-link.usa-accordion-button,
+.usa-nav-primary>li>button.usa-current,
+.usa-nav-primary>li>a.usa-nav-link:focus,
+.usa-nav-primary>li>a.usa-nav-link:hover,
+.usa-nav-primary>li>button.usa-nav-link:focus,
+.usa-nav-primary>li>button.usa-nav-link:hover {
+    border-bottom: 0.4rem solid #0071bc;
+}
+.usa-nav-primary .usa-current span, 
+.usa-nav-primary a.usa-current span,
+.usa-nav-link.usa-accordion-button span {
+    padding:0;
+    border-bottom: 0;
+}
+.usa-nav-primary button {
+    color:#212121;
+}
+.usa-nav-primary>li>.usa-nav-link:focus,
+.usa-nav-primary>li>.usa-nav-link:hover,
+.usa-nav-primary button[aria-expanded=false]:focus,
+.usa-nav-primary button[aria-expanded=false]:hover {
+    color: #0071bc;
+    background-color:#f1f1f1;
+}
+.usa-nav-primary button[aria-expanded=true],
+.usa-nav-primary button[aria-expanded=false] {
+    background-position: right 2.2rem top 4.4rem;
+}
+.usa-nav-primary button[aria-expanded=true]:focus,
+.usa-nav-primary button[aria-expanded=true]:hover,
+.usa-nav-primary button[aria-expanded=true] {
+    background-color:#205493;
+    border-bottom: 0.4rem solid #f1f1f1;
+}
+.usa-nav-primary button[aria-expanded=true]:focus,
+.usa-nav-primary button[aria-expanded=true]:hover {
+    background-color:#112e51;
+}
+.usa-nav-primary button[aria-expanded=true]:focus span,
+.usa-nav-primary button[aria-expanded=true]:hover span {
+    color:#ffffff;
+}
+.usa-nav-primary button[aria-expanded=true] span {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+.usa-nav-submenu {
+    background-color: #0071bc;
+    top: 9.2rem;
+    left: 1rem;
+    z-index: 10;
+}
+.usa-nav-submenu li {
+    border-bottom: 1px solid #0090f0;
+}
+.usa-nav-submenu li:last-of-type {
+    border-bottom: 0;   
+}
+.usa-nav-submenu>li.active a,
+.usa-nav-submenu>li.active a:focus,
+.usa-nav-submenu>li.active a:hover {
+    background-color: #205493;
+}
+.usa-nav-submenu>li>a {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+}
+.usa-nav-submenu>li>a:focus,
+.usa-nav-submenu>li>a:hover {
+    text-decoration: none;
+    background-color: #205493;
+}
+@media screen and (max-width: 1090px) {
+   .usa-nav-primary>li>.usa-nav-link {
+        padding: 4rem 2.2rem;
+    } 
+}
+@media screen and (max-width: 1010px) {
+   .usa-nav-primary>li>.usa-nav-link {
+        padding: 4rem 1.8rem;
+    } 
+    .coe-logo {
+        width: 26rem;
+    }
+}
+@media screen and (max-width: 950px) {
+    .usa-logo {
+        margin-left:0;
+    }
+    .usa-navbar {
+        border-bottom: none;
+    }
+    .usa-menu-btn {
+        margin-top: 2.8rem;
+        font-size:1.4rem;
+        font-weight:600;
+        width:6.2rem;
+    }
+    header.main-header nav.usa-nav {
+        padding: 2rem;
+    }
+    .usa-nav-close {
+        margin:0;
+    }
+    .usa-nav-primary>li>.usa-nav-link {
+        padding: .85rem 1rem .85rem 1.5rem;
+    }
+    .usa-nav-primary .usa-current, 
+    .usa-nav-primary a.usa-current, 
+    .usa-nav-link.usa-accordion-button, 
+    .usa-nav-primary>li>button.usa-current, 
+    .usa-nav-primary>li>a.usa-nav-link:focus, 
+    .usa-nav-primary>li>a.usa-nav-link:hover, 
+    .usa-nav-primary>li>button.usa-nav-link:focus, 
+    .usa-nav-primary>li>button.usa-nav-link:hover {
+        border-bottom:0;
+    }
+    .usa-nav-primary>li>.usa-nav-link, 
+    .usa-nav-primary>li>button.usa-nav-link {
+        border-bottom:0;
+    }
+    .usa-nav-primary button[aria-expanded=true], 
+    .usa-nav-primary button[aria-expanded=false] {
+        background-position: right 1rem center;
+    }
+    .usa-nav-primary button[aria-expanded=true]:focus, 
+    .usa-nav-primary button[aria-expanded=true]:hover {
+        background-color: #f1f1f1; 
+    }
+    .usa-nav-primary button[aria-expanded=true]:focus span, 
+    .usa-nav-primary button[aria-expanded=true]:hover span {
+        color:#0071bc;
+    }
+    .usa-nav-submenu {
+        background-color: #FFFFFF;
+    }
+    .usa-nav-submenu>li.active a, 
+    .usa-nav-submenu>li.active a:focus, 
+    .usa-nav-submenu>li.active a:hover {
+        background-color: #0071bc; 
+        color: #ffffff;
+        font-weight:600;
+    }
+}
+@media screen and (max-width: 400px) {
+    header .usa-navbar {
+        height: 7rem;
+    }
+    .coe-logo {
+        padding-top: 1.6rem;
+        width: 20rem;
+    }
+    .usa-menu-btn {
+        margin-top: 1.4rem;
+        font-size:1.3rem;
+        font-weight:400;
+        width:5.8rem;
+    }
+}
+
+/* -------------------- Homepage -------------------- */
+/* -------------------- Homepage - Hero Section -------------------- */
+.usa-hero {
+    background-image: url(../images/hero.png);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    border-bottom:1px solid #d5d5d5;
+}
+.usa-hero-callout .usa-button.usa-button-big {
+    margin: .5em;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.usa-section-dark {
+    background-color: rgba(0,0,0,0.7);
+    color: #fff;
+    border-radius: 3px;
+    max-width: 80rem;
+}
+.usa-section-dark h1 {
+    color:#ffffff;
+    font-weight:300;
+    font-size: 3.8rem;
+    text-align: center;
+    border-bottom: none;
+}
+@media screen and (max-width: 900px) {
+    .usa-hero {
+        padding-top:5.6rem;
+        padding-bottom:5.6rem;
+    }
+    .usa-section-dark h1 {
+        font-size: 3.2rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    .usa-hero {
+        padding-top:4.8rem;
+        padding-bottom:4.8rem;
+    }
+    .usa-section-dark h1 {
+        font-size: 2.8rem;
+    }
+}
+@media screen and (max-width: 520px) {
+    .usa-hero {
+        padding-top:3.6rem;
+        padding-bottom:3.6rem;
+    }
+    .usa-section-dark h1 {
+        font-size: 2.2rem;
+    }
+    .usa-hero-callout .usa-button.usa-button-big {
+        margin: .2em;
+        font-size: 1.8rem;
+    }
+}
+@media screen and (max-width: 400px) {
+    .usa-hero {
+        padding-top:3rem;
+        padding-bottom:3rem;
+    }
+    .usa-section-dark h1 {
+        font-size: 1.8rem;
+    }
+    .usa-hero-callout .usa-button.usa-button-big {
+        font-size: 1.6rem;
+    }
+}
+
+/* -------------------- Homepage - CoEs Section -------------------- */
+h2.centers-subhead {
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-size: 3.2rem;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 7rem !important;
+    margin-bottom: 0.5rem !important;
+}
+h2.centers-subhead a:focus,
+h2.centers-subhead a:hover,
+h2.centers-subhead a {
+    text-decoration: none;
+}
+@media screen and (max-width: 520px) {
+    h2.centers-subhead {
+        font-size: 2.8rem;
+        margin-top: 4rem !important;
+    }
+}
+@media screen and (max-width: 400px) {
+    h2.centers-subhead {
+        font-size: 2.4rem;
+        margin-top: 3rem !important;
+    }
+}
+p.centers-subtext {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 300;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+a.card-link {
+    background-color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 3px;
+    border:1px solid #d9d9d9;
+    margin-top: 5rem !important;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+}
+a.card-link:focus,
+a.card-link:hover {
+    border:1px solid #205493;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
+}
+a.card-link .centers-graphic {
+    background-color: #f1f1f1;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+a.card-link.coe-ca-link .centers-graphic::after,
+a.card-link.coe-cc-link .centers-graphic::after,
+a.card-link.coe-cx-link .centers-graphic::after,
+a.card-link.coe-da-link .centers-graphic::after,
+a.card-link.coe-io-link .centers-graphic::after {
+    content: '';
+    width: 195px;
+    height: 115px;
+    position: absolute;
+    top: -32px;
+    left: 50%;
+    margin-left: -98px;
+    background-repeat: no-repeat;
+    background-size: 195px 115px;
+}
+a.card-link.coe-ca-link .centers-graphic::after {background-image: url(../images/cloud-adoption-2x.png);}
+a.card-link.coe-cc-link .centers-graphic::after {background-image: url(../images/contact-center-2x.png);}
+a.card-link.coe-cx-link .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
+a.card-link.coe-da-link .centers-graphic::after {background-image: url(../images/data-analytics-2x.png);}
+a.card-link.coe-io-link .centers-graphic::after {background-image: url(../images/infrastructure-optimization-2x.png);}
+a.card-link .card-link-text {
+    padding: 2rem;
+    height:27rem;
+}
+a.card-link h3 {
+    margin-top: 0px;
+    margin-bottom: 6px;
+    font-size:1.7rem;
+}
+a.card-link:visited h3,
+a.card-link:visited ul>li {
+    color: #0071bc;
+}
+a.card-link:focus h3,
+a.card-link:hover h3 {
+    color:#205493;
+}
+a.card-link p {
+    color: #000000;
+    font-size: 1.5rem;
+    line-height: 1.4;
+    margin-top: 0.6rem;
+}
+a.card-link:focus p,
+a.card-link:hover p {
+    color: #000000;
+}
+@media screen and (max-width: 1200px) {
+    a.card-link .card-link-text {
+        height:23rem;
+    }
+}
+@media screen and (max-width: 900px) {
+    a.card-link .card-link-text {
+        height:26rem;
+    }
+}
+@media screen and (max-width: 600px) {
+    a.card-link .card-link-text {
+        height:auto;
+    }
+}
+
+/* -------------------- Homepage - Quote Section -------------------- */
+.quote-row {
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    background-color: #112e51;
+    background-image: url(../images/quote-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.quote-row #quote-container {
+    margin: 1rem;
+    padding-top: 7rem;
+    padding-left:20rem;
+    padding-right:20rem;
+    padding-bottom: 7rem;
+}
+.quote-row #quote-container blockquote {
+    position: relative;
+    color:#ffffff;
+    font-size: 3.2rem;
+    font-weight: 300;
+    margin: 1rem;
+}
+.quote-row #quote-container blockquote::before {
+    content: "\201C";
+	position: absolute;
+  	left: -12px;
+}
+.quote-row cite {
+    color:#ffffff;
+    font-weight: 300;
+    display: block;
+    width: 100%;
+    margin: 1rem;
+}
+.quote {
+    display: none;
+}
+.quote.active {
+    display: block;
+}
+@media screen and (max-width: 900px) {
+    .quote-row {
+        margin-top: 6rem;
+        margin-bottom: 6rem;
+    }
+    .quote-row #quote-container {
+        margin: 1rem;
+        padding-top: 6rem;
+        padding-left:14rem;
+        padding-right:14rem;
+        padding-bottom: 6rem;
+    }
+    .quote-row #quote-container blockquote {
+        font-size: 3.2rem;
+        margin: 1rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    .quote-row {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    .quote-row #quote-container {
+        margin: 0.5rem;
+        padding-top: 3rem;
+        padding-left:8rem;
+        padding-right:8rem;
+        padding-bottom: 3rem;
+    }
+    .quote-row #quote-container blockquote {
+        font-size: 2.8rem;
+        margin: 0.5rem;
+    }
+}
+@media screen and (max-width: 520px) {
+    .quote-row {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .quote-row #quote-container {
+        margin: 0.5rem;
+        padding-top: 2rem;
+        padding-left:1rem;
+        padding-right:1rem;
+        padding-bottom: 2rem;
+    }
+    .quote-row #quote-container blockquote {
+        font-size: 2.2rem;
+        margin: 0.5rem;
+    }
+    .quote-row cite {
+        font-size:1.3rem;
+    }
+}
+
+/* -------------------- Homepage - Addtional Content Section -------------------- */
+.latest-update {
+    margin-right: 10rem;
+}
+.latest-update h2,
+.join-us h2 {
+    margin-top: 0;
+}
+.latest-update .date {
+    font-size:1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.latest-update a.title {
+    font-size:2.4rem;
+    font-weight: 300;
+    color: #212121;
+    text-decoration: none;
+}
+.latest-update a.title:focus,
+.latest-update a.title:hover {
+    text-decoration: underline;
+}
+.join-us {
+    width:25rem;
+    height: auto;
+    position: relative;
+    margin-left: 15rem;
+}
+.join-us::before {
+    content: '';
+    position: absolute;
+    top:0px;
+    left:-15rem;
+    width: 13rem;
+    height: 13rem;
+    background-image: url(../images/we-are-hiring.png);
+    background-size: 13rem 13rem;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 1090px) {
+    .latest-update {
+        margin-right: 5rem;
+    }
+}
+@media screen and (max-width: 900px) {
+    .join-us {
+        width:auto;
+        margin-left: 10rem;
+    }
+    .join-us::before {
+        left:-10rem;
+        width: 8rem;
+        height: 8rem;
+        background-size: 8rem 8rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    .latest-update {
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 680px) {
+    .join-us {
+        margin-left: 0rem;
+    }
+    .join-us::before {
+        left:0;
+        width: 4rem;
+        height: 4rem;
+        background-size: 4rem 4rem;
+    }
+    .join-us h2 {
+        margin-left: 5rem;
+    }
+}
+@media screen and (max-width: 600px) {
+    .join-us {
+        margin-top:2rem;
+        padding-top:2rem;
+        border-top: 1px solid #fdb81e;
+    }
+    .join-us::before {
+        top:2rem;   
+    }
+}
+
+/* -------------------- Main -------------------- */
+main#main-content {
+    margin-bottom: 7rem;
+}
+@media screen and (max-width: 850px) {
+    main#main-content .usa-width-one-third,
+    main#main-content .usa-width-two-thirds {
+        float: none;
+        margin-right: 0;
+        width: 100%;
+    }
+    main#main-content {
+        margin-bottom: 2rem;
+    }
+    .sidebar {
+       margin-top:2rem;
+    }
+}
+.content-focus {
+    margin: 0 auto;
+    max-width: 64.063rem;
+}
+.usa-grid.content-focus {
+    max-width: 70.563rem;
+}
+.reduce-top {
+    padding-top: 1rem;
+}
+.reduce-bottom {
+    padding-bottom: 1rem;
+}
+.sidebar {
+    padding-left: 5rem;
+}
+.columns {
+    -moz-column-count: 2;
+    -moz-column-gap: 2rem;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 2rem;
+    column-count: 2;
+    column-gap: 2rem;
+}
+hr {
+  height: 0;
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 0;
+  border-top: 1px solid #fdb81e;
+}
+@media screen and (max-width: 1000px) {
+    .sidebar { 
+       padding-left: 1rem;
+    } 
+}
+@media screen and (max-width: 600px) {
+    .sidebar { 
+       padding-left: 0;
+    } 
+}
+.box {
+    padding:2rem;
+    margin:2rem;
+    border-radius:3px;
+    border:1px solid #d9d9d9;
+    background-color:#ffffff;
+}
+
+/* -------------------- CoEs Pages -------------------- */
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding-right: 0;
+}
+.sticky::before, .sticky::after {
+    content: '';
+    display: table;
+}
+.coe-explore a.card-link .card-link-text {
+    height: auto;
+}
+.usa-width-one-third>.sidebar-box:first-child {
+   margin-top: 5rem; 
+}
+.sidebar-box {
+    background-color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 3px;
+    border:1px solid #d9d9d9;
+}
+.sidebar-box .centers-graphic {
+    background-color: #f1f1f1;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+.sidebar-box.coe-ca .centers-graphic::after,
+.sidebar-box.coe-cc .centers-graphic::after,
+.sidebar-box.coe-cx .centers-graphic::after,
+.sidebar-box.coe-da .centers-graphic::after,
+.sidebar-box.coe-io .centers-graphic::after {
+    content: '';
+    width: 195px;
+    height: 115px;
+    position: absolute;
+    top: -32px;
+    left: 50%;
+    margin-left: -98px;
+    background-repeat: no-repeat;
+    background-size: 195px 115px;
+}
+.sidebar-box.coe-ca .centers-graphic::after {background-image: url(../images/cloud-adoption-2x.png);}
+.sidebar-box.coe-cc .centers-graphic::after {background-image: url(../images/contact-center-2x.png);}
+.sidebar-box.coe-cx .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
+.sidebar-box.coe-da .centers-graphic::after {background-image: url(../images/data-analytics-2x.png);}
+.sidebar-box.coe-io .centers-graphic::after {background-image: url(../images/infrastructure-optimization-2x.png);}
+.sidebar-box-content {
+    padding:2rem;
+}
+.sidebar-box-content p:first-of-type {
+    margin-top: 0;
+}
+.sidebar-box.farmloans {
+    background-image: url('../images/customer-experience/fl-sidebar-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    margin-top: 2rem;
+}
+.sidebar-box.farmloans .usa-button-secondary {
+    margin-bottom: 5rem;
+}
+
+/* -------------------- Team Page -------------------- */
+.team-members {
+    padding: 0;
+}
+.team-members .person {
+    margin-bottom: 2.2rem;
+    margin-left: 3.5rem;
+    width:15rem;
+    height:19rem;
+    display: inline-block;
+    text-align: center;
+}
+.team-members .person img {
+    width: 13.5rem;
+    height: 13.5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 0.5rem solid #fdb81e;
+}
+.team-members .person p {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+@media screen and (max-width: 1200px) {
+    .team-members .person {
+        margin-bottom: 2rem;
+        margin-left: 1.5rem;
+    }
+}
+@media screen and (max-width: 1120px) {
+    .team-members .person {
+        margin-bottom: 1.8rem;
+        margin-left: 0.5rem;
+    }
+}
+@media screen and (max-width: 770px) {
+    .team-page .usa-width-one-half {
+        float: none;
+        width: 100%;
+        margin: 0;
+    }
+    .team-members .person {
+        margin-bottom: 1.5rem;
+        margin-left: 0.5rem;
+        width:14rem;
+        height:15rem;
+    }
+    .team-members .person img {
+        width: 10rem;
+        height: 10rem;
+        border: 0.3rem solid #fdb81e;
+    }
+    .team-members .person p {
+        font-size:1.2rem;
+    }
+}
+@media screen and (max-width: 400px) {
+    .team-members .person {
+        margin-bottom: 1rem;
+        margin-left: 0;
+    }
+}
+
+/* -------------------- Updates Page -------------------- */
+.article-head {
+    border-bottom: 1px solid #fdb81e;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+.article-head .coe {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.article-head hr,
+article hr {
+  border-top: 1px solid #eee;
+}
+a.article-coe-link {
+    font-size: 1.5rem;
+    font-weight: 900;
+    text-decoration: none;
+    color: #212121;
+}
+
+/* -------------------- Text -------------------- */
+main h1 {
+    width: 100%;
+    border-bottom: 1px solid #eee;
+}
+h2 a {
+    color:#212121;
+    text-decoration: none;
+}
+h2 a:focus,
+h2 a:hover,
+h2 a:visited {
+    color:#212121;
+    text-decoration: underline;
+}
+.first {
+    margin-top: 0;
+}
+p.intro {
+    font-size: 2.75rem;
+    font-weight: 300;
+}
+p.caption {
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+.text-center {
+    text-align: center;
+}
+h1.title,
+h3.title {
+    margin-top: 0;
+}
+em.date {
+    font-size:1.4rem;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    color:#212121;
+    display: block;
+    margin-bottom: 0.4rem;
+}
+h2#service-offerings,
+h2#accomplishments,
+h2#coe-updates {
+    padding-left:6rem;
+    margin-bottom:1.5rem;
+    position: relative;
+}
+h2#service-offerings::before,
+h2#accomplishments::before,
+h2#coe-updates::before {
+    content: '';
+    position: absolute;
+    top:-0.6rem;;
+    left: 0;
+    width: 5.1rem;
+    height: 5.1rem;
+    border: 0.3rem solid #ffffff;
+    background-color:#3c8bc9;
+    background-image: url(../images/subpage-section-icons.png);
+    background-repeat: no-repeat;
+    background-size: 4.8rem 14.4rem;
+    border-radius:50%;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+}
+h2#service-offerings::before {
+    background-position: -0.15rem -0.15rem;
+}
+h2#accomplishments::before {
+    background-position: -0.15rem -4.95rem;
+}
+h2#coe-updates::before {
+    background-position: -0.2rem -9.75rem;
+}
+@media screen and (max-width: 1200px) {
+    body {
+       font-size: 1.7rem; 
+    }
+    h1 {
+      font-size: 3.8rem;
+    }
+    h2 {
+      font-size: 2.8rem;
+    }
+    h3 {
+      font-size: 1.9rem;
+    }
+    p.intro {
+       font-size: 2.6rem; 
+    }
+}
+@media screen and (max-width: 900px) {
+    body {
+       font-size: 1.6rem; 
+    }
+    h1 {
+      font-size: 3.6rem;
+    }
+    h2 {
+      font-size: 2.6rem;
+    }
+    h3 {
+      font-size: 1.8rem;
+    }
+    p.intro {
+       font-size: 2.4rem; 
+    }
+}
+@media screen and (max-width: 768px) {
+    body {
+       font-size: 1.6rem; 
+    }
+    h1 {
+      font-size: 3.4rem;
+    }
+    h2 {
+      font-size: 2.4rem;
+    }
+    h3 {
+      font-size: 1.8rem;
+    }
+    p.intro {
+       font-size: 2.3rem; 
+    }
+}
+@media screen and (max-width: 520px) {
+    body {
+       font-size: 1.5rem; 
+    }
+    h1 {
+      font-size: 3.2rem;
+    }
+    h2 {
+      font-size: 2.2rem;
+    }
+    h3 {
+      font-size: 1.7rem;
+    }
+    p.intro {
+       font-size: 2.2rem; 
+    }
+}
+@media screen and (max-width: 400px) {
+    body {
+       font-size: 1.4rem; 
+    }
+    h1 {
+      font-size: 3rem;
+    }
+    h2 {
+      font-size: 2rem;
+    }
+    h3 {
+      font-size: 1.6rem;
+    }
+    p.intro {
+       font-size: 2rem; 
+    }
+}
+
+/* -------------------- Icons -------------------- */
+.pdf .icon {
+    margin-left: 6px;
+    width: 22px;
+    position: relative;
+    top: 5px;
+}
+
+/* -------------------- Clearfix -------------------- */
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
+.clearfix:after {
+  clear: both;
+}
+
+/* -------------------- Responsive Embed -------------------- */
+.embed-responsive {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object,
+.embed-responsive video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%;
+}
+.embed-responsive-4by3 {
+  padding-bottom: 75%;
+}
+.inline-media {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    width: 25rem;
+    float: right;
+}
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+@media screen and (max-width: 600px) {
+    .inline-media {
+        margin-left: 0;
+        margin-bottom: 0;
+        width: 100%;
+        float: none;
+    }
+}
+
+/* -------------------- Footer -------------------- */
+.usa-footer-primary-section {
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+}
+.usa-footer-primary-content > li > a {
+    font-size:1.4rem;
+    color:#000000;
+    text-decoration: none;
+}
+.usa-footer-primary-content > li > a:focus,
+.usa-footer-primary-content > li > a:hover {
+    color:#112e51;
+    text-decoration: underline;
+}
+.footer-logo-links {
+    float: left;
+    display: block;
+}
+.footer-logo img {
+    width: 4.4rem;
+}
+.footer-logo:first-child {
+    margin-right: 0.7rem;
+}
+.media_link {
+    display: inline-block;
+    line-height: 0;
+}
+.footer-desktop {
+    display:block;
+}
+.footer-mobile {
+    display: none;
+}
+@media screen and (max-width: 1200px) {
+    .usa-footer-primary-section .usa-width-one-third,
+    .usa-footer-primary-section .usa-width-two-thirds {
+        margin: 0;
+        width:100%;
+        min-height: 70px;
+    }
+    .usa-footer-primary-section .usa-width-two-thirds .usa-width-one-fourth {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 23.23176%;
+    }
+    .usa-footer-primary-section .usa-width-two-thirds .usa-width-one-fourth:last-of-type {
+        margin-right: 0;
+    }
+    .footer-logo-links {
+        padding-bottom: 2rem;
+        position: absolute;
+        left:50%;
+        margin-left: -50px;
+    }
+}
+@media screen and (max-width: 680px) {
+    .footer-desktop {
+        display: none;
+    }
+    .footer-mobile {
+        display: block;
+    }
+    .footer-mobile button.usa-accordion-button {
+        border: 1px solid #ccc;
+    }
+    .footer-mobile>ul>li {
+        background-color:#ffffff;
+        margin:0;
+    }
+    .footer-mobile>ul>li>a {
+        display: block;
+        text-decoration: none;
+    }
+}

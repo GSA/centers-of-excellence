@@ -1,0 +1,464 @@
+@charset "UTF-8";
+/* CSS Document */
+.farm-loan-content {
+    margin-bottom: 0 !important;
+}
+.fl-headline-area {
+    width: 100%;
+    height: 700px;
+    position: relative;
+    overflow: hidden;
+}
+.fl-bg-gradient {
+    background: #7bc3c1; /* Old browsers */
+    background: -moz-linear-gradient(top, #7bc3c1 0%, #c8e5cd 60%, #feffff 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #7bc3c1 0%,#c8e5cd 60%,#feffff 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #7bc3c1 0%,#c8e5cd 60%,#feffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7bc3c1', endColorstr='#feffff',GradientType=0 ); /* IE6-9 */
+}
+.fl-bg-1,
+.fl-bg-2,
+.fl-bg-3,
+.fl-bg-4 {
+    transition: all 0.3s;
+    width: 100%;
+    height: 700px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center 0px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.fl-bg-gradient {
+    transition: all 0.3s;
+    width: 100%;
+    height: 700px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.fl-bg-1 {
+    background-image: url(../../images/customer-experience/fl-report-bg-1.svg);
+    z-index: 5;
+}
+.fl-bg-2 {
+    background-image: url(../../images/customer-experience/fl-report-bg-2.svg);
+    z-index: 6;
+}
+.fl-bg-3 {
+    background-image: url(../../images/customer-experience/fl-report-bg-3.svg);
+    z-index: 7;
+}
+.fl-bg-4 {
+    background-image: url(../../images/customer-experience/fl-report-bg-4.svg);
+    z-index: 8;
+}
+.down-arrow {
+    width: 2rem;
+    height: 2rem;
+    display:none;
+    margin-left: -1rem;
+    position: absolute;
+    z-index: 9;
+    bottom: 1.4rem;
+    left: 50%;
+}
+.farm-loans-headline h1 {
+    text-align: center;
+    color: #0c2613;
+    border:0;
+    padding:7rem 2rem 0;
+    margin: 0;
+    position: relative;
+    z-index: 9;
+}
+.farm-loans-headline p {
+    z-index: 9;
+    margin: 0;
+    padding: 1rem 2rem;
+    text-align: center;
+    color: #0c2613;
+    display: block;
+    position: relative;
+    font-size:2rem;
+}
+.usa-grid-full {
+    max-width: 100%;
+}
+.nav-horizontal {
+    transform: translate3d(0, 0, 0);
+    background-color: #082310;
+    text-align: center;
+}
+.nav-horizontal.is-fixed {
+    /* on Firefox CSS transition/animation fails when parent element changes position attribute*/
+    /* so we defined to diffent classes: .is-fixed to change the position value and .is-animated to change childrens' attributes (padding and opacity)*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 66px;
+    width: 100%;
+    z-index: 20;
+}
+.nav-horizontal ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-horizontal ul li {
+    display: inline-block;
+    margin:0;
+}
+.nav-horizontal a {
+    padding: 2rem 2.7rem;
+    display: block;
+    font-size: 1.7rem;
+    color: #FFFFFF;
+    font-family: "Merriweather","Georgia","Times New Roman",serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+.nav-horizontal a:focus,
+.nav-horizontal a:hover {
+    text-decoration: underline;   
+}
+.nav-horizontal a.active {
+    background-color:#0e3d1c;
+}
+.nav-horizontal a.active:focus,
+.nav-horizontal a.active:hover {
+    text-decoration: none;   
+}
+table.schedule {
+    margin:0.5rem 0;
+    width: 100%;
+}
+table.schedule td,
+table.schedule th {
+    border-color:#ededed;
+}
+table.schedule tbody {
+    font-size:1.3rem;
+}
+.persona-block blockquote {
+    font-style: italic;
+}
+.persona {
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    border:3px solid #ffffff;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    float: left;
+    margin-right: 1.4rem;
+}
+.truncate {
+    max-height: 23rem;
+    overflow-y: hidden;
+    position: relative;
+    transition: all 0.3s;
+    padding-bottom: 60px;
+}
+.truncate.open {
+    max-height: 2000px;
+    overflow-y: auto;
+}
+.truncate h3:first-child {
+    margin-top:4rem;
+    color:#082310;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-size:2.4rem;
+}
+.truncate .usa-width-one-third:last-of-type {
+    margin-right:0;
+}
+.truncate .box {
+    border-color:#ededed;
+    background-color:#f2f2f2;
+    padding: 0;
+}
+.truncate .box .box-title {
+    background-color:#000000;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.truncate .box .box-title.observations {
+    background-color:#56813A;
+}
+.truncate .box .box-title.recommendations {
+    background-color:#16481A;
+}
+.truncate .box .box-title.solutions {
+    background-color:#0F3418;
+}
+.truncate .box .box-title h4 {
+    color:#ffffff;
+    margin:0;
+    font-size: 1.7rem;
+    line-height: 1;
+    padding:1.2rem 2rem 1rem 4.5rem;
+    position: relative;
+}
+.truncate .box .box-title h4::before {
+    content:'';
+    width:3rem;
+    height:3rem;
+    top:0.4rem;
+    left:1rem;
+    position: absolute;
+    background-image: url(../../images/customer-experience/obs-rec-sol-icons-2x.png);
+    background-repeat: no-repeat;
+    background-size: 3rem 9rem;
+    background-position: 0 0;
+}
+.truncate .box .box-title.observations h4::before {
+    background-position: 0 0;
+}
+.truncate .box .box-title.recommendations h4::before {
+    background-position: 0 -3rem;
+}
+.truncate .box .box-title.solutions h4::before {
+    background-position: 0 -6rem;
+}
+.truncate .box ul {
+    padding:2rem 2rem 2rem 4rem;
+    margin: 0;
+}
+.truncate button.usa-button-secondary {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-radius: 0;
+    border-top:1px solid #ddd;
+    text-transform: uppercase;
+    width: 100%;
+    box-shadow: 0 10px 40px 30px #ffffff;
+}
+.truncate button.usa-button-secondary:focus,
+.truncate button.usa-button-secondary:hover {
+    border-top:1px solid #205493;
+    border-left:0;
+    border-right:0;
+    border-bottom:0;
+    cursor: pointer;
+}
+.farmloans-quote-row {
+    background-color: #082310;
+    background-image: url(../../images/customer-experience/fl-quote-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.farmloans-quote-row #quote-container {
+    margin: 1rem;
+    padding-top: 7rem;
+    padding-left:20rem;
+    padding-right:20rem;
+    padding-bottom: 7rem;
+    min-height: 361px;
+}
+.farmloans-quote-row #quote-container h2 {
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+.farmloans-quote-row #quote-container blockquote {
+    position: relative;
+    color:#ffffff;
+    font-size: 3.2rem;
+    font-weight: 300;
+    margin: 1rem;
+}
+.farmloans-quote-row #quote-container blockquote::before {
+    content: "\201C";
+	position: absolute;
+  	left: -12px;
+}
+.farmloans-quote-row cite {
+    color:#ffffff;
+    font-weight: 300;
+    display: block;
+    width: 100%;
+    margin: 1rem;
+}
+@media screen and (max-width: 992px) {
+    .fl-headline-area {
+        height: 600px;
+    }
+    .farm-loans-headline p {
+        font-size:1.8rem;
+    }
+    .fl-bg-1,
+    .fl-bg-2,
+    .fl-bg-3,
+    .fl-bg-4 {
+        height: 600px;
+    }
+    .fl-bg-gradient {
+        height: 600px;
+    }
+    .truncate h3:first-child {
+        margin-top:3.5rem;
+        font-size:2.2rem;
+    }
+    .truncate .box {
+        margin: 0 0 1.2rem 0;
+    }
+    .truncate .box .box-title h4 {
+       font-size: 1.6rem; 
+    }
+    .farmloans-quote-row #quote-container {
+        margin: 1rem;
+        padding-top: 6rem;
+        padding-left:14rem;
+        padding-right:14rem;
+        padding-bottom: 6rem;
+    }
+    .farmloans-quote-row #quote-container blockquote {
+        font-size: 3.2rem;
+        margin: 1rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    .farm-loans-headline h1 {
+        padding-top: 5rem;
+        font-size:2.4rem;
+    }
+    .fl-headline-area {
+        height: 500px;
+    }
+    .farm-loans-headline p {
+        font-size:1.7rem;
+    }
+    .fl-bg-1,
+    .fl-bg-2,
+    .fl-bg-3,
+    .fl-bg-4 {
+        height: 500px;
+    }
+    .fl-bg-gradient {
+        height: 500px;
+    }
+    .truncate h3:first-child {
+        margin-top:3.2rem;
+        font-size:2rem;
+    }
+    .truncate .box .box-title h4 {
+       font-size: 1.5rem; 
+    }
+    .farmloans-quote-row #quote-container {
+        margin: 0.5rem;
+        padding-top: 3rem;
+        padding-left:8rem;
+        padding-right:8rem;
+        padding-bottom: 3rem;
+    }
+    .farmloans-quote-row #quote-container blockquote {
+        font-size: 2.8rem;
+        margin: 0.5rem;
+    }
+}
+@media screen and (max-width: 720px) {
+    .farm-loans-headline h1 {
+        padding-top: 4rem;
+    }
+    .truncate h3:first-child {
+        margin-top:3rem;
+        font-size:1.8rem;
+    }
+    .truncate .usa-width-one-third {
+        width: 100%;
+        margin-right: 0;
+    }
+    .nav-horizontal.is-fixed {
+        height: auto;
+    }
+    .nav-horizontal a {
+        padding: 1.3rem 1rem;
+        font-size: 1.4rem;
+    }
+    .truncate button.usa-button-secondary {
+       font-size: 1.6rem; 
+    }
+}
+@media screen and (max-width: 600px) {
+    .farm-loans-headline h1 {
+        padding-top: 3rem;
+    }
+    .farm-loans-headline p {
+        font-size:1.6rem;
+    }
+    .fl-headline-area {
+        height: 450px;
+    }
+    .fl-bg-1,
+    .fl-bg-2,
+    .fl-bg-3,
+    .fl-bg-4 {
+        height: 450px;
+    }
+    .fl-bg-gradient {
+        height: 450px;
+    }
+    .truncate h3:first-child {
+        margin-top:2.8rem;
+        font-size:1.7rem;
+    }
+    .down-arrow {
+         display:block;   
+    }
+}
+@media screen and (max-width: 500px) {
+    .farm-loans-headline h1 {
+        padding-top: 2.6rem;
+    }
+    .fl-headline-area {
+        height: 400px;
+    }
+    .fl-bg-1,
+    .fl-bg-2,
+    .fl-bg-3,
+    .fl-bg-4 {
+        height: 400px;
+    }
+    .fl-bg-1 {
+        display: none;
+    }
+    .fl-bg-gradient {
+        height: 400px;
+    }
+    .truncate h3:first-child {
+        margin-top:2.6rem;
+        font-size:1.6rem;
+    }
+    .truncate button.usa-button-secondary {
+       font-size: 1.5rem; 
+    }
+    .farmloans-quote-row #quote-container {
+        margin: 0.5rem;
+        padding-top: 2rem;
+        padding-left:1rem;
+        padding-right:1rem;
+        padding-bottom: 2rem;
+    }
+    .farmloans-quote-row #quote-container blockquote {
+        font-size: 2.2rem;
+        margin: 0.5rem;
+    }
+    .farmloans-quote-row cite {
+        font-size:1.3rem;
+    }
+}
+@media screen and (max-width: 375px) {
+    .nav-horizontal a {
+        padding: 1.3rem 0.9rem;
+        font-size: 1.1rem;
+    }
+}
