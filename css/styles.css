@@ -826,7 +826,20 @@ hr {
 .sidebar-box.farmloans .usa-button-secondary {
     margin-bottom: 5rem;
 }
-
+.sidebar-box.data-story {
+    background-image: url('../images/data-analytics/ds-sidebar-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+}
+.sidebar-box.data-story p {
+    text-shadow: 2px 2px 4px #000000;
+}
+.sidebar-box.data-story .usa-button-secondary {
+    margin-bottom: 2rem;
+}
 .img-border {
     padding:1px;
     border:1px solid #021a40;
@@ -1223,4 +1236,64 @@ h2#coe-updates::before {
         display: block;
         text-decoration: none;
     }
+}
+/* Long URL Fix */
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+}
+/*  Back to Top */
+#btt {
+    display: block;
+    position: fixed;
+    bottom:2rem;
+    right:2rem;
+    width: 4rem;
+    height:4rem;
+    border-radius: 50%;
+    background-color:#0071bc;
+    transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
+#btt::after {
+    content: '';
+    position: relative;
+    top: 0.9rem;
+    left: 1rem;
+    display: block;
+    width: 2rem;
+    height: 2rem;
+    background-image: url(../img/angle-arrow-up-primary-white.svg);
+    background-size: 2rem 2rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+}
+#btt:hover {
+  cursor: pointer;
+  background-color: #205493;
+}
+#btt:active {
+  background-color: #205493;
+}
+#btt.show {
+  opacity: 1;
+  visibility: visible;
 }

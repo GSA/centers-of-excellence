@@ -24,6 +24,7 @@
 }
 .plays-index {
     background-color: #f2f2f2;
+    border-top:1px solid #dedede;
 }
 .plays-index ol,
 .plays-index ul {
@@ -39,11 +40,20 @@
     margin: 0;
     padding-bottom: 1rem;
 }
-.plays-index ol>li a {
+.plays-index ol>li a,
+.plays-index ol>li a:focus,
+.plays-index ol>li a:hover,
+.plays-index ol>li a:visited {
     vertical-align: top;
     margin-top: 0;
     display: inline-block;
     width: 85%;
+}
+#focus-areas {
+    background-color: #111111;
+    color:#ffffff;
+    padding:4rem 0;
+    border-bottom: 1px solid #000000;
 }
 #navigation_bar {
     visibility: hidden;
@@ -59,6 +69,7 @@
     background-position: center;
     color:#ffffff;
     transition: all 0.3s;
+    z-index: 10;
 }
 #navigation_bar.show {
     visibility: visible;
@@ -162,4 +173,25 @@
 .play ul>li {
     padding-left: 0.5rem;
     font-size: 1.6rem;
+}
+.case-study {
+    position: relative;
+    background-color:#e7f6f8;
+    border-color: #449dac;
+    padding-left:3.4rem;
+}
+.case-study::before {
+    content: '';
+    position: absolute;
+    width: 4.6rem;
+    height: 4.6rem;
+    background-image: url(images/case-study.svg);
+    background-size: 2.8rem auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 1.2rem;
+    left: -1.8rem;
+    background-color: #6ecbdb;
+    border-radius: 50%;
+    border: 2px solid #449dac;
 }
