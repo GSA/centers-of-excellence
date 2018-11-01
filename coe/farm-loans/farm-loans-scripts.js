@@ -43,18 +43,18 @@ $(document).ready(function () {
         $('body,html').animate({
         	'scrollTop': target.offset().top - secondaryNav.height() + 1
         	}, 400
-        ); 
+        );
     }); */
-    function update(){  
+    function update(){
         var height = $(window).scrollTop();
-        $('.fl-bg-1').each(function() { 
-            $(this).css('background-position', 'center ' + Math.round((height) * 0.16) + 'px'); 
-        }); 
-        $('.fl-bg-2').each(function() { 
-            $(this).css('background-position', 'center ' + Math.round((height) * 0.13) + 'px'); 
+        $('.fl-bg-1').each(function() {
+            $(this).css('background-position', 'center ' + Math.round((height) * 0.16) + 'px');
         });
-        $('.fl-bg-3').each(function() { 
-            $(this).css('background-position', 'center ' + Math.round((height) * 0.1) + 'px'); 
+        $('.fl-bg-2').each(function() {
+            $(this).css('background-position', 'center ' + Math.round((height) * 0.13) + 'px');
+        });
+        $('.fl-bg-3').each(function() {
+            $(this).css('background-position', 'center ' + Math.round((height) * 0.1) + 'px');
         });
     }
 
