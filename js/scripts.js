@@ -41,4 +41,24 @@
     });
 
 
+    var current = window.location.pathname.split("/")[1];
+
+    console.log(current);
+    switch(current){
+      case "index":
+      case "":
+        $("#nav-home").addClass("usa-current");
+        break;
+      case "about":
+        $("#nav-about").addClass("usa-current");
+        break;
+      case "coe":
+        $("#nav-coe").addClass("usa-current");
+        break;
+      case "press":
+        $("#nav-press").addClass("usa-current");
+      break;
+    }
+    
+
 })(jQuery);
