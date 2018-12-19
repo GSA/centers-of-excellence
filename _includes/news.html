@@ -3,19 +3,16 @@
         <div class="usa-width-one-half">
             <div class="latest-update">
                 <h2><a href="{{site.baseurl}}/press/updates.html">Latest Update</a></h2>
-                
-                
                     {% for post in site.posts limit:1 %}
                         <p>
                             <span class="date">{{ post.date | date: '%B %d, %Y' }}</span><br>
-                            <a href="{{site.baseurl}}/{{post.url}}" class="title">{{post.title}}</a>
+                            <a href="{{site.baseurl}}{{post.url}}" class="title">{{post.title}}</a>
                         </p>
                         <p>{{post.excerpt}}</p>
                         {% if post.download_url %}
-                            <a href="{{site.baseurl}}/{{post.download_url}}" class="usa-button" download>Download PDF</a>
+                            <a href="{{site.baseurl}}{{post.download_url}}" class="usa-button" download>Download PDF</a>
                         {% endif %}
                     {% endfor %}                
-
             </div> <!-- /.latest-update -->
         </div> <!-- /.usa-width-one-half -->
         <div class="usa-width-one-half">

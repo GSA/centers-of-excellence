@@ -12,7 +12,7 @@ title: Updates
         <div class="article-head">
             <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
             {% include initiative.html initiative=post.initiative %}
-            <h3 class="title"><a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a></h3>
+            <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
         </div>
     {% endfor %}
 
