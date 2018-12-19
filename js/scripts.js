@@ -22,6 +22,31 @@
       cycleItems();
     }, 12000);
 
+
+
+
+
+    var current = window.location.pathname.split("/")[1];
+
+    switch(current){
+      case "index":
+      case "":
+        $("#nav-home").addClass("usa-current");
+        break;
+      case "about":
+        $("#nav-about").addClass("usa-current");
+        break;
+      case "connect":
+        $("#nav-connect").addClass("usa-current");
+      break;
+      case "coe":
+        $("#nav-coe").addClass("usa-current");
+        break;
+      case "press":
+        $("#nav-press").addClass("usa-current");
+      break;
+    }
+
   });
     
 // Back to Top Animation
@@ -40,5 +65,7 @@
       $('html, body').animate({scrollTop:0}, '300');
     });
 
+
+    
 
 })(jQuery);
