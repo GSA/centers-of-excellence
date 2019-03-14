@@ -8,7 +8,7 @@ excerpt: Information on the Discovery RFQ Press Release
 The Centers of Excellence (CoE)’s latest acquisition reflects recent vendor feedback and lessons learned from the first two agency partners.
 
 Last month’s Request for Information (RFI) yielded 121 unique responses from our industry partners and gave the CoE team many perspectives to consider. We incorporated that feedback into our RFQ, which was issued as a Blanket Purchase Agreement (BPA) for Phase One Discovery and Assessment efforts (Discovery BPA).
-The Discovery BPA incorporated the following key changes into the RFQ (which can be viewed on our <a href= "https://github.com/GSA/coe-discovery-bpa/"Discovery BPA GitHub repository</a>)
+The Discovery BPA incorporated the following key changes into the RFQ (which can be viewed on our <a href="https://github.com/GSA/coe-discovery-bpa/">Discovery BPA GitHub repository</a>)
 <ul>
   <li>A challenge question, specific to a functional area, to test a contractor’s technical capabilities, with responses due within 48 hours of posting</li>
 <li>A scenario question, specific to the way the CoE operates, to test a contractor’s ability to work with other contractors and government employees in a cross-functional team</li>
