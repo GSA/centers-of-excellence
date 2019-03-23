@@ -1,12 +1,12 @@
 <!-- Gets the number of updates for that COE -->
 
-{% assign num_updates = site.posts | where:"initiative",page.initiative | size %}
+{% assign num_updates = site.posts | where:"initiative",post.initiative | size %}
 
 
 
 {% if num_updates != 0 %}
 
-{% assign updates = site.posts | where:"initiative",page.initiative %}
+{% assign updates = site.posts | where:"initiative",post.initiative %}
 
   <div id="coe-updates" class="updates">
 
