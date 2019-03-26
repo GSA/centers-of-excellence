@@ -191,7 +191,6 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-submenu {
     background-color: #0071bc;
-    top: 0rem;
     left: 1rem;
     z-index: 10;
 }
