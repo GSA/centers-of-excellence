@@ -127,7 +127,7 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-primary>li>.usa-nav-link {
     font-size:1.7rem;
-    padding:4rem 2.8rem;
+    padding:2.5rem 3rem;
     color: #212121;
 }
 .usa-nav-primary>li>button.usa-nav-link {
@@ -169,7 +169,7 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-primary button[aria-expanded=true],
 .usa-nav-primary button[aria-expanded=false] {
-    background-position: right 2.2rem top 4.4rem;
+    background-position: right 2.2rem top 2.8rem;
 }
 .usa-nav-primary button[aria-expanded=true]:focus,
 .usa-nav-primary button[aria-expanded=true]:hover,
@@ -191,7 +191,7 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-submenu {
     background-color: #0071bc;
-    top: 9.2rem;
+    top: 0rem;
     left: 1rem;
     z-index: 10;
 }
