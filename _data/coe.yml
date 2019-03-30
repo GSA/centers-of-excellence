@@ -1,0 +1,16 @@
+# COEs
+contact-center:
+  name: "Contact Center"
+  path: /coe/contact-center
+data-analytics:
+  name: "Data and Analytics"
+  path: /coe/data-analytics
+infrastructure-optimization:
+  name: "Infrastructure Optimization"
+  path: /coe/infrastructure-optimization
+customer-experience:
+  name: "Customer Experience"
+  path: /coe/customer-experience
+cloud-adoption:
+  name: "Cloud Adoption"
+  path: /coe/cloud-adoption
