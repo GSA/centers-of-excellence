@@ -18,12 +18,14 @@ title: Our Approach and Team Structure
     <p>Accelerating modernization timelines require Agencies to reinforce priorities, be agile, and move fast. Below is an illustration of the activities through those phases. The Touchdown Team includes a GSA Site Lead, Center of Excellence Leads, and an Acquisition Lead</p>
    <img src="{{site.baseurl}}/images/PhasedApproach.png" alt="A graphic that visually represents the CoE Phase 0 through Phase 2 at an agency">
     </ul>
-        <h2 id="team structure">Team Structure/h2>
+  
+  <h2 id="team structure">Team Structure/h2>
     
     <p> The teams are intentionally designed to have a unique blend of our customer detailees, GSA, and Industry Partners to deliver innovative solutions leveraging best practices and multiple perspectives.</p>
 
-    <img src="{{site.baseurl}}/images/team.jpg" alt="Centers of Excellence Team" class="img-responsive">
-    <p class="caption">The CoE Team and USDA Partners</p>
+   <img src="{{site.baseurl}}/images/PhasedApproach.png" alt="A graphic that visually represents the CoE Phase 0 through Phase 2 at an agencyclass="img-responsive">
+
+    <img src="{{site.baseurl}}/images/TeamStructure.png" alt="CoE Leads, Champion and Detaileeds, and Industry Parnters" class="img-responsive">
   
 
 </section> <!-- /.usa-grid -->
