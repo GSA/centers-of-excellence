@@ -1,0 +1,26 @@
+---
+layout: default
+title: Our Approach and Team Structure
+---
+
+<section class="usa-grid usa-section content-focus">
+    <h1>Our Approach &amp; Team Structure</h1>
+    <h2>Phases</h2>
+    <p class="intro">The CoEs partner with an Agency to co-create their modernization initiatives. The CoE teams will be embedded on-site, lead delivery, and require autonomy to drive results. 
+</p>
+    <h2 id="phases">Phases/h2>
+    <p> The CoEs engage in a phased approach:</p>
+    <ul>
+        <li><b>Phase 0</b> - (3 Months) - Engagement scoping, Inter-Agency Agreement (IAA) development, and funding identification</li>
+        <li><b>Phase I</b> - (6 Months) - (6 Months) - A comprehensive department-wide discovery and planning effort to identify initial and high-impact modernization projects</li>
+        <li><b>Phase II</b> (1-2 years) - Implementation of the agreed upon Phase I recommendations and build sustainment for continue modernization beyond CoE Phase II</li>
+    </ul>
+        <h2 id="team structure">Team Structure/h2>
+    
+    <p> The teams are intentionally designed to have a unique blend of our customer detailees, GSA, and Industry Partners to deliver innovative solutions leveraging best practices and multiple perspectives.</p>
+
+    <img src="{{site.baseurl}}/images/team.jpg" alt="Centers of Excellence Team" class="img-responsive">
+    <p class="caption">The CoE Team and USDA Partners</p>
+  
+
+</section> <!-- /.usa-grid -->
