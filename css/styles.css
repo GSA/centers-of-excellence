@@ -1008,6 +1008,35 @@ h2#accomplishments::before {
 h2#coe-updates::before {
     background-position: -0.2rem -9.75rem;
 }
+
+/*---- Service Catalog icon css ----*/
+h2#service catalog {
+    padding-left:6rem;
+    margin-bottom:1.5rem;
+    position: relative;
+}
+h2#service catalog::before,
+{
+    content: '';
+    position: absolute;
+    top:-0.6rem;;
+    left: 0;
+    width: 5.1rem;
+    height: 5.1rem;
+    border: 0.3rem solid #ffffff;
+    background-color:#3c8bc9;
+    background-image: url(../images/service-catalog.png);
+    background-repeat: no-repeat;
+    background-size: 4.8rem 14.4rem;
+    border-radius:50%;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+}
+/*---- end ----*/
+
 @media screen and (max-width: 1200px) {
     body {
        font-size: 1.7rem; 
