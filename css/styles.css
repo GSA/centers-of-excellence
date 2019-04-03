@@ -1010,12 +1010,12 @@ h2#coe-updates::before {
 }
 
 /*---- Service Catalog icon css ----*/
-h2#service catalog {
+h2#service-catalog {
     padding-left:6rem;
     margin-bottom:1.5rem;
     position: relative;
 }
-h2#service catalog::before,
+h2#service-catalog::before,
 {
     content: '';
     position: absolute;
