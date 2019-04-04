@@ -78,6 +78,20 @@
     <label for="query">Enter Search Term(s):</label>
     <input type="text" name="query" id="query" autocomplete="off" class="usagov-search-autocomplete" />
     <input type="submit" name="commit" value="Search" />
+    
+    <script>
+//<![CDATA[
+      var usasearch_config = { siteHandle:"coe" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+</body>
+</html>
   </form>
       <button class="usa-accordion-button usa-banner-button"
         aria-expanded="false" aria-controls="gov-banner">
