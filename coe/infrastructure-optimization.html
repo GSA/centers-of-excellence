@@ -32,23 +32,12 @@ coe: Infrastructure Optimization
             <li>business intelligence,</li>
             <li>enterprise data collection and management,</li>
             <li>Mdata governance, and</li>
-            <li>data visualization and reporting./li>
+            <li>data visualization and reporting.</li>
         </ul>
     
-        <!-- -->
-       <!-- Gets the number of updates for that COE -->
+     
 
-{% assign num_updates = site.posts | where:"tags",post.tags | size %}
-
-
-
-{% if num_updates != 0 %}
-
-  {% assign updates = site.posts | where:"tags",post.tags %}
-
-  <div id="coe-updates" class="updates">
-
-    <h2>Latest Updates</h2>
+    <h2>Latest Updates!</h2>
 
 {% for tags in site.tags %}
   <h3>{{ tags[Infrastructure Optimization] }}</h3>
