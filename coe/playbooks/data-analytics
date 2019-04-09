@@ -1,0 +1,780 @@
+<!doctype html>
+<html lang="en">
+<head>
+    
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="57x57" href="../../icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../../icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../../icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../../icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../../icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../../icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../../icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../../icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../../icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../../icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../icons/favicon-16x16.png">
+<link rel="manifest" href="../../icons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="../../icons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<title>GSA - IT Modernization Centers of Excellence</title>
+<link rel="stylesheet" href="../../css/uswds.min.css">
+<link rel="stylesheet" href="../../css/styles.css">
+<link rel="stylesheet" href="playbook-styles.css">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+    
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBX86M3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+<section class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner-header">
+      <div class="usa-grid usa-banner-inner">
+      <img src="../../img/favicons/favicon-57.png" alt="U.S. flag">
+      <p>An official website of the United States government</p>
+      <button class="usa-accordion-button usa-banner-button"
+        aria-expanded="false" aria-controls="gov-banner">
+        <span class="usa-banner-button-text">Here's how you know</span>
+      </button>
+      </div>
+    </header>
+    <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
+      <div class="usa-banner-guidance-gov usa-width-one-half">
+        <img class="usa-banner-icon usa-media_block-img" src="../../img/icon-dot-gov.svg" alt="Dot gov">
+        <div class="usa-media_block-body">
+          <p>
+            <b>The .gov means it’s official.</b>
+            <br>
+            Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+          </p>
+        </div>
+      </div>
+      <div class="usa-banner-guidance-ssl usa-width-one-half">
+        <img class="usa-banner-icon usa-media_block-img" src="../../img/icon-https.svg" alt="Https">
+        <div class="usa-media_block-body">
+          <p>
+            <b>The site is secure.</b>
+            <br>
+            The <b>https://</b> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> 
+
+<header class="main-header">
+<div class="usa-grid">
+    <div class="usa-navbar">
+      <div class="usa-logo" id="extended-logo">
+        <a href="../../index.html" title="Home" aria-label="Home"> 
+            <img src="../../images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
+        </a>
+      </div> <!-- /.usa-logo -->
+      <button class="usa-menu-btn">Menu</button>
+    </div> <!-- /.usa-navbar -->
+    <nav role="navigation" class="usa-nav">
+        <div class="usa-nav-inner">
+            <button class="usa-nav-close">
+              <img src="../../img/close.svg" alt="close">
+            </button>
+            
+            <ul class="usa-nav-primary usa-accordion">
+                <li>
+                    <a class="usa-nav-link" href="../../index.html">
+                      <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-one">
+                      <span>Mission &amp; Values</span>
+                    </button>
+                    <ul id="extended-nav-section-one" class="usa-nav-submenu">
+                        <li><a href="../../about/mission-values.html">Our Mission</a></li>
+                        <li><a href="../../about/mission-values.html#values">Our Values</a></li>
+                        <li><a href="../../about/mission-values.html#usda">Our Work at USDA</a></li>
+                        <li><a href="../../about/team.html">Our Team</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link usa-current" aria-expanded="false" aria-controls="extended-nav-section-two">
+                      <span>CoEs</span>
+                    </button>
+                    <ul id="extended-nav-section-two" class="usa-nav-submenu">
+                        <li><a href="../centers-of-excellence.html">Centers of Excellence</a></li>
+                        <li><a href="../cloud-adoption.html">Cloud Adoption</a></li>
+                        <li><a href="../contact-center.html">Contact Center</a></li>
+                        <li><a href="../customer-experience.html">Customer Experience</a></li>
+                        <li class="active"><a href="../data-analytics.html">Data Analytics</a></li>
+                        <li><a href="../infrastructure-optimization.html">Infrastructure Optimization</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-three">
+                      <span>News</span>
+                    </button>
+                    <ul id="extended-nav-section-three" class="usa-nav-submenu">
+                        <li><a href="../../press/news.html">Press Releases</a></li>
+                        <li><a href="../../press/updates.html">Latest Updates</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-four">
+                      <span>Connect</span>
+                    </button>
+                    <ul id="extended-nav-section-four" class="usa-nav-submenu">
+                        <li><a href="../../connect/contact-us.html">Contact Us</a></li>
+                        <li><a href="../../connect/contact-us.html#joinus">Join Us</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div> <!-- /.usa-nav-inner -->
+  </nav> 
+</div> <!-- /.usa-grid -->
+</header>
+<div class="usa-overlay"></div>
+    
+<main id="main-content">
+    <div id="introduction">
+        <div class="playbook-intro usa-section">
+            <section class="usa-grid">
+                <div class="usa-width-one-whole">
+                    <h1>Data Analytics Playbook</h1>
+                </div> <!-- /.usa-width-one-whole -->
+            </section> <!-- /.usa-grid -->
+            <section class="usa-grid">
+                <div class="usa-width-two-thirds">
+                    <h2>Introduction</h2>
+                    <p>The American people increasingly interact with the government through digital channels such as websites, email, and mobile applications. This activity generates an immense amount of data. By building digital services that take advantage of modern technology and proven industry standards, we can make data-driven decisions that lead to more effective government policies and programs.</p>
+                    <p>Today, there aren’t enough government agencies taking advantage of the vast volumes of data. To increase the use of this data, the Centers of Excellence have created a playbook of 14 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government develop and sustain effective data analytics in their organization. Building mature data organizations across government is a necessary step for achieving the Cross Agency Priority (CAP) goal of leveraging data as a strategic asset, in order to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.</p>
+                </div> <!-- /.usa-width-two-thirds -->
+                <div class="usa-width-one-third">
+                    <img src="images/da-playbook-graphic.gif" alt="Choose the right play graphic" class="img-responsive">
+                    <div class="text-center"><a href="pdfs/CoE-DataAnalytics-Playbook.pdf" class="usa-button" download>CoE Data Analytics Playbook PDF</a></div>
+                </div> <!-- /.usa-width-one-third -->
+            </section> <!-- /.usa-grid -->
+        </div> <!-- /.playbook-intro -->
+        
+        <div class="plays-index">
+            <a id="plays_index_anchor"></a>
+            <section class="usa-grid usa-section">
+                <h2>Data Analytics Plays</h2>
+                <div class="usa-width-one-whole">
+                    <ol class="columns">
+                        <li><a href="#play1">Define a Vision</a></li>
+                        <li><a href="#play2">Obtain Leadership/Stakeholder Commitment</a></li>
+                        <li><a href="#play3">Assess the Organization</a></li>
+                        <li><a href="#play4">Assess Analytical Maturity</a></li>
+                        <li><a href="#play5">Assess Data Flows</a></li>
+                        <li><a href="#play6">Collect Strategic Requirements</a></li>
+                        <li><a href="#play7">Define the Current State Architecture</a></li>
+                        <li><a href="#play8">Define a Target State Architecture</a></li>
+                        <li><a href="#play9">Conduct a Gap Analysis</a></li>
+                        <li><a href="#play10">Create an Implementation Roadmap</a></li>
+                        <li><a href="#play11">Establish a Data Governance Structure</a></li>
+                        <li><a href="#play12">Create an Enterprise Data Model</a></li>
+                        <li><a href="#play13">Emphasize Rapid Prototyping</a></li>
+                        <li><a href="#play14">Embrace Continuous Process Improvement</a></li>
+                    </ol>
+                </div> <!-- /.usa-width-one-whole -->
+            </section> <!-- /.usa-grid -->
+        </div> <!-- /.plays-index -->
+    </div> <!-- /#introduction -->
+    
+    <div id="navigation_bar">
+        <div class="usa-grid">
+            <a href="#introduction"><h3>Data Analytics Playbook</h3></a>
+            <ul class="nav">
+                <li class="play_square"><a href="#play1" title="View Play 1: Define a Vision">1</a></li>
+                <li class="play_square"><a href="#play2" title="View Play 2: Obtain Leadership/Stakeholder Commitment">2</a></li>
+                <li class="play_square"><a href="#play3" title="View Play 3: Assess the Organization">3</a></li>
+                <li class="play_square"><a href="#play4" title="View Play 4: Assess Analytical Maturity">4</a></li>
+                <li class="play_square"><a href="#play5" title="View Play 5: Assess Data Flows">5</a></li>
+                <li class="play_square"><a href="#play6" title="View Play 6: Collect Strategic Requirements">6</a></li>
+                <li class="play_square"><a href="#play7" title="View Play 7: Define the Current State Architecture">7</a></li>
+                <li class="play_square"><a href="#play8" title="View Play 8: Define a Target State Architecture">8</a></li>
+                <li class="play_square"><a href="#play9" title="View Play 9: Conduct a Gap Analysis">9</a></li>
+                <li class="play_square"><a href="#play10" title="View Play 10: Create an Implementation Roadmap">10</a></li>
+                <li class="play_square"><a href="#play11" title="View Play 11: Establish a Data Governance Structure">11</a></li>
+                <li class="play_square"><a href="#play12" title="View Play 12: Create an Enterprise Data Model">12</a></li>
+                <li class="play_square"><a href="#play13" title="View Play 13: Emphasize Rapid Prototyping">13</a></li>
+                <li class="play_square"><a href="#play14" title="View Play 14: Embrace Continuous Process Improvement">14</a></li>
+            </ul>
+            <div id="menu_icon">
+                <a href="#plays_index_anchor" title="Return to Index"></a>
+            </div> <!-- /.menu-icon -->
+        </div> <!-- /.usa-grid -->
+    </div> <!-- /#navigation_bar -->
+    
+<!-- 1 -->
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play1"></a>
+                <h6>Play 1</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Define a Vision</h2>
+                <p>Achieving data analytics maturity at all levels of a large organization is a multi-year process involving sustained focus on people, processes, and technologies. Defining a clear and realistic vision of near-term and long-term states is an important first step in assessing an organization’s analytics prospects and devising a suitable strategy to mature them. Think about broad outcomes that would meaningfully contribute to your organization’s mission, e.g. “more timely monthly reporting”, “respond to all customer inquiries within 24 hours”, or “understand drivers for performance improvement”.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Define key business or administrative errors for which major advances would meaningfully impact mission success.</li>
+                    <li>At a high-level, document the types of concrete outcomes that would contribute to that mission success</li>
+                    <li>Develop an overarching vision statement to explain what data analytics could mean to the organization, in both the near- and long-term</li>
+                    <li>Revise and refine this vision during the course of the assessment and subsequent implementation phases</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Who are your main internal and external customers?</li>
+                    <li>What are their primary business goals?</li>
+                    <li>What data limitations prohibit your organization from achieving success?</li>
+                    <li>What do you hope to achieve in the future - both near-term and long-term?</li>
+                    <li>What sort of data culture exists in your organization and how does that fit with your vision?</li>
+                    <li>What does success look like?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 2 -->        
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play2"></a>
+                <h6>Play 2</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Obtain Leadership/Stakeholder Commitment</h2>
+                <p>Analytics projects require access to data, often sensitive in nature, that is ‘secured’ behind IT firewalls (real or imagined). Business owners may be reluctant to hand over data that may be of poor quality, difficult to understand, or could reflect poorly on their work. They may also be wary of change to their processes or lack of documentation. Thus, setting in motion and sustaining a culture shift that starts at the top is an important component in achieving a meaningful shift to data-driven decision making. Obtaining stakeholder buy-in in advance ensures that participants understand desired outcomes and requirements to achieve those outcomes. This includes a more open and transparent approach to exposing data and a decision-making structure that emphasizes the important role of and improvement to tools that support it.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Develop an introductory or summary document with high-level project scope and timeline</li>
+                    <li>Align project scope with the vision of the organization</li>
+                    <li>Document high-level outcomes without delving into overly prescriptive deliverables or achievements</li>
+                    <li>Involve leadership from all key areas: e.g. IT, business lines, communications/web, customer service, human resources, finance</li>
+                    <li>Set realistic expectations for progress and ensure sustained commitment from leadership</li>
+                    <li>Provide regular updates on progress, challenges, and next steps</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Who are key organizational stakeholders?</li>
+                    <li>Did you involve at least one executive or decision-maker from every core business area, and is there broad understanding of roles/responsibilities for each of their teams?</li>
+                    <li>Is there a cohesiveness in vision across all stakeholders?</li>
+                    <li>Is there an agreement about the outcomes and their feasibility?</li>
+                    <li>Have you identified data champions within the organization who can engage across teams?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 3 -->        
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play3"></a>
+                <h6>Play 3</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Assess the Organization</h2>
+                <p>Analytics success builds on the right combination of people, processes, and technology. All are required to facilitate the delivery of timely data to accessible and useful tools that effectively support data-driven decision making. Seemingly small bottlenecks or challenges in any one area can significantly impact success. A broad assessment of those aspects of the organization is an important early step in making sure that advances in data analytics address the necessary components. An organizational assessment should document the overlap of technology and data platforms, core business workflows (processes), and the people involved in those processes or the recipients of outputs of those processes. Documentation of the organization does not need to be overly complex, but should focus on core work streams, including commonalities between workstreams. Annotated graphical documentation can be considered sufficient.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Work with leadership to identify the key workflows, stakeholders, and systems required to achieve their business functions</li>
+                    <li>Interview stakeholders from business areas and supporting functions directly to get their perspective</li>
+                    <li>Get input from system owners and end users</li>
+                    <li>Use a semi-structured question bank to capture consistent feedback</li>
+                    <li>Ask stakeholders about pain points or challenges that impede their work</li>
+                    <li>Document similarities and common systems across business functions</li>
+                    <li>Assess the current strategic human capital plan for the organization</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Who are your stakeholders?</li>
+                    <li>Who are your customers and end users?</li>
+                    <li>What are your data assets?</li>
+                    <li>What is your technical infrastructure?</li>
+                    <li>What are the processes currently used to manage data flows and who owns them?</li>
+                    <li>Do you have documentation for any of the above?</li>
+                    <li>What are the trainings being offered currently?</li>
+                    <li>Is the impact of the training being monitored?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 4 -->        
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play4"></a>
+                <h6>Play 4</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Assess Analytical Maturity</h2>
+                <p>Analytical maturity refers to where an agency stands in terms of data usage, data process, and data analytics. Different departments/agencies often find themselves at varying levels of maturity when it comes to analytics. Some elements of your organization may be solid candidates for rapid advances in analytics maturity, while others may be limited by staff, funding, or infrastructure challenges. Setting realistic expectations for pace of improvement starts with understanding the maturity level of the organization now. An analytical maturity assessment can help establish for leadership where an organization stands and pinpoint specific gaps or areas that need particular emphasis. Much of the information required for completing the analytical maturity assessment comes from the organizational assessment. A standard questionnaire can be used to assess maturity across a range of topics, including: data governance organization, data quality and systems, analytical techniques, process automation, staff expertise, infrastructure and change management.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Develop/identify a question bank and tailor it as appropriate to suit the needs of the organization</li>
+                    <li>Obtain leadership buy-in on the scope and nature of the assessment and make sure the staff surveyed are the right people</li>
+                    <li>Interview the right stakeholders to engage with data to derive information that would feed into the maturity assessment model</li>
+                    <li>Develop an analytics maturity scorecard based on stakeholder input</li>
+                    <li>Categorize the organization into maturity levels based on the analytics maturity scorecard- beginner, practitioner, innovator</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>How does your organization currently collect and store data for analytics use?</li>
+                    <li>Do processes exist for identifying and querying data across the organization?</li>
+                    <li>How confident are decision makers in the quality of the data they use?</li>
+                    <li>At what level of analytics complexity does your organization operate (e.g. Excel, Business Intelligence (BI) reporting including Tableau, real time reporting with big data capabilities, predictive modeling)?</li>
+                    <li>Do you have staff with the skills necessary to perform advanced data analytics?</li>
+                    <li>Are there multiple, independent data analytics groups within your organization?</li>
+                    <li>Are data analytics outputs leveraged in business decisions and, if yes, to what extent (e.g. rarely, often, always)?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 5 -->        
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play5"></a>
+                <h6>Play 5</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Assess Data Flows</h2>
+                <p>The accessibility and timeliness of data is a key consideration for robust, evidenced-based decision making. It is therefore critical to ensure that data flows within an organization are fully understood and documented so they can be optimized. Removing inefficiencies in processing data can improve its effectiveness, reduce costs, and ensure reliability. Simplifying data flows and the associated IT systems makes it easier for them to be accessible, flexible, and extensible, promoting increased use to drive insights and decisions within the organization. As much as possible during the course of assessing data flows, it is essential to work to catalog data sources, data quality, key/common data fields across datasets, storage mechanisms and limitations, transformations or other processing applied to data, deliverables or artifacts produced that include data, and uses of the data by end product consumers.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Catalog all the data assets (internal and external) and data systems used by the organization, including metadata completeness</li>
+                    <li>Identify the key stakeholders who engage with the data, either as owners or consumers, and how they use it</li>
+                    <li>Develop a data lineage map at an organizational level that traces raw data through transformation all the way to consumption</li>
+                    <li>Document the role of key data products in informing critical decisions</li>
+                    <li>Establish the data catalog as a living document, with clear expectations and assigned responsibility for oversight going forward</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>What are the different data sources (internal and external) and data systems used by the organization?</li>
+                    <li>Who are the key stakeholders that interact with the data?</li>
+                    <li>How do the stakeholders engage with data (e.g. use, produce, or report on data)?</li>
+                    <li>What processes are followed to gain access to data?</li>
+                    <li>What datasets are unique or especially challenging to manage: e.g. high frequency, high volume, spatial or less-typical formats?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 6 -->        
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play6"></a>
+                <h6>Play 6</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Collect Strategic Requirements</h2>
+                <p>To be truly effective, the design and development of data systems and related tools must be driven by the needs of end users. Eliciting strategic and higher-level functional requirements from end users who don’t understand data limitations or options can be difficult. Start with the capabilities afforded by their current system, but probe to understand what business questions they have and cannot answer, how an ideal system would deliver business insights, and the frequency with which they would be delivered. Think about the potential for predictive analytics to help drive decisions, not just reflect historical trends. Ensure the focus is on what the end user wants,  and not how it will be accomplished or whether it’s immediately doable. Set realistic expectations with the end users about what your team is trying to accomplish in the near-term, and make clear that achieving end goals will be an iterative process. Lastly, consider bringing customer experience experts into the conversation to elicit information about how the current process works (a journey map, for example), and what would make an ideal system the most usable.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Work with stakeholders to identify the key business areas and associated strategic requirements</li>
+                    <li>Get input and approval from both stakeholders, system owners, and end users</li>
+                    <li>Focus on functional requirements that describe what capabilities are achieved, not technical requirements that describe how capabilities are achieved</li>
+                    <li>Gauge strategic priorities among business owners and leadership separately</li>
+                    <li>Probe to understand what advanced capabilities offer opportunity, but have not been considered, as requirements</li>
+                    <li>Align business requirements against the strategic vision of the organization</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>What are the high level functions of the organization?</li>
+                    <li>Who are the users/stakeholders/system owners who work on these functions?</li>
+                    <li>What are the tasks that the organization performs and how do they fit into the enterprise level framework?</li>
+                    <li>What are the issues faced by stakeholders while performing these tasks?</li>
+                    <li>What are the requirements for the business function to perform tasks successfully?</li>
+                    <li>Are collected requirements sufficiently grounded in the mission objectives of the organization (e.g. how do needs/capabilities support the mission)?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 7 -->        
+    <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play7"></a>
+                <h6>Play 7</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Define the Current State Architecture</h2>
+                <p>The current state architecture is an amalgamation of information gathered from all the previous plays, from defining a vision through the collection of strategic requirements. With this knowledge, the organization can map out all the capabilities available in the current environment. The current state architecture document presents the information at a high level that can be understood by multiple types of stakeholders, ranging from management, to technical leadership, to program staff. It should address the front-end applications utilized by business users as well as the supporting back-end hardware and software. As much as possible, it should also reflect the business processes and the associated flow of data within the architecture. In large organizations with multiple work streams and diverse business areas, a set of diagrams depicting the overall current state architecture might make sense. Make sure to reflect any data or process links between the disparate work streams.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Develop a technical architecture/data lineage map outlining the current systems, process flows (incoming/outgoing), platforms, and application portfolio</li>
+                    <li>Develop a report detailing current system owners, how they interact with the various processes/data systems, current data policies, and standards</li>
+                    <li>Capture what is actually happening with data and reporting systems, not what is supposed to happen</li>
+                    <li>Include key actors (data or system owners, end users) in the diagram to show how they enter into processes</li>
+                    <li>Especially where they serve as bottlenecks or pain points, document complexity of processes to better understand opportunities to streamline</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Has anything changed since the information was gathered from previous plays?</li>
+                    <li>Does the current state conceptual architecture hold true?</li>
+                    <li>Is there documentation about current processes, information flows, or technologies available?</li>
+                    <li>Is there a transparent process to request access to data?</li>
+                    <li>Are mechanisms for requesting data information/access and providing feedback about data/systems captured?</li>
+                    <li>Are planned technology acquisitions or staff hires included in the assessment?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 8 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play8"></a>
+                <h6>Play 8</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Define a Target State Architecture</h2>
+                <p>The target state defines what the organization’s information management structure would ideally look like, based on the leadership vision and strategic goals previously established. The target state architecture will be achieved iteratively through short term and long term achievements, and should encompass the right integration of technologies, roles/people, and processes to further the organization’s stated mission. Key to defining the target state architecture is addressing critical data sets, their integration and transformation, and the process of delivering timely insights directly to decision-makers. A target state architecture should clearly illustrate how business users’ needs will be met (see “collect strategic requirements” above) and the processes and tools that are necessary. Also, begin to consider questions or issues around data and information security by indicating where in the target state architecture (internal or external to your organization) controls must be included.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Develop a list of target state capabilities for all the elements of the current state architecture including: systems, Key Performance Indicators (KPIs), process flows, platforms, applications, and future desired elements</li>
+                    <li>Don’t be constrained by the existing state when considering an ideal, target state</li>
+                    <li>Begin to define success factors for short/long term goals (e.g. data validation, reporting timeliness)</li>
+                    <li>Develop a desired target state of information flow at an organizational level</li>
+                    <li>Consider information security and what types of roles would have access to which types of data at various points within processes</li>
+                    <li>Define a plan to track the impact of trainings on data analytics</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>What data process improvements are needed to improve organizational efficiency?</li>
+                    <li>What additional datasets or reporting would support improved decision making?</li>
+                    <li>How could predictive analytics support improved decision making?</li>
+                    <li>Are the recognized characteristics of data considered: accuracy, consistency, timeliness, completeness, and accessibility?</li>
+                    <li>What skills are needed to adequately support technical infrastructure?</li>
+                    <li>Where are there information sensitivities or limits on data access?</li>
+                    <li>How can similarities across business functions be exploited through standard processes?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 9 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play9"></a>
+                <h6>Play 9</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Conduct a Gap Analysis</h2>
+                <p>The gap analysis is intended to identify the people, processes, and technologies  that are required to move from the current state to the target state. Because the gap analysis is driven by a thorough understanding of strategic objectives, priority areas that need to be addressed will naturally fall out. Lastly, as part of the gap analysis, consider areas where current staff or technology resources exceed what is required by the target state architecture. These excesses could be areas for optimization or reallocation to fill gaps that are deemed more critical.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Identify the gaps between the current and target state conceptual architecture using the people, process, technology nomenclature</li>
+                    <li>Ensure strategic requirements not currently being met are explicitly linked to a gap</li>
+                    <li>Identify the processes and applications that are missing or hindering the organization from achieving success</li>
+                    <li>Identify the gaps in information flow within the organization, including lack of knowledge of the right stakeholders/system owners</li>
+                    <li>Identify areas of technical architecture that needs to be transparent at an organizational level</li>
+                    <li>Identify skills gaps among existing roles</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>What is missing in terms of transparent information flow across the organization?</li>
+                    <li>What are the areas that need clarity in terms of accessing data/information?</li>
+                    <li>Are identified gaps too heavily concentrated in the area of technology - this is often the most expensive and potentially least effective solution, if processes and people issues aren’t also addressed</li>
+                    <li>Are the gaps identified more than just those explicitly communicated by staff?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 10 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play10"></a>
+                <h6>Play 10</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Create an Implementation Roadmap</h2>
+                <p>Once the current and desired future state has been defined, the next step is to create an implementation roadmap that details the concrete steps required to arrive at the target state architecture. Think of the roadmap as a series of related milestones that will be achieved in the areas of people, process, and technologies. The roadmap will also begin to detail the design and development plan, timing, and resources required to achieve identified milestones during the course of the implementation phase. The roadmap should be sufficiently forward-looking to ensure it’s moving your organization in the right long-term, strategic direction — we recommend a roadmap that extends at least five years into the future. Use the priority areas identified in the gap analysis to identify important near-term milestones and evaluate the overall roadmap for proper sequencing of activities.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Identify a single role/individual to own the roadmap (e.g. CIO, data officer)</li>
+                    <li>Ensure that milestones in the areas of people, processes, and technologies are all considered and properly sequenced</li>
+                    <li>Associate notional (or better) timeframes and resources requirements with milestones and associated activities</li>
+                    <li>At least annually, review the roadmap to confirm and/or update priorities</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Have key stakeholders within the organization had an opportunity to review and provide feedback?</li>
+                    <li>Do the initial roadmap milestones address opportunities for quick-wins in the highest priority areas?</li>
+                    <li>How do activities in the roadmap align with ongoing activities or already planned acquisitions/hires?</li>
+                    <li>Are steps within your roadmap overly aggressive, or is maturity achieved through measured, iterative improvement?</li>
+                    <li>What are your success factors and how will you measure them during implementation?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 11 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play11"></a>
+                <h6>Play 11</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Establish a Data Governance Structure</h2>
+                <p>Data governance is the “collection of policies, frameworks, and approaches employed to manage and monitor data within an organization.” These typically address the interactions between people, processes, and technology to ensure high data confidence, robust security, and effective and timely delivery of information to end users. Establishment of a data governance group is recommended to standardize data processes across the organization and ensure that data roles are clearly defined — this clear assignment of data-related responsibilities, including oversight, ownership, and championing — is a key aim of the data governance structure.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Establish an organization-wide data governance plan</li>
+                    <li>Depending on your organization's size, identify an executive level steering committee, focused workgroups, and data stewards/system owners to champion data analytics efforts at an organizational level</li>
+                    <li>Develop documentation on standard operating procedures, roles and responsibilities at every operational level</li>
+                    <li>Support implementation and monitor progress on data management tools and architecture based on implementation roadmap</li>
+                    <li>Develop a community of practice at an enterprise level to bring data experts together to share ideas and best practices</li>
+                    <li>Develop a training plan to elevate stakeholders to adopt new processes and technologies and better utilize their data</li>
+                    <li>Develop a continuous data asset evaluation (data quality), measurement and reporting program</li>
+                    <li>Develop communication plan at every operational level to inform stakeholders of data lifecycle activities</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Is an overarching vision for your organization’s approach to data governance well defined?</li>
+                    <li>Are data champions and/or stewards identified for all key business functions?</li>
+                    <li>Are data standards clear, straightforward, and well communicated throughout the organization?</li>
+                    <li>Is data quality quantified and reported to the data governance committee as well as leadership?</li>
+                    <li>Has an organization-wide approach to data security been established, without being overly restrictive to access?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 12 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play12"></a>
+                <h6>Play 12</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Create an Enterprise Data Model</h2>
+                <p>An Enterprise Data Model (EDM) is an integrated view of the data produced and consumed across an entire organization. It represents a single integrated definition of data, unbiased of any system or application, and is independent of how the data is physically sourced, stored, processed, or accessed. The model consists of enterprise-wide subject areas, fundamental entities and their relationships, and unified terms and definitions. EDM unites, formalizes and represents the things important to an organization, as well as the rules governing them. Typical outputs of this activity include Entity Relationship Diagrams (ERD), XML Schemas (XSD), and an enterprise-wide Data Dictionary.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Identify and understand critical business data sets, their sources, and relationships</li>
+                    <li>Establish chain of responsibility for data storage and access by engaging both business and technical data stewards</li>
+                    <li>Ensure data stewards and data architects from across the organization are available to provide support</li>
+                    <li>Establish priority and analysis needed in the subsequent development of EDM</li>
+                    <li>Identify and document glossary of terms and concepts appropriate to the subject areas</li>
+                    <li>Conduct working sessions to identify, develop, and verify the initial set of data concepts</li>
+                    <li>Conduct design review sessions to verify consistent adherence to enterprise standards</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Does the EDM include a central metadata dictionary or repository that provides consistent, standard definitions for information?</li>
+                    <li>Is the foundation shareable, consistent, and reusable for the transaction processing systems, data warehouse, and XML data exchange?</li>
+                    <li>Will the model improve data custodianship by ensuring a consistent view of the information across the organization?</li> 
+                    <li>Does the EDM represent a single integrated definition of departmental data structure unbiased of any system or application?</li>
+                    <li>Will the model insure reduced cycle time, cost, data redundancy, and effort, while increasing consistency, precision, and customer satisfaction?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 13 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play13"></a>
+                <h6>Play 13</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Emphasize Rapid Prototyping</h2>
+                <p>Traditional waterfall approaches to application development — a long cycle of requirements collection, followed by a long development cycle, then release — have proven ineffective. Rapid prototyping of capabilities and frequent collection of user feedback, implemented through agile development processes, result in more useful and usable products for end users. Because end users are involved throughout the design cycle, rapid prototyping is especially effective for building consensus around technical approaches and identifying specific, incremental enhancements to mature processes and technologies.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Utilize cross-functional teams of developers, testers, and business owners to prototype</li>
+                    <li>Use minimally viable products (MVPs) as a standard for prototyping — these are functioning tools or models that provide real value, though on a limited scale, or support a portion of a process</li>
+                    <li>Prototype streamlined processes and MVPs independently, then together</li>
+                    <li>Use actual business data and real business processes, informed by insights from data owners</li>
+                    <li>Prototype capabilities for actual end users and collect feedback throughout the development process</li>
+                    <li>Consider adopting an agile development process — working in development sprints of 1-2 weeks</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>What onerous processes or high value capabilities were identified previously that could serve as opportunities to prototype?</li>
+                    <li>Are the right tools available to prototype technical solutions quickly, such as drag and drop data manipulation and dashboarding tools?</li>
+                    <li>Are all project stakeholders in nearly daily contact about progress, roadblocks, and opportunities?</li>
+                    <li>Is leadership plugged into the process and able to provide feedback on prototypes before the end of the development process?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->
+<!-- 14 -->        
+     <div class="play">
+        <section class="usa-grid usa-section reduce-bottom">
+            <div class="usa-width-one-whole">
+                <a class="anchor_offset" id="play14"></a>
+                <h6>Play 14</h6>
+            </div> <!-- /.usa-width-one-whole -->
+        </section> <!-- /.usa-grid -->
+        <section class="usa-grid usa-section reduce-top">
+            <div class="usa-width-two-thirds">
+                <h2>Embrace Continuous Process Improvement</h2>
+                <p>Continuous Process Improvement (CPI) is the ongoing, constant enhancement of products, services, or processes applied throughout the implementation phase. These changes can either be incremental or breakthrough. The goal is to incrementally increase effectiveness and efficiency of the organization in fulfilling its mission, through small steps that move towards a more mature state. The key to CPI is 1) implementing feedback mechanisms that continually collect input from system and process stakeholders, coupled with 2) a change management process that systematically implements and monitors the value of improvements.</p>
+                <h3>Checklist</h3>
+                <ol>
+                    <li>Engage Senior Leadership Team (SLT) to ensure commitment to CPI</li>
+                    <li>Clearly define project platform and document standard process</li>
+                    <li>Understand CPI relies on employees, not top management, to identify opportunities for improvement</li>
+                    <li>Make improvements based on small changes, not major paradigm shifts or new inventions</li>
+                </ol>
+                <h3>Key Questions</h3>
+                <ul>
+                    <li>Is a Business Process Mapping available to assist with CPI development?</li>
+                    <li>What teams in the workflow will be affected, and has the change been communicated?</li>
+                    <li>Will the improvements gain through CPI be measurable and potentially repeatable?</li>
+                    <li>Will the improvements be reflective within the organization?</li>
+                    <li>Will a robust training and feedback mechanism be embedded within the CPI?</li>
+                </ul>
+            </div> <!-- /.usa-width-two-thirds -->
+            <div class="usa-width-one-third">
+            </div> <!-- /.usa-width-one-third -->
+        </section> <!-- /.usa-grid -->
+    </div> <!-- /.play -->    
+</main>
+
+<footer class="usa-footer" role="contentinfo">
+<div class="usa-footer-primary-section">
+    <div class="usa-grid">
+        <div class="usa-width-one-third">
+            <div class="footer-logo-links">
+                <a class="footer-logo media_link" href="https://coe.gsa.gov">
+                  <img src="../../img/coe-logomark.svg" alt="Centers of Excellence logo">
+                </a>
+                <a class="footer-logo media_link" href="http://www.gsa.gov/">
+                  <img src="../../img/gsa-logo.svg" alt="GSA">
+                </a>
+            </div> <!-- /.footer-logo-links -->
+        </div> <!-- /.usa-width-one-third -->
+        <nav class="usa-footer-nav footer-desktop usa-width-two-thirds">
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.gsa.gov/" target="_blank">GSA.gov</a></li>
+                    <li><a href="https://www.gsa.gov/etools-overview" target="_blank">GSA Web Tools</a></li>
+                    <li><a href="https://www.gsa.gov/tools/supply-procurement-etools/gsa-advantage" target="_blank">GSA Advantage!</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.gsa.gov/website-information/accessibility-aids" target="_blank">Accessibility</a></li>
+                    <li><a href="https://www.gsa.gov/about-us/organization/office-of-civil-rights/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002" target="_blank">EEO/No Fear Act</a></li>
+                    <li><a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" target="_blank">FOIA</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.gsa.gov/website-information/linking-policy" target="_blank">Linking</a></li>
+                    <li><a href="https://www.gsa.gov/governmentwide-initiatives/gsas-open-government-initiatives" target="_blank">Open Government</a></li>
+                    <li><a href="https://www.gsa.gov/website-information/privacy-and-security-notice" target="_blank">Privacy &amp; Security</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.data.gov/" target="_blank">Data.gov</a></li>
+                    <li><a href="https://www.usa.gov/" target="_blank">USA.gov</a></li>
+                    <li><a href="https://www.whitehouse.gov/" target="_blank">WhiteHouse.gov</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+        </nav> <!-- /.usa-width-two-thirds -->
+        
+    </div> <!-- /.usa-grid -->
+    <div class="usa-grid">
+        <nav class="usa-accordion footer-mobile">
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-footer">
+                <span>Site Menu</span>
+            </button>
+            <ul id="extended-nav-section-footer" class="usa-nav-submenu">
+                <li><a href="https://www.gsa.gov/" target="_blank">GSA.gov</a></li>
+                <li><a href="https://www.gsa.gov/etools-overview" target="_blank">GSA Web Tools</a></li>
+                <li><a href="https://www.gsa.gov/tools/supply-procurement-etools/gsa-advantage" target="_blank">GSA Advantage!</a></li>
+                <li><a href="https://www.gsa.gov/website-information/accessibility-aids" target="_blank">Accessibility</a></li>
+                <li><a href="https://www.gsa.gov/about-us/organization/office-of-civil-rights/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002" target="_blank">EEO/No Fear Act</a></li>
+                <li><a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" target="_blank">FOIA</a></li>
+                <li><a href="https://www.gsa.gov/website-information/linking-policy" target="_blank">Linking</a></li>
+                <li><a href="https://www.gsa.gov/governmentwide-initiatives/gsas-open-government-initiatives" target="_blank">Open Government</a></li>
+                <li><a href="https://www.gsa.gov/website-information/privacy-and-security-notice" target="_blank">Privacy &amp; Security</a></li>
+                <li><a href="https://www.data.gov/" target="_blank">Data.gov</a></li>
+                <li><a href="https://www.usa.gov/" target="_blank">USA.gov</a></li>
+                <li><a href="https://www.whitehouse.gov/" target="_blank">WhiteHouse.gov</a></li>
+            </ul>
+        </nav>
+    </div> <!-- /.usa-grid -->
+</div> <!-- /.usa-footer-primary-section -->
+</footer>
+<a id="btt"><span class="usa-sr-only">Back to top of page.</span></a>  
+<script src="../../js/uswds.min.js"></script>
+<script src="../../js/jquery.min.js"></script>
+<script src="../../js/scrollspy.js"></script>
+<script src="../../js/scripts.js"></script>
+<script src="playbook-scripts.js"></script>    
+</body>
+</html>
