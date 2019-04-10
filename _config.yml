@@ -16,7 +16,7 @@
 title: GSA Centers of Excellence
 email:  connectcoe@gsa.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  The Centers of Excellence (CoEs) are accelerating the modernization of IT 
+  The Centers of Excellence (CoE) are accelerating the modernization of IT 
   infrastructure across government by leveraging private sector innovation and 
   existing government services, and by centralizing best practices and expertise.
 baseurl: "" # the subpath of your site, e.g. /blog
