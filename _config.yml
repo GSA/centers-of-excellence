@@ -47,6 +47,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  collections:
+collections:
   category:
     output: true
