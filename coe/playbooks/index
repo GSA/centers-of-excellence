@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+    
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="57x57" href="../../icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../../icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../../icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../../icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../../icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../../icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../../icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../../icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../../icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../../icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../icons/favicon-16x16.png">
+<link rel="manifest" href="../../icons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="../../icons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<title>GSA - IT Modernization Centers of Excellence</title>
+<link rel="stylesheet" href="../../css/uswds.min.css">
+<link rel="stylesheet" href="../../css/styles.css">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+    
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBX86M3"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+<section class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner-header">
+      <div class="usa-grid usa-banner-inner">
+      <img src="../../img/favicons/favicon-57.png" alt="U.S. flag">
+      <p>An official website of the United States government</p>
+      <button class="usa-accordion-button usa-banner-button"
+        aria-expanded="false" aria-controls="gov-banner">
+        <span class="usa-banner-button-text">Here's how you know</span>
+      </button>
+      </div>
+    </header>
+    <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
+      <div class="usa-banner-guidance-gov usa-width-one-half">
+        <img class="usa-banner-icon usa-media_block-img" src="../../img/icon-dot-gov.svg" alt="Dot gov">
+        <div class="usa-media_block-body">
+          <p>
+            <b>The .gov means it’s official.</b>
+            <br>
+            Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+          </p>
+        </div>
+      </div>
+      <div class="usa-banner-guidance-ssl usa-width-one-half">
+        <img class="usa-banner-icon usa-media_block-img" src="../../img/icon-https.svg" alt="Https">
+        <div class="usa-media_block-body">
+          <p>
+            <b>The site is secure.</b>
+            <br>
+            The <b>https://</b> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> 
+
+<header class="main-header">
+<div class="usa-grid">
+    <div class="usa-navbar">
+      <div class="usa-logo" id="extended-logo">
+        <a href="../../index.html" title="Home" aria-label="Home"> 
+            <img src="../../images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
+        </a>
+      </div> <!-- /.usa-logo -->
+      <button class="usa-menu-btn">Menu</button>
+    </div> <!-- /.usa-navbar -->
+    <nav role="navigation" class="usa-nav">
+        <div class="usa-nav-inner">
+            <button class="usa-nav-close">
+              <img src="../img/close.svg" alt="close">
+            </button>
+            
+            <ul class="usa-nav-primary usa-accordion">
+                <li>
+                    <a class="usa-nav-link" href="../../index.html">
+                      <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-one">
+                      <span>Mission &amp; Values</span>
+                    </button>
+                    <ul id="extended-nav-section-one" class="usa-nav-submenu">
+                        <li><a href="../../about/mission-values.html">Our Mission</a></li>
+                        <li><a href="../../about/mission-values.html#values">Our Values</a></li>
+                        <li><a href="../../about/mission-values.html#usda">Our Work at USDA</a></li>
+                        <li><a href="../../about/team.html">Our Team</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link usa-current" aria-expanded="false" aria-controls="extended-nav-section-two">
+                      <span>CoEs</span>
+                    </button>
+                    <ul id="extended-nav-section-two" class="usa-nav-submenu">
+                        <li><a href="../centers-of-excellence.html">Centers of Excellence</a></li>
+                        <li><a href="../cloud-adoption.html">Cloud Adoption</a></li>
+                        <li><a href="../contact-center.html">Contact Center</a></li>
+                        <li><a href="../customer-experience.html">Customer Experience</a></li>
+                        <li><a href="../data-analytics.html">Data Analytics</a></li>
+                        <li><a href="../infrastructure-optimization.html">Infrastructure Optimization</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-three">
+                      <span>News</span>
+                    </button>
+                    <ul id="extended-nav-section-three" class="usa-nav-submenu">
+                        <li><a href="../../press/press.html">Press Releases</a></li>
+                        <li><a href="../../press/updates.html">Latest Updates</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-four">
+                      <span>Connect</span>
+                    </button>
+                    <ul id="extended-nav-section-four" class="usa-nav-submenu">
+                        <li><a href="../../connect/contact-us.html">Contact Us</a></li>
+                        <li><a href="../../connect/contact-us.html#joinus">Join Us</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div> <!-- /.usa-nav-inner -->
+  </nav> 
+</div> <!-- /.usa-grid -->
+</header>
+<div class="usa-overlay"></div>
+    
+<main id="main-content">
+    <section class="usa-grid usa-section">
+        <h1>Centers of Excellence Playbooks</h1>
+        <p class="intro">The Centers of Excellence developed playbooks to help guide federal agencies looking to modernize in the areas of: <a href="#anchor-ca">Cloud Adoption</a>, <a href="#anchor-cc">Contact Centers</a>, <a href="#anchor-cx">Customer Experience</a>, <a href="#anchor-da">Data Analytics</a>, and <a href="#anchor-io">Infrastructure Optimization</a>. The playbooks are not a one-size-fits-all solution, but an overview of these areas, with checklists and key questions to consider as you’re embarking on this transformational work. Below you will find snippets of each playbook, with an option to download the entire document.</p>
+        <hr>
+        <h2 id="anchor-ca">Cloud Adoption</h2>
+        <p>Today’s challenging missions require modern IT moving in lock-step with the business. The cloud enables agile delivery of features, which makes customers happy, and enhances cybersecurity to better protect systems and data. To get these results, agencies will need to think, work, and buy technology differently. Cloud adoption empowers agencies to modernize processes, cybersecurity and workforce skills.</p>
+        <p>The Cloud Adoption Center Of Excellence (CoE) analyzes systems and applications to recommend optimal pathways to the cloud and the team developed an 8-play Playbook to help agencies leverage an agile and flexible framework to accelerate cloud adoption across the enterprise. The Cloud CoE provides hands-on technical assistance to agencies in conducting their migration planning to achieve their respective cloud strategy goals.</p>
+        <h4>For more information about the Cloud Adoption Playbook:</h4>
+        <a href="mailto:connectcoe@gsa.gov" class="usa-button">Contact Us</a>
+        <hr>
+        <h2 id="anchor-cc">Contact Centers</h2>
+        <p>The federal government spends over $20 billion a year on contact centers, primarily on outdated technology and processes. Improving customers’ experience when accessing, engaging, and interacting with an agency through contact centers can have a significant impact on the overall experience with government. The American public deserve seamless support in accessing government services to complete their transaction or accomplish their task.</p>
+        <p>The President’s Management Agenda (PMA) and Cross-Agency Priority (CAP) Goals showcase the government’s focus on improving the customer experience with accessing information and services. Contact centers play a crucial role in an agency’s CAP goal strategy, since they are a critical touchpoint to understanding the customer experience and identifying opportunities that can be fixed or improved. </p>
+        <p>The Contact Center Center of Excellence (CoE)’s team helps improve contact center delivery services and customer interactions  and developed a 15-play Playbook for federal government agencies who are looking to modernize, optimize and consolidate their contact centers. </p>
+        <h4>For more information about the Contact Centers Playbook:</h4>
+        <a href="mailto:connectcoe@gsa.gov" class="usa-button">Contact Us</a>
+        <hr>
+        <h2 id="anchor-cx">Customer Experience </h2>
+        <p>Customer Experience, or CX, is not a new concept—it’s what industry has been doing for a long time–and agencies may already be applying some or all of these best practices. What is new is the government’s central focus on CX as part of the President’s Management Agenda (PMA) and Cross-Agency Priority (CAP) goals to bolster support and resources towards CX practices. The PMA and CAP goals showcase the government’s focus on improving the customer experience with accessing information and services.</p>
+        <p>The Customer Experience Center of Excellence (CoE) is working to develop a better understanding of customer needs and helping to translate those findings into action and the team developed a 13-play Playbook for practitioners, in all levels of government, to establish or improve CX practices and foster a CX mindset within—and across—government agencies. The plays can help agencies get started with small, quick wins to build up expertise and gain confidence.</p>
+        <p>This Playbook represents a synthesis of ideas gathered from interviewing several subject matter experts and leaders in CX and Human Centered Design (HCD) in government. Whether you are just curious about CX, already dabbling in CX, or a professional CX practitioner, this playbook can offer insight to grow the CX presence in your agency.</p>
+        <h4>For more information about the Customer Experience Playbook:</h4>
+        <a href="mailto:connectcoe@gsa.gov" class="usa-button">Contact Us</a>
+        <hr>
+        <h2 id="anchor-da">Data Analytics</h2>
+        <p>Americans increasingly interact with government through digital channels, and there aren’t enough federal agencies taking advantage of the vast volumes of data these channels create.</p>
+        <p>The Cross-Agency Priority (CAP) goals showcase the government’s focus on improving the customer experience with accessing information and services. Building mature data organizations across government is a necessary step for achieving the Cross-Agency Priority (CAP) goal of leveraging data as a strategic asset, in order to: grow the economy, increase the effectiveness of the federal government, facilitate oversight, and promote transparency. </p>
+        <p>The Data Analytics Center of Excellence (CoE) helps make more efficient use of data management, analysis, and reporting capabilities and it developed a 14-play Playbook for agencies to lead more effective government policies and programs.</p>
+        <h4>For more information about the Data Analytics Playbook:</h4>
+        <a href="mailto:connectcoe@gsa.gov" class="usa-button">Contact Us</a>
+        <hr>
+        <h2 id="anchor-io">Infrastructure Optimization</h2>
+        <p>As the public sector continues to modernize its technology, agencies continue to increase demand on their IT infrastructures. Rather than rely on meeting this new demand in the face of flat or reduced budgets, the pace of innovation has created opportunities to optimize infrastructure and create better service, while improving efficiency and generating savings simultaneously. </p>
+        <p>The Infrastructure Optimization Center of Excellence (CoE) assists in optimizing data centers and reducing infrastructure costs  and developed this 10-play Playbook for federal government agencies who are looking for assistance in their development and implementation of infrastructure optimization, integrated cloud computing, and data center consolidation strategies. </p>
+        <h4>For more information about the Infrastructure Optimization Playbook:</h4>
+        <a href="mailto:connectcoe@gsa.gov" class="usa-button">Contact Us</a>
+    </section> <!-- /.usa-grid -->
+</main>
+
+<footer class="usa-footer" role="contentinfo">
+<div class="usa-footer-primary-section">
+    <div class="usa-grid">
+        <div class="usa-width-one-third">
+            <div class="footer-logo-links">
+                <a class="footer-logo media_link" href="https://coe.gsa.gov">
+                  <img src="../../img/coe-logomark.svg" alt="Centers of Excellence logo">
+                </a>
+                <a class="footer-logo media_link" href="http://www.gsa.gov/">
+                  <img src="../../img/gsa-logo.svg" alt="GSA">
+                </a>
+            </div> <!-- /.footer-logo-links -->
+        </div> <!-- /.usa-width-one-third -->
+        <nav class="usa-footer-nav footer-desktop usa-width-two-thirds">
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.gsa.gov/" target="_blank">GSA.gov</a></li>
+                    <li><a href="https://www.gsa.gov/etools-overview" target="_blank">GSA Web Tools</a></li>
+                    <li><a href="https://www.gsa.gov/tools/supply-procurement-etools/gsa-advantage" target="_blank">GSA Advantage!</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.gsa.gov/website-information/accessibility-aids" target="_blank">Accessibility</a></li>
+                    <li><a href="https://www.gsa.gov/about-us/organization/office-of-civil-rights/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002" target="_blank">EEO/No Fear Act</a></li>
+                    <li><a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" target="_blank">FOIA</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.gsa.gov/website-information/linking-policy" target="_blank">Linking</a></li>
+                    <li><a href="https://www.gsa.gov/governmentwide-initiatives/gsas-open-government-initiatives" target="_blank">Open Government</a></li>
+                    <li><a href="https://www.gsa.gov/website-information/privacy-and-security-notice" target="_blank">Privacy &amp; Security</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+            <div class="usa-width-one-fourth">
+                <ul class="usa-unstyled-list usa-footer-primary-content">
+                    <li><a href="https://www.data.gov/" target="_blank">Data.gov</a></li>
+                    <li><a href="https://www.usa.gov/" target="_blank">USA.gov</a></li>
+                    <li><a href="https://www.whitehouse.gov/" target="_blank">WhiteHouse.gov</a></li>
+                </ul>
+            </div> <!-- /.usa-width-one-fourth -->
+        </nav> <!-- /.usa-width-two-thirds -->
+        
+    </div> <!-- /.usa-grid -->
+    <div class="usa-grid">
+        <nav class="usa-accordion footer-mobile">
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-footer">
+                <span>Site Menu</span>
+            </button>
+            <ul id="extended-nav-section-footer" class="usa-nav-submenu">
+                <li><a href="https://www.gsa.gov/" target="_blank">GSA.gov</a></li>
+                <li><a href="https://www.gsa.gov/etools-overview" target="_blank">GSA Web Tools</a></li>
+                <li><a href="https://www.gsa.gov/tools/supply-procurement-etools/gsa-advantage" target="_blank">GSA Advantage!</a></li>
+                <li><a href="https://www.gsa.gov/website-information/accessibility-aids" target="_blank">Accessibility</a></li>
+                <li><a href="https://www.gsa.gov/about-us/organization/office-of-civil-rights/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002" target="_blank">EEO/No Fear Act</a></li>
+                <li><a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" target="_blank">FOIA</a></li>
+                <li><a href="https://www.gsa.gov/website-information/linking-policy" target="_blank">Linking</a></li>
+                <li><a href="https://www.gsa.gov/governmentwide-initiatives/gsas-open-government-initiatives" target="_blank">Open Government</a></li>
+                <li><a href="https://www.gsa.gov/website-information/privacy-and-security-notice" target="_blank">Privacy &amp; Security</a></li>
+                <li><a href="https://www.data.gov/" target="_blank">Data.gov</a></li>
+                <li><a href="https://www.usa.gov/" target="_blank">USA.gov</a></li>
+                <li><a href="https://www.whitehouse.gov/" target="_blank">WhiteHouse.gov</a></li>
+            </ul>
+        </nav>
+    </div> <!-- /.usa-grid -->
+</div> <!-- /.usa-footer-primary-section -->
+</footer>
+   
+<script src="../../js/uswds.min.js"></script>
+</body>
+</html>
