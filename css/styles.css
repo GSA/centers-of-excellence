@@ -109,18 +109,29 @@ header.main-header {
     -o-box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
     box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
 }
+.usa-logo a {
+  display: inline-block; /* make the anchor block the full height of the image */
+}
 header .usa-navbar {
-    height:7rem;
+    width: 100%;
 }
 .coe-logo {
     width:30rem;
     height: auto;
     padding-top: 2.5rem;
 }
+@media screen and (min-width: 951px) {
+  #search_form {
+    float: right;
+  }
+}
 
 /* -------------------- Navigation -------------------- */
 header.main-header nav.usa-nav {
     padding: 5px 5px 0px 5px;
+}
+.usa-nav-secondary {
+  top: -4rem; /* USWDS override */
 }
 .usa-nav-primary>li {
     position: relative;

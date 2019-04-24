@@ -1,58 +1,54 @@
 <!doctype html>
 <html lang="en">
 <head>
-<html>
-<head><title>page title</title></head>
-<body>
-  
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/icons/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/icons/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/icons/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="{{site.baseurl}}/icons/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/icons/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="{{site.baseurl}}/icons/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="{{site.baseurl}}/icons/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/icons/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/icons/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{site.baseurl}}/icons/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="{{site.baseurl}}/icons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
-<link rel="manifest" href="{{site.baseurl}}/icons/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{site.baseurl}}/icons/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<title>GSA - IT Modernization Centers of Excellence</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{site.baseurl}}/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{site.baseurl}}/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{site.baseurl}}/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="{{site.baseurl}}/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{site.baseurl}}/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
+  <link rel="manifest" href="{{site.baseurl}}/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="{{site.baseurl}}/icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <title>GSA - IT Modernization Centers of Excellence</title>
 
-{% assign description = page.description | default: site.description %}
-{% if description %}
-<meta name="description" content="{{ description }}">
-{% endif %}
-<meta property="og:image" content="{{site.baseurl}}/img/coe-logomark.png">
+  {% assign description = page.description | default: site.description %}
+  {% if description %}
+  <meta name="description" content="{{ description }}">
+  {% endif %}
+  <meta property="og:image" content="{{site.baseurl}}/img/coe-logomark.png">
 
-<link rel="stylesheet" href="{{site.baseurl}}/css/uswds.min.css">
-<link rel="stylesheet" href="{{site.baseurl}}/css/styles.css">
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
+  <link rel="stylesheet" href="{{site.baseurl}}/css/uswds.min.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/styles.css">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PBX86M3');</script>
-    <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PBX86M3');</script>
+  <!-- End Google Tag Manager -->
 
-    <script src="{{site.baseurl}}/js/jquery.min.js"></script>
-    <script src="{{site.baseurl}}/js/uswds.min.js"></script>
-    <script src="{{site.baseurl}}/js/scripts.js"></script>
+  <script src="{{site.baseurl}}/js/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/js/uswds.min.js"></script>
+  <script src="{{site.baseurl}}/js/scripts.js"></script>
 
 </head>
 
@@ -111,12 +107,26 @@
         </a>
       </div> <!-- /.usa-logo -->
       <button class="usa-menu-btn">Menu</button>
+
     </div> <!-- /.usa-navbar -->
     <nav role="navigation" class="usa-nav">
         <div class="usa-nav-inner">
             <button class="usa-nav-close">
               <img src="{{site.baseurl}}/img/close.svg" alt="close">
             </button>
+            <div class="usa-nav-secondary">
+              <div role="search">
+                <form id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get" class="usa-search usa-search-small">
+                  <input name="utf8" type="hidden" value="&#x2713;" />
+                  <input type="hidden" name="affiliate" id="affiliate" value="coe" />
+                  <label for="query" class="usa-sr-only">Search Centers of Excellence site:</label>
+                  <input type="search" name="query" id="query" autocomplete="off" class="usagov-search-autocomplete" placeholder="Search CoE"/>
+                   <button type="submit" name="commit">
+                    <span class="usa-sr-only">Search</span>
+                  </button>
+                </form>
+              </div>
+            </div>
             <ul class="usa-nav-primary usa-accordion">
                 <li>
                     <a id="nav-home" class="usa-nav-link" href="{{site.baseurl}}/">
