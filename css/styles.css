@@ -110,12 +110,16 @@ header.main-header {
     box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
 }
 header .usa-navbar {
-    height:7rem;
+    /*height:7rem;*/
+    width: 100%;
 }
 .coe-logo {
     width:30rem;
     height: auto;
     padding-top: 2.5rem;
+}
+#search_form {
+  float: right;
 }
 
 /* -------------------- Navigation -------------------- */
