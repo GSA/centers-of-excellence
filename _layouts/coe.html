@@ -57,7 +57,7 @@ layout: default
             </div>
         </div>
         {% if page.sidebar-extra-content %}
-        {% for sidebar-box in page.sidebar-extra-content %}
+        {% for sidebar-box in page.sidebar-extra-content.children %}
         <div class="sidebar-box {{ sidebar-box.img-class }}">
             <div class="sidebar-box-content">
                 <p>{{ sidebar-box.text }}</p>
