@@ -1,67 +1,40 @@
 ---
-layout: default
+layout: coe
+title: Data Analytics
+tagline: Helps make more efficient use of data management, analysis, and reporting capabilities.
+page-nav:
+  children:
+    - agency: HUD
+      url-fragment: hud.html#data%20analytics
+    - agency: USDA
+      url-fragment: usda.html#data%20analytics
+intro: The Data Analytics CoE’s primary focus is to assist agencies increasing the frequency and quality of data-driven, evidence based decisions at both the executive and program delivery level with a particular focus on incorporating customer experience data in driving process improvements. The team helps drive innovation at partner agencies in data management, organizational capacity, analysis and enterprise analytics infrastructure.
+service-offerings:
+  - Data analysis and reporting
+  - Interactive dashboard creation
+  - Continuous process improvement
+  - Metric definition and measurement
+  - Data driven process implementation
+  - Embedding mechanisms for rapid feedback and analysis
+service-catalog:
+  children:
+    - description: |
+      "The Data Analytics CoE helps make more efficient use of data management, analysis, and reporting capabilities."
+      "To be successful, the Data Analytics CoE’s services employ an approach that simultaneously identifies incremental improvements to the present state while envisioning a desired future state that will achieve greater advancements in program outcomes. The team’s methodology is based on an open-source framework for mature information management that addresses a range of core competencies, including:"
+      list:
+        - business process re-engineering,
+        - business intelligence,
+        - enterprise data collection and management,
+        - Mdata governance, and
+        - data visualization and reporting.
+sidebar-graphic-class: coe-da
+pdfs:
+  - title: Data Analytics Service Catalog
+    link: /docs/Data_Analytics__One_Page_Service_Catalog.pdf
+sidebar-extra-content:
+  children:
+    - text: An organization can make a big impact by telling their story effectively.
+    img-class: data-story
+    button-link: /coe/data-story/index.html
+    button-text: Learn How to Tell Your Story with Data
 ---
-
-<section class="usa-grid usa-section">
-    <h1>Data Analytics</h1>
-    <div class="usa-width-two-thirds">
-        <p class="intro">Helps make more efficient use of data management, analysis, and reporting capabilities.</p>
-
-        <div class="page-nav">
-           <a href="#service offerings">Service Offerings</a> |  <a href="#service catalog">Service Catalog</a> | <a href="#coe-updates">Latest Updates</a> | <a href="https://federalist-proxy.app.cloud.gov/preview/gsa/centers-of-excellence/Version-3.0/work/hud.html#data%20analytics">Our Work at HUD</a> | <a href="https://federalist-proxy.app.cloud.gov/preview/gsa/centers-of-excellence/Version-3.0/work/usda.html#data%20analytics">Our Work at USDA</a> 
-        </div>
-<p>The Data Analytics CoE’s primary focus is to assist agencies increasing the frequency and quality of data-driven, evidence based decisions at both the executive and program delivery level with a particular focus on incorporating customer experience data in driving process improvements. The team helps drive innovation at partner agencies in data management, organizational capacity, analysis and enterprise analytics infrastructure.</p>
-
-        <h2 id="service-offerings">Service Offerings</h2>
-
-        <ul>
-            <li>Data analysis and reporting</li>
-            <li>Interactive dashboard creation</li>
-            <li>Continuous process improvement</li>
-            <li>Metric definition and measurement</li>
-            <li>Data driven process implementation</li>
-            <li>Embedding mechanisms for rapid feedback and analysis</li>
-        </ul>
-
-        <h2 id="service-catalog">Service Catalog</h2>
-      <p> The Data Analytics CoE helps make more efficient use of data management, analysis, and reporting capabilities.</p>
-      <p>To be successful, the Data Analytics CoE’s services employ an approach that simultaneously identifies incremental improvements 
-       to the present state while envisioning a desired future state that will achieve greater advancements in program outcomes. The team’s
-       methodology is based on an open-source framework for mature information management that addresses a range of core competencies, including:</p>
-       <ul>
-            <li>business process re-engineering,</li>
-            <li>business intelligence,</li>
-            <li>enterprise data collection and management,</li>
-            <li>Mdata governance, and</li>
-            <li>data visualization and reporting./li>
-        </ul>
-
-        <h2 id="coe-updates">Latest Updates</h2>
-        {% assign filtered_posts = site.posts | where: 'initiative', 'Data Analytics' %}
-        {% for post in filtered_posts %}
-            <div class="article-head">
-                <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
-                <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-                {{ post.content }}
-            </div>
-        {% endfor %}
-    </div> <!-- /.usa-width-two-thirds -->
-    <div class="usa-width-one-third sticky sidebar">
-
-        <div class="sidebar-box coe-da">
-            <div class="centers-graphic"></div>
-            <div class="sidebar-box-content">
-                <h4 class="first">Explore Data Analytics CoE</h4>
-                <div style="min-height: 3rem;"><a href="{{site.baseurl}}/docs/Data_Analytics__One_Page_Service_Catalog.pdf" target="_blank" class="pdf">Data Analytics Service Catalog <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
-                <!-- <div style="min-height: 3rem;"><a href="playbooks/da-playbook.html">Data Analytics Playbook</a></div> -->
-            </div>
-        </div>
-
-        <div class="sidebar-box data-story">
-            <div class="sidebar-box-content">
-                <p>An organization can make a big impact by telling their story effectively.</p>
-                <a href="{{site.baseurl}}/coe/data-story/index.html" class="usa-button usa-button-secondary">Learn How to Tell Your Story with Data</a>
-            </div> <!-- /.sidebar-box-content -->
-        </div> <!-- /.sidebar-box -->
-    </div> <!-- /.usa-width-one-third -->
-</section> <!-- /.usa-grid -->
