@@ -24,11 +24,11 @@ layout: default
         </ul>
 
         <h2 id="service-catalog">Service Catalog</h2>
-    <p> The Data Analytics CoE helps make more efficient use of data management, analysis, and reporting capabilities.</p>
-    <p>To be successful, the Data Analytics CoE’s services employ an approach that simultaneously identifies incremental improvements 
+      <p> The Data Analytics CoE helps make more efficient use of data management, analysis, and reporting capabilities.</p>
+      <p>To be successful, the Data Analytics CoE’s services employ an approach that simultaneously identifies incremental improvements 
        to the present state while envisioning a desired future state that will achieve greater advancements in program outcomes. The team’s
-       methodology is based on an open-source framework for mature information management that addresses a range of core competencies, including:</p>           
-     <ul>
+       methodology is based on an open-source framework for mature information management that addresses a range of core competencies, including:</p>
+       <ul>
             <li>business process re-engineering,</li>
             <li>business intelligence,</li>
             <li>enterprise data collection and management,</li>
@@ -37,38 +37,14 @@ layout: default
         </ul>
 
         <h2 id="coe-updates">Latest Updates</h2>
-        <article>
-            <em class="date">August 20, 2018</em>
-            <h3 class="title"><a href="{{site.baseurl}}/2018/08/20/da-update-2.html">REE Key Performance Indicators Development</a></h3>
-
-            <p>The Data Analytics Center of Excellence, in collaboration with performance management staff from the Research, Education, and Economics (REE) Mission Area, engaged in Key Performance Indicator (KPI) development sessions with the goal of developing initial enterprise KPIs that better convey the combined contribution of REE agencies towards USDA goals.</p>
-            <p>
-                Working with GSA Fed2Fed Solutions, the Data Analytics Center of Excellence hosted several workshops dedicated to identifying key REE stakeholders, determining essential mission area outcomes, mapping metrics to track these outcomes, and refining priority metrics. As a result, eight KPIs were selected that will better effectively demonstrate mission area progress toward both REE and USDA goals. The Data Analytics Center of Excellence is continuing its support on this endeavor to finalize metrics and initiate reporting in FY2019.
-                <a href="{{site.baseurl}}/2018/08/20/da-update-2.html" alt="Read Full Article" title="Read Full Article"> (Continue to read Full Article)</a>
-            </p>
-
-        </article>
-
-        <div class="clearfix">
-            <br/>
-        </div>
-<hr>
-        <article>
-            <em class="date">May 21, 2018 (updated as of September 11, 2018)</em>
-            <h3 class="title"><a href="{{site.baseurl}}/2018/05/21/da-update-1.html">Tell Sonny Dashboard</a></h3>
-
-            <div class="clearfix">
-                <img src="{{site.baseurl}}/images/data-analytics/tell-sonny.png" alt="Tell Sonny National Dashboard image" class="img-responsive">
-                <p class="caption">Tell Sonny National Dashboard (updated as of September 11, 2018)</p>
+        {% assign filtered_posts = site.posts | where: 'initiative', 'Data Analytics' %}
+        {% for post in filtered_posts %}
+            <div class="article-head">
+                <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
+                <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+                {{ post.content }}
             </div>
-
-            <p>When Secretary of Agriculture Sonny Perdue started his “Back to Our Roots” Tour in May 2018, he wanted to give USDA employees and members of the public a way to share their thoughts and questions directly with his Department. Members of the USDA’s newly established Office of Customer Experience, the USDA Office of the Chief Information Officer, and GSA’s Centers of Excellence put their heads together- the result was “Tell Sonny”, a web-based platform and phone contact line for individuals to submit comments or inquiries about the issues that matter most to them, across all USDA agencies and programs.</p>
-            <p>
-                In a few short months, the Tell Sonny feedback channel has received over 800 responses, ranging from questions about completing USDA paperwork to feedback on USDA policies. Many of the respondents have since been contacted directly by USDA agency staff to help resolve issues or answer questions. Tell Sonny has developed into an important listening channel for the Department, providing insights on the types of issues most important to America’s farmers and ranchers, among others.
-            <a href="{{site.baseurl}}/2018/05/21/da-update-1.html" alt="Read Full Article" title="Read Full Article"> (Continue to read Full Article)</a>
-            </p>
-        </article>
-
+        {% endfor %}
     </div> <!-- /.usa-width-two-thirds -->
     <div class="usa-width-one-third sticky sidebar">
 
