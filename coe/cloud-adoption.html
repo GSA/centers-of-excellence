@@ -1,65 +1,35 @@
 ---
-layout: default
+layout: coe
+title: Cloud Adoption
+tagline: Analyzes current systems and applications to provide recommendations for planning cloud migration.
+intro: The Cloud Adoption CoE facilitates successful integration of cloud services by helping agencies select, and fashion, the right migration path to implement by an industry partner. The Cloud Adoption team developed a set of services based on best practices, both in the commercial and government sectors, to help agencies successfully implement cloud strategies.
+page-nav:
+  children:
+    - agency: HUD
+      url-fragment: hud.html#cloud%20adoption
+    - agency: USDA
+      url-fragment: usda.html#cloud%20adoption
+service-offerings:
+  - Portfolio/architecture analysis
+  - Application/system analysis
+  - Cloud migration planning
+  - Solution architecture support
+  - Cloud governance implementation
+  - Cloud security assessment
+  - FedRAMP advancement
+service-catalog:
+  children:
+    - description: "The Cloud Adoption team developed a set of services, based on industry and government best practices, to help agencies successfully implement cloud strategies:"
+      list:
+        - end-to-end migration planning and modernization assessments
+        - migration strategy and approach
+        - migration roadmap and execution timelines
+        - security and governance models
+        - acquisition and oversight support services.
+    - description: "These services:"
+      list:
+        - impact the existing technology and security standards
+        - require changes to configuration management and security compliance processes
+        - impact strategic roadmaps and investment planning.
+catalog-pdf-link: /docs/Cloud_Adoption_One_Page_Service_Catalog.pdf
 ---
-
-<section class="usa-grid usa-section">
-    <h1>Cloud Adoption</h1>
-    <div class="usa-width-two-thirds">
-        <p class="intro">Analyzes current systems and applications to provide recommendations for planning cloud migration.</p>
-
-        <div class="page-nav">
-            <a href="#service offerings">Service Offerings</a> | <a href="#service catalog">Service Catalog</a> | <a href="#coe-updates">Latest Updates</a> | <a href="https://federalist-proxy.app.cloud.gov/preview/gsa/centers-of-excellence/Version-3.0/work/hud.html#cloud%20adoption">Our Work at HUD</a> | <a href="https://federalist-proxy.app.cloud.gov/preview/gsa/centers-of-excellence/Version-3.0/work/usda.html#cloud%20adoption">Our Work at USDA</a> 
-        </div>
-
-      <p>The Cloud Adoption CoE facilitates successful integration of cloud services by helping agencies select, and fashion, the right migration path to implement by an industry partner. The Cloud Adoption team developed a set of services based on best practices, both in the commercial and government sectors, to help agencies successfully implement cloud strategies.</p>
-
-        
-        <h2 id="service-offerings">Service Offerings</h2>
-
-        <ul>
-            <li>Portfolio/architecture analysis</li>
-            <li>Application/system analysis</li>
-            <li>Cloud migration planning</li>
-            <li>Solution architecture support</li>
-            <li>Cloud governance implementation</li>
-            <li>Cloud security assessment</li>
-            <li>FedRAMP advancement</li>
-        </ul>
-
-        <h2 id="service-catalog">Service Catalog</h2>
-        
-   
-        <p> The Cloud Adoption team developed a set of services, based on industry and government best practices, to help agencies successfully implement cloud strategies:</p>
-        <ul>
-            <li>end-to-end migration planning and modernization assessments</li>
-            <li> migration strategy and approach</li>
-            <li>migration roadmap and execution timelines</li>
-            <li>security and governance models</li>
-            <li>acquisition and oversight support services.</li>
-       </ul>
-        
-        <p> These services:</p>
-        <ul>
-            <li>impact the existing technology and security standards</li>
-            <li>require changes to configuration management and security compliance processes</li>
-            <li>impact strategic roadmaps and investment planning.</li>
-        </ul>
-
-        <h2 id="coe-updates">Latest Updates</h2>
-        {% assign filtered_posts = site.posts | where: 'initiative', 'Cloud Adoption' %}
-        {% for post in filtered_posts %}
-            <div class="article-head">
-                <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
-                <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-                {{ post.content }}
-            </div>
-        {% endfor %}
-    </div> <!-- /.usa-width-two-thirds -->
-    <div class="usa-width-one-third sticky sidebar">
-
-        <div class="sidebar-box coe-ca">
-            <div class="centers-graphic"></div>
-            <div class="sidebar-box-content">
-                <h4 class="first">Explore Cloud Adoption CoE</h4>
-                <div style="min-height: 3rem;"><a href="{{site.baseurl}}/docs/Cloud_Adoption_One_Page_Service_Catalog.pdf" target="_blank" class="pdf">Cloud Adoption Service Catalog <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
-            </div>
