@@ -1,62 +1,16 @@
 ---
-layout: default
-coe: Infrastructure Optimization
+layout: coe
+title: Infrastructure Optimization
+tagline: Assists in optimizing data centers and reducing infrastructure costs.
+intro: "The Infrastructure Optimization CoE supports agencies in: consolidating federated data centers into a single enterprise facility, modernizing the application landscape, driving out IT infrastructure cost inefficiencies, improving security, and positioning the agency for future infrastructure improvements."
+service-offerings:
+  - Architecture assessments
+  - Optimization planning
+  - Network consolidation
+  - Data center consolidation
+  - New business models e.g. co-location
+sidebar-graphic-class: coe-io
+pdfs:
+  - title: Infrastructure Optimization Service Catalog
+    link: /docs/Infra_Opt_One_Page_Service_Catalog.pdf
 ---
-
-<section class="usa-grid usa-section">
-    <h1>Infrastructure Optimization</h1>
-    <div class="usa-width-two-thirds">
-        <p class="intro">Assists in optimizing data centers and reducing infrastructure costs.</p>
-
-        <div class="page-nav">
-            <a href="#accomplishments">Accomplishments</a> | <a href="#coe-updates">Latest Updates</a>
-        </div>
-        
-     <p>The Infrastructure Optimization CoE supports agencies in: consolidating federated data centers into a single enterprise facility, modernizing the application landscape, driving out IT infrastructure cost inefficiencies, improving security, and positioning the agency for future infrastructure improvements.</p> 
-
-
-        <h2 id="service-offerings">Service Offerings</h2>
-
-        <ul>
-            <li>Architecture assessments</li>
-            <li>Optimization planning</li>
-            <li>Network consolidation</li>
-            <li>Data center consolidation</li>
-            <li>New business models e.g. co-location</li>
-        </ul>
-
-        <h2 id="service-catalog">Service Catalog</h2>
-    <p> The Data Analytics CoE helps make more efficient use of data management, analysis, and reporting capabilities.</p>
-    <p>To be successful, the Data Analytics CoE’s services employ an approach that simultaneously identifies incremental improvements 
-       to the present state while envisioning a desired future state that will achieve greater advancements in program outcomes. The team’s
-       methodology is based on an open-source framework for mature information management that addresses a range of core competencies, including:</p>           
-     <ul>
-            <li>business process re-engineering,</li>
-            <li>business intelligence,</li>
-            <li>enterprise data collection and management,</li>
-            <li>data governance, and</li>
-            <li>data visualization and reporting.</li>
-        </ul>
-        <h2 id="coe-updates">Latest Updates</h2>
-        {% assign filtered_posts = site.posts | where: 'initiative', 'Infrastructure Optimization' %}
-        {% for post in filtered_posts %}
-            <div class="article-head">
-                <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
-                <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-                {{ post.content }}
-            </div>
-        {% endfor %}
-    </div> <!-- /.usa-width-two-thirds -->
-    <div class="usa-width-one-third sticky sidebar">
-
-        <div class="sidebar-box coe-io">
-            <div class="centers-graphic"></div>
-            <div class="sidebar-box-content">
-                <h4 class="first">Explore Infrastructure Optimization CoE</h4>
-                <div style="min-height: 3rem;"><a href="{{site.baseurl}}/docs/Infra_Opt_One_Page_Service_Catalog.pdf" target="_blank" class="pdf">Infrastructure Optimization Service Catalog <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
-
-            </div>
-        </div>
-
-    </div> <!-- /.usa-width-one-third -->
-</section> <!-- /.usa-grid -->
