@@ -109,25 +109,36 @@ header.main-header {
     -o-box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
     box-shadow: 0px 4px 18px 0px rgba(0,0,0,0.07);
 }
+.usa-logo a {
+  display: inline-block; /* make the anchor block the full height of the image */
+}
 header .usa-navbar {
-    height:10rem;
+    width: 100%;
 }
 .coe-logo {
     width:30rem;
     height: auto;
     padding-top: 2.5rem;
 }
+@media screen and (min-width: 951px) {
+  #search_form {
+    float: right;
+  }
+}
 
 /* -------------------- Navigation -------------------- */
 header.main-header nav.usa-nav {
     padding: 5px 5px 0px 5px;
+}
+.usa-nav-secondary {
+  top: -4rem; /* USWDS override */
 }
 .usa-nav-primary>li {
     position: relative;
 }
 .usa-nav-primary>li>.usa-nav-link {
     font-size:1.7rem;
-    padding:4rem 2.8rem;
+    padding:2.5rem 3rem;
     color: #212121;
 }
 .usa-nav-primary>li>button.usa-nav-link {
@@ -169,7 +180,7 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-primary button[aria-expanded=true],
 .usa-nav-primary button[aria-expanded=false] {
-    background-position: right 2.2rem top 4.4rem;
+    background-position: right 2.2rem top 2.8rem;
 }
 .usa-nav-primary button[aria-expanded=true]:focus,
 .usa-nav-primary button[aria-expanded=true]:hover,
@@ -191,8 +202,7 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-submenu {
     background-color: #0071bc;
-    top: 9.2rem;
-    left: 1rem;
+    left: 0rem;
     z-index: 10;
 }
 .usa-nav-submenu li {
@@ -1009,6 +1019,38 @@ h2#accomplishments::before {
 h2#coe-updates::before {
     background-position: -0.2rem -9.75rem;
 }
+
+/*---- Service Catalog icon css ----*/
+h2#service-catalog {
+    padding-left:6rem;
+    margin-bottom:1.5rem;
+    position: sticky;
+    background-image: url(../images/service-catalog.png);
+    background-repeat: no-repeat;
+    background-size: 4.8rem 14.4rem;
+    border-radius:50%;
+}
+h2#service-catalog::before {
+    content: '';
+    position: absolute;
+    top:-0.6rem;;
+    left: 0;
+    width: 5.1rem;
+    height: 5.1rem;
+    border: 0.3rem solid #ffffff;
+    background-color:#3c8bc9;
+    background-image: url(../images/service-catalog.png);
+    background-repeat: no-repeat;
+    background-size: 4.3rem 4.7rem;
+    border-radius:50%;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+}
+/*---- end ----*/
+
 @media screen and (max-width: 1200px) {
     body {
        font-size: 1.7rem; 

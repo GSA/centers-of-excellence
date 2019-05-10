@@ -1,55 +1,54 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{site.baseurl}}/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{site.baseurl}}/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{site.baseurl}}/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="{{site.baseurl}}/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{site.baseurl}}/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
+  <link rel="manifest" href="{{site.baseurl}}/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="{{site.baseurl}}/icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <title>GSA - IT Modernization Centers of Excellence</title>
 
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/icons/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/icons/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/icons/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="{{site.baseurl}}/icons/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/icons/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="{{site.baseurl}}/icons/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="{{site.baseurl}}/icons/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/icons/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/icons/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{site.baseurl}}/icons/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="{{site.baseurl}}/icons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
-<link rel="manifest" href="{{site.baseurl}}/icons/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{site.baseurl}}/icons/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<title>GSA - IT Modernization Centers of Excellence</title>
+  {% assign description = page.description | default: site.description %}
+  {% if description %}
+  <meta name="description" content="{{ description }}">
+  {% endif %}
+  <meta property="og:image" content="{{site.baseurl}}/img/coe-logomark.png">
 
-{% assign description = page.description | default: site.description %}
-{% if description %}
-<meta name="description" content="{{ description }}">
-{% endif %}
-<meta property="og:image" content="{{site.baseurl}}/img/coe-logomark.png">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/uswds.min.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/styles.css">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
 
-<link rel="stylesheet" href="{{site.baseurl}}/css/uswds.min.css">
-<link rel="stylesheet" href="{{site.baseurl}}/css/styles.css">
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PBX86M3');</script>
+  <!-- End Google Tag Manager -->
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PBX86M3');</script>
-    <!-- End Google Tag Manager -->
-
-    <script src="{{site.baseurl}}/js/jquery.min.js"></script>
-    <script src="{{site.baseurl}}/js/uswds.min.js"></script>
-    <script src="{{site.baseurl}}/js/scripts.js"></script>
+  <script src="{{site.baseurl}}/js/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/js/uswds.min.js"></script>
+  <script src="{{site.baseurl}}/js/scripts.js"></script>
 
 </head>
 
@@ -104,17 +103,30 @@
     <div class="usa-navbar">
       <div class="usa-logo" id="extended-logo">
         <a href="{{site.baseurl}}/" title="Home" aria-label="Home">
-            <img src="{{site.baseurl}}/images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
+            <img src="{{site.baseurl}}/images/coe-logo.svg" alt="IT Modernization Centers of Excellence" width = "80%" class="coe-logo">
         </a>
       </div> <!-- /.usa-logo -->
       <button class="usa-menu-btn">Menu</button>
+
     </div> <!-- /.usa-navbar -->
     <nav role="navigation" class="usa-nav">
         <div class="usa-nav-inner">
             <button class="usa-nav-close">
               <img src="{{site.baseurl}}/img/close.svg" alt="close">
             </button>
-
+            <div class="usa-nav-secondary">
+              <div role="search">
+                <form id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get" class="usa-search usa-search-small">
+                  <input name="utf8" type="hidden" value="&#x2713;" />
+                  <input type="hidden" name="affiliate" id="affiliate" value="coe" />
+                  <label for="query" class="usa-sr-only">Search Centers of Excellence site:</label>
+                  <input type="search" name="query" id="query" autocomplete="off" class="usagov-search-autocomplete" placeholder="Search CoE"/>
+                   <button type="submit" name="commit">
+                    <span class="usa-sr-only">Search</span>
+                  </button>
+                </form>
+              </div>
+            </div>
             <ul class="usa-nav-primary usa-accordion">
                 <li>
                     <a id="nav-home" class="usa-nav-link" href="{{site.baseurl}}/">
@@ -123,14 +135,19 @@
                 </li>
                 <li>
                     <button id="nav-about" class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-one">
-                      <span>Mission &amp; Values</span>
+                      <span>Mission</span>
                     </button>
                     <ul id="extended-nav-section-one" class="usa-nav-submenu">
                         <li><a href="{{site.baseurl}}/about/mission-values.html">Our Mission</a></li>
                         <li><a href="{{site.baseurl}}/about/mission-values.html#values">Our Values</a></li>
-                        <li><a href="{{site.baseurl}}/about/mission-values.html#usda">Our Work at USDA</a></li>
-                        <li><a href="{{site.baseurl}}/about/team.html">Our Team</a></li>
+                        <li><a href="{{site.baseurl}}/about/approach-team-structure.html">Our Approach</a></li>
+
                     </ul>
+                </li>
+                <li>
+                    <a id="nav-team" class="usa-nav-link" href="{{site.baseurl}}/about/team.html">
+                      <span>Our Team</span>
+                    </a>
                 </li>
                 <li>
                     <button id="nav-coe" class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-two">
@@ -145,12 +162,23 @@
                     </ul>
                 </li>
                 <li>
+                    <button id="nav-work" class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-five">
+                      <span>Our Work</span>
+                    </button>
+                    <ul id="extended-nav-section-five" class="usa-nav-submenu">
+                        <li><a href="{{site.baseurl}}/work/usda.html">USDA</a></li>
+
+                    </ul>
+                </li>
+                <li>
                     <button id="nav-press" class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-three">
                       <span>News</span>
                     </button>
                     <ul id="extended-nav-section-three" class="usa-nav-submenu">
-                        <li><a href="{{site.baseurl}}/press/press.html">Press Mentions</a></li>
-                        <li><a href="{{site.baseurl}}/press/updates.html">Latest Updates</a></li>
+                       <li><a href="{{site.baseurl}}/press/updates.html">Latest Updates</a></li>
+                       <li><a href="{{site.baseurl}}/press/press.html">Press Mentions</a></li>
+                       <li><a href="{{site.baseurl}}/press/events.html">Webcasts and Speaking Events</a></li>
+
                     </ul>
                 </li>
                 <li>
@@ -160,6 +188,8 @@
                     <ul id="extended-nav-section-four" class="usa-nav-submenu">
                         <li><a href="{{site.baseurl}}/connect/contact-us.html">Contact Us</a></li>
                         <li><a href="{{site.baseurl}}/connect/contact-us.html#joinus">Join Us</a></li>
+                        <li><a href="https://twitter.com/GSACoE">Find Us on Twitter</a></li>
+                        <li><a href="https://www.linkedin.com/company/gsa/">Find Us on LinkedIn</a></li>
                     </ul>
                 </li>
             </ul>
