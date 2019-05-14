@@ -1,5 +1,5 @@
 ---
-title: GSA seeking feedback on next iteration of acquisition strategy for Centers of Excellence
+title: GSA Seeking Feedback on Next Iteration of Acquisition Strategy for Centers of Excellence
 layout: post
 initiative: Centers of Excellence
 excerpt: Information on the Discovery BPA for discovery-related work performed by the Centers of Excellence.
