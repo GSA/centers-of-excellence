@@ -36,7 +36,8 @@ initiative: Contact Center
             <div class="article-head">
                 <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
                 <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-                {{ post.content }}
+                {{ post.excerpt }}
+                <p><a href="{{post.url}}">Read more »</a></p>
             </div>
         {% endfor %}
     </div> <!-- /.usa-width-two-thirds -->
