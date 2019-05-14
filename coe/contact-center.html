@@ -1,56 +1,31 @@
 ---
-layout: default
-initiative: Contact Center
+layout: coe
+title: Contact Center
+tagline: Helps improve contact center delivery services and customer interactions.
+page-nav:
+  children:
+    - agency: HUD
+      url-fragment: hud.html#contact%20center
+    - agency: USDA
+      url-fragment: usda.html#contact%20center
+intro: The Contact Center CoE is improving external-facing contact centers at customer agencies. Through conducting best practice research, the Contact Center CoE is developing a data-driven strategy, leveraging proven practices and lessons learned from both the public and private sector. The goal of the Contact Center CoE is to establish a repeatable methodology to help agencies improve how they deliver services and interact with their citizens.
+service-offerings:
+  - Workflow documentation support
+  - Knowledge management strategy development
+  - Future state visioning support
+  - Tailored best practice research
+  - Contact center maturity assessment
+service-catalog:
+  children:
+    - description: "The Contact Center team developed a set of services, based on industry and government best practices, to help agencies successfully address their contact center challenges. They conduct:"
+      list:
+        - current state assessments
+        - best practices research
+        - future visioning support
+sidebar-graphic-class: coe-cc
+pdfs:
+  - title: Contact Center Best Practices
+    link: /docs/Contact_Center_Best_Practices_WEBSITE_2.0.pdf
+  - title: Contact Center Service Catalog
+    link: /docs/Contact_Center_One_Page_Service_Catalog (1).pdf
 ---
-
-<section class="usa-grid usa-section">
-    <h1>Contact Center</h1>
-    <div class="usa-width-two-thirds">
-        <p class="intro">Helps improve contact center delivery services and customer interactions.</p>
-
-        <div class="page-nav">
-           <a href="#service-offerings">Service Offerings</a> |  <a href="#service-catalog">Service Catalog</a> | <a href="#coe-updates">Latest Updates</a> | <a href="https://federalist-proxy.app.cloud.gov/preview/gsa/centers-of-excellence/Version-3.0/work/usda.html#contact%20center">Our Work at USDA</a> 
-        </div>
-        <p>The Contact Center CoE is improving external-facing contact centers at customer agencies. Through conducting best practice research, the Contact Center CoE is developing a data-driven strategy, leveraging proven practices and lessons learned from both the public and private sector. The goal of the Contact Center CoE is to establish a repeatable methodology to help agencies improve how they deliver services and interact with their citizens.</p>
-        <h2 id="service-offerings">Service Offerings</h2>
-
-        <ul>
-            <li>Workflow documentation support</li>
-            <li>Knowledge management strategy development</li>
-            <li>Future state visioning support</li>
-            <li>Tailored best practice research</li>
-            <li>Contact center maturity assessment</li>
-        </ul>
-
-        <h2 id="service-catalog">Service Catalog</h2>
-        <p>The Contact Center team developed a set of services, based on industry and government best practices, to help agencies successfully address their contact center challenges. They conduct:</p>
-        <ul>
-          <li>current state assessments</li>
-          <li>best practices research</li>
-          <li>future visioning support</li>
-        </ul>
-
-        <h2 id="coe-updates">Latest Updates</h2>
-        {% assign filtered_posts = site.posts | where: 'initiative', 'Contact Center' %}
-        {% for post in filtered_posts %}
-            <div class="article-head">
-                <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
-                <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-                {{ post.excerpt }}
-                <p><a href="{{post.url}}">Continue to read the full article »</a></p>
-            </div>
-        {% endfor %}
-    </div> <!-- /.usa-width-two-thirds -->
-    <div class="usa-width-one-third sticky sidebar">
-
-        <div class="sidebar-box coe-cc">
-            <div class="centers-graphic"></div>
-            <div class="sidebar-box-content">
-                <h4 class="first">Explore Contact Center CoE</h4>
-                <div style="min-height: 3rem;"><a href="{{site.baseurl}}/docs/Contact_Center_Best_Practices_WEBSITE_2.0.pdf" target="_blank" class="pdf">Contact Center Best Practices <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
-                <div style="min-height: 3rem;"><a href="{{site.baseurl}}/docs/Contact_Center_One_Page_Service_Catalog (1).pdf" target="_blank" class="pdf">Contact Center Service Catalog <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
-            </div>
-        </div>
-
-    </div> <!-- /.usa-width-one-third -->
-</section> <!-- /.usa-grid -->

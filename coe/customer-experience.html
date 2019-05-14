@@ -1,63 +1,28 @@
 ---
-layout: default
-initiative: Customer Experience
+layout: coe
+title: Customer Experience
+tagline: Works to develop a better understanding of customer needs and helps translate those findings into actions.
+page-nav:
+  children:
+    - agency: HUD
+      url-fragment: hud.html#customer%20experience
+    - agency: USDA
+      url-fragment: usda.html#customer%20experience
+intro: The Customer Experience (CX) CoE demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of their customers and their needs, and helps translate those findings into actions that create outstanding experiences. CX is the product of an interaction between an organization and a customer over the duration of their relationship.
+service-offerings:
+  - Development of a customer experience strategy
+  - Development of service delivery models
+  - Application of human-centered design
+  - Customer journey mapping
+  - Best practice research
+sidebar-graphic-class: coe-cx
+pdfs:
+  - title: Customer Experience Service Catalog
+    link: /docs/CX_One_Page_Service_Catalog (1).pdf
+sidebar-extra-content:
+  children:
+    - text: Working to improve customer experience and increase opportunities for America’s farmers and producers.
+      img-class: farmloans
+      button-link: /coe/farm-loans/index.html
+      button-text: View the USDA Direct Farm Loans Journey
 ---
-
-<section class="usa-grid usa-section">
-    <h1>Customer Experience</h1>
-    <div class="usa-width-two-thirds">
-        <p class="intro">Works to develop a better understanding of customer needs and helps translate those findings into actions.</p>
-
-         <div class="page-nav">
-            <a href="#service-offerings">Service Offerings</a> | <a href="#coe-updates">Latest Updates</a> | <a href="https://federalist-proxy.app.cloud.gov/preview/gsa/centers-of-excellence/Version-3.0/work/usda.html#customer%20experience">Our Work at USDA</a>
-        </div>
-
-      <p>The Customer Experience (CX) CoE demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of
-their customers and their needs, and helps translate those findings into actions that create outstanding experiences. CX is the product of an interaction between an organization and a customer over the duration of their relationship.</p>
-
-        <h2 id="service-offerings">Service Offerings</h2>
-
-        <ul>
-            <li>Development of a customer experience strategy</li>
-            <li>Development of service delivery models</li>
-            <li>Application of human-centered design</li>
-            <li>Customer journey mapping</li>
-            <li>Best practice research</li>
-        </ul>
-
-                 <h2 id="coe-updates">Latest Updates</h2>
-        {% assign filtered_posts = site.posts | where: 'initiative', 'Customer Experience' %}
-        {% for post in filtered_posts %}
-            <div class="article-head">
-                <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
-                <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-                {{ post.excerpt }}
-                <p><a href="{{post.url}}">Continue to read the full article »</a></p>
-	    </div>
-	{% endfor %}
-    </div> <!-- /.usa-width-two-thirds -->
-    <div class="usa-width-one-third sticky sidebar">
-        <!--
-        <div class="sidebar-box coe-cx">
-            <div class="centers-graphic"></div>
-            <div class="sidebar-box-content">
-                <h4 class="first">Explore Customer Experience CoE</h4>
-                <div style="min-height: 3rem;"><a href="playbooks/cx-playbook.html">Customer Experience Playbook</a></div>
-            </div>
-        </div>
-        -->
-        <div class="sidebar-box coe-cx">
-            <div class="centers-graphic"></div>
-            <div class="sidebar-box-content">
-                <h4 class="first">Explore Customer Experience CoE</h4>
-                <div style="min-height: 3rem;"><a href="{{site.baseurl}}/docs/CX_One_Page_Service_Catalog (1).pdf" target="_blank" class="pdf">Customer Experience Service Catalog <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
-            </div>
-        </div>
-        <div class="sidebar-box farmloans">
-            <div class="sidebar-box-content">
-                <p>Working to improve customer experience and increase opportunities for America’s farmers and producers.</p>
-                <a href="{{site.baseurl}}/coe/farm-loans/index.html" class="usa-button usa-button-secondary">View the USDA Direct Farm Loans Journey</a>
-            </div> <!-- /.sidebar-box-content -->
-        </div> <!-- /.sidebar-box -->
-    </div> <!-- /.usa-width-one-third -->
-</section> <!-- /.usa-grid -->
