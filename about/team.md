@@ -10,7 +10,7 @@ leadership:
         img: brian-whittaker.jpg 
 ---
 ## Centers of Excellence Leadership
-- Bob De Luca
+- Bob De Luca 
 - Brian Whittaker
 
 ## Program Management Office
@@ -27,6 +27,7 @@ leadership:
 - Nina Bianchi
 - Omid Ghaffari-Tabrizi
 - Rachel Jackson
+- Victoria Wales
 
 ## GSA Acquisition Support
 
