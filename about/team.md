@@ -1,20 +1,17 @@
 ---
 layout: team
 title: Our Team
-leadership:
-  - title: Centers of Excellence Leadership
-    people:
-      - name: Bob De Luca
-        img: BobDeLuca.jpg 
-      - name: Brian Whittaker
-        img: brian-whittaker.jpg 
+photos:
+  - name: Bob De Luca
+    img: BobDeLuca.jpg 
+  - name: Brian Whittaker
+    img: brian-whittaker.jpg 
 ---
 ## Centers of Excellence Leadership
 - Bob De Luca
 - Brian Whittaker
 
 ## Program Management Office
-
 - Bethany Blakey
 - Bridget Fields
 - Brendan Mahoney
@@ -29,14 +26,12 @@ leadership:
 - Rachel Jackson
 
 ## GSA Acquisition Support
-
 - Ashley Owens
 - Miatta Myers
 - NCR - Assisted Acquisition Services
 - Region 1 - Assisted Acquisition Services
 
 ## Centers of Excellence Leads
-
 - **Cloud Adoption** - Calvert Smith, Scott Finke, Syed Azeem,Therese Gallagher
 - **Contact Center** - Dana Watts, Meghan Daly, Sandra Dickinson, Stephanie Riggin, Sudhir Surendran
 - **Customer Experience** - Dan Willis, Mike Amante, Simchah Suveyke-Bogin, Tamieca Hamlin
