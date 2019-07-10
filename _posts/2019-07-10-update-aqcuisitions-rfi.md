@@ -2,7 +2,7 @@
 title: CoE releases Request for Information for OPM
 layout: post
 initiative: Centers of Excellence
-excerpt: RFI for OPM-related work performed by the Centers of Excellence.
+excerpt: CoE releases Request for Information for OPM
 
 The  <a href="https://www.gsa.gov/">General Services Administration (GSA)</a> has partnered with the 
 <a href="https://www.opm.gov/"> U.S. Office of Personnel Management (OPM)</a> to provide assistance with their modernization efforts. Through a collaboration between the <a href="https://www.gsa.gov/about-us/organization/gsa-it"> GSA Office of the Chief Information Officer (GSA IT)</a> and the <a href="https://coe.gsa.gov/"> Centers of Excellence (CoE) </a>, OPM will be able to stabilize their infrastructure, laying the foundation for the transformative efforts that could then follow.
