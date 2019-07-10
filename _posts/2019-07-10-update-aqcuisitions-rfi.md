@@ -18,14 +18,12 @@ OPM decide whether to purchase all, lease all, or purchase some and lease some o
 that the workflows associated with these mainframes operate without any lapse in service, but after ensuring that, OPM is 
 hoping to lay the foundation for the future of their IT infrastructure.
 
-OPM is the third agency to partner with the CoE, following successful launches at the U.S. Department of Agriculture (USDA) 
-and the U.S. Department of Housing and Urban Development (HUD).
+OPM is the third agency to partner with the CoE, following successful launches at the <a href="https://www.usda.gov/"> U.S. Department of Agriculture (USDA) </a> and the <a href="https://github.com/GSA/coe-hud-acquisitions/"> U.S. Department of Housing and Urban Development (HUD)</a>.
 
-We want to hear from you! Please review the documents in our repository and submit your thoughts through our feedback form!
+We want to hear from you! Please review the documents in our <a href="https://github.com/GSA/coe-opm-mainframe-dr-plan"> repository</a> and submit your thoughts through our <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkeXfdYY4_qMGIA7T4D6M7wyA8eweGy7wbg4rjPGLKJouNpQ/viewform"> feedback form </a>!
 
 **About the Centers of Excellence**
 The mission of the CoE is to accelerate IT modernization across government to improve the public experience and improve 
 outcomes across the Government. The CoE accomplish this by centralizing top Government technical talent, leveraging 
 private-sector best practices, and operating with a teaming mindset to collaborate across Government departments and agencies. 
-To learn more about the CoE visit coe.gsa.gov. To get the latest updates on our work, join the conversation on social media 
-@GSACoE.
+To learn more about the CoE visit <a href="https://coe.gsa.gov/"> coe.gsa.gov</a>. To get the latest updates on our work, join the conversation on social media  <a href="https://twitter.com/GSACoE"> @GSACoE</a>.
