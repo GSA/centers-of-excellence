@@ -24,6 +24,7 @@ OPM is the third agency to partner with the CoE, following successful launches a
 We want to hear from you! Please review the documents in our <a href="https://github.com/GSA/coe-opm-mainframe-dr-plan"> repository</a> and submit your thoughts through our <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkeXfdYY4_qMGIA7T4D6M7wyA8eweGy7wbg4rjPGLKJouNpQ/viewform"> feedback form </a>!
 
 **About the Centers of Excellence**
+
 The mission of the CoE is to accelerate IT modernization across government to improve the public experience and improve 
 outcomes across the Government. The CoE accomplish this by centralizing top Government technical talent, leveraging 
 private-sector best practices, and operating with a teaming mindset to collaborate across Government departments and agencies. 
