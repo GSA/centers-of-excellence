@@ -1,5 +1,5 @@
 ---
-title: CoE releases Request for Information for OPM
+title: CoE Releases Request for Information for OPM
 layout: post
 initiative: Centers of Excellence
 date: July 10, 2019
