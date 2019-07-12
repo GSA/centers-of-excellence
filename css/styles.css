@@ -996,8 +996,8 @@ h2#coe-updates::before {
     position: absolute;
     top:-0.6rem;;
     left: 0;
-    width: 5.1rem;
-    height: 5.1rem;
+    width: 4.1rem;
+    height: 4.1rem;
     border: 0.3rem solid #ffffff;
     background-color:#3c8bc9;
     background-image: url(../images/subpage-section-icons.png);
@@ -1035,8 +1035,8 @@ h2#service-catalog::before {
     position: absolute;
     top:-0.6rem;;
     left: 0;
-    width: 5.1rem;
-    height: 5.1rem;
+    width: 4.1rem;
+    height: 4.1rem;
     border: 0.3rem solid #ffffff;
     background-color:#3c8bc9;
     background-image: url(../images/service-catalog.png);
