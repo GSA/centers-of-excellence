@@ -28,7 +28,6 @@ photos:
 
 ## GSA Acquisition Support
 - Ashley Owens
-- Miatta Myers
 - NCR - Assisted Acquisition Services
 - Region 1 - Assisted Acquisition Services
 
