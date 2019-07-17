@@ -1,39 +1,99 @@
 ---
 layout: team
 title: Our Team
-photos:
-  - name: Bob De Luca
-    img: BobDeLuca.jpg 
-  - name: Brian Whittaker
-    img: brian-whittaker.jpg 
+teams:
+  - title: Centers of Excellence Leadership
+    people:
+    - name: Bob De Luca
+      img: BobDeLuca.jpg 
+    - name: Brian Whittaker
+      img: brian-whittaker.jpg 
+  - title: Program Management Office
+    people:
+      - name: Bethany Blakey
+        img: BethanyBlakey.png
+      - name: Bridget Fields
+        img: BridgetFields.jpg
+      - name: Brendan Mahoney
+        img: brendan-mahoney.jpeg
+      - name: David Peters
+        img: DavidPeters.jpg
+      - name: George Chenkeli
+        img: GeorgeChenkeli.jpg
+      - name: Jacqueline Snee
+        img: 
+      - name: Julie Beararducci
+        img: Berarducci-Selfie.jpg
+      - name: Michelle McNellis
+        img: 
+      - name: Matt Montano
+        img: 
+      - name: Nina Bianchi
+        img: NinaBianchi.png
+      - name: Omid Ghaffari-Tabrizi
+        img: OmidGhaffariTabrizi.jpg
+      - name: Rachel Jackson
+        img:  Rachel_Jackson.jpg
+      - name: Victoria Wales
+        img: 
+  - title: Centers of Excellence Leads
+    people:
+      - name: Calvert Smith
+        img: CalvertSmith.jpg
+        center: Cloud Adoption
+      - name: Scott Finke
+        img: scottfinke.png
+        center: Cloud Adoption
+      - name: Syed Azeem
+        img: SA_headshot.png
+        center: Cloud Adoption
+      - name: Therese Gallagher
+        img: Terri_selfie.jpg
+        center: Cloud Adoption
+      - name: Dana Watts
+        img: dana_watts.jpg
+        center: Contact Center
+      - name: Meghan Daly
+        img: meghan-daly.jpg
+        center: Contact Center
+      - name: Sandra Dickinson
+        img: Dickinson_Sandra.jpg
+        center: Contact Center
+      - name: Stephanie Riggin
+        img: StephanieRiggin.jpg
+        center: Contact Center
+      - name: Sudhir Surendran
+        img: Sudir-selfie.jpg
+        center: Contact Center
+      - name: Dan Willis
+        center: Customer Experience
+      - name: Mike Amante
+        img: Mike_Amante.jpg
+        center: Customer Experience
+      - name: Simchah Suveyke-Bogin
+        img: simchah_selfie.jpg
+        center: Customer Experience
+      - name: Tamieca Hamlin
+        img: Tamieca_Hamlin.jpg
+        center: Customer Experience
+      - name: Alexandra Porter
+        img: AlexandraPorter.jpg 
+        center: Data Analytics
+      - name: Christopher Alvares
+        img: Alvares_selfie.jpg
+        center: Data Analytics
+      - name: Eric Ewing
+        img: Eric_Ewing.jpg
+        center: Data Analytics
+      - name: Satyajeet Dhume
+        center: Data Analytics
+      - name: Thomas Hallaran
+        img: thomas_hallaran.png
+        center: Data Analytics
+      - name: Dan Jacobs
+        img: DanJacobs.jpg
+        center: IT Infrastructure Optimization
+      - name: Morris Johnson
+        img: Morris_Selfie.jpg
+        center: IT Infrastructure Optimization
 ---
-## Centers of Excellence Leadership
-- Bob De Luca 
-- Brian Whittaker
-
-## Program Management Office
-- Bethany Blakey
-- Bridget Fields
-- Brendan Mahoney
-- David Peters
-- George Chenkeli
-- Jacqueline Snee
-- Julie Berarducci
-- Michelle McNellis
-- Matt Montano
-- Nina Bianchi
-- Omid Ghaffari-Tabrizi
-- Rachel Jackson
-- Victoria Wales
-
-## GSA Acquisition Support
-- Ashley Owens
-- NCR - Assisted Acquisition Services
-- Region 1 - Assisted Acquisition Services
-
-## Centers of Excellence Leads
-- **Cloud Adoption** - Calvert Smith, Scott Finke, Syed Azeem,Therese Gallagher
-- **Contact Center** - Dana Watts, Meghan Daly, Sandra Dickinson, Stephanie Riggin, Sudhir Surendran
-- **Customer Experience** - Dan Willis, Mike Amante, Simchah Suveyke-Bogin, Tamieca Hamlin
-- **Data Analytics** - Alexandra Porter, Christopher Alvares, Eric Ewing, Satyajeet Dhume, Thomas Hallaran
-- **IT Infrastructure Optimization** - Dan Jacobs, Morris Johnson
