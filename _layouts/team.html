@@ -11,9 +11,9 @@ layout: default
               {% for person in team.people %}
                 <div class="usa-width-one-sixth person">
                   {% if person.img %}
-                    <img src={{"/images/team/" | append: person.img }} />
+                    <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" />
                   {% endif %}
-                  <p>{{ person.name }}{% if person.center %}<br/>{{person.center}} Lead{% endif%}</p>
+                  <p>{{ person.name }}{% if person.center %}<br/>{{person.center}} Lead{% endif %}</p>
                 </div>
               {% endfor %}
             </div> <!-- /.team-members -->
