@@ -20,22 +20,14 @@ teams:
         img: DavidPeters.jpg
       - name: George Chenkeli
         img: GeorgeChenkeli.jpg
-      - name: Jacqueline Snee
-        img: 
       - name: Julie Beararducci
         img: Berarducci-Selfie.jpg
-      - name: Michelle McNellis
-        img: 
-      - name: Matt Montano
-        img: 
       - name: Nina Bianchi
         img: NinaBianchi.png
       - name: Omid Ghaffari-Tabrizi
         img: OmidGhaffariTabrizi.jpg
       - name: Rachel Jackson
         img:  Rachel_Jackson.jpg
-      - name: Victoria Wales
-        img: 
   - title: Centers of Excellence Leads
     people:
       - name: Calvert Smith
@@ -65,8 +57,6 @@ teams:
       - name: Sudhir Surendran
         img: Sudir-selfie.jpg
         center: Contact Center
-      - name: Dan Willis
-        center: Customer Experience
       - name: Mike Amante
         img: Mike_Amante.jpg
         center: Customer Experience
@@ -84,8 +74,6 @@ teams:
         center: Data Analytics
       - name: Eric Ewing
         img: Eric_Ewing.jpg
-        center: Data Analytics
-      - name: Satyajeet Dhume
         center: Data Analytics
       - name: Thomas Hallaran
         img: thomas_hallaran.png
