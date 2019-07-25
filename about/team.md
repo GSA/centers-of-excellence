@@ -30,6 +30,9 @@ teams:
         img: OmidGhaffariTabrizi.jpg
       - name: Rachel Jackson
         img:  Rachel_Jackson.jpg
+      - name: Victoria Wales
+        img: VictoriaWales.jpg
+      
   - title: Centers of Excellence Leads
     people:
       - name: Calvert Smith
