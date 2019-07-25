@@ -22,6 +22,8 @@ teams:
         img: GeorgeChenkeli.jpg
       - name: Julie Beararducci
         img: Berarducci-Selfie.jpg
+      - name: Matthew Rose
+        img: MatthewRose.jpg
       - name: Nina Bianchi
         img: NinaBianchi.png
       - name: Omid Ghaffari-Tabrizi
