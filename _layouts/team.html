@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="team-page">
+    <section class="usa-grid usa-section reduce-bottom">
+        <h1>{{ page.title }}</h1>
+        <div class="usa-width-one-whole">
+          {% for team in page.teams %}
+            <h2>{{ team.title }}</h2>
+            <div class="team-members usa-grid">
+              {% for person in team.people %}
+                <div class="usa-width-one-sixth person">
+                  {% if person.img %}
+                    <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" alt=""/>
+                  {% endif %}
+                  <p>{{ person.name }}{% if person.center %}<br/>{{person.center}} Lead{% endif %}</p>
+                </div>
+              {% endfor %}
+            </div> <!-- /.team-members -->
+          {% endfor %}
+        </div> <!-- /.usa-width-one-half -->
+    </section> <!-- /.usa-grid -->
+</div>
