@@ -26,6 +26,8 @@ teams:
         img: Berarducci-Selfie.jpg
       - name: Matthew Rose
         img: MatthewRose.jpg
+      - name: Michelle McNellis
+        img: MichelleMcNellis.jpg
       - name: Nina Bianchi
         img: NinaBianchi.png
       - name: Omid Ghaffari-Tabrizi
