@@ -20,6 +20,8 @@ teams:
         img: DavidPeters.jpg
       - name: George Chenkeli
         img: GeorgeChenkeli.jpg
+      - name: Jennifer Rostami
+        img:  JennyRostami.png
       - name: Julie Beararducci
         img: Berarducci-Selfie.jpg
       - name: Matthew Rose
