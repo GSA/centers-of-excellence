@@ -20,6 +20,8 @@ teams:
         img: DavidPeters.jpg
       - name: George Chenkeli
         img: GeorgeChenkeli.jpg
+      - name: Jacqueline Snee
+        img:  JacquelineSnee.jpeg
       - name: Jennifer Rostami
         img:  JennyRostami.png
       - name: Julie Beararducci
