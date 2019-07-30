@@ -10,8 +10,6 @@ teams:
       img: brian-whittaker.jpg 
   - title: Program Management Office
     people:
-      - name: Amiad "Adam" Grandt-Nesher
-        img: AdamGrandt.jpg
       - name: Bethany Blakey
         img: BethanyBlakey.png
       - name: Bridget Fields
@@ -92,6 +90,9 @@ teams:
       - name: Thomas Hallaran
         img: thomas_hallaran.png
         center: Data Analytics
+      - name: Amiad "Adam" Grandt-Nesher
+        img: AdamGrandt.jpg
+        center: IT Infrastructure Optimization
       - name: Dan Jacobs
         img: DanJacobs.jpg
         center: IT Infrastructure Optimization
