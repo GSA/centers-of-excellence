@@ -11,7 +11,7 @@ teams:
   - title: Program Management Office
     people:
       - name: Amiad “Adam” Grandt-Nesher
-         img: AdamGrandt.jpg
+        img: AdamGrandt.jpg
       - name: Bethany Blakey
         img: BethanyBlakey.png
       - name: Bridget Fields
