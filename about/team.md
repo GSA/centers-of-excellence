@@ -10,6 +10,8 @@ teams:
       img: brian-whittaker.jpg 
   - title: Program Management Office
     people:
+      - name: Amiad Grandt-Nesher
+        img: AdamGrandt.jpg
       - name: Bethany Blakey
         img: BethanyBlakey.png
       - name: Bridget Fields
