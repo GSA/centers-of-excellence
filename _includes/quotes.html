@@ -2,20 +2,13 @@
     <div class="usa-grid">
         <div class="usa-width-one-whole">
             <div id="quote-container">
-                <div class="quote active">
-                    <blockquote>This is a significant step forward in the government’s commitment to improve citizens’ lives.”</blockquote>
-                    <cite>— Chris Liddell, White House Deputy Chief of Staff</cite>
-                </div> <!-- /.quote -->
-                <div class="quote">
-                    <blockquote>The Centers of Excellence have come in and started a positive cultural intervention at USDA.”</blockquote>
-                    <cite>— Gary Washington, USDA CIO</cite>
-                </div> <!-- /.quote -->
-                <div class="quote">
-                    <blockquote>The Centers of Excellence will deliver benefits to the American people for many years ahead.”</blockquote>
-                    <cite>— Jared Kushner, Sr. Advisor to the President</cite>
-                </div> <!-- /.quote -->
+                {% for quote in include.quotes %}
+                    <div class="quote {% if forloop.first==true %}active{% endif %}">
+                        <blockquote>{{quote.text}}”</blockquote>
+                        <cite>— {{quote.author}}</cite>
+                    </div>
+                {% endfor %}
             </div> <!-- /.quote-container -->
         </div> <!-- /.usa-width-one-whole -->
     </div> <!-- /.usa-grid -->
 </section> <!-- /.quote-row -->
-
