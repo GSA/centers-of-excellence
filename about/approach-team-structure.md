@@ -5,7 +5,8 @@ title: Approach & Team Structure
 
 # Approach &amp; Team Structure
 
-<p class="intro">The CoE partner with agencies to co-create their modernization initiatives. The CoE teams are embedded on-site, lead delivery, and require autonomy to drive results.</p>
+The CoE partner with agencies to co-create their modernization initiatives. The CoE teams are embedded on-site, lead delivery, and require autonomy to drive results.
+{: .intro}
 
 ## Objectives and Solution Competencies
 
