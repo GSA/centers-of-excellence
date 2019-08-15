@@ -1,28 +1,13 @@
-<section class="additional-content">
-    <div class="usa-grid">
-        <div class="usa-width-one-half">
-            <div class="latest-update">
-                <h2><a href="{{site.baseurl}}/press/updates.html">Latest Update</a></h2>
-                    {% for post in site.posts limit:1 %}
-                        <p>
-                            <span class="date">{{ post.date | date: '%B %d, %Y' }}</span><br>
-                            <a href="{{site.baseurl}}{{post.url}}" class="title">{{post.title}}</a>
-                        </p>
-                        <p>{{post.excerpt}}</p>
-                        {% if post.download_url %}
-                            <a href="{{site.baseurl}}{{post.download_url}}" class="usa-button" download>Download PDF</a>
-                        {% endif %}
-                    {% endfor %}                
-            </div> <!-- /.latest-update -->
-        </div> <!-- /.usa-width-one-half -->
-        <div class="usa-width-one-half">
-            <div class="join-us">
-                <h2><a href="{{site.baseurl}}/connect/contact-us.html#joinus">Join Us!</a></h2>
-                <p>We’re looking for highly skilled professionals that are passionate about making a positive impact in the government and thrive in fast paced environments.</p>
-                <a href="{{site.baseurl}}/connect/contact-us.html#joinus" class="usa-button">Career Opportunities</a>
-            </div> <!-- /.join-us -->
-        </div> <!-- /.usa-width-one-half -->
-    </div> <!-- /.usa-grid -->
-</section>
-
-
+<div class="latest-update">
+    <h2><a href="{{site.baseurl}}/press/updates.html">Latest Update</a></h2>
+        {% for post in site.posts limit:1 %}
+            <p>
+                <span class="date">{{ post.date | date: '%B %d, %Y' }}</span><br>
+                <a href="{{site.baseurl}}{{post.url}}" class="title">{{post.title}}</a>
+            </p>
+            <p>{{post.excerpt}}</p>
+            {% if post.download_url %}
+                <a href="{{site.baseurl}}{{post.download_url}}" class="usa-button" download>Download PDF</a>
+            {% endif %}
+        {% endfor %}                
+</div> <!-- /.latest-update -->

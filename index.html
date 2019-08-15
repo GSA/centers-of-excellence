@@ -1,11 +1,63 @@
 ---
 permalink: /
 layout: default
-title: Home
+title: Centers of Excellence Home
+cards:
+  - title: Cloud Adoption
+    description: Analyzes current systems and applications to provide recommendations for planning cloud migration.
+    classname: coe-ca-link
+    url: /coe/cloud-adoption.html
+  - title: Contact Center
+    description: Helps improve contact center delivery services and customer interactions.
+    classname: coe-cc-link
+    url: /coe/contact-center.html
+  - title: Customer Experience
+    description: Works to develop a better understanding of customer needs and helps translate those findings into actions.
+    classname: coe-cx-link
+    url: /coe/customer-experience.html
+  - title: Data Analytics
+    description: Helps make more efficient use of data management, analysis, and reporting capabilities.
+    classname: coe-da-link
+    url: /coe/data-analytics.html
+  - title: Infrastructure Optimization
+    description: Assists in optimizing data centers and reducing infrastructure costs.
+    classname: coe-io-link
+    url: /coe/infrastructure-optimization.html
+quotes:
+  - text: This is a significant step forward in the government’s commitment to improve citizens’ lives.
+    author: Chris Liddell, White House Deputy Chief of Staff
+  - text: The Centers of Excellence have come in and started a positive cultural intervention at USDA.
+    author: Gary Washington, USDA CIO
+  - text: The Centers of Excellence will deliver benefits to the American people for many years ahead.
+    author: Jared Kushner, Sr. Advisor to the President
 ---
-
 {% include hero.html %}
-{% include overview.html %}
-{% include quotes.html %}
-{% include news.html %}
+<div class="usa-grid">
+    <h2 class="centers-subhead">
+        <a href="{{site.baseurl}}/coe/centers-of-excellence.html">The Centers of Excellence</a>
+    </h2>
+    <p class="centers-subtext">These centers are embedded in each agency and may change or grow to fit the needs of different sectors of government.</p>
 
+    {% for card in page.cards %}
+        <div class="usa-width-one-fifth">
+            {% include card.html card=card %}
+        </div>
+    {% endfor %}
+</div>
+
+{% include quotes.html quotes=page.quotes %}
+
+<section class="additional-content">
+    <div class="usa-grid">
+        <div class="usa-width-one-half">
+            {% include news.html %}
+        </div>
+        <div class="usa-width-one-half">
+            <div class="join-us">
+                <h2><a href="{{site.baseurl}}/connect/contact-us.html#joinus">Join Us!</a></h2>
+                <p>We’re looking for highly skilled professionals that are passionate about making a positive impact in the government and thrive in fast paced environments.</p>
+                <a href="{{site.baseurl}}/connect/contact-us.html#joinus" class="usa-button">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</section>
