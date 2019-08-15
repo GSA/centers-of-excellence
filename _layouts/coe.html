@@ -39,12 +39,7 @@ layout: default
       <h2 id="coe-updates">Latest Updates</h2>
       {% assign filtered_posts = site.posts | where: 'initiative', page.title %}
       {% for post in filtered_posts %}
-          <div class="article-head">
-              <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
-              <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-              {{ post.excerpt }}
-              <p><a href="{{post.url}}">Continue reading this article »</a></p>
-          </div>
+          {% include article-head show_post_excerpt = true %}
       {% endfor %}
     </div> <!-- /.usa-width-two-thirds -->
     <div class="usa-width-one-third sticky sidebar">
