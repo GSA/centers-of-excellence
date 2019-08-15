@@ -87,8 +87,8 @@ teams:
       - name: Eric Ewing
         img: Eric_Ewing.jpg
         center: Data Analytics
-      - name: Satyajeet Dhumme
-        img: StyajeetDhumne.png
+      - name: Satyajeet Dhumne
+        img: SatyajeetDhumne.png
         center: Data Analytics
       - name: Thomas Hallaran
         img: thomas_hallaran.png
