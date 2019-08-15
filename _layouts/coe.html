@@ -39,7 +39,7 @@ layout: default
       <h2 id="coe-updates">Latest Updates</h2>
       {% assign filtered_posts = site.posts | where: 'initiative', page.title %}
       {% for post in filtered_posts %}
-          {% include article-head show_post_excerpt = true %}
+          {% include article-head.html show_post_excerpt = true %}
       {% endfor %}
     </div> <!-- /.usa-width-two-thirds -->
     <div class="usa-width-one-third sticky sidebar">
