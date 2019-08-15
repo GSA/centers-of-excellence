@@ -52,7 +52,7 @@ title: Press
   
 - [GSA Picks 22 Firms for Governmentwide ‘Centers of Excellence’ Discovery BPA](https://www.govconwire.com/2019/06/gsa-picks-22-firms-for-governmentwide-centers-of-excellence-discovery-bpa/) (GOVCONWIRE)
  
-(https://www.nextgov.com/it-modernization/2019/06/gsa-announces-new-call-vendors-centers-excellence/157466/)- [GSA Announces New On-Call Vendors for Centers of Excellence] (Fedscoop)
+- [GSA Announces New On-Call Vendors for Centers of Excellence](https://www.nextgov.com/it-modernization/2019/06/gsa-announces-new-call-vendors-centers-excellence/157466/) (Fedscoop)
  
 - [GSA Names Companies Under BPA for Centers of Excellence](https://www.fedscoop.com/gsa-discovery-bpa-centers-of-excellence-companies-list/) (Fedscoop)
   
