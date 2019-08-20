@@ -8,6 +8,7 @@ title: Webcasts and Speaking Events
 ## Upcoming
 
 - [Data Driven Government](https://datadrivengovernment.com/)- (Predictive Analytics World)
+- [Service Design & Customer Experience: An Expert Panel](https://www.meetup.com/ServiceDesignDC/events/264089803/)- (Meetup)
 
 ## Previous
 
