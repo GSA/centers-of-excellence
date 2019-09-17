@@ -81,6 +81,9 @@ teams:
       - name: Alexandra Porter
         img: AlexandraPorter.jpg 
         center: Data Analytics
+      - name: Bryan Lane
+        img: BryanLane.jpg 
+        center: Data Analytics
       - name: Christopher Alvares
         img: Alvares_selfie.jpg
         center: Data Analytics
