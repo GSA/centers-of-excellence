@@ -11,10 +11,15 @@ layout: default
               {% for person in team.people %}
                 <div class="usa-width-one-sixth person">
                   {% if person.bio %}
-                    <button data-tippy="{{ person.bio }}"></button>
-                  {% endif %}
-                  {% if person.img %}
-                    <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" alt=""/>
+                    <button role="tooltip" data-tippy="{{ person.bio }}" data-tippy-arrow="true" data-tippy-theme="light-border">
+                    {% if person.img %}
+                      <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" alt=""/>
+                    {% endif %}
+                    </button>
+                  {% else %}
+                    {% if person.img %}
+                      <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" alt=""/>
+                    {% endif %}
                   {% endif %}
                   <p>
                     {% if person.linkedin-username %}
