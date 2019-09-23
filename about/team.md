@@ -8,6 +8,9 @@ teams:
       img: BobDeLuca.jpg 
     - name: Brian Whittaker
       img: brian-whittaker.jpg 
+      bio: >-
+        Brian Whittaker has over 20 years of experience managing highly visible projects in the federal government. At GSA, Brian Whittaker manages stakeholder engagement with the highest level of federal leadership communicating the value of the Centers of Excellence (CoE). At the CoE, responsibilities include: overseeing $50M IT Modernization projects at the United States Department of Agriculture (USDA), Housing Urban Development (HUD), and the Office of Personnel Management (OPM) as well as identifying opportunities and collaborating with customer agencies to modernize IT and customer experiences. Brian Whittaker was the recipient of the FAS Commissioner Award as the Cyber Security Acquisition Team Lead
+      linkedin-username: brnwhttkr
   - title: Program Management Office
     people:
       - name: Bethany Blakey
