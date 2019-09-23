@@ -1,0 +1,70 @@
+---
+title: "Bringing Together CX and the IDEA Act to Modernize USDA Web Experiences"
+layout: post
+redirect_from: /2019/09/23-cx-update-14.html
+initiative: Customer Experience
+---
+Web modernization isn’t just a good idea: It’s the law, as laid out in the 21st Century Integrated Digital Experience Act (IDEA) [https://www.congress.gov/bill/115th-congress/house-bill/5759/text], which was passed in December 2018 and unifies existing US government mandates about improving federal agencies’ web experiences… with deadlines.
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-DocIdea.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-DocIdea.jpg" alt="caption below">
+Caption: Screenshot of the 21st Century Integrated Digital Experience Act (21st Century IDEA), which sets standards and deadlines for federal agency digital modernization.
+
+For large organizations with even larger digital footprints, “web modernization” isn’t just a massive undertaking—it’s a strategic challenge, followed by an implementation problem: How do you break down such a huge, multi-headed problem into discrete chunks, then provide concrete steps and guidance that your employees can actually use to modernize your web presence and improve your digital customer experiences?
+
+At the Customer Experience Center of Excellence (CX CoE), we used two things: the mandates of the IDEA Act as a framework and forcing function, and our own data-driven, human-centered approach to identify the challenges faced by USDA’s web managers, so we could create guidance, governance, resources, and tools to help them do their jobs of improving customer digital experiences and maintain the vision of OneUSDA on the web.
+
+In doing so, we turned IDEA Act compliance into a lever to achieve large-scale, customer-centric improvements of USDA digital experiences.
+
+<h3>Kicking Off</h3>
+First, we got buy-in on the web mod effort from the leadership of USDA’s Office of the Chief Information Officer (OCIO), Office of Customer Experience (OCX), and the Office of Communications.
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-DocDigitalCouncil.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-DocDigitalCouncil.jpg" alt="caption below">
+Caption: At the table, USDA CIO Gary Washington; Office of Communication Director of Digital Communications Peter Rhee; Customer Experience CoE Director Simchah Suveyke-Bogin; and Office of Customer Experience Chief Customer Officer (Acting) Jeleen Briscoe Sindall officially kicked off the Web Modernization effort in a call with USDA’s Digital Council.
+
+<h3>How We Learned</h3>
+Then, we applied some structure: The IDEA Act requires that executive agency websites and digital services comply with a series of mandates that cover everything from design, accessibility, and security, to usability, mobile-responsiveness, and customer experience. We used the IDEA Act’s compliance requirements as a beginning, then started a multi-pronged research effort:
+
+* We audited USDA’s digital presences, examining websites’ compliance to brand and design guidelines; assessing their web maturity; seeing if they properly implemented digital analytics; looking at USDA domain structures, and much more. (Even getting to a defensible answer the question, “How many websites does USDA have?” took a huge amount of work.)
+
+* We performed heuristic reviews of key USDA websites, checking to see how they stacked up against accepted usability guidelines and best practices.
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-DocUSDAAnalytics.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-DocUSDAAnalytics.jpg" alt="caption below">
+Caption: Some of the analytics and research products we created in assessing USDA’s digital presence.
+
+* We talked to USDA’s web managers, using surveys and interviews to better understand where they were and what their challenges and pain points were. We also engaged with web managers’ stakeholders and partners to get their insights and pain points, including USDA experts in the Paperwork Reduction Act (PRA), Section 508 Accessibility, and Communications offices, as well as cross-government partners like the GSA product teams responsible for Search, the US Web Design System, and the Digital Analytics Platform.
+Then,we made back-to-back visits to service centers in Rensselaer, Indiana and Wynne, Arkansas, where we continued to improve our understanding of the customer (both loan staff and producers), further refining and testing our prototypes with them (using higher fidelity paper and digital prototypes).  
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-PRA.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-PRA.jpg" alt="caption below">
+Caption: As part of our research, we spoke with USDA experts to get their perspectives on issues affecting USDA web managers, including the PRA process, which web managers need to understand before they do customer research. The document above offers a PRA officer’s perspective.
+
+* The team then got together to synthesize our research, to come up with a coherent picture of a digital resource and toolkit that would truly meet the needs of USDA’s web managers:
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-CXteam.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-CXteam.jpg" alt="In the Fredericksburg, Virginia service center, testing prototypes with a loan officer (left) and a producer (right)">
+Caption: CX CoE team members group related observations into themed insights which we used to organize the content for the Digital Strategy Playbook.
+
+<h3>Our Results</h3>
+Armed with that vision, we started creating prototypes of a new USDA Digital Strategy Playbook website, which we then took back to USDA web managers so they could tell us how we could improve it to better meet their needs.
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-DocTesting.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-DocTesting.jpg" alt="In the Fredericksburg, Virginia service center, testing prototypes with a loan officer (left) and a producer (right)">
+Caption: Testing high-fidelity playbook prototypes with USDA web managers.
+
+Then, we met with representatives from each of USDA’s nine mission areas, in a series of facilitated workshops, customized to each mission area’s needs and levels of expertise, to review our findings and establish priorities and processes for fixes and improvements. (Along the way, we also worked to build their understanding and capabilities in using human-centered design techniques so they could better understand—and thus meet the needs of—their customers.)
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-DocWorkshops.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-DocWorkshops.jpg" alt="In the Fredericksburg, Virginia service center, testing prototypes with a loan officer (left) and a producer (right)">
+Caption: Images from some of the web modernization facilitated workshops we held with representatives from all nine of USDA’s mission areas.
+
+Finally (for this stage of the effort), we beta-launched the USDA Digital Strategy Playbook website [www.usda.gov/digital-strategy], which we will continue to take feedback on and iteratively improve.
+
+<a href="{{site.baseurl}}/images/customer-experience/9.23-docplays.jpg" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/customer-experience/9.23-docplays.jpg" alt="In the Fredericksburg, Virginia service center, testing prototypes with a loan officer (left) and a producer (right)">
+
+Caption: Screenshots of the USDA Digital Strategy Playbook site.
+
+Although the USDA Digital Strategy Playbook site is meant as a resource for USDA employees, it’s available on the web for your use, as part of the community of federal government web managers looking to improve digital customer experiences for everyone.
