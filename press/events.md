@@ -11,6 +11,7 @@ title: Webcasts and Speaking Events
 
 ## Previous
 
+- [West Point Diversity and Inclusion Leadership Conference](https://www.westpointaog.org/diversityconference) (United States Military Academy at West Point Alumni Association)
 - [Season 2: Episode 15 Matt Montaño on IT Modernization through Collaborative Partnerships, Agile Methodologies](https://governmentciomedia.com/matt-montano-centers-excellence-director-gsa) (GovernmentCIO)
 - [Carahsoft-ATARC Federal Cloud Marketplace Forum](https://atarc.org/event/2019-fed-cloud-marketplace-forum/) (ATARC)
 - [Cloud Management Briefing](https://atarc.org/event/cloud-mgmt-briefing/) (ATARC)
