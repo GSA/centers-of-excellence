@@ -833,8 +833,17 @@ hr {
     background-size: cover;
     margin-top: 2rem;
 }
-.sidebar-box.farmloans .usa-button-secondary {
+.sidebar-box.farmloans .usa-button-secondary,
+.sidebar-box.affordhousing .usa-button-secondary {
     margin-bottom: 5rem;
+}
+.sidebar-box.affordhousing {
+    background-image: url('../images/customer-experience/ah-sidebar-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    margin-top: 2rem;
+	color: #ffffff;
 }
 .sidebar-box.data-story {
     background-image: url('../images/data-analytics/ds-sidebar-bg.jpg');
