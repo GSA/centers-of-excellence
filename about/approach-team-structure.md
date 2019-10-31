@@ -14,6 +14,7 @@ The GSA Centers of Excellence (CoE) were established to accelerate IT modernizat
  
 To accomplish these objectives, the CoE centralize top government tech talent, leverage private-sector best practices, and operate with a teaming mindset to collaborate across government departments and agencies. The CoE has teams focus on five functional areas:
 
+- Artificial Intelligence
 - Cloud Adoption
 - Contact Center
 - Customer Experience
