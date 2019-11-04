@@ -448,6 +448,7 @@ a.card-link .centers-graphic {
     height: 80px;
     position: relative;
 }
+a.card-link.coe-ai-link .centers-graphic::after,
 a.card-link.coe-ca-link .centers-graphic::after,
 a.card-link.coe-cc-link .centers-graphic::after,
 a.card-link.coe-cx-link .centers-graphic::after,
