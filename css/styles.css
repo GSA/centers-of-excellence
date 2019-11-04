@@ -800,6 +800,7 @@ hr {
     height: 80px;
     position: relative;
 }
+.sidebar-box.coe-ai .centers-graphic::after,
 .sidebar-box.coe-ca .centers-graphic::after,
 .sidebar-box.coe-cc .centers-graphic::after,
 .sidebar-box.coe-cx .centers-graphic::after,
