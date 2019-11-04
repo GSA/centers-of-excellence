@@ -816,7 +816,7 @@ hr {
     background-repeat: no-repeat;
     background-size: 195px 115px;
 }
-.sidebar-box.coe-ca .centers-graphic::after {background-image: url(../images/artificial-intelligence-2x.png);}
+.sidebar-box.coe-ai .centers-graphic::after {background-image: url(../images/artificial-intelligence-2x.png);}
 .sidebar-box.coe-ca .centers-graphic::after {background-image: url(../images/cloud-adoption-2x.png);}
 .sidebar-box.coe-cc .centers-graphic::after {background-image: url(../images/contact-center-2x.png);}
 .sidebar-box.coe-cx .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
