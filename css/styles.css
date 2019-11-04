@@ -448,6 +448,7 @@ a.card-link .centers-graphic {
     height: 80px;
     position: relative;
 }
+a.card-link.coe-ai-link .centers-graphic::after,
 a.card-link.coe-ca-link .centers-graphic::after,
 a.card-link.coe-cc-link .centers-graphic::after,
 a.card-link.coe-cx-link .centers-graphic::after,
@@ -463,6 +464,7 @@ a.card-link.coe-io-link .centers-graphic::after {
     background-repeat: no-repeat;
     background-size: 195px 115px;
 }
+a.card-link.coe-ai-link .centers-graphic::after {background-image: url(../images/artificial-intelligence-2x.png);}
 a.card-link.coe-ca-link .centers-graphic::after {background-image: url(../images/cloud-adoption-2x.png);}
 a.card-link.coe-cc-link .centers-graphic::after {background-image: url(../images/contact-center-2x.png);}
 a.card-link.coe-cx-link .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
@@ -800,6 +802,7 @@ hr {
     height: 80px;
     position: relative;
 }
+.sidebar-box.coe-ai .centers-graphic::after,
 .sidebar-box.coe-ca .centers-graphic::after,
 .sidebar-box.coe-cc .centers-graphic::after,
 .sidebar-box.coe-cx .centers-graphic::after,
@@ -815,6 +818,7 @@ hr {
     background-repeat: no-repeat;
     background-size: 195px 115px;
 }
+.sidebar-box.coe-ai .centers-graphic::after {background-image: url(../images/artificial-intelligence-2x.png);}
 .sidebar-box.coe-ca .centers-graphic::after {background-image: url(../images/cloud-adoption-2x.png);}
 .sidebar-box.coe-cc .centers-graphic::after {background-image: url(../images/contact-center-2x.png);}
 .sidebar-box.coe-cx .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
