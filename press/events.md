@@ -7,6 +7,7 @@ title: Webcasts and Speaking Events
 
 ## Previous
 
+- [Creating Excellent CX - The Need for Updated Customer Service Management](https://go.govloop.com/customer-service-management-on-demand.html)- (Govloop)
 - [Data Driven Government](https://datadrivengovernment.com/)- (Predictive Analytics World)
 - [West Point Diversity and Inclusion Leadership Conference](https://www.westpointaog.org/diversityconference) (United States Military Academy at West Point Alumni Association)
 - [Season 2: Episode 15 Matt Montaño on IT Modernization through Collaborative Partnerships, Agile Methodologies](https://governmentciomedia.com/matt-montano-centers-excellence-director-gsa) (GovernmentCIO)
