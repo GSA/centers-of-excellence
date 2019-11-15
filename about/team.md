@@ -89,18 +89,18 @@ teams:
         img: Eric_Ewing.jpg
         center: Data Analytics
       - name: Satyajeet Dhumne
-        img: SatyajeetDhumne.jpeg
+        img: SatyajeetDhumne19.jpg
         center: Data Analytics
       - name: Thomas Hallaran
         img: thomas_hallaran.png
         center: Data Analytics
       - name: Amiad "Adam" Grandt-Nesher
-        img: AdamGrandt.jpg
+        img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
       - name: Dan Jacobs
-        img: DanJacobs.jpg
+        img: DanJacobs19.jpg
         center: IT Infrastructure Optimization
       - name: Morris Johnson
-        img: Morris_Selfie.jpg
+        img: MorrisJohnson19.jpg
         center: IT Infrastructure Optimization
 ---
