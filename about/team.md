@@ -70,6 +70,9 @@ teams:
       - name: Mike Amante
         img: MichaelAmante19.jpg
         center: Customer Experience
+      - name: Dan Willis
+        img: DanWillis19.jpg
+        center: Customer Experience
       - name: Simchah Suveyke-Bogin
         img: SimchahBogin19.jpg
         center: Customer Experience
