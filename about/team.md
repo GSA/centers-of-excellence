@@ -21,11 +21,11 @@ teams:
       - name: Jacqueline Snee
         img:  JacquelineSnee.jpeg
       - name: Jennifer Rostami
-        img:  JennyRostami.png
+        img:  JenniferRostami19.jpg
       - name: Julie Beararducci
-        img: Berarducci-Selfie.jpg
+        img: JulieBerarducci19.jpg
       - name: Matt Montaño
-        img:  MattMontano.png
+        img:  MatthewMontano19.2.jpg
       - name: Matthew Rose
         img: MatthewRose.jpg
       - name: Michelle McNellis
