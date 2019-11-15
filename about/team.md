@@ -88,8 +88,8 @@ teams:
       - name: Bryan Lane
         img: BryanLane19.jpg 
         center: Data Analytics
-      - name: Christopher Alvares
-        img: Alvares_selfie.jpg
+      - name: Ambuj Neupane
+        img: AmbujNeupane19.jpg
         center: Data Analytics
       - name: Eric Ewing
         img: EricEwing19.2.jpg
