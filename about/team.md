@@ -27,17 +27,17 @@ teams:
       - name: Matt Montaño
         img:  MatthewMontano19.2.jpg
       - name: Matthew Rose
-        img: MatthewRose.jpg
+        img: MatthewRose19.jpg
       - name: Michelle McNellis
-        img: MichelleMcNellis.jpg
+        img: MichelleMcNellis19.jpg
       - name: Nina Bianchi
         img: NinaBianchi.png
       - name: Omid Ghaffari-Tabrizi
-        img: OmidGhaffariTabrizi.jpg
+        img: OmidGhaffariTabrizi19.jpg
       - name: Rachel Jackson
-        img:  Rachel_Jackson.jpg
+        img:  RachelJackson19.jpg
       - name: Victoria Wales
-        img:  VictoriaWales.jpeg
+        img:  VictoriaWales19.jpg
   - title: Centers of Excellence Leads
     people:
       - name: Calvert Smith
