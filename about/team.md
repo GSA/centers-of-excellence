@@ -41,16 +41,16 @@ teams:
   - title: Centers of Excellence Leads
     people:
       - name: Calvert Smith
-        img: CalvertSmith.jpg
+        img: CalvertSmith19.jpg
         center: Cloud Adoption
       - name: Scott Finke
         img: scottfinke.png
         center: Cloud Adoption
       - name: Syed Azeem
-        img: SA_headshot.png
+        img: SyedAzeem19.2.jpg
         center: Cloud Adoption
       - name: Therese Gallagher
-        img: Terri_selfie.jpg
+        img: ThereseGallagher19.jpg
         center: Cloud Adoption
       - name: Dana Watts
         img: dana_watts.jpg
