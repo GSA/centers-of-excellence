@@ -5,25 +5,25 @@ teams:
   - title: Centers of Excellence Leadership
     people:
     - name: Bob De Luca
-      img: BobDeLuca.jpg 
+      img: BobDeluca19.jpg 
     - name: Brian Whittaker
       img: BrianWhittaker19.jpg 
   - title: Program Management Office
     people:
       - name: Bethany Blakey
-        img: BethanyBlakey.png
+        img: BethanyBlakey19.2.jpg
       - name: Bridget Fields
-        img: BridgetFields.jpg
+        img: BridgetFields19.jpg
       - name: David Peters
-        img: DavidPeters.jpg
+        img: DavidPeters19.jpg
       - name: George Chenkeli
-        img: GeorgeChenkeli.jpg
+        img: GeorgeChenkeli19.jpg
       - name: Jacqueline Snee
         img:  JacquelineSnee.jpeg
       - name: Jennifer Rostami
-        img:  JennyRostami.png
+        img:  JenniferRostami19.jpg
       - name: Julie Beararducci
-        img: Berarducci-Selfie.jpg
+        img: JulieBerarducci19.jpg
       - name: Matt Montaño
         img:  MattMontano.png
       - name: Matthew Rose
@@ -77,10 +77,10 @@ teams:
         img: Tamieca_Hamlin.jpg
         center: Customer Experience
       - name: Alexandra Porter
-        img: AlexandraPorter.jpg 
+        img: AlexandraPorter19.jpg 
         center: Data Analytics
       - name: Bryan Lane
-        img: BryanLane.jpg 
+        img: BryanLane19.jpg
         center: Data Analytics
       - name: Christopher Alvares
         img: Alvares_selfie.jpg
@@ -98,7 +98,7 @@ teams:
         img: AdamGrandt.jpg
         center: IT Infrastructure Optimization
       - name: Dan Jacobs
-        img: DanJacobs.jpg
+        img: DanJacobs19.jpg
         center: IT Infrastructure Optimization
       - name: Morris Johnson
         img: Morris_Selfie.jpg
