@@ -31,7 +31,7 @@ teams:
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
       - name: Nina Bianchi
-        img: NinaBianchi.png
+        img: NinaBianchi19.png
       - name: Omid Ghaffari-Tabrizi
         img: OmidGhaffariTabrizi19.jpg
       - name: Rachel Jackson
