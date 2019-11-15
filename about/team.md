@@ -17,7 +17,7 @@ teams:
       - name: David Peters
         img: DavidPeters19.jpg
       - name: George Chenkeli
-        img: GeorgeChenkeli.jpg
+        img: GeorgeChenkeli19.jpg
       - name: Jacqueline Snee
         img:  JacquelineSnee.jpeg
       - name: Jennifer Rostami
