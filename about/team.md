@@ -53,25 +53,25 @@ teams:
         img: ThereseGallagher19.jpg
         center: Cloud Adoption
       - name: Dana Watts
-        img: dana_watts.jpg
+        img: DanaWatts19.jpg
         center: Contact Center
       - name: Meghan Daly
-        img: meghan-daly.jpg
+        img: MeghanDaly19.jpg
         center: Contact Center
       - name: Sandra Dickinson
         img: Dickinson_Sandra.jpg
         center: Contact Center
       - name: Stephanie Riggin
-        img: StephanieRiggin.jpg
+        img: StephanieRiggin19.jpg
         center: Contact Center
       - name: Sudhir Surendran
         img: Sudir-selfie.jpg
         center: Contact Center
       - name: Mike Amante
-        img: Mike_Amante.jpg
+        img: MichaelAmante19.jpg
         center: Customer Experience
       - name: Simchah Suveyke-Bogin
-        img: simchah_selfie.jpg
+        img: SimchahBogin19.jpg
         center: Customer Experience
       - name: Tamieca Hamlin
         img: Tamieca_Hamlin.jpg
