@@ -5,7 +5,7 @@ teams:
   - title: Centers of Excellence Leadership
     people:
     - name: Bob De Luca
-      img: BobDeLuca.jpg 
+      img: BobDeluca19.jpg
     - name: Brian Whittaker
       img: BrianWhittaker19.jpg 
   - title: Program Management Office
@@ -13,94 +13,103 @@ teams:
       - name: Bethany Blakey
         img: BethanyBlakey.png
       - name: Bridget Fields
-        img: BridgetFields.jpg
+        img: BridgetFields19.jpg
       - name: David Peters
-        img: DavidPeters.jpg
+        img: DavidPeters19.jpg
       - name: George Chenkeli
         img: GeorgeChenkeli.jpg
       - name: Jacqueline Snee
         img:  JacquelineSnee.jpeg
       - name: Jennifer Rostami
-        img:  JennyRostami.png
+        img:  JenniferRostami19.jpg
       - name: Julie Beararducci
-        img: Berarducci-Selfie.jpg
+        img: JulieBerarducci19.jpg
       - name: Matt Montaño
-        img:  MattMontano.png
+        img:  MatthewMontano19.jpg
       - name: Matthew Rose
-        img: MatthewRose.jpg
+        img: MatthewRose19.2.jpg
       - name: Michelle McNellis
-        img: MichelleMcNellis.jpg
+        img: MichelleMcNellis19.jpg
       - name: Nina Bianchi
         img: NinaBianchi.png
       - name: Omid Ghaffari-Tabrizi
-        img: OmidGhaffariTabrizi.jpg
+        img: OmidGhaffariTabrizi19.jpg
       - name: Rachel Jackson
-        img:  Rachel_Jackson.jpg
+        img:  RachelJackson19.jpg
       - name: Victoria Wales
-        img:  VictoriaWales.jpeg
+        img:  VictoriaWales19.jpg
   - title: Centers of Excellence Leads
     people:
       - name: Calvert Smith
-        img: CalvertSmith.jpg
+        img: CalvertSmith19.jpg
         center: Cloud Adoption
       - name: Scott Finke
         img: scottfinke.png
         center: Cloud Adoption
       - name: Syed Azeem
-        img: SA_headshot.png
+        img: SyedAzeem19.2.jpg
         center: Cloud Adoption
       - name: Therese Gallagher
-        img: Terri_selfie.jpg
+        img: ThereseGallagher19.jpg
         center: Cloud Adoption
       - name: Dana Watts
-        img: dana_watts.jpg
+        img: DanaWatts19.jpg
         center: Contact Center
       - name: Meghan Daly
-        img: meghan-daly.jpg
+        img: MeghanDaly19.jpg
         center: Contact Center
       - name: Sandra Dickinson
         img: Dickinson_Sandra.jpg
         center: Contact Center
       - name: Stephanie Riggin
-        img: StephanieRiggin.jpg
+        img: StephanieRiggin19.jpg
         center: Contact Center
       - name: Sudhir Surendran
         img: Sudir-selfie.jpg
         center: Contact Center
+      - name: Dan Willis
+        img: DanWillis19.jpg
+        center: Customer Experience
+       - name: Matthew Sarbak
+        img: MatthewSarbak19.jpg
+        center: Customer Experience
       - name: Mike Amante
-        img: Mike_Amante.jpg
+        img: MichaelAmante19.jpg
         center: Customer Experience
       - name: Simchah Suveyke-Bogin
-        img: simchah_selfie.jpg
+        img: SimchahBogin19.jpg
         center: Customer Experience
       - name: Tamieca Hamlin
-        img: Tamieca_Hamlin.jpg
+        img: TamiecaHamlin19.jpg
         center: Customer Experience
       - name: Alexandra Porter
-        img: AlexandraPorter.jpg 
+        img: AlexandraPorter19.jpg 
+        center: Data Analytics
+       - name: Ambuj Neupane
+        img: AmbujNeupane19.jpg
         center: Data Analytics
       - name: Bryan Lane
-        img: BryanLane.jpg 
+        img: BryanLane19.jpg
         center: Data Analytics
       - name: Christopher Alvares
         img: Alvares_selfie.jpg
         center: Data Analytics
       - name: Eric Ewing
-        img: Eric_Ewing.jpg
+        img: EricEwing19.jpg
         center: Data Analytics
       - name: Satyajeet Dhumne
-        img: SatyajeetDhumne.jpeg
+        img: SatyajeetDhumne19.jpg
         center: Data Analytics
       - name: Thomas Hallaran
         img: thomas_hallaran.png
         center: Data Analytics
       - name: Amiad "Adam" Grandt-Nesher
-        img: AdamGrandt.jpg
+        img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
       - name: Dan Jacobs
-        img: DanJacobs.jpg
+        img: DanJacobs19.jpg
         center: IT Infrastructure Optimization
       - name: Morris Johnson
-        img: Morris_Selfie.jpg
+        img: MorrisJohnson19.jpg
         center: IT Infrastructure Optimization
 ---
