@@ -14,8 +14,6 @@ teams:
         img: BethanyBlakey.png
       - name: Bridget Fields
         img: BridgetFields.jpg
-      - name: Brendan Mahoney
-        img: brendan-mahoney.jpeg
       - name: David Peters
         img: DavidPeters.jpg
       - name: George Chenkeli
