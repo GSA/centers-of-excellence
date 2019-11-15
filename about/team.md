@@ -100,6 +100,9 @@ teams:
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data Analytics
+      - name: Krista Kinnard
+        img: KristaKinnard19.2.png 
+        center: Data Analytics
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
