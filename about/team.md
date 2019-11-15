@@ -13,9 +13,9 @@ teams:
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
       - name: Bridget Fields
-        img: BridgetFields.jpg
+        img: BridgetFields19.jpg
       - name: David Peters
-        img: DavidPeters.jpg
+        img: DavidPeters19.jpg
       - name: George Chenkeli
         img: GeorgeChenkeli.jpg
       - name: Jacqueline Snee
