@@ -82,6 +82,9 @@ teams:
       - name: Tamieca Hamlin
         img: TamiecaHamlin19.jpg
         center: Customer Experience
+      - name: Matthew Sarbak
+        img: MatthewSarbak19.jpg
+        center: Customer Experience
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg 
         center: Data Analytics
