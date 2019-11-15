@@ -22,7 +22,7 @@ teams:
         img:  JacquelineSnee.jpeg
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
-      - name: Julie Beararducci
+      - name: Julie Berarducci
         img: JulieBerarducci19.jpg
       - name: Matt Montaño
         img:  MatthewMontano19.2.jpg
