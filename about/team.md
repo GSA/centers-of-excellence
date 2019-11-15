@@ -7,7 +7,7 @@ teams:
     - name: Bob De Luca
       img: BobDeLuca.jpg 
     - name: Brian Whittaker
-      img: BrianWhittaker.jpg 
+      img: BrianWhittaker19.jpg 
   - title: Program Management Office
     people:
       - name: Bethany Blakey
