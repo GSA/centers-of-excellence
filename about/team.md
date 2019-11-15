@@ -91,9 +91,6 @@ teams:
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data Analytics
-      - name: Thomas Hallaran
-        img: thomas_hallaran.png
-        center: Data Analytics
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
