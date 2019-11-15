@@ -5,7 +5,7 @@ teams:
   - title: Centers of Excellence Leadership
     people:
     - name: Bob De Luca
-      img: BobDeLuca.jpg 
+      img: BobDeluca19.jpg 
     - name: Brian Whittaker
       img: BrianWhittaker19.jpg 
   - title: Program Management Office
