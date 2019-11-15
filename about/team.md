@@ -86,7 +86,7 @@ teams:
         img: Alvares_selfie.jpg
         center: Data Analytics
       - name: Eric Ewing
-        img: Eric_Ewing.jpg
+        img: EricEwing19.2.jpg
         center: Data Analytics
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
