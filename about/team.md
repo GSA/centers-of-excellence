@@ -74,13 +74,13 @@ teams:
         img: SimchahBogin19.jpg
         center: Customer Experience
       - name: Tamieca Hamlin
-        img: Tamieca_Hamlin.jpg
+        img: TamiecaHamlin19.jpg
         center: Customer Experience
       - name: Alexandra Porter
-        img: AlexandraPorter.jpg 
+        img: AlexandraPorter19.jpg 
         center: Data Analytics
       - name: Bryan Lane
-        img: BryanLane.jpg 
+        img: BryanLane19.jpg 
         center: Data Analytics
       - name: Christopher Alvares
         img: Alvares_selfie.jpg
