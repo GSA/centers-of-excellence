@@ -11,7 +11,7 @@ teams:
   - title: Program Management Office
     people:
       - name: Bethany Blakey
-        img: BethanyBlakey.png
+        img: BethanyBlakey19.jpg
       - name: Bridget Fields
         img: BridgetFields.jpg
       - name: David Peters
