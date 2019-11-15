@@ -70,6 +70,9 @@ teams:
       - name: Mike Amante
         img: MichaelAmante19.jpg
         center: Customer Experience
+      - name: Lashanda Hodge
+        img: LashandaHodge19.jpg
+        center: Customer Experience
       - name: Dan Willis
         img: DanWillis19.jpg
         center: Customer Experience
