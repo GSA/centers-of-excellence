@@ -40,6 +40,9 @@ teams:
         img:  VictoriaWales19.jpg
   - title: Centers of Excellence Leads
     people:
+       - name: Krista Kinnard
+        img: KristaKinnard19.2.png
+        center: Artificial Intelligence
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
