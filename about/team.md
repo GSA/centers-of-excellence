@@ -19,7 +19,7 @@ teams:
       - name: George Chenkeli
         img: GeorgeChenkeli19.jpg
       - name: Jacqueline Snee
-        img:  JacquelineSnee.jpeg
+        img:  JacquelineSnee19.jpg
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
       - name: Julie Berarducci
@@ -43,18 +43,9 @@ teams:
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
-      - name: Scott Finke
-        img: scottfinke.png
-        center: Cloud Adoption
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption
-      - name: Therese Gallagher
-        img: ThereseGallagher19.jpg
-        center: Cloud Adoption
-      - name: Dana Watts
-        img: DanaWatts19.jpg
-        center: Contact Center
       - name: Meghan Daly
         img: MeghanDaly19.jpg
         center: Contact Center
@@ -63,9 +54,6 @@ teams:
         center: Contact Center
       - name: Stephanie Riggin
         img: StephanieRiggin19.jpg
-        center: Contact Center
-      - name: Sudhir Surendran
-        img: Sudir-selfie.jpg
         center: Contact Center
       - name: Mike Amante
         img: MichaelAmante19.jpg
@@ -78,9 +66,6 @@ teams:
         center: Customer Experience
       - name: Simchah Suveyke-Bogin
         img: SimchahBogin19.jpg
-        center: Customer Experience
-      - name: Tamieca Hamlin
-        img: TamiecaHamlin19.jpg
         center: Customer Experience
       - name: Matthew Sarbak
         img: MatthewSarbak19.jpg
@@ -108,8 +93,5 @@ teams:
         center: IT Infrastructure Optimization
       - name: Dan Jacobs
         img: DanJacobs19.jpg
-        center: IT Infrastructure Optimization
-      - name: Morris Johnson
-        img: MorrisJohnson19.jpg
         center: IT Infrastructure Optimization
 ---
