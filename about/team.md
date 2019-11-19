@@ -19,7 +19,7 @@ teams:
       - name: George Chenkeli
         img: GeorgeChenkeli19.jpg
       - name: Jacqueline Snee
-        img:  JacquelineSnee19.jpg
+        img:  JacquelineSnee19.2.jpg
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
       - name: Julie Berarducci
