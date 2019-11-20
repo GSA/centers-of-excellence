@@ -17,7 +17,7 @@ teams:
       - name: David Peters
         img: DavidPeters19.jpg
       - name: Jacqueline Snee
-        img:  JacquelineSnee19.3.jpg
+        img:  JackieSnee19.jpg
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
       - name: Julie Berarducci
