@@ -14,6 +14,8 @@ teams:
         img: BethanyBlakey19.jpg
       - name: Bridget Fields
         img: BridgetFields19.jpg
+      - name: Danielle Gallant
+        img:  DanielleGallant19.jpg
       - name: David Peters
         img: DavidPeters19.jpg
       - name: Jacqueline Snee
