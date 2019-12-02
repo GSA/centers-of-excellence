@@ -72,10 +72,10 @@ teams:
         center: Customer Experience
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg 
-        center: Data Analytics
+        center: Data and Analytics
       - name: Bryan Lane
         img: BryanLane19.jpg 
-        center: Data Analytics
+        center: Data & Analytics
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
         center: Data Analytics
