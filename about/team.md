@@ -84,7 +84,7 @@ teams:
         center: Data & Analytics
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
-        center: Data Analytics
+        center: Data & Analytics
       - name: Krista Kinnard
         img: KristaKinnard19.2.png 
         center: Data & Analytics
