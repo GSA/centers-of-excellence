@@ -18,7 +18,7 @@ To accomplish these objectives, the CoE centralize top government tech talent, l
 - Cloud Adoption
 - Contact Center
 - Customer Experience
-- Data Analytics
+- Data and Analytics
 - Infrastructure Optimization
 
 ## Delivery
