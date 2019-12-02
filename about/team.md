@@ -72,22 +72,22 @@ teams:
         center: Customer Experience
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg 
-        center: Data and Analytics
+        center: Data & Analytics
       - name: Bryan Lane
         img: BryanLane19.jpg 
         center: Data & Analytics
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
-        center: Data Analytics
+        center: Data & Analytics
       - name: Eric Ewing
         img: EricEwing19.2.jpg
-        center: Data Analytics
+        center: Data & Analytics
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data Analytics
       - name: Krista Kinnard
         img: KristaKinnard19.2.png 
-        center: Data Analytics
+        center: Data & Analytics
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
