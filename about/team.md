@@ -87,7 +87,7 @@ teams:
         center: Data & Analytics
       - name: Krista Kinnard
         img: KristaKinnard19.2.png 
-        center: Data & Analytics
+        center: Artificial Intelligence
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
