@@ -5,14 +5,9 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 
-## Upcoming
-
 ## Previous
 
 - [BOLDGOV: Ideas in Tech, Workforce and Management](https://www.govexec.com/feature/bold-livestream/)- (GovExec)
-
-## Previous
-
 - [Protecting Data, Driving Insights: Data Strategies for Federal Agencies](https://www.govexec.com/feature/protecting-data-driving-insights/?oref=ge-events-upcoming)- (Government Executive)
 - [Creating Excellent CX - The Need for Updated Customer Service Management](https://go.govloop.com/customer-service-management-on-demand.html)- (Govloop)
 - [Data Driven Government](https://datadrivengovernment.com/)- (Predictive Analytics World)
