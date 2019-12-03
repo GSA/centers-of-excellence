@@ -40,6 +40,12 @@ teams:
         img:  VictoriaWales19.jpg
   - title: Centers of Excellence Leads
     people:
+      - name: Bryan Lane
+        img: BryanLane19.jpg 
+        center: Artificial Intelligence
+      - name: Krista Kinnard
+        img: KristaKinnard19.2.png 
+        center: Artificial Intelligence
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
@@ -73,9 +79,6 @@ teams:
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg 
         center: Data & Analytics
-      - name: Bryan Lane
-        img: BryanLane19.jpg 
-        center: Artificial Intelligence
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
         center: Data & Analytics
@@ -85,9 +88,6 @@ teams:
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics
-      - name: Krista Kinnard
-        img: KristaKinnard19.2.png 
-        center: Artificial Intelligence
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
