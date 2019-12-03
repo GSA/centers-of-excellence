@@ -75,7 +75,7 @@ teams:
         center: Data & Analytics
       - name: Bryan Lane
         img: BryanLane19.jpg 
-        center: Data & Analytics
+        center: Artificial Intelligence
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
         center: Data & Analytics
