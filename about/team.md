@@ -43,6 +43,9 @@ teams:
       - name: Bryan Lane
         img: BryanLane19.jpg 
         center: Artificial Intelligence
+       - name: Eric Ewing
+        img: EricEwing19.2.jpg
+        center: Artificial Intelligence
       - name: Krista Kinnard
         img: KristaKinnard19.2.png 
         center: Artificial Intelligence
@@ -81,9 +84,6 @@ teams:
         center: Data & Analytics
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
-        center: Data & Analytics
-      - name: Eric Ewing
-        img: EricEwing19.2.jpg
         center: Data & Analytics
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
