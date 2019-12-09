@@ -1,6 +1,7 @@
 ---
 layout: with-grid
 title: Approach & Team Structure
+redirect_from: /about
 ---
 
 # Approach &amp; Team Structure
