@@ -7,7 +7,7 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
-- [Medallia City Tour](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
+- [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
 
 ## Previous
 
