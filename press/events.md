@@ -9,7 +9,7 @@ title: Webcasts and Speaking Events
 ## Previous
 
 - [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
-- [IT Modernization Summit Agenda](https://atarc.org/event/it-modernization-2019-12/)- (ATARC)
+- [ATARC IT Modernization Summit](https://atarc.org/event/it-modernization-2019-12/)- (ATARC)
 - [Human Centered Design for Government Innovation and Effective Outcomes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2138225&sessionid=1&key=D23B19C1776753E6D08D2AAF55DB8D95&regTag=&sourcepage=register)- (ACT-IAC)
 - [BOLDGOV: Ideas in Tech, Workforce and Management](https://www.govexec.com/feature/bold-livestream/)- (GovExec)
 - [Protecting Data, Driving Insights: Data Strategies for Federal Agencies](https://www.govexec.com/feature/protecting-data-driving-insights/?oref=ge-events-upcoming)- (Government Executive)
