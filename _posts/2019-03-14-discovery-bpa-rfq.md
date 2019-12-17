@@ -13,7 +13,7 @@ The Discovery BPA incorporated the following key changes into the RFQ (which can
   <li>A challenge question, specific to a functional area, to test a contractor’s technical capabilities, with responses due within 48 hours of posting</li>
 <li>A scenario question, specific to the way the CoE operates, to test a contractor’s ability to work with other contractors and government employees in a cross-functional team</li>
 <li>The ability for a contractor to submit a response to just one functional area rather than a minimum of three</li>
-  </ul>
+</ul>
 
 These changes allow the CoE to provide a much quicker acquisition process for agency partners, and hone in on their exact needs by using a pool of multiple awardees for each functional area. The changes also allow more contractors, including small businesses and contractors who specialize in one functional area, to bid on the work.
 
