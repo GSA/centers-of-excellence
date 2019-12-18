@@ -52,6 +52,9 @@ teams:
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
+      - name: Dan Jacobs
+        img: DanJacobs19.jpg
+        center: Cloud Adoption
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption
@@ -90,8 +93,5 @@ teams:
         center: Data & Analytics
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
-        center: IT Infrastructure Optimization
-      - name: Dan Jacobs
-        img: DanJacobs19.jpg
         center: IT Infrastructure Optimization
 ---
