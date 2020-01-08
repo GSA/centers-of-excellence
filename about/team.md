@@ -61,6 +61,9 @@ teams:
       - name: Meghan Daly
         img: MeghanDaly19.jpg
         center: Contact Center
+      - name: Sandra Dickinson
+        img: SandraDickinson19.jpeg
+        center: Contact Center   
       - name: Stephanie Riggin
         img: StephanieRiggin19.jpg
         center: Contact Center
