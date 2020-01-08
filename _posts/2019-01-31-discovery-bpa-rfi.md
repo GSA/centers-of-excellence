@@ -17,4 +17,4 @@ The CoEs expect the awards resulting from the Discovery BPA will be against GSA 
 
 The CoEs want to hear from you, the vendor community, on the scope, approach, vehicle selection, and other feedback you may have!
 
-Learn more with our <a href="https://github.com/GSA/coe-discovery-bpa/blob/master/FAQ.md">frequently asked questions</a> related to this RFI.
+Learn more with our <a href="https://github.com/GSA/coe-discovery-bpa/blob/master/BPA/FAQ.md">frequently asked questions</a> related to this RFI.
