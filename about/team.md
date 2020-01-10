@@ -49,6 +49,9 @@ teams:
       - name: Krista Kinnard
         img: KristaKinnard19.2.png 
         center: Artificial Intelligence
+      - name: Brandon Kirby
+        img: BrandonKirby.jpg
+        center: Cloud Adoption
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
@@ -90,5 +93,8 @@ teams:
         center: Data & Analytics
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
+        center: IT Infrastructure Optimization
+      - name: Sid Sripada
+        img: SidSripada.jpeg
         center: IT Infrastructure Optimization
 ---
