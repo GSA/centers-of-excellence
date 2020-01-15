@@ -50,7 +50,7 @@ teams:
         img: KristaKinnard19.2.png 
         center: Artificial Intelligence
       - name: Brandon Kirby
-        img: BrandonKirby.jpg
+        img: BrandonKirby.jpeg
         center: Cloud Adoption
       - name: Calvert Smith
         img: CalvertSmith19.jpg
