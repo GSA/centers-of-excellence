@@ -44,7 +44,7 @@ teams:
         img: BryanLane19.jpg 
         center: Artificial Intelligence
       - name: Eric Ewing
-        img: EricEwing_Updated.jpg
+        img: EricEwingUpdated.jpg
         center: Artificial Intelligence
       - name: Krista Kinnard
         img: KristaKinnard19.2.png 
