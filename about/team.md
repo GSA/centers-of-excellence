@@ -47,7 +47,7 @@ teams:
         img: EricEwing20.jpg
         center: Artificial Intelligence
       - name: Krista Kinnard
-        img: KristaKinnard19.2.png 
+        img: KristaKinnard20.jpg 
         center: Artificial Intelligence
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
