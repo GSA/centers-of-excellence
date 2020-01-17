@@ -44,11 +44,14 @@ teams:
         img: BryanLane19.jpg 
         center: Artificial Intelligence
       - name: Eric Ewing
-        img: EricEwing19.2.jpg
+        img: EricEwing20.jpg
         center: Artificial Intelligence
       - name: Krista Kinnard
-        img: KristaKinnard19.2.png 
+        img: KristaKinnard20.jpg 
         center: Artificial Intelligence
+      - name: Brandon Kirby
+        img: BrandonKirby.jpeg
+        center: Cloud Adoption
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
@@ -88,7 +91,13 @@ teams:
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics
+      - name: Thomas Hallaran
+        img: ThomasHallaran.jpg
+        center: Data & Analytics
       - name: Amiad "Adam" Grandt-Nesher
         img: AdamGrandt19.jpg
+        center: IT Infrastructure Optimization
+      - name: Sid Sripada
+        img: SidSripada.jpeg
         center: IT Infrastructure Optimization
 ---
