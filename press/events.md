@@ -7,7 +7,7 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
-- [ON RAMP TO CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
+- [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
 
 ## Previous
 
