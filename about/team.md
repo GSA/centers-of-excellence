@@ -38,6 +38,8 @@ teams:
         img:  RachelJackson19.jpg
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
+      - name: David Warren
+        img: davidwarren.jpg
   - title: Centers of Excellence Leads
     people:
       - name: Bryan Lane
