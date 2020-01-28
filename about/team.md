@@ -18,6 +18,8 @@ teams:
         img:  DanielleGallant19.jpg
       - name: David Peters
         img: DavidPeters19.jpg
+      - name: David Warren
+        img: DavidWarren.jpg      
       - name: Jacqueline Snee
         img:  JackieSnee19.jpg
       - name: Jennifer Rostami
@@ -38,8 +40,6 @@ teams:
         img:  RachelJackson19.jpg
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
-      - name: David Warren
-        img: DavidWarren.jpg
   - title: Centers of Excellence Leads
     people:
       - name: Bryan Lane
