@@ -7,11 +7,11 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
-- [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 
 ## Previous
 
+- [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
 - [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
 - [ATARC IT Modernization Summit](https://atarc.org/event/it-modernization-2019-12/)- (ATARC)
 - [Human Centered Design for Government Innovation and Effective Outcomes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2138225&sessionid=1&key=D23B19C1776753E6D08D2AAF55DB8D95&regTag=&sourcepage=register)- (ACT-IAC)
