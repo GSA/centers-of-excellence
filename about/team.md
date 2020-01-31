@@ -18,6 +18,8 @@ teams:
         img:  DanielleGallant19.jpg
       - name: David Peters
         img: DavidPeters19.jpg
+      - name: George Chenkeli
+        img: GeorgeChenkeli20.jpg
       - name: Jacqueline Snee
         img:  JackieSnee19.jpg
       - name: Jennifer Rostami
