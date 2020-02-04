@@ -55,6 +55,7 @@ teams:
         center: Artificial Intelligence
       - name: Joseph Raetano        
         img: JosephRaetano.jpg
+        center: Aritfical Intelligence
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption
