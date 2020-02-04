@@ -53,6 +53,8 @@ teams:
       - name: Krista Kinnard
         img: KristaKinnard20.jpg 
         center: Artificial Intelligence
+      - name: Joseph Raetano        
+        img: JosephRaetano.jpg
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption
