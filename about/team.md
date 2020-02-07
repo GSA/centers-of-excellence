@@ -5,7 +5,7 @@ teams:
   - title: Centers of Excellence Leadership
     people:
     - name: Bob De Luca
-      img: BobDeLuca.jpg 
+      img: BobDeLuca19.jpg 
     - name: Brian Whittaker
       img: brian-whittaker.jpg 
       bio: >-
@@ -14,27 +14,22 @@ teams:
   - title: Program Management Office
     people:
       - name: Bethany Blakey
-        img: BethanyBlakey.png
+        img: BethanyBlakey19.png
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and Federal government, gaining experience in instituting intrapreneurial practices to modernize how government programs and services are managed and improved. Bethany Blakey leads the human aspect of modernization, and with the Centers of Excellence she has developed a unique talent model to help employees, managers, and leaders identify their best role in driving transformation as well as developed a service catalog of evidence-based capability-building and culture-shifting interventions. In 2013, she received the award of the Harvard Ash Center Top 25 Innovations in Government.
         linkedin: bethanyblakey
       - name: Bridget Fields
-        img: BridgetFields.jpg
+        img: BridgetFields19.jpg
         bio: >-
           Bridget Fields has 6 years of federal government experience. Currently, she works as the Acquisitions Lead with the Centers of Excellence, serving as a project manager to manage relationships with government stakeholders and contractor teams, find flexibility within contractual terms to provide project teams the ability to achieve their actual objectives, and work on contractual modifications when changes are necessary. In addition, she has served as the Administrative Assistant to the Director of Acquisitions while also serving as the Project Manager responsible for managing the entirety of the organization's SaaS licenses and purchase card (ie, Government credit card) procurements for software. Bridget Fields was the recipient of the Special Act Award in 2018. 
         linkedin: bridget-fields-917a9b62
-      - name: Brendan Mahoney
-        img: brendan-mahoney.jpeg
-        bio: >-
-          Brendan Mahoney has over 3 years of contracting and legal experience with General Services Administration. Brendan Mahoney managed, negotiated, evaluated and awarded schedule contracts, modifications, and options for Information Technology offerors and contract holders with IT Schedule 70 Contracting. With the Centers of Excellence, responsibilities have included: supporting development and execution of interagency agreements, acquisition, and program management budget formulation.
-        linkedin: brendan-mahoney-83944215
       - name: David Peters
-        img: DavidPeters.jpg
+        img: DavidPeters19.jpg
         bio: >-
           David Peters leads initial Centers of Excellence customer engagement including relationship management of agency CIO, Deputy CIO, industry partners, and individual GSA Technology Transformation Service (TTS) CoE Teams. Most notably, David Peters led identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities based on IT modernization. With the GSA Administrator’s Award David Peters has been recognized for his contributions to Digital Government Strategy implementation and leadership on GSA Category Management Implementation Team. 
         linkedin: david-peters
       - name: George Chenkeli
-        img: GeorgeChenkeli.jpg
+        img: GeorgeChenkeli20.jpg
         bio: >-
           George Chenkeli has over 20 years of progressive leadership experience in IT Delivery, and Operations and Large-scale Program Management (Commercial and Government). At the U.S. Department of Housing and Urban Development (HUD), George Chenkeli provides strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise, leading a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, change management strategy, technical architecture, software engineering, and procurement of multi-year contracts valued over $200M.
         linkedin: george-chenkeli
@@ -56,7 +51,7 @@ teams:
           With 20 years of experience, Matt Montano is a Chief Information Officer leading teams, and providing customer- focused technical services and solutions. Currently, Matt Montano manages stakeholder engagement with the highest level of federal leadership communicating the value of the Centers of Excellence, identifies additional customers, hires additional staff and regularly supports the team to enhance career growth, mitigates project risk, and creates a positive customer experience. In this role, Matt Montano also oversees $50M IT Modernization projects at the United States Department of Agriculture (USDA), Housing Urban Development (HUD), and the Office of Personnel Management (OPM).
         linkedin: mgmontano
       - name: Matthew Rose
-        img: MatthewRose.jpg
+        img: MatthewRose19.jpg
         bio: >-
           With over 15 years of experience managing cleared federal government enterprise programs, Matthew Rose has led the creation and execution of agency strategies as well as planning and policy efforts in national and multinational organizations in the United States and abroad. Previously, Matthew Rose was the Mission Manager at the Department of Defense (DoD) Defense Intelligence Agency (DIA). Tasks included: championing security DoD-wide acquisition protection policy changes to the Deputy Secretary of Defense and Vice Chairman of the Joint Chiefs of Staff to improve critical technology protections and coordinating IC baseline assessments on all threats to critical technologies, defense industrial base, and research enterprise.
         linkedin: roseamatthew
