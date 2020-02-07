@@ -11,15 +11,33 @@ layout: default
               {% for person in team.people %}
                 <div class="usa-width-one-sixth person">
                   {% if person.bio %}
+                    <button role="tooltip" data-tippy="<strong>{{person.name}}</strong><p>{{ person.bio }}</p>" data-tippy-arrow="true" data-tippy-theme="light-border">
                     {% if person.img %}
                       <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" alt=""/>
                     {% endif %}
-                  <p>{{ person.name }}{% if person.center %}<br/>{{person.center}} Lead{% endif %}</p>
+                    </button>
+                  {% else %}
+                    {% if person.img %}
+                      <img src="{{site.baseurl}}{{"/images/team/" | append: person.img }}" alt=""/>
+                    {% endif %}
+                  {% endif %}
+                  <p>
+                    {% if person.linkedin %}
+                      <a href="{{"https://www.linkedin.com/in/" | append: person.linkedin-username}}" />
+                        {{ person.name }}
+                      </a>
+                    {% else %}
+                      {{ person.name }}
+                    {% endif %}
+                    {% if person.center %}
+                      <br/>
+                      {{person.center}} Lead
+                    {% endif %}
+                  </p>
                 </div>
               {% endfor %}
             </div> <!-- /.team-members -->
           {% endfor %}
         </div> <!-- /.usa-width-one-half -->
     </section> <!-- /.usa-grid -->
-</div>                     
-              
+</div>
