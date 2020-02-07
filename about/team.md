@@ -6,6 +6,11 @@ teams:
     people:
     - name: Bob De Luca
       img: BobDeLuca.jpg 
+    - name: David Peters
+        img: DavidPeters.jpg
+        bio: >-
+          David Peters leads initial Centers of Excellence customer engagement including relationship management of agency CIO, Deputy CIO, industry partners, and individual GSA Technology Transformation Service (TTS) CoE Teams. Most notably, David Peters led identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities based on IT modernization. With the GSA Administrator’s Award David Peters has been recognized for his contributions to Digital Government Strategy implementation and leadership on GSA Category Management Implementation Team. 
+        linkedin: david-peters
   - title: Program Management Office
     people:
       - name: Bethany Blakey
