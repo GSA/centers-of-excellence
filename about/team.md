@@ -6,8 +6,8 @@ teams:
     people:
     - name: Bob De Luca
       img: BobDeluca19.jpg 
-    - name: Brian Whittaker
-      img: BrianWhittaker19.jpg 
+    - name: David Peters
+      img: DavidPeters19.jpg
   - title: Program Management Office
     people:
       - name: Bethany Blakey
@@ -16,8 +16,6 @@ teams:
         img: BridgetFields19.jpg
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
-      - name: David Peters
-        img: DavidPeters19.jpg
       - name: George Chenkeli
         img: GeorgeChenkeli20.jpg
       - name: Jacqueline Snee
@@ -38,6 +36,8 @@ teams:
         img: OmidGhaffariTabrizi19.jpg
       - name: Rachel Jackson
         img:  RachelJackson19.jpg
+      - name: Simchah Suveyke-Bogin
+        img: SimchahBogin19.jpg
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
       - name: David Warren
@@ -82,9 +82,6 @@ teams:
         center: Customer Experience
       - name: Dan Willis
         img: DanWillis19.jpg
-        center: Customer Experience
-      - name: Simchah Suveyke-Bogin
-        img: SimchahBogin19.jpg
         center: Customer Experience
       - name: Matthew Sarbak
         img: MatthewSarbak19.jpg
