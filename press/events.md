@@ -8,6 +8,7 @@ title: Webcasts and Speaking Events
 ## Upcoming
 
 - [SNG Live IT Modernization](https://www.fedscoop.com/events/snglive/it-modernization-feb/) - Fedscoop
+- [2nd Annual Intelligence Community IT Day](https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day) - AFCEA NOVA
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 
 ## Previous
