@@ -7,6 +7,7 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
+- [SNG Live IT Modernization](https://www.fedscoop.com/events/snglive/it-modernization-feb/) - Fedscoop
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 
 ## Previous
