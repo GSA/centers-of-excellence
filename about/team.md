@@ -38,7 +38,6 @@ teams:
         img:  RachelJackson19.jpg
       - name: Simchah Suveyke-Bogin
         img: SimchahBogin19.jpg
-        center: Customer Experience
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
       - name: David Warren
