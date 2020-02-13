@@ -17,7 +17,7 @@ teams:
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
       - name: George Chenkeli
-        img: GeorgeChenkeli20-1.jpg
+        img: GeorgeChenkeli20-4.jpg
       - name: Jacqueline Snee
         img:  JackieSnee19.jpg
       - name: Jennifer Rostami
