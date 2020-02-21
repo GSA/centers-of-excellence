@@ -7,12 +7,11 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
-- [SNG Live IT Modernization](https://www.fedscoop.com/events/snglive/it-modernization-feb/) - Fedscoop
-- [2nd Annual Intelligence Community IT Day](https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day) - AFCEA NOVA
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 
 ## Previous
 
+- [2nd Annual Intelligence Community IT Day](https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day) - AFCEA NOVA
 - [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
 - [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
 - [ATARC IT Modernization Summit](https://atarc.org/event/it-modernization-2019-12/)- (ATARC)
