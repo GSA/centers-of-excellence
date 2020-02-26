@@ -6,6 +6,14 @@ teams:
     people:
     - name: Bob De Luca
       img: BobDeluca19.jpg 
+      bio: >-
+          With over 20 years of experience in the public sector tech field, Bob De Luca has a strong blend of leadership and technical expertise in planning and executing enterprise-wide solutions. As the Executive Director of the Centers of Excellence (CoE), De Luca is proud to be leading a team of talented individuals from both the public and private sector, to drive enterprise transformation at the agency level across the federal government. Prior to GSA, De Luca served as the Chief Information Officer at the Overseas Private Investment Corporation, where he led transformational change across the Corporation. Results Included transparency in the financial product lifecycle, streamlined business processing, and increased workforce mobility. Additionally, De Luca is a Major in the 175th Cyberspace Operations Squadron, in the Maryland Air National Guard.
+        linkedin: bobdeluca
+    - name: David Peters
+      img: DavidPeters19.jpg
+      bio: >-
+          David Peters leads initial Centers of Excellence customer engagement including relationship management of agency CIO, Deputy CIO, industry partners, and individual GSA Technology Transformation Service (TTS) CoE Teams. Most notably, David Peters led identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities based on IT modernization. With the GSA Administrator’s Award David Peters has been recognized for his contributions to Digital Government Strategy implementation and leadership on GSA Category Management Implementation Team. 
+        linkedin: david-peters
   - title: Program Management Office
     people:
       - name: Bethany Blakey
@@ -18,11 +26,6 @@ teams:
         bio: >-
           Bridget Fields has 6 years of federal government experience. Currently, she works as the Acquisitions Lead with the Centers of Excellence, serving as a project manager to manage relationships with government stakeholders and contractor teams, find flexibility within contractual terms to provide project teams the ability to achieve their actual objectives, and work on contractual modifications when changes are necessary. In addition, she has served as the Administrative Assistant to the Director of Acquisitions while also serving as the Project Manager responsible for managing the entirety of the organization's SaaS licenses and purchase card (ie, Government credit card) procurements for software. Bridget Fields was the recipient of the Special Act Award in 2018. 
         linkedin: bridget-fields-917a9b62
-      - name: David Peters
-        img: DavidPeters.jpg
-        bio: >-
-          David Peters leads initial Centers of Excellence customer engagement including relationship management of agency CIO, Deputy CIO, industry partners, and individual GSA Technology Transformation Service (TTS) CoE Teams. Most notably, David Peters led identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities based on IT modernization. With the GSA Administrator’s Award David Peters has been recognized for his contributions to Digital Government Strategy implementation and leadership on GSA Category Management Implementation Team. 
-        linkedin: david-peters
       - name: George Chenkeli
         img: GeorgeChenkeli.jpg
         bio: >-
