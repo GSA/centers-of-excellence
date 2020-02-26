@@ -92,6 +92,23 @@ teams:
         bio: >-
           Bryan Lane has over 15 years of experience leading advanced analytics and technology evaluation initiatives. Within the Data & Analytics Center of Excellence, Bryan advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the Data & Analytics COE, Bryan was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
         linkedin: bulletproofbry
+      - name: Eric Ewing
+        img: EricEwing20.jpg  
+        center: Artificial Intelligence
+        bio: >-
+          Bryan Lane has over 15 years of experience leading advanced analytics and technology evaluation initiatives. Within the Data & Analytics Center of Excellence, Bryan advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the Data & Analytics COE, Bryan was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
+        linkedin: bulletproofbry
+      - name: Krista Kinnard
+        img: KristaKinnard20.jpg 
+        center: Artificial Intelligence
+      - name: Joseph Raetano        
+        img: JosephRaetano.jpg
+        center: Aritfical Intelligence
+      - name: Brandon Kirby
+        img: BrandonKirby.jpeg
+        center: Cloud Adoption
+      - name: Calvert Smith
+        img: CalvertSmith19.jpg
       - name: Dan Jacobs
         img: DanJacobs19.jpg
         bio: >-
