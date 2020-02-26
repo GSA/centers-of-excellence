@@ -23,6 +23,10 @@ cards:
     description: Helps make more efficient use of data management, analysis, and reporting capabilities.
     classname: coe-da-link
     url: /coe/data-analytics.html
+  - title: Infrastructure Optimization
+    description: Helps make more efficient use of data management, analysis, and reporting capabilities.
+    classname: coe-da-link
+    url: /coe/infrastructure-optimization.html
 
 quotes:
   - text: This is a significant step forward in the government’s commitment to improve citizens’ lives.
@@ -40,7 +44,7 @@ quotes:
     <p class="centers-subtext">These centers are embedded in each agency and may change or grow to fit the needs of different sectors of government.</p>
 
     {% for card in page.cards %}
-        <div class="usa-width-one-fifth">
+        <div class="usa-width-one-third">
             {% include card.html card=card %}
         </div>
     {% endfor %}
