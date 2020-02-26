@@ -5,7 +5,7 @@ teams:
   - title: Centers of Excellence Leadership
     people:
     - name: Bob De Luca
-      img: BobDeLuca.jpg 
+      img: BobDeLuca19.jpg 
   - title: Program Management Office
     people:
       - name: Bethany Blakey
