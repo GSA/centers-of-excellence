@@ -30,12 +30,12 @@ teams:
         img:  DanielleGallant19.jpg
         bio: >-
           Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: danielle-gallant
+        linkedin: daniellergallant
       - name: David Warren
         img: DavidWarren.jpg
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
-        linkedin: david-warren
+        linkedin: david-warren-8abb72103
       - name: George Chenkeli
         img: GeorgeChenkeli20-4.jpg
         bio: >-
@@ -85,10 +85,12 @@ teams:
         img:  RachelJackson19.jpg
         bio: >-
           Rachel Jackson has over 9 years of project management experience supporting the federal government. A team member since the inception of the CoE program, Jackson provides support across the Centers, helps document the CoE processes and lessons learned, and provides PMO support at client sites. Prior to joining the CoE, Jackson provided support to the U.S. Dept of Agriculture, Food and Drug Administration, and U.S. Dept of Transportation with policy analysis, category management, and IT project management. 
+        linkedin: rachel-jackson-pmp-75b439125
       - name: Simchah Suveyke-Bogin
         img: SimchahBogin19.jpg
         bio: >-
           Simchah Suveyke-Bogin has worked with the federal government for over 10 years. Suveyke-Bogi leads the Customer Experience and Contact Center CoE teams as well as the CoE engagement with the U.S. Department of Agriculture. Suveyke-Bogin helps government agencies adopt user centered practices, innovative technology solutions, and change management approaches to improve government services to the public. Suveyke-Bogin is also responsible for managing GSA’s Customer Experience Community of Practice, a community of over 800 across federal, state, and local government employees working to develop social capital amongst agencies, nurture new learning, stimulate innovation, and share knowledge. 
+        linkedin: simchah-suveyke-bogin-2a9b793
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
         bio: >-
@@ -107,7 +109,7 @@ teams:
         center: Artificial Intelligence
         bio: >-
           Eric Ewing serves as a senior advisor to the Chief Data Officer at the U.S. Department of Housing and Urban Development (HUD) by providing leadership, guidance, and expertise into enterprise data and analytics modernization. With the CoE, Ewing consolidates and organizes long and short term strategy for data and analytics while managing technical implementation. Ewing has experience in managing technical teams, complex programs, and sensitive projects. For example, developing and implementing three acquisitions to modernize data and analytics practices at HUD.
-        linkedin: bulletproofbry
+        linkedin: eric-ewing-030b2b73
       - name: Krista Kinnard
         img: KristaKinnard20.jpg 
         center: Artificial Intelligence
@@ -128,6 +130,7 @@ teams:
         linkedin: brandocalrissian
       - name: Calvert Smith
         img: CalvertSmith19.jpg
+        center: Cloud Adoption Lead
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
         linkedin: calvert-smith-cissp-pmp-4677243
@@ -155,7 +158,6 @@ teams:
         bio: >-
           Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
         linkedin: sandra-dickinson-0764238
-        linkedin: stephaniesoblitriggin
       - name: Stephanie Riggin
         img: StephanieRiggin19.jpg
         center: Contact Center
