@@ -103,7 +103,7 @@ teams:
         center: Aritfical Intelligence
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
-- name: Calvert Smith
+      - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption
         bio: >-
