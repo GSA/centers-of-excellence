@@ -13,7 +13,7 @@ teams:
         img: DavidPeters19.jpg 
         bio: >-
           As the Deputy Director of the Centers of Excellence (CoE), Peters manages stakeholder engagement with the highest level of federal leadership communicating the value of the CoE and identifying new opportunities for collaboration with customer agencies to modernize IT and customer experiences. Previously, Peters led the Customer Experience and Contact Center CoE as well as the first CoE engagement with the U.S. Department of Agriculture.  Most notably, Peters led the identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities. With the 2015 GSA Administrator’s Award and 2014 Federal 100 Award, Peters has been repeatedly recognized for his contributions to Digital Government Strategy implementation and IT acquisition across the federal government. 
-        linkedin: pub/david-peters/2/222/b0b
+        linkedin: david-peters/2/222/b0b
   - title: Program Management Office
     people:
       - name: Bethany Blakey
@@ -110,23 +110,27 @@ teams:
         linkedin: bulletproofbry
       - name: Krista Kinnard
         img: KristaKinnard20.jpg 
+        center: Artificial Intelligence
         bio: >-
           Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
-        center: Artificial Intelligence
+        linkedin: krista-kinnard
       - name: Joseph Raetano        
         img: JosephRaetano.jpg
+        center: Artifical Intelligence
         bio: >-
           Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research, development, teasting, and evaluation experience.  Raetano hasmore than 3 years of developing new programs in Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Understanding. He has over 6years involving various transportation-based initiatives at both the national laboratory and commercial sectors. He has more than 15 years experience in offensive and defensive cyberspace research, development, testing and operations at the National Level. This extensive experience has been utilized in concept development and implementation that has set the cyber vision, strategy and implementation at the national and service level. He has a decade of Explosive Ordnance Disposal (EOD) experience with a career supported by a MS Computer Science and Ph.D. (ABD) Computer Science focused on Machine Learning/Artificial Intelligence. 
-        center: Aritfical Intelligence
+        linkedin: josephraetano
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption
         bio: >-
           Brandon Kirby has over 20 years of experience delivering strategy, software, and technology guidance to private and public sector clients.  As a consultant, Kirby worked with numerous Fortune 50 clients.  As an 18F strategist he served 12 government agencies.  He has also worked for mid-sized product companies and founded streaming media and mobile game startups. Kirby is a generalist who enjoys using his experience in software development, agile practices, strategy, and product management to help partners find the right path to achieve their goals.
+        linkedin: brandocalrissian
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
+        linkedin: calvert-smith-cissp-pmp-4677243
       - name: Dan Jacobs
         img: DanJacobs19.jpg
         bio: >-
@@ -163,6 +167,7 @@ teams:
         center: Customer Experience
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
+        linkedin: uxcrank
       - name: Lashanda Hodge
         img: LashandaHodge19.jpg
         center: Customer Experience
@@ -205,7 +210,7 @@ teams:
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs.  At the CoE he directs agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
-      - name: Sif Sripada
+      - name: Sid Sripada
         img: SidSripada.jpeg
         center: IT Infrastructure Optimization
         bio: >-
