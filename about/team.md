@@ -92,23 +92,6 @@ teams:
         bio: >-
           Bryan Lane has over 15 years of experience leading advanced analytics and technology evaluation initiatives. Within the Data & Analytics Center of Excellence, Bryan advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the Data & Analytics COE, Bryan was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
         linkedin: bulletproofbry
-     - name: Eric Ewing
-        img: EricEwing20.jpg
-        center: Artificial Intelligence
-      - name: Krista Kinnard
-        img: KristaKinnard20.jpg 
-        center: Artificial Intelligence
-      - name: Joseph Raetano        
-        img: JosephRaetano.jpg
-        center: Aritfical Intelligence
-      - name: Brandon Kirby
-        img: BrandonKirby.jpeg
-      - name: Calvert Smith
-        img: CalvertSmith19.jpg
-        center: Cloud Adoption
-        bio: >-
-          Calvert Smith assists in IT Modernization efforts with agencies across the Federal Government in the area of Cloud Adoption. His projects with the Centers of Excellence includes: analyzing current systems and applications to provide recommendations for planning cloud migration, implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs, among other things. Calvert Smith has over 20 years of experience in the areas of technology innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. Recently, he has been awarded the Discovery and Innovation in Government IT Award with analysis work with USDA.
-        linkedin: calvert-smith-cissp-pmp-4677243
       - name: Dan Jacobs
         img: DanJacobs19.jpg
         bio: >-
