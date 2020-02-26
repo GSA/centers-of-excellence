@@ -21,7 +21,9 @@ To drive sustainable modernization, the CoE centralize top government tech talen
 
 Government departments and agencies partner with CoE to co-create and accelerate their modernization initiatives. The CoE model focuses on bringing in the right people, at the right time, to drive sustainable outcomes. 
 
-CHART HERE
+<a href="{{site.baseurl}}/images/TeamStructure.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/TeamStructure.png" class="img-responsive" alt="The CoE teams are made up of Leads, Champion and Detailees, and Industry Partners">
+</a>
 
 ## How We Work
 
@@ -45,7 +47,13 @@ The CoE Delivery teams are intentionally designed to have a unique blend of our 
 
 The CoE has partnered with the following federal departments and agencies to support them in their modernization journey:
 
-LIST HERE 
+- U.S. Department of Agriculture (USDA) 
+- U.S Department of Housing and Urban Development (HUD)
+- US Office of Personnel Management (OPM)
+- Consumer Product Safety Commission (CPSC)
+- Department of Defense (DoD) Joint Artificial Intelligence Center (JAIC)
+- Department of Labor (DOL) 
+- Government Accountability Office (GAO) 
 
 TIf you are interested in learning more about the Centers of Excellence or discussing tools or solutions, please reach out to us at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov)
 
