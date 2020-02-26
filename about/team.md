@@ -13,7 +13,7 @@ teams:
         img: DavidPeters19.jpg 
         bio: >-
           As the Deputy Director of the Centers of Excellence (CoE), Peters manages stakeholder engagement with the highest level of federal leadership communicating the value of the CoE and identifying new opportunities for collaboration with customer agencies to modernize IT and customer experiences. Previously, Peters led the Customer Experience and Contact Center CoE as well as the first CoE engagement with the U.S. Department of Agriculture.  Most notably, Peters led the identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities. With the 2015 GSA Administrator’s Award and 2014 Federal 100 Award, Peters has been repeatedly recognized for his contributions to Digital Government Strategy implementation and IT acquisition across the federal government. 
-        linkedin: david-peters-b0b2222
+        linkedin: pub/david-peters/2/222/b0b
   - title: Program Management Office
     people:
       - name: Bethany Blakey
