@@ -9,11 +9,12 @@ teams:
         bio: >-
           With over 20 years of experience in the public sector tech field, Bob De Luca has a strong blend of leadership and technical expertise in planning and executing enterprise-wide solutions. As the Executive Director of the Centers of Excellence (CoE), De Luca is proud to be leading a team of talented individuals from both the public and private sector, to drive enterprise transformation at the agency level across the federal government. Prior to GSA, De Luca served as the Chief Information Officer at the Overseas Private Investment Corporation, where he led transformational change across the Corporation. Results Included transparency in the financial product lifecycle, streamlined business processing, and increased workforce mobility. Additionally, De Luca is a Major in the 175th Cyberspace Operations Squadron, in the Maryland Air National Guard.
         linkedin: bobdeluca
-      - name: Bob De Luca
-        img: BobDeluca19.jpg 
+      - name: David Peters
+        img: DavidPeters19.jpg 
         bio: >-
-          With over 20 years of experience in the public sector tech field, Bob De Luca has a strong blend of leadership and technical expertise in planning and executing enterprise-wide solutions. As the Executive Director of the Centers of Excellence (CoE), De Luca is proud to be leading a team of talented individuals from both the public and private sector, to drive enterprise transformation at the agency level across the federal government. Prior to GSA, De Luca served as the Chief Information Officer at the Overseas Private Investment Corporation, where he led transformational change across the Corporation. Results Included transparency in the financial product lifecycle, streamlined business processing, and increased workforce mobility. Additionally, De Luca is a Major in the 175th Cyberspace Operations Squadron, in the Maryland Air National Guard.
-        linkedin: bobdeluca
+          As the Deputy Director of the Centers of Excellence (CoE), Peters manages stakeholder engagement with the highest level of federal leadership communicating the value of the CoE and identifying new opportunities for collaboration with customer agencies to modernize IT and customer experiences.
+Previously, Peters led the Customer Experience and Contact Center CoE as well as the first CoE engagement with the U.S. Department of Agriculture.  Most notably, Peters led the identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities. With the 2015 GSA Administrator’s Award and 2014 Federal 100 Award, Peters has been repeatedly recognized for his contributions to Digital Government Strategy implementation and IT acquisition across the federal government. 
+        linkedin: david-peters
   - title: Program Management Office
     people:
       - name: Bethany Blakey
