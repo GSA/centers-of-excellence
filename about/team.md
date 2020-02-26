@@ -100,105 +100,116 @@ teams:
         img: BryanLane19.jpg  
         center: Artificial Intelligence
         bio: >-
-          Bryan Lane has over 15 years of experience leading advanced analytics and technology evaluation initiatives. Within the Data & Analytics Center of Excellence, Bryan advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the Data & Analytics COE, Bryan was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
+          Bryan Lane has over 15 years of experience leading advanced analytics and technology initiatives. As a leader within the Data and Analytics CoE and co-creator of the Artificial Intelligence CoE, Lane advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Lane was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
         linkedin: bulletproofbry
       - name: Eric Ewing
         img: EricEwing20.jpg  
         center: Artificial Intelligence
         bio: >-
-          Bryan Lane has over 15 years of experience leading advanced analytics and technology evaluation initiatives. Within the Data & Analytics Center of Excellence, Bryan advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the Data & Analytics COE, Bryan was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
+          Eric Ewing serves as a senior advisor to the Chief Data Officer at the U.S. Department of Housing and Urban Development (HUD) by providing leadership, guidance, and expertise into enterprise data and analytics modernization. With the CoE, Ewing consolidates and organizes long and short term strategy for data and analytics while managing technical implementation. Ewing has experience in managing technical teams, complex programs, and sensitive projects. For example, developing and implementing three acquisitions to modernize data and analytics practices at HUD.
         linkedin: bulletproofbry
       - name: Krista Kinnard
         img: KristaKinnard20.jpg 
+        bio: >-
+          Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
         center: Artificial Intelligence
       - name: Joseph Raetano        
         img: JosephRaetano.jpg
+        bio: >-
+          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research, development, teasting, and evaluation experience.  Raetano hasmore than 3 years of developing new programs in Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Understanding. He has over 6years involving various transportation-based initiatives at both the national laboratory and commercial sectors. He has more than 15 years experience in offensive and defensive cyberspace research, development, testing and operations at the National Level. This extensive experience has been utilized in concept development and implementation that has set the cyber vision, strategy and implementation at the national and service level. He has a decade of Explosive Ordnance Disposal (EOD) experience with a career supported by a MS Computer Science and Ph.D. (ABD) Computer Science focused on Machine Learning/Artificial Intelligence. 
         center: Aritfical Intelligence
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption
+        bio: >-
+          Brandon Kirby has over 20 years of experience delivering strategy, software, and technology guidance to private and public sector clients.  As a consultant, Kirby worked with numerous Fortune 50 clients.  As an 18F strategist he served 12 government agencies.  He has also worked for mid-sized product companies and founded streaming media and mobile game startups. Kirby is a generalist who enjoys using his experience in software development, agile practices, strategy, and product management to help partners find the right path to achieve their goals.
       - name: Calvert Smith
         img: CalvertSmith19.jpg
+        bio: >-
+          Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
       - name: Dan Jacobs
         img: DanJacobs19.jpg
         bio: >-
-          Dan Jacobs supports CFO-Act agency cyber/information security modernization through accelerated adoption of highly mature enterprise-wide processes and technologies. With over 20 years of combined IT/Cybersecurity experience and IT service management, Dan Jacobs currently serves as a primary point of contact for GSA and as an official representative for cybersecurity initiatives and programs. ​Dan Jacobs is a member of various government-wide working groups and initiatives, such as Supply Chain Risk Management, International Cybersecurity Standardization for the Internet of Things; Zero Trust Networking; Blockchain; SOCaaS, and Cybersecurity Workforce.
+          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
         linkedin: danieljacobs
         center: Cloud Adoption
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption
         bio: >-
-          Syed Azeem has over 16 years of experience across the Federal and private sector in leading complex and highly-visible IT modernization projects. With the Centers of Excellence, Syed Azeem  leads IT Modernization efforts within agencies across the Federal Government in the area of Cloud Adoption by developing cloud migration roadmaps and timelines and implementing cloud governance models. With partnerships at the Department of Housing and Urban Development, Syed Azeem assisted in digitizing manual and paper-based forms into adaptive online forms with digital workflows, electronic signatures and intelligent data extraction.
+          Syed Azeem has over 16 years of experience leading complex and highly-visible IT modernization projects across the federal government and the private sector. With the CoE, Azeem leads Cloud Adoption efforts within agencies across the federal government by developing cloud migration roadmaps and timelines and implementing cloud governance models. With partnerships at the Department of Housing and Urban Development (HUD), Azeem assisted in digitizing manual and paper-based forms into adaptive online forms with digital workflows, electronic signatures and intelligent data extraction.
         linkedin: syedazeem
       - name: Meghan Daly
         img: MeghanDaly19.jpg
         center: Contact Center
         bio: >-
-          Meghan Daly has 15 years of experience managing highly visible projects in the federal government, with 10 years being with GSA. With the Centers of Excellence, focused on Contact Centers and Customer Experience, Meghan Daly’s projects include strategizing with senior leaders to identify clear key priorities and opportunities to modernize IT, performing research on available intelligent systems solutions to enable robotic process automation (RPA), artificial intelligence (AI) and other intelligent systems, and overseeing IT Modernization projects at the United States Department of Agriculture (USDA) and Housing and Urban Development (HUD).Meghan Daly has led IT Modernization projects and initiatives valued at $80M at three federal agencies. 
+          Meghan Daly has 15 years of experience managing highly visible projects in the federal government, with 10 years at GSA. With the CoE, focused on Contact Centers and Customer Experience, Daly’s projects include strategizing with senior leaders to identify clear key priorities and opportunities to modernize IT, performing research on available intelligent systems solutions to enable robotic process automation (RPA), artificial intelligence (AI) and other intelligent systems, and overseeing IT modernization projects at the United States Departments of Agriculture (USDA) and Housing and Urban Development (HUD). Daly has led IT Modernization projects and initiatives valued at $80M at three federal agencies.  
         linkedin: meghan-daly-7057a08
       - name: Sandra Dickinson
         img: SandraDickinson.jpeg
         center: Contact Center
         bio: >-
-          Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the Centers of Excellence, Sandra Dickinson leads team efforts to modernize contact centers at partner agencies, for example with the implementation phases for OneUSDA Contact Center. Sandra Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation
+          Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
         linkedin: sandra-dickinson-0764238
-      - name: Stephanie Riggin
-        img: StephanieRiggin.jpg
-        center: Contact Center
-        bio: >-
-          With Contact Center, Centers of Excellence, Stephanie Riggin engages with partner agency stakeholders and collaborates to determine best practices including contact center infrastructure, staffing, and technology implementation. Stephanie Riggin supports the Contact Center team at the Department of Housing and Urban Development (HUD) by identifying opportunities for improvement for contact center governance, management, operations, and emerging technologies including self-service tools. Stephanie Riggin has over 15 years of program support experience in various acquisition, IT and contact center programs. 
         linkedin: stephaniesoblitriggin
       - name: Stephanie Riggin
         img: StephanieRiggin19.jpg
         center: Contact Center
+        bio: >-
+          Stephanie Riggin has over 15 years of program support experience in various acquisition, IT, and contact center operations. Within the Contact Center CoE, Riggin engages with partner agency stakeholders and collaborates to determine best practices including contact center infrastructure, staffing, and technology implementation. Riggin supported the Contact Center team at the Department of Housing and Urban Development (HUD) by identifying opportunities for improvement for contact center governance, management, operations, and emerging technologies including self-service tools. Riggin is currently supporting the DOD Joint Artificial Intelligence Center (JAIC) by documenting current project management processes and staff priorities in order to recommend best practices and tools.
+        linkedin: stephaniesoblitriggin
+      - name: Dan Willis
+        img: DanWillis19.jpg
+        center: Customer Experience
+        bio: >-
+          Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
       - name: Lashanda Hodge
         img: LashandaHodge19.jpg
         center: Customer Experience
         bio: >-
-          Michael Amante has over 15 years of experience creating compelling experiences for customers, users, and citizens, applies human-centered approaches and forward thinking design to enhance the services provided to customers of the Federal Government. With the Centers of Excellence, Michael Amante leads a team of six design strategists and researchers to drive measurable improvement in the quality of the experiences that the Department of Housing and Urban Development (HUD) provides its customers. Additionally, Michael Amante works in concert with executive-level leadership at the United States Department of Agriculture (USDA).
-        linkedin: michael-amante-680770
-      - name: Dan Willis
-        img: DanWillis19.jpg
-        center: Customer Experience
+          Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
+        linkedin: lashandahodge
       - name: Matthew Sarbak
         img: MatthewSarbak19.jpg
         center: Customer Experience
+        bio: >-
+          Matthew Sarbak has served in the public sector over 14 years with Social Security Administration, Office of Personnel Management, and most currently while on detail with GSA through the President’s Management Council (PMC) Interagency Rotation Program. For the past 7 years, Sarbak has focused on implementing significant process improvements within the departments he serves.  Sarbak serves on the Customer Experience (CX) CoE team partnering with the U.S. Housing and Urban Development (HUD). While with the CX Team, Sarbak has assisted with the validity and scoring of vendor responses along with assisting in the finalization of the vendor interview questions for the orals. Sarbak is also actively serving as one of the two points of contact along with co-managing of the CX Data Profile Project Team.
+        linkedin: matthew-sarbak-5b60912a
       - name: Alexandra Porter
-        img: AlexandraPorter.jpg 
+        img: AlexandraPorter19.jpg
         center: Data Analytics
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At  the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
-        linkedin: AlexandraPorter19.jpg
+        linkedin: alexandra-porter-497b7498
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
         center: Data Analytics
-      - name: Eric Ewing
-        img: Eric_Ewing.jpg
-        center: Data Analytics
+        bio: >-
+          Ambuj Neupane has over 7 years of public sector experience building organizational capacity and managing modernization projects. As a President’s Management Council Fellow for the Data and Analytics CoE, Neupane serves at the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. 
+        linkedin: ambuj-neupane
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data Analytics
         bio: >-
-          With the Centers of Excellence, Satyajeet Dhumne oversees and leads a team of 6FTEs and 30+ data and analytics experts and project managers to accomplish the program objectives for a multi-year, multi-vendor, enterprise-wide data analytics initiative at USDA. In this role, Satyajeet Dhumne provides matter expertise and advisory in various aspects of the program including – strategic analytics capabilities deployment, communities of practice, open data initiative, data management, and federal data mandates. Satyajeet Dhumne has 20+ years of experience in Business Intelligence, Analytics, Data Warehousing, and Data Management. 
+          Satyajeet Dhumne has over 20 years of experience in Business Intelligence, Analytics, Data Warehousing, and Data Management. With the CoE, Dhumne leads a team of 30+ data and analytics experts and project managers to accomplish the program objectives for a multi-year, multi-vendor, enterprise-wide data analytics initiative at the U.S. Department of Agriculture. In this role, Dhumne provides subject matter expertise and advisory in various aspects of the program including strategic analytics capabilities deployment, communities of practice, open data initiative, data management, and federal data mandates.  
         linkedin: sgdhumne
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
         center: Data Analytics
         bio: >-
-          Thomas Hallaran is committed to engineering and bringing to market scalable, high impact solutions with 10+ years of experience creating products. Currently, Thomas Hallaran leads cross functional teams and helps drive innovation at partner agencies in data management, organizational capacity, analysis and enterprise analytics infrastructure. At the United States Department of Agriculture, Thomas Hallaran contributed to the creation of the first enterprise wide analytics dashboard.
+          Tom Hallaran has over 20 years experience in public and private sector IT, software engineering, and strategy. Hallaran began his career as a bioinformatician working on automating genome sequencing and plating pipelines. Later, as VP of engineering at a major digital advertising network, Hallaran managed analytics and product teams prior to the company's sale. Before joining GSA, Hallaran’s software and analytics consultancy worked with Fortune 500 clients, leading organizations, and startups to modernize legacy technology and materialize new products. Hallaran currently serves as a Director of the Data and Analytics Center of Excellence. In this role, he pairs his private sector experience along with his understanding of Federal IT funding to engineer great outcomes for our partners.  Hallaran also serves as a Technical Advisor to GSA’s Technology Modernization Fund (TMF) and is responsible for advising the TMF board on their investment of $150 Million in Federal Agency modernization projects.
         linkedin: tomhallaran
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
         bio: >-
-          Currently, Adam Grandt- Nesher assists agencies in plan lasting, resilient modernization efforts by introducing software development and systems administration best practices. With a proven track record of effecting technological evolution to meet organizational needs, Adam Grandt- Nesher serves as an OPM Infrastructure Optimization CoE lead. Adam Grandt- Nesher’s projects include: developing cloud migration roadmaps and timelines to ensure effective prioritization based on risk, cost, and time to completion that align with agency mission, and enabling adoption of digital business capabilities using modern technologies.
+          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs.  At the CoE he directs agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
-      - name: Dan Jacobs
-        img: DanJacobs.jpg
+      - name: Sif Sripada
+        img: SidSripada.jpeg
         center: IT Infrastructure Optimization
         bio: >-
-          Dan Jacobs supports CFO-Act agency cyber/information security modernization through accelerated adoption of highly mature enterprise-wide processes and technologies. With over 20 years of combined IT/Cybersecurity experience and IT service management, Dan Jacobs currently serves as a primary point of contact for GSA and as an official representative for cybersecurity initiatives and programs. ​Dan Jacobs is a member of various government-wide working groups and initiatives, such as Supply Chain Risk Management, International Cybersecurity Standardization for the Internet of Things; Zero Trust Networking; Blockchain; SOCaaS, and Cybersecurity Workforce.
-        linkedin: danieljacobs
+          Sid Sripada has over 15 years of IT Infrastructure modernization experience in both federal government and private industries. Sripada has a successful track record of engaging various agencies in infrastructure optimization, automation and DevSecOps implementation. Sripada’s leadership and hands-on experience builds fast and efficient enterprise wide solutions to modern Agile initiatives. Sripada’s most recent engagement prior to joining CoE included building out scalable public facing infrastructure in support of first ever internet based US 2020 Census.
+        linkedin: sidsripada
       
 ---
