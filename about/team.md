@@ -89,7 +89,7 @@ teams:
       - name: Simchah Suveyke-Bogin
         img: SimchahBogin19.jpg
         bio: >-
-          Simchah Suveyke-Bogin has worked with the federal government for over 10 years. Suveyke-Bogi leads the Customer Experience and Contact Center CoE teams as well as the CoE engagement with the U.S. Department of Agriculture. Suveyke-Bogin helps government agencies adopt user centered practices, innovative technology solutions, and change management approaches to improve government services to the public. Suveyke-Bogin is also responsible for managing GSA’s Customer Experience Community of Practice, a community of over 800 across federal, state, and local government employees working to develop social capital amongst agencies, nurture new learning, stimulate innovation, and share knowledge. 
+          Simchah Suveyke-Bogin has worked with the federal government for over 10 years. Suveyke-Bogin leads the Customer Experience and Contact Center CoE teams as well as the CoE engagement with the U.S. Department of Agriculture. Suveyke-Bogin helps government agencies adopt user centered practices, innovative technology solutions, and change management approaches to improve government services to the public. Suveyke-Bogin is also responsible for managing GSA’s Customer Experience Community of Practice, a community of over 800 across federal, state, and local government employees working to develop social capital amongst agencies, nurture new learning, stimulate innovation, and share knowledge. 
         linkedin: simchah-suveyke-bogin-2a9b793
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
