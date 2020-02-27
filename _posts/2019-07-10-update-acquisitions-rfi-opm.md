@@ -8,7 +8,7 @@ date: July 10, 2019
 The <a href="https://www.gsa.gov/">General Services Administration (GSA)</a> has partnered with the 
 <a href="https://www.opm.gov/">U.S. Office of Personnel Management (OPM)</a> to provide assistance with their modernization efforts. Through a collaboration between the <a href="https://www.gsa.gov/about-us/organization/gsa-it">GSA Office of the Chief Information Officer (GSA IT)</a> and the <a href="https://coe.gsa.gov/">Centers of Excellence (CoE)</a>, OPM will be able to stabilize their infrastructure, laying the foundation for the transformative efforts that could then follow.
 
-CoE utilized the material provided by GSA IT and OPM to develop a <a href="https://github.com/GSA/coe-opm-mainframe-dr-plan/blob/master/Draft-RFQ.pdf">Draft Request for Quotation (Draft RFQ)</a>. This Draft RFQ, along with its associated artifacts, have been <a href="https://github.com/GSA/coe-opm-mainframe-dr-plan">made available online</a> in order to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkeXfdYY4_qMGIA7T4D6M7wyA8eweGy7wbg4rjPGLKJouNpQ/viewform">obtain industry feedback</a>.
+CoE utilized the material provided by GSA IT and OPM to develop a Draft Request for Quotation (Draft RFQ). This Draft RFQ, along with its associated artifacts, have been <a href="https://github.com/GSA/coe-opm-mainframe-dr-plan">made available online</a> in order to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkeXfdYY4_qMGIA7T4D6M7wyA8eweGy7wbg4rjPGLKJouNpQ/viewform">obtain industry feedback</a>.
 
 CoE is looking for ways to improve the Draft RFQ so that OPM ends up with the necessary equipment to stand up two disaster 
 recovery mainframes in Macon, Georgia and Boyers, Pennsylvania. This is important in that it will help stabilize OPM’s IT i

@@ -1,6 +1,7 @@
 ---
 layout: with-grid
 title: Approach & Team Structure
+redirect_from: /about
 ---
 
 # Approach &amp; Team Structure
@@ -12,12 +13,13 @@ The CoE partner with agencies to co-create their modernization initiatives. The 
 
 The GSA Centers of Excellence (CoE) were established to accelerate IT modernization across government to improve the public experience and increase operational efficiency.
  
-To accomplish these objectives, the CoE centralize top government tech talent, leverage private-sector best practices, and operate with a teaming mindset to collaborate across government departments and agencies. The CoE has teams focus on five functional areas:
+To accomplish these objectives, the CoE centralize top government tech talent, leverage private-sector best practices, and operate with a teaming mindset to collaborate across government departments and agencies. The CoE has teams focus on six functional areas:
 
+- Artificial Intelligence
 - Cloud Adoption
 - Contact Center
 - Customer Experience
-- Data Analytics
+- Data and Analytics
 - Infrastructure Optimization
 
 ## Delivery

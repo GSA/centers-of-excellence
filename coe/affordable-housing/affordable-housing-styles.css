@@ -1,0 +1,475 @@
+@charset "UTF-8";
+/* CSS Document */
+.affordable-housing-content {
+    margin-bottom: 0 !important;
+}
+.ah-headline-area {
+    width: 100%;
+    height: 700px;
+    position: relative;
+    overflow: hidden;
+}
+.ah-bg-gradient {
+    background: #dfeef0; /* Old browsers */
+    background: -moz-linear-gradient(top, #96d0fe 0%, #e6f2f3 60%, #dfeef0 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #96d0fe 0%,#e6f2f3 60%, #dfeef0 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #96d0fe 0%,#e6f2f3 60%, #dfeef0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96d0fe', endColorstr='#dfeef0',GradientType=0 ); /* IE6-9 */
+}
+.ah-bg-1,
+.ah-bg-2,
+.ah-bg-3,
+.ah-bg-4 {
+    transition: all 0.3s;
+    width: 100%;
+    height: 700px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center 0px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.ah-bg-gradient {
+    transition: all 0.3s;
+    width: 100%;
+    height: 700px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.ah-bg-1 {
+    background-image: url(../../images/customer-experience/ah-report-bg-1.svg);
+    z-index: 5;
+}
+.ah-bg-2 {
+    background-image: url(../../images/customer-experience/ah-report-bg-2.svg);
+    z-index: 6;
+}
+.ah-bg-3 {
+    background-image: url(../../images/customer-experience/ah-report-bg-3.svg);
+    z-index: 7;
+}
+.ah-bg-4 {
+    background-image: url(../../images/customer-experience/ah-report-bg-4.svg);
+    z-index: 8;
+}
+.down-arrow {
+    width: 2rem;
+    height: 2rem;
+    display:none;
+    margin-left: -1rem;
+    position: absolute;
+    z-index: 9;
+    bottom: 1.4rem;
+    left: 50%;
+}
+.affordable-housing-headline h1 {
+    text-align: center;
+    color: #25364d;
+    border:0;
+    padding:7rem 2rem 0;
+    margin: 0;
+    position: relative;
+    z-index: 9;
+}
+.affordable-housing-headline p {
+    z-index: 9;
+    margin: 0;
+    padding: 1rem 2rem;
+    text-align: center;
+    color: #25364d;
+    display: block;
+    position: relative;
+    font-size:2rem;
+}
+.usa-grid-full {
+    max-width: 100%;
+}
+.nav-horizontal {
+    transform: translate3d(0, 0, 0);
+    background-color: #25364d;
+    text-align: center;
+}
+.nav-horizontal.is-fixed {
+    /* on Firefox CSS transition/animation fails when parent element changes position attribute*/
+    /* so we defined to diffent classes: .is-fixed to change the position value and .is-animated to change childrens' attributes (padding and opacity)*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 66px;
+    width: 100%;
+    z-index: 20;
+}
+.nav-horizontal ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-horizontal ul li {
+    display: inline-block;
+    margin:0;
+}
+.nav-horizontal a {
+    padding: 2rem 2.7rem;
+    display: block;
+    font-size: 1.7rem;
+    color: #FFFFFF;
+    font-family: "Merriweather","Georgia","Times New Roman",serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+.nav-horizontal a:focus,
+.nav-horizontal a:hover {
+    text-decoration: underline;   
+}
+.nav-horizontal a.active {
+    background-color:#25364d;
+}
+.nav-horizontal a.active:focus,
+.nav-horizontal a.active:hover {
+    text-decoration: none;   
+}
+.ah-box {
+    margin: 0;
+}
+.ah-box h4 {
+    margin-top: 0;
+}
+.timeline-box {
+    background-color:#0F2E3C;
+    margin-top: 2rem;
+    padding: 2rem;
+    color:#ffffff;
+}
+.timeline-box h3:first-child {
+    margin-top: 2rem !important;
+}
+.timeline-box h4 {
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-size: 1.6rem;
+}
+.number-circle {
+    display: block;
+    background-color:#5278AD;
+    border-radius: 50%;
+    width: 8rem;
+    height:8rem;
+    text-align: center;
+    font-family: "Merriweather","Georgia","Times New Roman",serif;
+    font-size: 4rem;
+    line-height: 8rem;
+    font-weight: 700;
+    color: #ffffff;
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: 3rem;
+}
+p.story-intro {
+    font-size: 2.2rem;
+    font-weight: 300;
+    margin-top: 0;
+}
+.text-normal {
+    font-weight: 400;
+}
+ul.data-collection li {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.data-collection .dot {
+    width: 2.4rem;
+    height: 2.4rem;
+    display: block;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-right: 1rem;
+}
+.data-collection .dot-1 {
+    background-color: #cc5c9a;
+}
+.data-collection .dot-2 {
+    background-color: #815acc;
+}
+.data-collection .dot-3 {
+    background-color: #2ba367;
+}
+.data-collection .dot-4 {
+    background-color: #37a5c8;
+}
+.data-collection .dot-5 {
+    background-color: #b0c81f;
+}
+.data-collection .dot-6 {
+    background-color: #cc4e32;
+}
+.data-collection .dot-7 {
+    background-color: #c1d9ea;
+}
+.data-collection .number {
+    font-size: 2.8rem;
+    text-align: right;
+    width: 40px;
+}
+.data-collection .activities {
+    margin-left: 1rem;
+    border-left: 1px solid rgba(255,255,255,0.3);
+    padding-left: 1rem;
+}
+.customer-story-box {
+    border-color:#ededed;
+    background-color:#f2f2f2;
+    padding: 2rem;
+    margin: 2rem 0 !important;
+}
+.customer-story-intro {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+.customer-intro-content {
+    flex: 1;
+}
+.customer-intro-content p {
+    font-size:1.7rem;
+}
+.customer-intro-content h3 {
+    color: #082310;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-size: 2.4rem;
+    margin-top: 0;
+}
+.img-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px solid #fdb81e;
+    margin-right: 2rem;
+    margin-bottom: 3rem;
+}
+.customer-quotes-wrapper {
+    margin-bottom: 4rem !important;
+}
+blockquote.customer-quotes {
+    font-family: "Merriweather","Georgia","Times New Roman",serif;
+    font-weight: 300;
+    font-style: italic;
+    color: #25364d;
+	position: relative;
+}
+blockquote.customer-quotes::before{
+  	content: "\201C";
+	position: absolute;
+  	left: -12px;
+}
+blockquote.customer-quotes::after{
+	content: '';
+}
+@media screen and (max-width: 992px) {
+    .ah-headline-area {
+        height: 600px;
+    }
+    .affordable-housing-headline p {
+        font-size:1.8rem;
+    }
+    .ah-bg-1,
+    .ah-bg-2,
+    .ah-bg-3,
+    .ah-bg-4 {
+        height: 600px;
+    }
+    .ah-bg-gradient {
+        height: 600px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .affordable-housing-headline h1 {
+        padding-top: 5rem;
+        font-size:2.4rem;
+    }
+    .ah-headline-area {
+        height: 500px;
+    }
+    .affordable-housing-headline p {
+        font-size:1.7rem;
+    }
+    .ah-bg-1,
+    .ah-bg-2,
+    .ah-bg-3,
+    .ah-bg-4 {
+        height: 500px;
+    }
+    .ah-bg-gradient {
+        height: 500px;
+    }
+}
+@media screen and (max-width: 720px) {
+    .affordable-housing-headline h1 {
+        padding-top: 4rem;
+    }
+    .nav-horizontal.is-fixed {
+        height: auto;
+    }
+    .nav-horizontal a {
+        padding: 1.3rem 1rem;
+        font-size: 1.4rem;
+    }
+}
+@media screen and (max-width: 600px) {
+    .affordable-housing-headline h1 {
+        padding-top: 3rem;
+    }
+    .affordable-housing-headline p {
+        font-size:1.6rem;
+    }
+    .ah-headline-area {
+        height: 450px;
+    }
+    .ah-bg-1,
+    .ah-bg-2,
+    .ah-bg-3,
+    .ah-bg-4 {
+        height: 450px;
+    }
+    .ah-bg-gradient {
+        height: 450px;
+    }
+    .down-arrow {
+         display:block;   
+    }
+}
+@media screen and (max-width: 500px) {
+    .affordable-housing-headline h1 {
+        padding-top: 2.6rem;
+    }
+    .ah-headline-area {
+        height: 400px;
+    }
+    .ah-bg-1,
+    .ah-bg-2,
+    .ah-bg-3,
+    .ah-bg-4 {
+        height: 400px;
+    }
+    .ah-bg-1 {
+        display: none;
+    }
+    .ah-bg-gradient {
+        height: 400px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .nav-horizontal a {
+        padding: 1.3rem 0.9rem;
+        font-size: 1.1rem;
+    }
+}
+
+/* ************** TRUNCATE ***************** */
+.truncate {
+    max-height: 23rem;
+    overflow-y: hidden;
+    position: relative;
+    transition: all 0.3s;
+    padding-bottom: 60px;
+}
+.truncate.open {
+    max-height: 2000px;
+    overflow-y: auto;
+}
+.truncate h3:first-child {
+    margin-top:1rem;
+    color:#082310;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-size:2.4rem;
+}
+.truncate .usa-width-one-third:last-of-type {
+    margin-right:0;
+}
+.truncate .customer-future-box,
+.truncate .customer-solution-box {
+    border-color:#ededed;
+    background-color:#ffffff;
+    padding: 0;
+}
+.truncate .customer-future-box .box-title,
+.truncate .customer-solution-box .box-title {
+    background-color:#000000;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.truncate .customer-future-box .box-title {
+    background-color:#5278AC;
+}
+.truncate .customer-solution-box .box-title {
+    background-color:#476795;
+}
+.truncate .customer-future-box .box-title h4,
+.truncate .customer-solution-box .box-title h4 {
+    color:#ffffff;
+    margin:0;
+    font-size: 1.7rem;
+    line-height: 1;
+    padding:1.2rem 2rem 1rem 4.5rem;
+    position: relative;
+}
+.truncate .customer-future-box .box-title h4,
+.truncate .customer-solution-box .box-title h4 {
+    color:#ffffff;
+    margin:0;
+    font-size: 1.7rem;
+    line-height: 1;
+    padding:1.2rem 2rem 1rem 4.5rem;
+    position: relative;
+}
+.truncate .customer-future-box .box-title h4::before,
+.truncate .customer-solution-box .box-title h4::before {
+    content:'';
+    width:3rem;
+    height:3rem;
+    top:0.4rem;
+    left:1rem;
+    position: absolute;
+    background-image: url(../../images/customer-experience/fut-sol-icons-2x.png);
+    background-repeat: no-repeat;
+    background-size: 3rem 6rem;
+    background-position: 0 0;
+}
+.truncate .customer-solution-box .box-title.future h4::before {
+    background-position: 0 0rem;
+}
+.truncate .customer-solution-box .box-title.solutions h4::before {
+    background-position: 0 -3rem;
+}
+.truncate .box-content {
+    padding: 0 2rem 2rem 2rem;
+}
+.truncate .box ul {
+    padding:2rem 2rem 2rem 4rem;
+    margin: 0;
+}
+.truncate button.usa-button-secondary {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-radius: 0;
+    border-top:1px solid #ddd;
+    text-transform: uppercase;
+    width: 100%;
+    box-shadow: 0 10px 40px 30px #ffffff;
+}
+.truncate button.usa-button-secondary:focus,
+.truncate button.usa-button-secondary:hover {
+    border-top:1px solid #205493;
+    border-left:0;
+    border-right:0;
+    border-bottom:0;
+    cursor: pointer;
+}

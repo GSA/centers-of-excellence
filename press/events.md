@@ -7,10 +7,20 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
-- [Data Driven Government](https://datadrivengovernment.com/)- (Predictive Analytics World)
+- [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 
 ## Previous
 
+- [2nd Annual Intelligence Community IT Day](https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day) - AFCEA NOVA
+- [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
+- [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
+- [ATARC IT Modernization Summit](https://atarc.org/event/it-modernization-2019-12/)- (ATARC)
+- [Human Centered Design for Government Innovation and Effective Outcomes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2138225&sessionid=1&key=D23B19C1776753E6D08D2AAF55DB8D95&regTag=&sourcepage=register)- (ACT-IAC)
+- [BOLDGOV: Ideas in Tech, Workforce and Management](https://www.govexec.com/feature/bold-livestream/)- (GovExec)
+- [Protecting Data, Driving Insights: Data Strategies for Federal Agencies](https://www.govexec.com/feature/protecting-data-driving-insights/?oref=ge-events-upcoming)- (Government Executive)
+- [Creating Excellent CX - The Need for Updated Customer Service Management](https://go.govloop.com/customer-service-management-on-demand.html)- (Govloop)
+- [Data Driven Government](https://datadrivengovernment.com/)- (Predictive Analytics World)
+- [West Point Diversity and Inclusion Leadership Conference](https://www.westpointaog.org/diversityconference) (United States Military Academy at West Point Alumni Association)
 - [Season 2: Episode 15 Matt Montaño on IT Modernization through Collaborative Partnerships, Agile Methodologies](https://governmentciomedia.com/matt-montano-centers-excellence-director-gsa) (GovernmentCIO)
 - [Carahsoft-ATARC Federal Cloud Marketplace Forum](https://atarc.org/event/2019-fed-cloud-marketplace-forum/) (ATARC)
 - [Cloud Management Briefing](https://atarc.org/event/cloud-mgmt-briefing/) (ATARC)

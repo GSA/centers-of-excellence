@@ -1,0 +1,264 @@
+/* COLOR VARS */
+:root {
+	--color1: #168ECD;
+	--darkneutral: #58595B;
+}
+ 
+
+/* FONTS */
+body, p {
+	font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+	font-weight: normal;
+}
+
+body, a {
+	color: var(--darkneutral);
+}
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 40px;
+	line-height: 0.8em;
+}
+h1 span {
+	font-size: 20px;
+}
+
+h1, h2, h3 {
+	color: var(--darkneutral);
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+p {
+	line-height: 1.35em;
+}
+
+
+/* SHADOWS */
+.shadow {
+	-webkit-box-shadow: 0 -6px 16px -6px rgba(0,0,0,0.05), 0 8px 16px -8px rgba(0,0,0,0.30), 0 13px 27px -5px rgba(50,50,93,0.25);
+	-moz-box-shadow: 0 -6px 16px -6px rgba(0,0,0,0.05), 0 8px 16px -8px rgba(0,0,0,0.30), 0 13px 27px -5px rgba(50,50,93,0.25);
+	box-shadow: 0 -6px 16px -6px rgba(0,0,0,0.05), 0 8px 16px -8px rgba(0,0,0,0.30), 0 13px 27px -5px rgba(50,50,93,0.25);
+}
+.rounded-corners {
+	border-radius: 15px;
+}
+
+
+
+/* PAGE WIDTH */
+.usa-grid {
+	max-width: 1240px;
+	padding: 0 1.5rem;
+	margin: 0 auto;
+}
+@media screen and (min-width: 600px) {
+	.usa-grid {
+    padding-right: 3rem;
+    padding-left: 3rem;
+	}
+}
+
+
+
+/* HEADER */
+header.main-header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+/* LOGO */
+.logo-link {
+	display: inline-block;
+}
+.coe-logo {
+	width: 80%;
+	width: 30rem;
+  height: auto;
+	max-width: 300px;
+	padding-top: 2.5rem;
+}
+
+
+/* MAIN TITLE */
+.main-title {
+	display: inline-block;
+	vertical-align: bottom;
+	width: 48%;
+	text-align: center;
+	padding: 5%;
+	padding-bottom: 15px;
+	box-sizing: border-box;
+}
+.main-title h1 {
+	display: inline-block;
+	width: auto;
+	text-align: left;
+	line-height: 0.55em;
+	padding: 30px;
+	border-bottom: 5px solid var(--color1);
+}
+
+
+/* MAIN HEADING */
+.main-heading {
+	display: inline-block;
+	vertical-align: bottom;
+	width: 48%;
+	background: #D1F0FF;
+	padding: 5%;
+	padding-top: 185px;
+	margin-top: -50px;
+	box-sizing: border-box;
+	/* bg gradient */
+	background-image: linear-gradient(-160deg, #FFFFFF 0%, #D1F0FF 58%, #69CFFF 100%);
+}
+.main-heading h2 {
+	font-size: 22px;
+	max-width: 380px;
+	margin: 0;
+}
+
+
+
+
+
+
+/* ITEMS */
+
+.items {
+	display: block;
+	overflow: hidden;
+	margin-top: 50px;
+	margin-bottom: 5%;
+}
+
+.item {
+	display: block;
+	overflow: hidden;
+	padding: 30px;
+	padding-top: 10px;
+	padding-bottom: 60px;
+}
+.item-image, .item-info {
+	display: inline-block;
+	vertical-align: middle;
+	width: 47%;
+	box-sizing: border-box;
+}
+.item-image {
+	position: relative;
+	height: 0px;
+	padding-bottom: 30%;
+	margin-right: 5%;
+	overflow: hidden;
+}
+.item-image img {
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translateY(-50%) translateX(-50%);
+	-moz-transform: translateY(-50%) translateX(-50%);
+	-webkit-transform: translateY(-50%) translateX(-50%);
+	transform: translateY(-50%) translateX(-50%);
+}
+.item-info i {
+	margin: 10px;
+	margin-left: 3%;
+	transition: all 0.25s;
+}
+
+.item:hover a {
+	color: var(--color1);
+}
+.item:hover .item-image.shadow {
+	-webkit-box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3), 0 -12px 36px -8px rgba(0,0,0,.025);
+	-moz-box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3), 0 -12px 36px -8px rgba(0,0,0,.025);
+	box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3), 0 -12px 36px -8px rgba(0,0,0,.025);
+}
+.item:hover .item-info i {
+	margin-left: 6%;
+}
+
+
+
+/* CONTACT INFO */
+.item.contact-info .item-info {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+
+
+/* RESPONSIVE */
+@media screen and (max-width: 1375px){
+	.main-title h1 {
+		font-size: 30px;
+		line-height: 0.8em;
+	}
+	.main-heading {
+		padding-top: 200px;
+	}
+	.main-heading h2 {
+		font-size: 18px;
+		max-width: 300px;
+	}
+	.item-image, .item-info {
+		/*vertical-align: top;*/
+	}
+	h2 {
+		font-size: 20px;
+	}
+	h3 {
+		font-size: 15px;
+	}
+	p {
+		font-size: 14px;
+		line-height: 1.35em;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+}
+
+
+@media screen and (max-width: 1010px){
+	.coe-logo {
+    width: 260px;
+  }
+	.item-image, .item-info {
+		display: block;
+		width: 100%;
+	}
+	.item-image {
+		padding-bottom: 60%;
+		margin-bottom: 30px;
+	}
+	.item-info {
+		padding: 0px 30px;
+	}
+}
+
+
+@media screen and (max-width: 800px){
+	header.main-header {
+		position: relative;
+	}
+	.main-title {
+		width: auto;
+	}
+	.main-heading {
+		display: none;
+	}
+	.items.usa-grid {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+
+

@@ -14,3 +14,6 @@ customer-experience:
 cloud-adoption:
   name: "Cloud Adoption"
   path: /coe/cloud-adoption
+artificial-intelligence:
+  name: "Artificial Intelligence"
+  path: /coe/artificial-intelligence
