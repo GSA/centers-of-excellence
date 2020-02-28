@@ -94,7 +94,7 @@ teams:
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
         bio: >-
-          Victoria Wales has over 15 years of strategic integrated communications and public affairs experience, 7 with the General Services Administration. At the CoE, Wales oversees the brand strategy, digital communications, storytelling, and outreach coordination with customer agencies. Wales has extensive website management, social media strategy, and employee engagement experience. Wales is multilingual, and has supported public service products in partnership with over 25 federal agencies to reach and engage underserved communities.
+          Victoria Wales has over 15 years of strategic integrated communications and public affairs experience, 8 with the General Services Administration. At the CoE, Wales oversees the brand strategy, digital communications, storytelling, and outreach coordination with customer agencies. Wales has extensive content strategy, social media strategy, and employee engagement experience. Wales is multilingual, and has supported public service products in partnership with over 25 federal agencies to reach and engage underserved communities.
         linkedin: victoria-bitzer
   - title: Centers of Excellence Leads
     people:
