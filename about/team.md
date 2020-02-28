@@ -108,7 +108,7 @@ teams:
         img: EricEwing20.jpg  
         center: Artificial Intelligence
         bio: >-
-          Eric Ewing serves as a senior advisor to the Chief Data Officer at the U.S. Department of Housing and Urban Development (HUD) by providing leadership, guidance, and expertise into enterprise data and analytics modernization. With the CoE, Ewing consolidates and organizes long and short term strategy for data and analytics while managing technical implementation. Ewing has experience in managing technical teams, complex programs, and sensitive projects. For example, developing and implementing three acquisitions to modernize data and analytics practices at HUD.
+          Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
         linkedin: eric-ewing-030b2b73
       - name: Krista Kinnard
         img: KristaKinnard20.jpg 
