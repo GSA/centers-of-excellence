@@ -184,25 +184,25 @@ teams:
         linkedin: matthew-sarbak-5b60912a
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
-        center: Data Analytics
+        center: Data & Analytics
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At  the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
-        center: Data Analytics
+        center: Data & Analytics
         bio: >-
           Ambuj Neupane has over 7 years of public sector experience building organizational capacity and managing modernization projects. As a President’s Management Council Fellow for the Data and Analytics CoE, Neupane serves at the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. 
         linkedin: ambuj-neupane
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
-        center: Data Analytics
+        center: Data & Analytics
         bio: >-
           Satyajeet Dhumne has over 20 years of experience in Business Intelligence, Analytics, Data Warehousing, and Data Management. With the CoE, Dhumne leads a team of 30+ data and analytics experts and project managers to accomplish the program objectives for a multi-year, multi-vendor, enterprise-wide data analytics initiative at the U.S. Department of Agriculture. In this role, Dhumne provides subject matter expertise and advisory in various aspects of the program including strategic analytics capabilities deployment, communities of practice, open data initiative, data management, and federal data mandates.  
         linkedin: sgdhumne
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
-        center: Data Analytics
+        center: Data & Analytics
         bio: >-
           Tom Hallaran has over 20 years experience in public and private sector IT, software engineering, and strategy. Hallaran began his career as a bioinformatician working on automating genome sequencing and plating pipelines. Later, as VP of engineering at a major digital advertising network, Hallaran managed analytics and product teams prior to the company's sale. Before joining GSA, Hallaran’s software and analytics consultancy worked with Fortune 500 clients, leading organizations, and startups to modernize legacy technology and materialize new products. Hallaran currently serves as a Director of the Data and Analytics Center of Excellence. In this role, he pairs his private sector experience along with his understanding of Federal IT funding to engineer great outcomes for our partners.  Hallaran also serves as a Technical Advisor to GSA’s Technology Modernization Fund (TMF) and is responsible for advising the TMF board on their investment of $150 Million in Federal Agency modernization projects.
         linkedin: tomhallaran
