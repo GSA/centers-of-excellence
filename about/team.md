@@ -81,11 +81,6 @@ teams:
         bio: >-
           With a legal and technical background, Ghaffari-Tabrizi develops and institutes innovative procurement solutions to provide rapid results for agency partners who need to modernize their IT-related workforce, systems, and processes. Ghaffari-Tabrizi serves as the primary Acquisition project manager with the CoE and assists in the development of procurement packages for all CoE agency partners and internal needs.
         linkedin: oghaffari
-      - name: Rachel Jackson
-        img:  RachelJackson19.jpg
-        bio: >-
-          Rachel Jackson has over 9 years of project management experience supporting the federal government. A team member since the inception of the CoE program, Jackson provides support across the Centers, helps document the CoE processes and lessons learned, and provides PMO support at client sites. Prior to joining the CoE, Jackson provided support to the U.S. Dept of Agriculture, Food and Drug Administration, and U.S. Dept of Transportation with policy analysis, category management, and IT project management. 
-        linkedin: rachel-jackson-pmp-75b439125
       - name: Simchah Suveyke-Bogin
         img: SimchahBogin19.jpg
         bio: >-
