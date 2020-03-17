@@ -36,6 +36,23 @@ layout: default
         {% endfor %}
       {% endif %}
 
+   <h2 id="coe-updates">Latest Updates</h2>
+      {% assign filtered_posts = site.posts | where: 'initiative', page.title %}
+      {% for post in filtered_posts %}
+          {% include article-head.html show_post_excerpt = true %}
+      {% endfor %}
+    </div> <!-- /.usa-width-two-thirds -->
+    <div class="usa-width-one-third sticky sidebar">
+        <div class="sidebar-box {{ page.sidebar-graphic-class }}">
+            <div class="centers-graphic"></div>
+            <div class="sidebar-box-content">
+                <h4 class="first">Explore {{ page.title }} CoE</h4>
+                {% for pdf in page.pdfs %}
+                  <div style="min-height: 3rem;"><a href="{{site.baseurl}}{{ pdf.link }}" target="_blank" class="pdf">{{ pdf.title }} <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
+                {% endfor %}
+            </div>
+        </div>     
+        
     </div> <!-- /.usa-width-two-thirds -->
     <div class="usa-width-one-third sticky sidebar">
         <div class="sidebar-box {{ page.sidebar-graphic-class }}">
