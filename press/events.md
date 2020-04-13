@@ -5,6 +5,10 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 
+## Upcoming
+
+- [How to Utilize the Open Source Jupyter Project for your Research](https://www.eventbrite.com/e/how-to-utilize-the-open-source-jupyter-project-for-your-research-registration-100790194184) - DigitalGov
+
 ## Previous
 
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
