@@ -171,12 +171,6 @@ teams:
         bio: >-
           Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
         linkedin: lashandahodge
-      - name: Matthew Sarbak
-        img: MatthewSarbak19.jpg
-        center: Customer Experience
-        bio: >-
-          Matthew Sarbak has served in the public sector over 14 years with Social Security Administration, Office of Personnel Management, and most currently while on detail with GSA through the President’s Management Council (PMC) Interagency Rotation Program. For the past 7 years, Sarbak has focused on implementing significant process improvements within the departments he serves.  Sarbak serves on the Customer Experience (CX) CoE team partnering with the U.S. Housing and Urban Development (HUD). While with the CX Team, Sarbak has assisted with the validity and scoring of vendor responses along with assisting in the finalization of the vendor interview questions for the orals. Sarbak is also actively serving as one of the two points of contact along with co-managing of the CX Data Profile Project Team.
-        linkedin: matthew-sarbak-5b60912a
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
         center: Data & Analytics
@@ -187,7 +181,7 @@ teams:
         img: AmbujNeupane19.jpg
         center: Data & Analytics
         bio: >-
-          Ambuj Neupane has over 7 years of public sector experience building organizational capacity and managing modernization projects. As a President’s Management Council Fellow for the Data and Analytics CoE, Neupane serves at the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. 
+          Ambuj Neupane has over 8 years of public sector experience building organizational capacity and managing modernization projects, most recently with the U.S. Small Business Administration. As part of the Data and Analytics CoE, Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. Neupane currently partners with the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). 
         linkedin: ambuj-neupane
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
