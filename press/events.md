@@ -5,9 +5,10 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 
+
 ## Previous
 
-- [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
+- [How to Utilize the Open Source Jupyter Project for your Research](https://www.eventbrite.com/e/how-to-utilize-the-open-source-jupyter-project-for-your-research-registration-100790194184) - DigitalGov- [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 - [2nd Annual Intelligence Community IT Day](https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day) - AFCEA NOVA
 - [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
 - [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
