@@ -93,7 +93,7 @@ teams:
         linkedin: victoria-bitzer
   - title: Centers of Excellence Leads
     people:
-      - name: Anil Chaudhry
+      - name: Anil (Neil) Chaudhry
         img: AnilChaudhry20.jpg
         center: Artificial Intelligence
         bio: >-
