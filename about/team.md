@@ -93,6 +93,12 @@ teams:
         linkedin: victoria-bitzer
   - title: Centers of Excellence Leads
     people:
+       - name: Anil Chaudhry
+         img: AnilChaudhry20.jpg
+         center: Artificial Intelligence
+         bio: >-
+          Anil Chaudhry has over 20 years of progressive leadership experience in technology delivery, operations, and program management in the defense, intelligence, and national security sectors. At the Artificial Intelligence CoE, Chaudhry advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Chaudhry served in critical leadership positions within US Customs and Border Protection and as a Presidential Management Fellow (PMF) at the Defense Business Transformation Agency. Chaudhry served as an enlisted soldier in the U.S. Army Chemical Corps and as a commissioned officer in the U.S. Army Transportation Corps. Chaudhry was one of three DHS employees selected to attend the National War College in 2016 as part of the DHS Senior Succession Management Program.
+        linkedin: anil-neil-chaudhry
       - name: Bryan Lane
         img: BryanLane19.jpg  
         center: Artificial Intelligence
