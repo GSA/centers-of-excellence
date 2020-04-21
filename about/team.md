@@ -177,6 +177,12 @@ teams:
         bio: >-
           Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
         linkedin: lashandahodge
+      - name: Tamieca Hamlin
+        img: TamiecaHamlin19.jpg
+        center: Customer Experience
+        bio: >-
+          Tamieca Hamlin has over 20 years of federal government experience dedicated to improving services for active duty military, government employees, farmers, ranchers, and importers.  Hamlin currently Co-Lead’s the Customer Experience and Contact Center CoE teams at USDA.  Hamlin has leadership experience in managing project teams, high paced production teams, strategizing, and is a relationship building master.  She is dedicated to finding a human centered approach to any people, policy, or process related problem.  Tamieca has helped agencies develop innovative technology solutions to help improve services for citizens.  
+        linkedin: tamieca-hamlin-85957b173       
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
         center: Data & Analytics
