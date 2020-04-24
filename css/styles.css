@@ -25,6 +25,16 @@
     margin-right: 2.35765%;
     width: 17.93176%;
 }
+
+.usa-width-one-third--small-margin {
+    margin-right: 2.5%;
+}
+@media screen and (min-width: 1200px) {
+    .usa-width-one-third--small-margin {
+        width: 30.11389%;
+    }
+}
+
 @media screen and (max-width: 1200px) {
     .usa-width-one-fifth:nth-of-type(1),
     .usa-width-one-fifth:nth-of-type(2),
