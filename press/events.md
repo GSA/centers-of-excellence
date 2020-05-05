@@ -8,6 +8,7 @@ title: Webcasts and Speaking Events
 
 ## Previous
 
+- [A Program to Build Industry - Federal Government Partnerships](https://www.scaleupusa.xyz/courses/ai-center-of-excellence-at-gsa) - ScaleUP USA
 - [How AI is Being Applied at GSA Centers of Excellence](https://my.demio.com/recording/1dyYDiA4) - AI in Government
 - [How to Utilize the Open Source Jupyter Project for your Research](https://www.eventbrite.com/e/how-to-utilize-the-open-source-jupyter-project-for-your-research-registration-100790194184) - DigitalGov
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
