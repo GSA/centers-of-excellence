@@ -6,7 +6,7 @@ title: Webcasts and Speaking Events
 # Webcasts and Speaking Events
 
 ## Upcoming
-- May 14: [Keys to Managing Your Multi-Cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
+- May 14, 2020: [Keys to Managing Your Multi-Cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
 
 ## Previous
 
