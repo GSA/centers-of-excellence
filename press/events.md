@@ -5,6 +5,8 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 
+## Upcoming
+- [Keys to Managing Your Multi-cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
 
 ## Previous
 
