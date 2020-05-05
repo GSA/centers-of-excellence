@@ -8,12 +8,15 @@ title: Webcasts and Speaking Events
 
 ## Previous
 
+### 2020
 - [A Program to Build Industry - Federal Government Partnerships](https://www.scaleupusa.xyz/courses/ai-center-of-excellence-at-gsa) - ScaleUP USA
 - [How AI is Being Applied at GSA Centers of Excellence](https://my.demio.com/recording/1dyYDiA4) - AI in Government
 - [How to Utilize the Open Source Jupyter Project for your Research](https://www.eventbrite.com/e/how-to-utilize-the-open-source-jupyter-project-for-your-research-registration-100790194184) - DigitalGov
 - [Citizen Engagement Summit](https://fcw.com/citizen) - FCW
 - [2nd Annual Intelligence Community IT Day](https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day) - AFCEA NOVA
 - [On Ramp To CX](https://www.actiac.org/events/act-iac-customer-experience-coi-cx-ramp-january-2020) - ACT-IAC
+
+### 2019
 - [Medallia City Tour Washington, DC](https://events.medallia.com/city-tour-wa-dc-dec12-19)- (Medallia)
 - [ATARC IT Modernization Summit](https://atarc.org/event/it-modernization-2019-12/)- (ATARC)
 - [Human Centered Design for Government Innovation and Effective Outcomes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2138225&sessionid=1&key=D23B19C1776753E6D08D2AAF55DB8D95&regTag=&sourcepage=register)- (ACT-IAC)
@@ -33,5 +36,7 @@ title: Webcasts and Speaking Events
 - [Strategic Government Communications Conference](https://www.aliconferences.com/events/strategic-government-communications-for-public-affairs-washington-d-c/) (ALI)
 - [IT Modernization Summit](https://www.fedscoop.com/events/it-modernization-summit/2019/) (Fedscoop)
 - [Updates on the Centers of Excellence program at GSA](https://govmatters.tv/updates-on-the-centers-of-excellence-program-at-gsa) (GovMatters)
+
+### 2018
 - [Promoting Excellence from the Center](https://glc2.workcast.com/clusterSVCFS1/NAS/OnDemand/11321/2297136761556365/Media/11321_20190318141735838_govexec120319odv1.mp4) (NextGov)
 - [Adobe Digital Government Technology Conference](https://www.carahsoft.com/vendors/adobe/2018-adobe-gov-con) (Adobe/Carahsoft)
