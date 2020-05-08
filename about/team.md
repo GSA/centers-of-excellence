@@ -36,6 +36,11 @@ teams:
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
         linkedin: david-warren-8abb72103
+       -name: Ed Golden
+        img: EdGolden.jpg
+        bio: >-
+          Ed Golden has over 20 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations.  In his current role as an Innovation Specialist and Site Lead at the CoE, Ed leads engagements bringing together Federal Agency and Industry partners to accelerate IT modernization.  Prior to joining CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems.  
+        linkedin: edward-golden-54242448      
       - name: George Chenkeli
         img: GeorgeChenkeli20-4.jpg
         bio: >-
