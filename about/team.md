@@ -111,14 +111,14 @@ teams:
         bio: >-
           Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
         linkedin: eric-ewing-030b2b73
-      - name: Kathy McNeill
-        img: KristaKinnard20.jpg 
+     - name: Kathy McNeill        
+        img: Kathy M.png     
         center: Artificial Intelligence
         bio: >-
          Kathy McNeill is an experienced Chief Information Officer/Chief Technology Officer with more than 25 years of experience providing digital and technical solutions to organizations.  McNeill is seasoned in leading initiatives that enhance business capabilities through technology, robotics and data analytics.  At the CoE, McNeill is a Director of Artificial Intelligence identifying technical solutions that will support agency missions, enhance consumer experience and increase operating efficiencies. In addition, McNeill serves on the Advisory Board of STEM for Her.   
         linkedin: kathy-mcneill-6984902    
-      - name: Krista Kinnard
-        img: Kathy M.png 
+      - name: Krista Kinnard        
+        img: KristaKinnard20.jpg
         center: Artificial Intelligence
         bio: >-
           Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
