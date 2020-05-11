@@ -148,10 +148,10 @@ teams:
         linkedin: calvert-smith-cissp-pmp-4677243
       - name: Dan Jacobs
         img: DanJacobs19.jpg
+        center: Cybersecurity Lead
         bio: >-
           Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
         linkedin: danieljacobs
-        center: Cloud Adoption
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption
