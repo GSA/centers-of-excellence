@@ -117,7 +117,7 @@ teams:
           Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
         linkedin: eric-ewing-030b2b73
       - name: Kathy McNeill        
-        img: Kathy M.png     
+        img: KathyMcNeil.png     
         center: Artificial Intelligence
         bio: >-
           Kathy McNeill is an experienced Chief Information Officer/Chief Technology Officer with more than 25 years of experience providing digital and technical solutions to organizations.  McNeill is seasoned in leading initiatives that enhance business capabilities through technology, robotics and data analytics.  At the CoE, McNeill is a Director of Artificial Intelligence identifying technical solutions that will support agency missions, enhance consumer experience and increase operating efficiencies. In addition, McNeill serves on the Advisory Board of STEM for Her.   
@@ -148,7 +148,7 @@ teams:
         linkedin: calvert-smith-cissp-pmp-4677243
       - name: Dan Jacobs
         img: DanJacobs19.jpg
-        center: Cybersecurity Lead
+        center: Cybersecurity 
         bio: >-
           Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
         linkedin: danieljacobs
