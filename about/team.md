@@ -31,6 +31,11 @@ teams:
         bio: >-
           Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
         linkedin: daniellergallant
+      - name: David Harrity
+        img: DavidHarrity.jpg
+        bio: >-
+          David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakDavid Harrity has over 20 years of progressive leadership experience in IT delivery, infrastructure operations and digital transformation managing a diverse portfolio of IT services in the federal government and private sector. David is serving in an executive-in-residence detail leading the CoE Federal Law Enforcement Training Centers (FLETC) engagement.  Prior to joining CoE and since January 2017, David serves as the Associate Chief Information Officer for Digital Infrastructure Technologies within the Office of GSA IT. In this role, he leads government and contractor personnel to broker, integrate, and orchestrate a full range of enterprise IT services including the customer service desk, local sup port; end-point computing services; storage, identify management and server solutions; cloud computing, engineering, DevOps, and managed services; and mobile and remote access technologies. He leads a 130-person team supporting more than 16,000 government and contractor staff located across more than 700 domestic and international locations. eholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
+        linkedin: davidharrity      
       - name: David Warren
         img: DavidWarren.jpg
         bio: >-
