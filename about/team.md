@@ -146,18 +146,18 @@ teams:
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
         linkedin: calvert-smith-cissp-pmp-4677243
-      - name: Dan Jacobs
-        img: DanJacobs19.jpg
-        center: Cybersecurity 
-        bio: >-
-          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
-        linkedin: danieljacobs
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption
         bio: >-
           Syed Azeem has over 16 years of experience leading complex and highly-visible IT modernization projects across the federal government and the private sector. With the CoE, Azeem leads Cloud Adoption efforts within agencies across the federal government by developing cloud migration roadmaps and timelines and implementing cloud governance models. With partnerships at the Department of Housing and Urban Development (HUD), Azeem assisted in digitizing manual and paper-based forms into adaptive online forms with digital workflows, electronic signatures and intelligent data extraction.
         linkedin: syedazeem
+      - name: Dan Jacobs
+        img: DanJacobs19.jpg
+        center: Cybersecurity 
+        bio: >-
+          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
+        linkedin: danieljacobs      
       - name: Meghan Daly
         img: MeghanDaly19.jpg
         center: Contact Center
