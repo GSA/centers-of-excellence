@@ -210,7 +210,7 @@ teams:
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics
         bio: >-
-          Satyajeet Dhumne has over 20 years of experience in Business Intelligence, Analytics, Data Warehousing, and Data Management. With the CoE, Dhumne leads a team of 30+ data and analytics experts and project managers to accomplish the program objectives for a multi-year, multi-vendor, enterprise-wide data analytics initiative at the U.S. Department of Agriculture. In this role, Dhumne provides subject matter expertise and advisory in various aspects of the program including strategic analytics capabilities deployment, communities of practice, open data initiative, data management, and federal data mandates.  
+          Satyajeet Dhumne has over 20 years of experience in Business Intelligence, Analytics, Data Warehousing, and Data Management. With the CoE, Dhumne leads a team of 30+ data and analytics experts and project managers to accomplish the program objectives for a multi-year, multi-vendor, enterprise-wide data analytics initiative at the U.S. Department of Agriculture. In this role, Dhumne provides subject matter expertise and advisory in various aspects of the program including strategic analytics capabilities deployment, communities of practice, open data initiative, data management, and federal data mandates. 
         linkedin: sgdhumne
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
@@ -226,6 +226,7 @@ teams:
         linkedin: adam-grandt-ht0
       - name: David Harrity
         img: DavidHarrity.jpg
+        center: IT Infrastructure Optimization        
         bio: >-
           David Harrity has over 20 years of progressive leadership experience in IT delivery, infrastructure operations and digital transformation managing a diverse portfolio of IT services in the federal government and private sector. David is serving in an executive-in-residence detail Infrastructure Optimization Lead.  Prior to joining CoE and since January 2017, David serves as the Associate Chief Information Officer for Digital Infrastructure Technologies within the Office of GSA IT. In this role, he led government and contractor personnel to broker, integrate, and orchestrate a full range of enterprise IT services including the customer service desk, local support; end-point computing services; storage, identify management and server solutions; cloud computing, engineering, DevOps, and managed services; and mobile and remote access technologies. Harrity led a 130-person team supporting more than 16,000 government and contractor staff located across more than 700 domestic and international locations. 
         linkedin: davidharrity      
