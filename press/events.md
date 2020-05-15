@@ -5,12 +5,10 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 
-## Upcoming
-- May 14, 2020: [Keys to Managing Your Multi-Cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
-
 ## Previous
 
 ### 2020
+- [Keys to Managing Your Multi-Cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
 - [A Program to Build Industry - Federal Government Partnerships](https://www.scaleupusa.xyz/courses/ai-center-of-excellence-at-gsa) - ScaleUP USA
 - [How AI is Being Applied at GSA Centers of Excellence](https://my.demio.com/recording/1dyYDiA4) - AI in Government
 - [How to Utilize the Open Source Jupyter Project for your Research](https://www.eventbrite.com/e/how-to-utilize-the-open-source-jupyter-project-for-your-research-registration-100790194184) - DigitalGov
