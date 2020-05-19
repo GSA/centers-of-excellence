@@ -30,12 +30,17 @@ teams:
         img:  DanielleGallant19.jpg
         bio: >-
           Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: daniellergallant
+        linkedin: daniellergallant      
       - name: David Warren
         img: DavidWarren.jpg
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
         linkedin: david-warren-8abb72103
+      - name: Ed Golden
+        img: EdGolden.jpg
+        bio: >-
+          Ed Golden has over 20 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations.  In his current role as an Innovation Specialist and Site Lead at the CoE, Ed leads engagements bringing together Federal Agency and Industry partners to accelerate IT modernization.  Prior to joining CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems. 
+        linkedin: edward-golden-54242448
       - name: George Chenkeli
         img: GeorgeChenkeli20-4.jpg
         bio: >-
@@ -106,8 +111,14 @@ teams:
         bio: >-
           Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
         linkedin: eric-ewing-030b2b73
-      - name: Krista Kinnard
-        img: KristaKinnard20.jpg 
+      - name: Kathy McNeill        
+        img: KathyMcNeil.png     
+        center: Artificial Intelligence
+        bio: >-
+          Kathy McNeill is an experienced Chief Information Officer/Chief Technology Officer with more than 25 years of experience providing digital and technical solutions to organizations.  McNeill is seasoned in leading initiatives that enhance business capabilities through technology, robotics and data analytics.  At the CoE, McNeill is a Director of Artificial Intelligence identifying technical solutions that will support agency missions, enhance consumer experience and increase operating efficiencies. In addition, McNeill serves on the Advisory Board of STEM for Her.   
+        linkedin: kathy-mcneill-6984902    
+      - name: Krista Kinnard        
+        img: KristaKinnard20.jpg
         center: Artificial Intelligence
         bio: >-
           Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
@@ -130,18 +141,18 @@ teams:
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
         linkedin: calvert-smith-cissp-pmp-4677243
-      - name: Dan Jacobs
-        img: DanJacobs19.jpg
-        bio: >-
-          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
-        linkedin: danieljacobs
-        center: Cloud Adoption
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption
         bio: >-
           Syed Azeem has over 16 years of experience leading complex and highly-visible IT modernization projects across the federal government and the private sector. With the CoE, Azeem leads Cloud Adoption efforts within agencies across the federal government by developing cloud migration roadmaps and timelines and implementing cloud governance models. With partnerships at the Department of Housing and Urban Development (HUD), Azeem assisted in digitizing manual and paper-based forms into adaptive online forms with digital workflows, electronic signatures and intelligent data extraction.
         linkedin: syedazeem
+      - name: Dan Jacobs
+        img: DanJacobs19.jpg
+        center: Cybersecurity 
+        bio: >-
+          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
+        linkedin: danieljacobs      
       - name: Meghan Daly
         img: MeghanDaly19.jpg
         center: Contact Center
@@ -194,7 +205,7 @@ teams:
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics
         bio: >-
-          Satyajeet Dhumne has over 20 years of experience in Business Intelligence, Analytics, Data Warehousing, and Data Management. With the CoE, Dhumne leads a team of 30+ data and analytics experts and project managers to accomplish the program objectives for a multi-year, multi-vendor, enterprise-wide data analytics initiative at the U.S. Department of Agriculture. In this role, Dhumne provides subject matter expertise and advisory in various aspects of the program including strategic analytics capabilities deployment, communities of practice, open data initiative, data management, and federal data mandates.  
+          Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management. 
         linkedin: sgdhumne
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
@@ -208,6 +219,12 @@ teams:
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs.  At the CoE he directs agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
+      - name: David Harrity
+        img: DavidHarrity.jpg
+        center: IT Infrastructure Optimization        
+        bio: >-
+          David Harrity has over 20 years of progressive leadership experience in IT delivery, infrastructure operations and digital transformation managing a diverse portfolio of IT services in the federal government and private sector. David is serving in an executive-in-residence detail Infrastructure Optimization Lead.  Prior to joining CoE and since January 2017, David serves as the Associate Chief Information Officer for Digital Infrastructure Technologies within the Office of GSA IT. In this role, he led government and contractor personnel to broker, integrate, and orchestrate a full range of enterprise IT services including the customer service desk, local support; end-point computing services; storage, identify management and server solutions; cloud computing, engineering, DevOps, and managed services; and mobile and remote access technologies. Harrity led a 130-person team supporting more than 16,000 government and contractor staff located across more than 700 domestic and international locations. 
+        linkedin: davidharrity      
       - name: Sid Sripada
         img: SidSripada.jpeg
         center: IT Infrastructure Optimization
