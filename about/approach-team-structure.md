@@ -8,7 +8,8 @@ redirect_from: /about
 
 The GSA Centers of Excellence (CoE) were established in 2017 as an accelerator of IT modernization across the government to improve the public experience and increase operational efficiency.
 
-To drive sustainable modernization, the CoE centralize top government tech talent and leverage private-sector resources and best practices. The organization operates as a consultancy with a teaming mindset to collaborate across government departments and agencies in six functional areas: 
+To drive sustainable modernization, the CoE centralizes top government tech talent and leverages private-sector resources and best practices. The organization operates as a consultancy with a teaming mindset to collaborate across government departments and agencies in six functional areas: 
+
 
 - Artificial Intelligence
 - Cloud Adoption
@@ -19,7 +20,7 @@ To drive sustainable modernization, the CoE centralize top government tech talen
 
 ## Why Partner With Us
 
-Government departments and agencies partner with CoE to co-create and accelerate their modernization initiatives. The CoE model focuses on bringing in the right people, at the right time, to drive sustainable outcomes. 
+Government departments and agencies partner with CoE to co-create and accelerate their modernization initiatives. The CoE model focuses on bringing in the right people, at the right time, to drive sustainable outcomes.  
 
 <a href="{{site.baseurl}}/images/TeamStructure.png" target="_blank" rel="noopener noreferrer">
 <img src="{{site.baseurl}}/images/TeamStructure.png" class="img-responsive" alt="The CoE teams are made up of Leads, Champion and Detailees, and Industry Partners">
@@ -34,10 +35,10 @@ The CoE quickly enhances an organization’s capacity to have a measurable impac
 </a>
 
 - **Staging Phase (0)**  -  Engagement with agency leadership to for partnership scoping, Inter-Agency Agreement (IAA) development, and funding identification
-- **Discovery Phase (I)** - A comprehensive department-wide discovery and future visioning effort to identify high-impact modernization solutions
+- **Discovery Phase (I)** -  A comprehensive department-wide discovery and future visioning effort to identify high-impact modernization solutions
 - **Implementation Phase (II)** - Implementation of the agreed upon Discovery Phase I recommendations and build sustainment for continued modernization beyond CoE involvement
 
-The CoE Delivery teams are intentionally designed to have a unique blend of our customer detailees, GSA staff, and industry partners to deliver innovative solutions leveraging best practices and multiple perspectives.
+The CoE delivery teams are intentionally designed to have a unique blend of our customer detailees, GSA staff, and industry partners to deliver innovative solutions leveraging best practices and multiple perspectives.
 
 <a href="{{site.baseurl}}/images/TeamStructure.png" target="_blank" rel="noopener noreferrer">
 <img src="{{site.baseurl}}/images/TeamStructure.png" class="img-responsive" alt="The CoE teams are made up of Leads, Champion and Detailees, and Industry Partners">
@@ -57,6 +58,4 @@ The CoE has partnered with the following federal departments and agencies to sup
 
 TIf you are interested in learning more about the Centers of Excellence or discussing tools or solutions, please reach out to us at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov)
 
-<a href="{{site.baseurl}}/images/TeamStructure.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/TeamStructure.png" class="img-responsive" alt="The CoE teams are made up of Leads, Champion and Detailees, and Industry Partners">
 </a>
