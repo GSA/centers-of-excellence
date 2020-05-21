@@ -56,18 +56,28 @@ The CoE has partnered with the following federal departments and agencies to sup
 - Department of Labor (DOL) 
 - Government Accountability Office (GAO) 
 
-<table style="width:100%">
-  <tr>
-    <th></th>
-    <th></th> 
-    <th></th>
-  </tr>
-  <tr>
-    <td>src="centers-of-excellence/images/agencylogos/USDA.svg" alt="USDA Logo"</td>
-    <td>United States (U.S.) Department of Agriculture (UDSA)</td>
-  </tr>
-  </tr>
-</table>
+ <div class="usa-grid-full">
+      <ul class="list-columns">
+      {% for group in partner_groups %}
+        <li class="usa-width-one-third">
+          <ul class="list-columns list-images">
+          {% for partner in group %}
+            <li class="list-images-item">
+              <img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" />
+              {% if partner.agency_url %}
+                <a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}">{{ partner.name }}</a>
+              {% else %}
+                <span class="list-images-text">{{ partner.name }}</span>
+              {% endif %}
+            </li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
 
 If you are interested in learning more about the Centers of Excellence or discussing tools or solutions, please reach out to us at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov)
 
