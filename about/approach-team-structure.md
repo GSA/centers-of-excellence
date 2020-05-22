@@ -56,19 +56,13 @@ The CoE has partnered with the following federal departments and agencies to sup
 - Department of Labor (DOL) 
 - Government Accountability Office (GAO) 
 
-<section class="usa-grid usa-section content-focus">
-   <div class="grid-row grid-gap">
-      <div class="grid-col-4">
-        <div>.grid-col-4</div>
-      </div>
-      <div class="grid-col-4">
-        <div>.grid-col-4</div>
-      </div>
-      <div class="grid-col-4">
-        <div>.grid-col-4</div>
-    </div>  
-   </div>
-</section><div class="grid-container">
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">tablet:grid-col</div>
+    <div class="tablet:grid-col">tablet:grid-col</div>
+    <div class="tablet:grid-col">tablet:grid-col</div>
+  </div>
+</div>
 
 
 If you are interested in learning more about the Centers of Excellence or discussing tools or solutions, please reach out to us at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov)
