@@ -56,6 +56,14 @@ The CoE has partnered with the following federal departments and agencies to sup
 - Department of Labor (DOL) 
 - Government Accountability Office (GAO) 
 
+<div class="usa-grid">
+        <div class="usa-width-one-whole">
+            <div class="tablet:grid-col">tablet:grid-col</div>
+            <div class="tablet:grid-col">tablet:grid-col</div>
+            <div class="tablet:grid-col">tablet:grid-col</div>
+        </div>
+</div>
+
 <table>
   <tr>
     <td>100</td>
