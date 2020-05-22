@@ -48,7 +48,7 @@ The CoE delivery teams are intentionally designed to have a unique blend of our 
 
 The CoE has partnered with the following federal departments and agencies to support them in their modernization journey:
 
-- <a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-initial-awards-for-it-modernization-centers-of-excellence"> U.S. Department of Agriculture (USDA)</a>
+<img src="{{site.baseurl}}/images/agencylogos/USDA.svg" class="img-responsive" alt="USDA Logo"> <a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-initial-awards-for-it-modernization-centers-of-excellence"> U.S. Department of Agriculture (USDA)</a>
 - U.S Department of Housing and Urban Development (HUD)
 - US Office of Personnel Management (OPM)
 - Consumer Product Safety Commission (CPSC)
