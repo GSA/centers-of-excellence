@@ -58,9 +58,9 @@ The CoE has partnered with the following federal departments and agencies to sup
 
 <section class="usa-grid usa-section content-focus">
     <div class="grid-row">
-    <div class="tablet:grid-col">tablet:grid-col</div>
-    <div class="tablet:grid-col">tablet:grid-col</div>
-    <div class="tablet:grid-col">tablet:grid-col</div>
+    <div class="tablet:grid-col">USDA</div>
+    <div class="tablet:grid-col">Agency2</div>
+    <div class="tablet:grid-col">Agency3</div>
   </div>
 </section><div class="grid-container">
 
