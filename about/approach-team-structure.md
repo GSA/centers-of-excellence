@@ -57,7 +57,7 @@ The CoE has partnered with the following federal departments and agencies to sup
 - Government Accountability Office (GAO) 
 
 <div class="usa-grid">
-  <div class="grid-row">
+  <div class="usa-width-one-third">
     <div class="tablet:grid-col">tablet:grid-col</div>
     <div class="tablet:grid-col">tablet:grid-col</div>
     <div class="tablet:grid-col">tablet:grid-col</div>
