@@ -58,9 +58,9 @@ The CoE has partnered with the following federal departments and agencies to sup
 
 <section class="usa-grid usa-section content-focus">
     <div class="grid-row">
-    <div class="tablet:grid-col">USDA</div>
-    <div class="tablet:grid-col">Agency2</div>
-    <div class="tablet:grid-col">Agency3</div>
+       <div class="tablet:grid-col"><a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-initial-awards-for-it-modernization-centers-of-excellence">U.S. Department of Agriculture (USDA)</div>
+       <div class="tablet:grid-col">U.S Department of Housing and Urban Development (HUD)</div>
+       <div class="tablet:grid-col">US Office of Personnel Management (OPM)</div>
   </div>
 </section><div class="grid-container">
 
