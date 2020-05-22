@@ -60,8 +60,7 @@ The CoE has partnered with the following federal departments and agencies to sup
     <div class="usa-width-one-third"> <img src="{{site.baseurl}}/images/agencylogos/USDA.svg" class="img-responsive" alt="USDA Logo"> </div>
     <div class="usa-width-one-third">Agency 2</div>
     <div class="usa-width-one-third">Agency 3</div>
-</div>
-
+ </div>
 
 
 
