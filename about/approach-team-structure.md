@@ -62,17 +62,7 @@ The CoE has partnered with the following federal departments and agencies to sup
     <div class="usa-width-one-third">Agency 3</div>
 </div>
 
-table, th, td{ 
-  border: 0px;
-}
-</table>
-  </tr>
-  <tr>
-    <td>400</td>
-    <td>500</td>
-    <td>600</td>
-  </tr>
-</table>
+
 
 
 If you are interested in learning more about the Centers of Excellence or discussing tools or solutions, please reach out to us at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov)
