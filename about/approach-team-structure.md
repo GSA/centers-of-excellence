@@ -56,18 +56,16 @@ The CoE has partnered with the following federal departments and agencies to sup
 - Department of Labor (DOL) 
 - Government Accountability Office (GAO) 
 
-<div class="usa-grid">
-    <div class="grid-container">        
-            <div class="usa-width-one-third">tablet:grid-col</div>
-            <div class="usa-width-one-third">tablet:grid-col</div>
-            <div class="usa-width-one-third">tablet:grid-col</div>
-        </div>
+<div class="grid-container">        
+    <div class="usa-width-one-third">Agency 1</div>
+    <div class="usa-width-one-third">Agency 2</div>
+    <div class="usa-width-one-third">Agency 3</div>
 </div>
 
-<table>
-  <tr>
-    <td><img src="{{site.baseurl}}/images/agencylogos/USDA.svg" class="img-responsive" alt="USDA Logo"></td>
-    <td><a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-initial-awards-for-it-modernization-centers-of-excellence"> U.S. Department of Agriculture (USDA)</a></td>
+table, th, td{ 
+  border: 0px;
+}
+</table>
   </tr>
   <tr>
     <td>400</td>
