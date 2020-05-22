@@ -57,11 +57,17 @@ The CoE has partnered with the following federal departments and agencies to sup
 - Government Accountability Office (GAO) 
 
 <section class="usa-grid usa-section content-focus">
-    <div class="grid-row">
-       <div class="tablet:grid-col-3"><a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-initial-awards-for-it-modernization-centers-of-excellence"> U.S. Department of Agriculture (USDA)</a></div>
-       <div class="tablet:grid-col-3">U.S Department of Housing and Urban Development (HUD)</div>
-       <div class="tablet:grid-col-3">US Office of Personnel Management (OPM)</div>
-  </div>
+   <div class="grid-row grid-gap">
+      <div class="grid-col-4">
+        <div>.grid-col-4</div>
+      </div>
+      <div class="grid-col-4">
+        <div>.grid-col-4</div>
+      </div>
+      <div class="grid-col-4">
+        <div>.grid-col-4</div>
+    </div>  
+   </div>
 </section><div class="grid-container">
 
 
