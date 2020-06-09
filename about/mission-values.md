@@ -8,7 +8,7 @@ title: About Us
 ## Our Mission
 
 As part of GSA’s Technology Transformation Services, the CoE initiative accelerates IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation. 
-
+{: .intro}
 The CoE specializes in partnerships with agencies to enhance mission delivery by adopting commercially available solutions that engage system integration partners from industry for enterprise transformation initiatives.
 {: .intro}
 
