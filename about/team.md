@@ -169,12 +169,6 @@ teams:
         img: StephanieRiggin19.jpg
         center: Contact Center
         bio: >-
-          Stephanie Riggin has over 15 years of program support experience in various acquisition, IT, and contact center operations. Within the Contact Center CoE, Riggin engages with partner agency stakeholders and collaborates to determine best practices including contact center infrastructure, staffing, and technology implementation. Riggin supported the Contact Center team at the Department of Housing and Urban Development (HUD) by identifying opportunities for improvement for contact center governance, management, operations, and emerging technologies including self-service tools. Riggin is currently supporting the DOD Joint Artificial Intelligence Center (JAIC) by documenting current project management processes and staff priorities in order to recommend best practices and tools.
-        linkedin: stephaniesoblitriggin
-      - name: Dan Willis
-        img: DanWillis19.jpg
-        center: Customer Experience
-        bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
       - name: Lashanda Hodge
