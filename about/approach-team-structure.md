@@ -7,7 +7,6 @@ redirect_from: /about
 # About Us
 
 We are a dynamic team of IT modernization accelerators providing cross-functional surge expertise to agencies that are modernize their IT and related operations
-{: .intro}
 
 We speed deliver complex, interdependent IT, data, and customer challenges through accelerated acquisition, discovery, and implementation, managing the triple partnership — Partner agency x GSA x trusted industry partners. The CoE has teams focus on six functional areas:
 
@@ -23,14 +22,17 @@ We speed deliver complex, interdependent IT, data, and customer challenges throu
 Government departments and agencies partner with CoE to co-create and accelerate their modernization initiatives. The CoE model focuses on bringing in the right people, at the right time, to drive sustainable outcomes. 
 
 EXPERIENCED
+{: .intro}
 - **Top talent.** Federal employees with public and private sector experience in modern capabilities 
 - **Industry experts.** A dedicated team with subject matter expertise to meet your modernization needs  
 
 HUMAN CENTERED
+{: .intro}
 - **People first.** Use human-centered design to identify and validate needs, priorities and key stakeholders
 - **Inclusive and agile.** Deliver on roadmaps to address pain points, through prototyping and enterprise implementations 
 
-RESULTS DRIVEN
+RESULTS DRIVEN 
+{: .intro}
 - **21st century capabilities.** Migration of legacy systems to modern platforms and capabilities 
 - **Sustained success mindset.** Enable partner agencies to support their own technology modernization 
   
