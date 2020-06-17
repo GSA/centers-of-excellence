@@ -21,16 +21,18 @@ We speed deliver complex, interdependent IT, data, and customer challenges throu
 
 Government departments and agencies partner with CoE to co-create and accelerate their modernization initiatives. The CoE model focuses on bringing in the right people, at the right time, to drive sustainable outcomes. 
 
-EXPERIENCED{: .intro}
+EXPERIENCED
+{: .intro}
 - **Top talent.** Federal employees with public and private sector experience in modern capabilities 
 - **Industry experts.** A dedicated team with subject matter expertise to meet your modernization needs  
 
-HUMAN CENTERED{: .intro}
+HUMAN CENTERED
+{: .intro}
 - **People first.** Use human-centered design to identify and validate needs, priorities and key stakeholders
 - **Inclusive and agile.** Deliver on roadmaps to address pain points, through prototyping and enterprise implementations 
 
-RESULTS DRIVEN {: .intro}
-- **21st century capabilities.** Migration of legacy systems to modern platforms and capabilities 
+RESULTS DRIVEN 
+{: .intro}- **21st century capabilities.** Migration of legacy systems to modern platforms and capabilities 
 - **Sustained success mindset.** Enable partner agencies to support their own technology modernization 
   
 ## How We Work
