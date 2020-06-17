@@ -7,7 +7,8 @@ title: Webcasts and Speaking Events
 
 ## Previous
 ### 2020
-- [Securing the Complex Ecosystem of Hybrid Cloud](http://events.r20.constantcontact.com/register/event?oeidk=a07eh465nvnf670060f&llr=okdzyycab) - Homeland Security Dialouge Forum- [Genuis Machines: Purchasing with the Power of Artifical Intelligence](https://www.defenseone.com/feature/genius-machines-purchasing-with-the-power-of-artificial-intelligence/) - Defense One
+- [Securing the Complex Ecosystem of Hybrid Cloud](http://events.r20.constantcontact.com/register/event?oeidk=a07eh465nvnf670060f&llr=okdzyycab) - Homeland Security Dialouge Forum
+- [Genuis Machines: Purchasing with the Power of Artifical Intelligence](https://www.defenseone.com/feature/genius-machines-purchasing-with-the-power-of-artificial-intelligence/) - Defense One
 - [Keys to Managing Your Multi-Cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
 - [A Program to Build Industry - Federal Government Partnerships](https://www.scaleupusa.xyz/courses/ai-center-of-excellence-at-gsa) - ScaleUP USA
 - [How AI is Being Applied at GSA Centers of Excellence](https://my.demio.com/recording/1dyYDiA4) - AI in Government
