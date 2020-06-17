@@ -39,11 +39,9 @@ RESULTS DRIVEN
 ## How We Work
 The CoE quickly enhances an organization’s capacity to have a measurable impact on their mission and customers through modernized capabilities and strategic partnerships. The CoE teams are embedded on-site, lead delivery, and engage in a phased approach to quickly drive results.
 
-<a href="{{site.baseurl}}/images/About 1.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/About 1.png" class="img-responsive" alt="The CoE teams are made up of Leads, Champion and Detailees, and Industry Partners">
+<a href="{{site.baseurl}}/images/About Us.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/About Us.png" class="img-responsive" alt="Collaborative CoE teams work in a phased approach.">
 </a>
-<a href="{{site.baseurl}}/images/About 3.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/About 3.png" class="img-responsive" alt="The CoE teams are made up of Leads, Champion and Detailees, and Industry Partners">
-</a>
+
 
 If you are interested in learning more about the Centers of Excellence or discussing tools or solutions, please reach out to us at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov)
