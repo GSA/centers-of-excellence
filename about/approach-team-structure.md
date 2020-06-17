@@ -32,7 +32,8 @@ HUMAN CENTERED
 - **Inclusive and agile.** Deliver on roadmaps to address pain points, through prototyping and enterprise implementations 
 
 RESULTS DRIVEN 
-{: .intro}- **21st century capabilities.** Migration of legacy systems to modern platforms and capabilities 
+{: .intro}
+- **21st century capabilities.** Migration of legacy systems to modern platforms and capabilities 
 - **Sustained success mindset.** Enable partner agencies to support their own technology modernization 
   
 ## How We Work
