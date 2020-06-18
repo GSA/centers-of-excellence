@@ -14,13 +14,13 @@ teams:
         bio: >-
           As the Deputy Director of the Centers of Excellence (CoE), Peters manages stakeholder engagement with the highest level of federal leadership communicating the value of the CoE and identifying new opportunities for collaboration with customer agencies to modernize IT and customer experiences. Previously, Peters led the Customer Experience and Contact Center CoE as well as the first CoE engagement with the U.S. Department of Agriculture.  Most notably, Peters led the identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities. With the 2015 GSA Administrator’s Award and 2014 Federal 100 Award, Peters has been repeatedly recognized for his contributions to Digital Government Strategy implementation and IT acquisition across the federal government. 
         linkedin: david-peters-b0b2222
-  - title: Program Management Office
-    people:
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
         bio: >-
-          Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.
-        linkedin: bethanyblakey
+          Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
+        linkedin: bethanyblakey  
+  - title: Program Management Office
+    people:
       - name: Bridget Fields
         img: BridgetFields19.jpg
         bio: >-
