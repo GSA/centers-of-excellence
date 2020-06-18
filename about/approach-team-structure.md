@@ -8,7 +8,7 @@ redirect_from: /about
 
 We are a dynamic team of IT modernization accelerators providing cross-functional surge expertise to agencies that are modernizing their IT and related operations.
 
-We speed deliver complex, interdependent IT, data, and customer challenges through accelerated acquisition, discovery, and implementation, managing the triple partnership — Partner agency x GSA x trusted industry partners. The CoE has teams focus on six functional areas:
+We speed deliver complex, interdependent IT, data, and customer challenges through accelerated acquisition, discovery, and implementation, managing the triple partnership — Partner agency x GSA x trusted industry partners. The CoE has teams focued on six functional areas:
 
 - Artificial Intelligence
 - Cloud Adoption
