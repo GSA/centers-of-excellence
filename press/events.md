@@ -5,6 +5,9 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 
+## Upcoming
+- **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
+
 ## Previous
 ### 2020
 - [Securing the Complex Ecosystem of Hybrid Cloud](http://events.r20.constantcontact.com/register/event?oeidk=a07eh465nvnf670060f&llr=okdzyycab) - Homeland Security Dialouge Forum
