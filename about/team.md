@@ -4,23 +4,23 @@ title: Our Team
 teams:
   - title: Centers of Excellence Leadership
     people:
-      - name: Bob De Luca
-        img: BobDeluca19.jpg 
+      - name: Harry Lee
+        img: HarryLee.png 
         bio: >-
-          With over 20 years of experience in the public sector tech field, Bob DeLuca has a strong blend of leadership and technical expertise in planning and executing enterprise-wide solutions. As the Executive Director of the Centers of Excellence (CoE), DeLuca is proud to be leading a team of talented individuals from both the public and private sector, to drive enterprise transformation at the agency level across the federal government. Prior to GSA, DeLuca served as the Chief Information Officer at the Overseas Private Investment Corporation, where he led transformational change across the Corporation. Results Included transparency in the financial product lifecycle, streamlined business processing, and increased workforce mobility. Additionally, he is a Major in the 175th Cyberspace Operations Squadron, in the Maryland Air National Guard.
-        linkedin: bobdeluca
+          Mr. Harry Lee is the Assistant Commissioner of the Office of Clients and Markets, and Acting Executive Director for the Centers of Excellence at the Technology Transformation Services (TTS) within the U.S. General Services Administration (GSA). The Office of Clients and Markets includes the IT Modernization Centers of Excellence (CoE), Presidential Innovation Fellows (PIF), 18F, and the TTS Outreach Team. In this role, his focus is to transform how TTS partner agencies in the federal government use technology to improve the lives of the public and public servants.  Mr. Lee joined GSA in September 2019 from the NCR Corporation where he was the Vice President of Professional Services focused on consumer-oriented solutions for global retail customers. Prior to NCR, he was the Vice President of Consulting Services at Teradata with a focus on enterprise-level data and analytic solutions for Global 500 firms across the Americas. Prior to Teradata, Mr. Lee was a Managing Director at PwC Consulting specializing in the use of emerging technologies to solve complex, enterprise-level challenges.
+        linkedin: harry-f-lee
       - name: David Peters
         img: DavidPeters19.jpg 
         bio: >-
           As the Deputy Director of the Centers of Excellence (CoE), Peters manages stakeholder engagement with the highest level of federal leadership communicating the value of the CoE and identifying new opportunities for collaboration with customer agencies to modernize IT and customer experiences. Previously, Peters led the Customer Experience and Contact Center CoE as well as the first CoE engagement with the U.S. Department of Agriculture.  Most notably, Peters led the identification and implementation of IT Modernization Best Practices which produced increased cloud adoption, reduced data center footprint, and established initial data analytics and customer experience management capabilities. With the 2015 GSA Administrator’s Award and 2014 Federal 100 Award, Peters has been repeatedly recognized for his contributions to Digital Government Strategy implementation and IT acquisition across the federal government. 
         linkedin: david-peters-b0b2222
-  - title: Program Management Office
-    people:
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
         bio: >-
-          Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.
-        linkedin: bethanyblakey
+          Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
+        linkedin: bethanyblakey  
+  - title: Program Management Office
+    people:
       - name: Bridget Fields
         img: BridgetFields19.jpg
         bio: >-
