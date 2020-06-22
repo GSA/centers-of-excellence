@@ -201,6 +201,17 @@ teams:
         bio: >-
           Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management. 
         linkedin: sgdhumne
+      - name: Steve Rohall
+        img: SteveRohall.png
+        center: Data & Analytics
+        bio: >-
+          Steven Rohall has more than 25 years of experience in computer science research, software development, and consulting. Rohall’s focus areas include data analytics and machine learning, expertise discovery, collaborative computing, information visualization. Rohall solves critical business problems by employing computational methods in the analysis of unstructured text and network data.  Rohall is a co-inventor on 17 patents and 5 patents pending and has co-authored 43 technical publications.  Rohall began his career at Bell Communications Research as the Program Manager for the Visual Information Environment Prototype, investigating the combined use of collaborative computing and novel, gesture-based input technologies to support next-generation command and control systems. He also worked as a Sr. Technical Staff Member at IBM Research.  Prior to joining the CoE, Rohall led the Chem Recommender project at the Novartis Institutes for BioMedical Research (NIBR). Rohall received Master and Bachelor of Science degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
+        linkedin: slrohall      
+      - name: Nathan Manzotti
+        img: NathanManzotti.jpg        
+        bio: >-
+          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
+        linkedin: nathanmanzotti      
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
         center: Data & Analytics
