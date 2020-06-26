@@ -10,6 +10,8 @@ title: Webcasts and Speaking Events
 
 ## Previous
 ### 2020
+- [The Role of Emerging Technology in the Federal Emergency Response Virtual Summit](https://atarc.org/event/emerging-tech-pandemic-2020/#register) - ATARC
+- [Data Champions, Online - Governmen](https://dco-gov.coriniumintelligence.com/) - Corinium Events
 - [Securing the Complex Ecosystem of Hybrid Cloud](http://events.r20.constantcontact.com/register/event?oeidk=a07eh465nvnf670060f&llr=okdzyycab) - Homeland Security Dialouge Forum
 - [Genuis Machines: Purchasing with the Power of Artifical Intelligence](https://www.defenseone.com/feature/genius-machines-purchasing-with-the-power-of-artificial-intelligence/) - Defense One
 - [Keys to Managing Your Multi-Cloud Strategy](https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/?oref=ge-events-upcoming) - Government Executive
