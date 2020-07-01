@@ -81,11 +81,6 @@ teams:
         bio: >-
           Nina Bianchi serves as the Director of Workforce Solutions at the Centers of Excellence, building teams and creating a community of more effective problem-solvers to drive modern organizations where great people want to work. To foster a 21st-century organizational culture of creative problem-solving and innovation operations for the future of work, Bianchi builds partnerships across siloed business units to enable holistic digital transformation and leads strategic operational innovation to inspire and cross-train diverse teams.
         linkedin: bianchininafuture
-      - name: Omid Ghaffari-Tabrizi
-        img: OmidGhaffariTabrizi19.jpg
-        bio: >-
-          With a legal and technical background, Ghaffari-Tabrizi develops and institutes innovative procurement solutions to provide rapid results for agency partners who need to modernize their IT-related workforce, systems, and processes. Ghaffari-Tabrizi serves as the primary Acquisition project manager with the CoE and assists in the development of procurement packages for all CoE agency partners and internal needs.
-        linkedin: oghaffari
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
         bio: >-
