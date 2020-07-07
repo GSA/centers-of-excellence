@@ -6,6 +6,7 @@ title: Webcasts and Speaking Events
 # Webcasts and Speaking Events
 
 ## Upcoming
+- **July 8, 2020:** [What Does Agile Look Like In Government?] (https://www.govloop.com/training/july-8-what-does-agile-look-like-in-government/)- govloop
 - **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
 
 ## Previous
