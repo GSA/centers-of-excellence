@@ -228,19 +228,19 @@ teams:
         center: IT Infrastructure Optimization
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs.  At the CoE he directs agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
-        linkedin: adam-grandt-ht0
-      - name: David Siegrist
-        img: DavidSiegrist.jpg
-        center: IT Infrastructure Optimization        
-        bio: >-
-          David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
-        linkedin: david-siegrist-591945b8          
+        linkedin: adam-grandt-ht0          
       - name: David Harrity
         img: DavidHarrity.jpg
         center: IT Infrastructure Optimization        
         bio: >-
           David Harrity has over 20 years of progressive leadership experience in IT delivery, infrastructure operations and digital transformation managing a diverse portfolio of IT services in the federal government and private sector. David is serving in an executive-in-residence detail Infrastructure Optimization Lead.  Prior to joining CoE and since January 2017, David serves as the Associate Chief Information Officer for Digital Infrastructure Technologies within the Office of GSA IT. In this role, he led government and contractor personnel to broker, integrate, and orchestrate a full range of enterprise IT services including the customer service desk, local support; end-point computing services; storage, identify management and server solutions; cloud computing, engineering, DevOps, and managed services; and mobile and remote access technologies. Harrity led a 130-person team supporting more than 16,000 government and contractor staff located across more than 700 domestic and international locations. 
         linkedin: davidharrity      
+      - name: David Siegrist
+        img: DavidSiegrist.jpg
+        center: IT Infrastructure Optimization        
+        bio: >-
+          David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
+        linkedin: david-siegrist-591945b8        
       - name: Sid Sripada
         img: SidSripada.jpeg
         center: IT Infrastructure Optimization
