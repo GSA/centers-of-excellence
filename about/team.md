@@ -165,9 +165,9 @@ teams:
         bio: >-
           Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
         linkedin: sandra-dickinson-0764238
-      - name: Stephanie Riggin
-        img: StephanieRiggin19.jpg
-        center: Contact Center
+      - name: Dan Willis
+        img: DanWillis19.jpg
+        center: Customer Experience
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
