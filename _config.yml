@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GSA Centers of Excellence
+title: GSA - IT Modernization Centers of Excellence
 email:  connectcoe@gsa.gov
 description: >- # this means to ignore newlines until "baseurl:"
   The Centers of Excellence (CoE) are accelerating the modernization of IT 
