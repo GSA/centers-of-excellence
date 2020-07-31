@@ -21,7 +21,16 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="{{site.baseurl}}/icons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-  <title>GSA - IT Modernization Centers of Excellence</title>
+  <!-- Title -->
+  {% if page.title %}
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta property="og:title" content="{{ page.title | xml_escape }} | {{ site.title | xml_escape }}" />
+    <meta name="twitter:title" content="{{ page.title | xml_escape }} | {{ site.title | xml_escape }}">
+  {% else %}
+    <title>{{ site.title }} | {{ site.description }}</title>
+    <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+    <meta property="twitter:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+  {% endif %}
 
   {% assign description = page.description | default: site.description %}
   {% if description %}
@@ -108,7 +117,7 @@
       <button class="usa-menu-btn">Menu</button>
 
     </div> <!-- /.usa-navbar -->
-    <nav role="navigation" class="usa-nav">
+    <nav role="navigation" class="usa-nav" aria-label="Primary site navigation">
         <div class="usa-nav-inner">
             <button class="usa-nav-close">
               <img src="{{site.baseurl}}/img/close.svg" alt="close">

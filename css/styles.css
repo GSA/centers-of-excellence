@@ -197,6 +197,7 @@ header.main-header nav.usa-nav {
 .usa-nav-primary button[aria-expanded=true] {
     background-color:#205493;
     border-bottom: 0.4rem solid #f1f1f1;
+    color: #ffffff;
 }
 .usa-nav-primary button[aria-expanded=true]:focus,
 .usa-nav-primary button[aria-expanded=true]:hover {
@@ -234,6 +235,7 @@ header.main-header nav.usa-nav {
 .usa-nav-submenu>li>a:hover {
     text-decoration: none;
     background-color: #205493;
+    color: #ffffff;
 }
 @media screen and (max-width: 1090px) {
    .usa-nav-primary>li>.usa-nav-link {
@@ -1315,6 +1317,9 @@ h2#service-catalog::before {
     .footer-mobile>ul>li>a {
         display: block;
         text-decoration: none;
+    }
+    .footer-mobile>ul>li>a:focus, .footer-mobile>ul>li>a:hover {
+        color: #ffffff;
     }
 }
 /* Long URL Fix */
