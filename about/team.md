@@ -66,11 +66,6 @@ teams:
         bio: >-
           Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
         linkedin: mgmontano
-      - name: Matthew Rose
-        img: MatthewRose19.jpg
-        bio: >-
-          Matthew Rose has over 15 years of experience managing cleared federal government enterprise programs. Rose has led the creation and execution of agency strategies, planning, and policy efforts for US and partnered organizations. Previously, Rose was a Senior Analyst and Mission Manager in the Department of Defense’s (DoD) Defense Intelligence Agency (DIA). He also served as a senior advisor on the Secretary of Defense’s Protecting Critical Technology Task Force, where he advised DoD-wide acquisition, protection, and other policy changes for the Deputy Secretary and Vice Chairman of the Joint Chiefs of Staff. Rose is also a Reserve Army Officer where he serves as an Innovation Officer for the 75th Innovation Command/Army Futures Command.
-        linkedin: roseamatthew
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         bio: >-
