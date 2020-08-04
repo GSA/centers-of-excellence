@@ -6,8 +6,8 @@ title: Webcasts and Speaking Events
 # Webcasts and Speaking Events
 
 ## Upcoming
-- **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
 - **August 11, 2020:** [Citizen Experience Seminar](https://carahevents.carahsoft.com/Event/Register/142313-web-event)
+- **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
 
 ## Previous
 ### 2020
