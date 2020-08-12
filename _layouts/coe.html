@@ -8,12 +8,12 @@ layout: default
         <p class="intro">{{ page.tagline }}</p>
 
         <div class="page-nav">
-            <a href="#service-offerings">Service Offerings & Catalog</a> | {% if page.service-catalog %}<a href="#service-catalog">Service Catalog</a> | {% endif %}<a href="#coe-updates">Latest Updates</a> | {% for item in page.page-nav.children %}<a href="{{ site.baseurl }}/work/{{ item.url-fragment }}">Our Work at {{ item.agency }}</a> {% if forloop.last == false %} | {% endif %}{% endfor %}
+            <a href="#service-offerings">Service Offerings</a> | {% if page.service-catalog %}<a href="#service-catalog">Service Catalog</a> | {% endif %}<a href="#coe-updates">Latest Updates</a> | {% for item in page.page-nav.children %}<a href="{{ site.baseurl }}/work/{{ item.url-fragment }}">Our Work at {{ item.agency }}</a> {% if forloop.last == false %} | {% endif %}{% endfor %}
         </div>
 
       <p>{{ page.intro }}</p>
 
-      <h2 id="service-offerings">Service Offerings & Catalog</h2>
+      <h2 id="service-offerings">Service Offerings</h2>
       <ul>
       {% for offering in page.service-offerings %}
         <li>{{ offering }}</li>
