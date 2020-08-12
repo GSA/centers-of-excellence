@@ -35,7 +35,7 @@ layout: default
           {% endif %}
         {% endfor %}
       {% endif %}
-
+    
       <h2 id="coe-updates">Latest Updates</h2>
       {% assign filtered_posts = site.posts | where: 'initiative', page.title %}
       {% for post in filtered_posts %}
