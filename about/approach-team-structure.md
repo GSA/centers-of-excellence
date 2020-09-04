@@ -40,7 +40,7 @@ RESULTS DRIVEN
 The CoE quickly enhances an organization’s capacity to have a measurable impact on their mission and customers through modernized capabilities and strategic partnerships. The CoE teams are embedded on-site, lead delivery, and engage in a phased approach to quickly drive results.
 
 <a href="{{site.baseurl}}/images/About Us.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/About Us.png" class="img-responsive" alt="Collaborative CoE teams work in a phased approach.">
+<img src="{{site.baseurl}}/images/About Us.png" alt="Collaborative CoE teams work in a phased approach.">
 </a>
 
 
