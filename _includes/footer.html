@@ -71,8 +71,40 @@
 </div> <!-- /.usa-footer-primary-section -->
 </footer>
 
-<script src="https://unpkg.com/@popperjs/core@2"></script>
-<script src="https://unpkg.com/tippy.js@6"></script>
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+<script>
+  const hideOnEsc = {
+    name: 'hideOnEsc',
+    defaultValue: true,
+    fn({hide}) {
+      function onKeyDown(event) {
+        if (event.keyCode === 27) {
+          hide();
+        }
+      }
+
+      return {
+        onShow() {
+          document.addEventListener('keydown', onKeyDown);
+        },
+        onHide() {
+          document.removeEventListener('keydown', onKeyDown);
+        },
+      };
+    },
+  };
+
+  tippy('[data-tippy-content]', {
+    allowHTML: true, 
+    hideOnClick: true,
+    maxWidth: 500,
+    hideOnEsc: true, 
+    plugins: [hideOnEsc],
+  });
+
+    
+</script>
 <script src="{{site.baseurl}}/js/jquery.min.js"></script>
 <script src="{{site.baseurl}}/js/uswds.min.js"></script>
 <script src="{{site.baseurl}}/js/scripts.js"></script>
