@@ -6,11 +6,12 @@ title: Webcasts and Speaking Events
 # Webcasts and Speaking Events
 
 ## Upcoming
-- **August 11, 2020:** [Citizen Experience Seminar](https://carahevents.carahsoft.com/Event/Register/142313-web-event)
+
 - **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
 
 ## Previous
 ### 2020
+- [Citizen Experience Seminar](https://carahevents.carahsoft.com/Event/Register/142313-web-event)
 - [What Does Agile Look Like In Government?](https://www.govloop.com/training/july-8-what-does-agile-look-like-in-government/)- govloop
 - [The Role of Emerging Technology in the Federal Emergency Response Virtual Summit](https://atarc.org/event/emerging-tech-pandemic-2020/#register) - ATARC
 - [Data Champions, Online - Governmen](https://dco-gov.coriniumintelligence.com/) - Corinium Events
