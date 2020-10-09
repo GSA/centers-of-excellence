@@ -7,14 +7,15 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 
-- **October 6, 2020** [IT Modernization Summit](https://fcw.com/modernization) 
-- **October 7, 2020** [Delivering an Omnichannel Experience through Robust Knowledge Management](https://www.eventbrite.com/e/delivering-an-omnichannel-experience-through-robust-knowledge-management-tickets-89647350639)
+- **October 9, 2020** [Techqueria's Latinx Heritage Month Celebration 2020](https://hopin.to/events/techqueria-latinx-heritage-month-celebration-2020)
 - **October 13, 2020** [Machines and the AI Journey](https://www.govevents.com/details/41464/machines-and-the-ai-journey/)
 - **October 15, 2020** [Cloud Together Virtual Summit](https://www.fedscoop.com/events/cloud-together-summit/)
 - **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
 
 ## Previous
 ### 2020
+- [IT Modernization Summit](https://fcw.com/modernization) 
+- [Delivering an Omnichannel Experience through Robust Knowledge Management](https://www.eventbrite.com/e/delivering-an-omnichannel-experience-through-robust-knowledge-management-tickets-89647350639)
 - [Citizen Experience Seminar](https://carahevents.carahsoft.com/Event/Register/142313-web-event)
 - [What Does Agile Look Like In Government?](https://www.govloop.com/training/july-8-what-does-agile-look-like-in-government/)- govloop
 - [The Role of Emerging Technology in the Federal Emergency Response Virtual Summit](https://atarc.org/event/emerging-tech-pandemic-2020/#register) - ATARC
