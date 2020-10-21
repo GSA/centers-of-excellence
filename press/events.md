@@ -7,18 +7,18 @@ title: Webcasts and Speaking Events
 
 ## Upcoming
 - **October 26-29, 2020** [REIMAGINE NATION ELC 2020](https://www.actiac.org/events/reimagine-nation-elc-2020) - ACT-IAC
-- **October 27-28, 2020** [Plain Language Summit 2020](https://www.eventbrite.com/e/plain-language-summit-2020-tickets-123357494587)
-- **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/)
+- **October 27-28, 2020** [Plain Language Summit 2020](https://www.eventbrite.com/e/plain-language-summit-2020-tickets-123357494587)- Digital.gov
+- **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/) - AI World Government 
 
 ## Previous
 ### 2020
-- [Cloud Together Virtual Summit](https://www.fedscoop.com/events/cloud-together-summit/)
-- [Machines and the AI Journey](https://www.govevents.com/details/41464/machines-and-the-ai-journey/)
-- [Techqueria's Latinx Heritage Month Celebration 2020](https://hopin.to/events/techqueria-latinx-heritage-month-celebration-2020)
-- [IT Modernization Summit](https://fcw.com/modernization) 
-- [Delivering an Omnichannel Experience through Robust Knowledge Management](https://www.eventbrite.com/e/delivering-an-omnichannel-experience-through-robust-knowledge-management-tickets-89647350639)
-- [Citizen Experience Seminar](https://carahevents.carahsoft.com/Event/Register/142313-web-event)
-- [What Does Agile Look Like In Government?](https://www.govloop.com/training/july-8-what-does-agile-look-like-in-government/)- govloop
+- [Cloud Together Virtual Summit](https://www.fedscoop.com/events/cloud-together-summit/) - Fedscoop
+- [Machines and the AI Journey](https://www.govevents.com/details/41464/machines-and-the-ai-journey/) - GovEvents
+- [Techqueria's Latinx Heritage Month Celebration 2020](https://hopin.to/events/techqueria-latinx-heritage-month-celebration-2020)- Techqueria
+- [IT Modernization Summit](https://fcw.com/modernization) - FCW
+- [Delivering an Omnichannel Experience through Robust Knowledge Management](https://www.eventbrite.com/e/delivering-an-omnichannel-experience-through-robust-knowledge-management-tickets-89647350639) -  Dorris Consulting International
+- [Citizen Experience Seminar](https://carahevents.carahsoft.com/Event/Register/142313-web-event) - Carahsoft Technology
+- [What Does Agile Look Like In Government?](https://www.govloop.com/training/july-8-what-does-agile-look-like-in-government/)- Govloop
 - [The Role of Emerging Technology in the Federal Emergency Response Virtual Summit](https://atarc.org/event/emerging-tech-pandemic-2020/#register) - ATARC
 - [Data Champions, Online - Governmen](https://dco-gov.coriniumintelligence.com/) - Corinium Events
 - [Securing the Complex Ecosystem of Hybrid Cloud](http://events.r20.constantcontact.com/register/event?oeidk=a07eh465nvnf670060f&llr=okdzyycab) - Homeland Security Dialouge Forum
