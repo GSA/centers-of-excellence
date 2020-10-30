@@ -76,11 +76,6 @@ teams:
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
         linkedin: nick-lundin        
-      - name: Nina Bianchi
-        img: NinaBianchi19.png
-        bio: >-
-          Nina Bianchi serves as the Director of Workforce Solutions at the Centers of Excellence, building teams and creating a community of more effective problem-solvers to drive modern organizations where great people want to work. To foster a 21st-century organizational culture of creative problem-solving and innovation operations for the future of work, Bianchi builds partnerships across siloed business units to enable holistic digital transformation and leads strategic operational innovation to inspire and cross-train diverse teams.
-        linkedin: bianchininafuture
       - name: Victoria Wales
         img:  VictoriaWales19.jpg
         bio: >-
