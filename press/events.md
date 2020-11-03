@@ -5,7 +5,7 @@ title: Webcasts and Speaking Events
 
 # Webcasts and Speaking Events
 ## Upcoming
-- **November 4th & 5th, 2020** [Emerging Technology Forum](https://www.actiac.org/events/emerging-technology-forum-2020) - ACT-IAC
+- **November 4th & 5th, 2020:** [Emerging Technology Forum](https://www.actiac.org/events/emerging-technology-forum-2020) - ACT-IAC
 
 ## Previous
 ### 2020
