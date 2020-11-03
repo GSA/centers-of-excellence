@@ -6,12 +6,13 @@ title: Webcasts and Speaking Events
 # Webcasts and Speaking Events
 
 ## Upcoming
-- **October 26-29, 2020** [REIMAGINE NATION ELC 2020](https://www.actiac.org/events/reimagine-nation-elc-2020) - ACT-IAC
-- **October 27-28, 2020** [Plain Language Summit 2020](https://www.eventbrite.com/e/plain-language-summit-2020-tickets-123357494587)- Digital.gov
-- **October 28-30, 2020:** [AI World Government](https://www.aiworldgov.com/) - AI World Government 
+
 
 ## Previous
 ### 2020
+- [REIMAGINE NATION ELC 2020](https://www.actiac.org/events/reimagine-nation-elc-2020) - ACT-IAC
+- [Plain Language Summit 2020](https://www.eventbrite.com/e/plain-language-summit-2020-tickets-123357494587)- Digital.gov
+- [AI World Government](https://www.aiworldgov.com/) - AI World Government
 - [Cloud Together Virtual Summit](https://www.fedscoop.com/events/cloud-together-summit/) - Fedscoop
 - [Machines and the AI Journey](https://www.govevents.com/details/41464/machines-and-the-ai-journey/) - GovEvents
 - [Techqueria's Latinx Heritage Month Celebration 2020](https://hopin.to/events/techqueria-latinx-heritage-month-celebration-2020)- Techqueria
