@@ -4,11 +4,10 @@ title: Webcasts and Speaking Events
 ---
 
 # Webcasts and Speaking Events
-## Upcoming
-- **November 4th & 5th, 2020:** [Emerging Technology Forum](https://www.actiac.org/events/emerging-technology-forum-2020) - ACT-IAC
 
 ## Previous
 ### 2020
+- [Emerging Technology Forum](https://www.actiac.org/events/emerging-technology-forum-2020) - ACT-IAC
 - [REIMAGINE NATION ELC 2020](https://www.actiac.org/events/reimagine-nation-elc-2020) - ACT-IAC
 - [Plain Language Summit 2020](https://www.eventbrite.com/e/plain-language-summit-2020-tickets-123357494587)- Digital.gov
 - [AI World Government](https://www.aiworldgov.com/) - AI World Government
