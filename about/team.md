@@ -119,6 +119,12 @@ teams:
         bio: >-
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
+      - name: Thomas Hallaran
+        img: ThomasHallaran.jpg
+        center: Artifical Intelligence
+        bio: >-
+          Tom Hallaran has over 20 years experience in public and private sector IT, software engineering, and strategy. Hallaran began his career as a bioinformatician working on automating genome sequencing and plating pipelines. Later, as VP of engineering at a major digital advertising network, Hallaran managed analytics and product teams prior to the company's sale. Before joining GSA, Hallaran’s software and analytics consultancy worked with Fortune 500 clients, leading organizations, and startups to modernize legacy technology and materialize new products. At the CoE, he pairs his private sector experience along with his understanding of Federal IT funding to engineer great outcomes for our partners.  Hallaran also serves as a Technical Advisor to GSA’s Technology Modernization Fund (TMF) and is responsible for advising the TMF board on their investment of $150 Million in Federal Agency modernization projects.
+        linkedin: tomhallaran
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption
@@ -141,7 +147,7 @@ teams:
         img: DanJacobs19.jpg
         center: Cybersecurity 
         bio: >-
-          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. ​Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
+          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
         linkedin: danieljacobs      
       - name: Meghan Daly
         img: MeghanDaly19.jpg
@@ -177,7 +183,7 @@ teams:
         img: AlexandraPorter19.jpg
         center: Data & Analytics
         bio: >-
-          Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At  the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
+          Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
@@ -209,12 +215,6 @@ teams:
         bio: >-
           Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
         linkedin: nathanmanzotti      
-      - name: Thomas Hallaran
-        img: ThomasHallaran.jpg
-        center: Data & Analytics
-        bio: >-
-          Tom Hallaran has over 20 years experience in public and private sector IT, software engineering, and strategy. Hallaran began his career as a bioinformatician working on automating genome sequencing and plating pipelines. Later, as VP of engineering at a major digital advertising network, Hallaran managed analytics and product teams prior to the company's sale. Before joining GSA, Hallaran’s software and analytics consultancy worked with Fortune 500 clients, leading organizations, and startups to modernize legacy technology and materialize new products. Hallaran currently serves as a Director of the Data and Analytics Center of Excellence. In this role, he pairs his private sector experience along with his understanding of Federal IT funding to engineer great outcomes for our partners.  Hallaran also serves as a Technical Advisor to GSA’s Technology Modernization Fund (TMF) and is responsible for advising the TMF board on their investment of $150 Million in Federal Agency modernization projects.
-        linkedin: tomhallaran
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
