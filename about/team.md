@@ -172,13 +172,7 @@ teams:
         center: Customer Experience
         bio: >-
           Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
-        linkedin: lashandahodge
-      - name: Tamieca Hamlin
-        img: TamiecaHamlin19.jpg
-        center: Customer Experience
-        bio: >-
-          Tamieca Hamlin has over 20 years of federal government experience dedicated to improving services for active duty military, government employees, farmers, ranchers, and importers.  Hamlin currently Co-Lead’s the Customer Experience and Contact Center CoE teams at USDA.  Hamlin has leadership experience in managing project teams, high paced production teams, strategizing, and is a relationship building master.  She is dedicated to finding a human centered approach to any people, policy, or process related problem.  Tamieca has helped agencies develop innovative technology solutions to help improve services for citizens.  
-        linkedin: tamieca-hamlin-85957b173       
+        linkedin: lashandahodge    
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
         center: Data & Analytics
@@ -219,7 +213,7 @@ teams:
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization
         bio: >-
-          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs.  At the CoE he directs agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
+          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0          
       - name: David Siegrist
         img: DavidSiegrist.jpg
