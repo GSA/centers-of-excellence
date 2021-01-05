@@ -1382,3 +1382,45 @@ h2#service-catalog::before {
   opacity: 1;
   visibility: visible;
 }
+
+/* Collapsible text */
+
+.collapsible {
+  background-color: rgb(17, 50, 88);
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.active, .collapsible:hover {
+  background-color: rgb(17, 63, 99);
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.collapsibleContent {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
