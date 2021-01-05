@@ -1,0 +1,30 @@
+  
+---
+layout: default
+---
+
+<section class="usa-grid usa-section">
+    <h1>{{ page.title }}</h1>
+    <div class="usa-width-two-thirds">
+        <p class="intro">{{ page.tagline }}</p>
+
+      <p>{{ page.intro }}</p>
+
+      <h2 id="case">Challenge</h2>
+    
+      <h2 id="case">Solution/Approach</h2>
+	  
+	  <h2 id="case">Challenge</h2>
+
+
+    </div> <!-- /.usa-width-two-thirds -->
+    <div class="usa-width-one-third sticky sidebar">
+	  <h4 id="case">The Impact</h4>
+	  
+        {% if page.sidebar-extra-content %}
+        {% for sidebar-box in page.sidebar-extra-content.children %}
+
+        {% endfor %}
+        {% endif %}
+    </div> <!-- /.usa-width-one-third -->
+</section> <!-- /.usa-grid -->
