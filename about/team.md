@@ -4,16 +4,16 @@ title: Our Team
 teams:
   - title: Centers of Excellence Leadership
     people:
-      - name: Harry Lee
-        img: HarryLee.png 
+      - name: Jennifer Rostami
+        img:  JenniferRostami19.jpg
         bio: >-
-          Mr. Harry Lee is the Assistant Commissioner of the Office of Clients and Markets, and Acting Executive Director for the Centers of Excellence at the Technology Transformation Services (TTS) within the U.S. General Services Administration (GSA). The Office of Clients and Markets includes the IT Modernization Centers of Excellence (CoE), Presidential Innovation Fellows (PIF), 18F, and the TTS Outreach Team. In this role, his focus is to transform how TTS partner agencies in the federal government use technology to improve the lives of the public and public servants.  Mr. Lee joined GSA in September 2019 from the NCR Corporation where he was the Vice President of Professional Services focused on consumer-oriented solutions for global retail customers. Prior to NCR, he was the Vice President of Consulting Services at Teradata with a focus on enterprise-level data and analytic solutions for Global 500 firms across the Americas. Prior to Teradata, Mr. Lee was a Managing Director at PwC Consulting specializing in the use of emerging technologies to solve complex, enterprise-level challenges.
-        linkedin: harry-f-lee
-      - name: David Harrity
-        img: DavidHarrity.jpg     
+          Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public sector and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
+        linkedin: jennifer-rostami-mba-154a5a12
+      - name: Ed Golden
+        img: EdGolden.jpg
         bio: >-
-          David Harrity has over 20 years of progressive leadership experience in IT delivery, infrastructure operations and digital transformation managing a diverse portfolio of IT services in the federal government and private sector. David is serving in an executive-in-residence detail Infrastructure Optimization Lead.  Prior to joining CoE and since January 2017, David serves as the Associate Chief Information Officer for Digital Infrastructure Technologies within the Office of GSA IT. In this role, he led government and contractor personnel to broker, integrate, and orchestrate a full range of enterprise IT services including the customer service desk, local support; end-point computing services; storage, identify management and server solutions; cloud computing, engineering, DevOps, and managed services; and mobile and remote access technologies. Harrity led a 130-person team supporting more than 16,000 government and contractor staff located across more than 700 domestic and international locations. 
-        linkedin: davidharrity      
+          Ed Golden brings over 25 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations to his work at the Centers of Excellence.  As the CoE Acting Deputy Executive Director, Ed oversees the CoE engagement portfolio to assure delivery on our commitment to helping clients accelerate IT modernization and improve customer experience, while at the same time shaping identification of new partnership opportunities and driving CoE financial management toward full cost-recoverability.  Since joining the CoE, Golden has led our partnership with the Food and Drug Administration's Office of Information Management and Technology to drive organizational culture change and data center modernization, while concurrently supporting the CoE's Artificial Intelligence engagement with GSA's Information Technology Category (ITC).  Prior to his work at the CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where for seven years he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems, leading efforts to modernize the Department’s business information systems.    
+        linkedin: edward-golden-54242448   
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
         bio: >-
@@ -36,11 +36,6 @@ teams:
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
         linkedin: david-warren-8abb72103
-      - name: Ed Golden
-        img: EdGolden.jpg
-        bio: >-
-          Ed Golden has over 20 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations.  In his current role as an Innovation Specialist and Site Lead at the CoE, Ed leads engagements bringing together Federal Agency and Industry partners to accelerate IT modernization.  Prior to joining CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems. 
-        linkedin: edward-golden-54242448
       - name: George Chenkeli
         img: GeorgeChenkeli20-4.jpg
         bio: >-
@@ -51,11 +46,6 @@ teams:
         bio: >-
           Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
         linkedin: jacquelinesnee
-      - name: Jennifer Rostami
-        img:  JenniferRostami19.jpg
-        bio: >-
-          Jennifer Rostami has over 13 years of experience working in the public and private sector with a background in finance and a specialization in transformation. Leading our agency partnerships, Rostami has experience in project leadership, strategy creation, contracting, team leadership, and budgeting. She has worked with federal agencies to modernize in the areas of Cloud Adoption, Customer Experience, and Data Analytics. Rostami helps create organizational alignment for buy-in and change through stakeholder management, financial planning, and communication. Rostami is also responsible for business development, and centralizes efforts to balance staffing to meet customer/engagement demand.
-        linkedin: jennifer-rostami-mba-154a5a12
       - name: Julie Beararducci
         img: JulieBerarducci19.jpg
         bio: >-
