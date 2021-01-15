@@ -11,10 +11,13 @@ layout: default
       <p>{{ page.intro }}</p>
 
       <h2 id="case">Challenge</h2>
+	  {{ content }}
     
       <h2 id="case">Solution/Approach</h2>
+	  {{ content }}
 	  
 	  <h2 id="case">Challenge</h2>
+	  {{ content }}
 
 
     </div> <!-- /.usa-width-two-thirds -->
@@ -23,7 +26,7 @@ layout: default
 	  
         {% if page.sidebar-extra-content %}
         {% for sidebar-box in page.sidebar-extra-content.children %}
-
+		{{ content }}
         {% endfor %}
         {% endif %}
     </div> <!-- /.usa-width-one-third -->
