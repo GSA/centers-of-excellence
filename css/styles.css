@@ -1426,13 +1426,13 @@ h2#service-catalog::before {
 
 /* Case Studies */
 
-h2#case {
+h2#case-challenge {
     padding-left:6rem;
     margin-bottom:1.5rem;
     position: relative;
 }
 
-h2#case::before  {
+h2#case-challenge::before  {
     content: '';
     position: absolute;
     top:-0.6rem;;
