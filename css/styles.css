@@ -1024,16 +1024,14 @@ em.date {
 }
 h2#service-offerings,
 h2#accomplishments,
-h2#coe-updates,
-h2#case {
+h2#coe-updates {
     padding-left:6rem;
     margin-bottom:1.5rem;
     position: relative;
 }
 h2#service-offerings::before,
 h2#accomplishments::before,
-h2#coe-updates::before,
-h2#case::before  {
+h2#coe-updates::before {
     content: '';
     position: absolute;
     top:-0.6rem;;
@@ -1426,3 +1424,30 @@ h2#service-catalog::before {
   margin-bottom: 10px;
 }
 
+/* Case Studies */
+
+h2#case {
+    padding-left:6rem;
+    margin-bottom:1.5rem;
+    position: relative;
+}
+
+h2#case::before  {
+    content: '';
+    position: absolute;
+    top:-0.6rem;;
+    left: 0;
+    width: 4.1rem;
+    height: 4.1rem;
+    border: 0.3rem solid #ffffff;
+    background-color:#3c8bc9;
+    background-image: url(../images/subpage-section-icons.png);
+    background-repeat: no-repeat;
+    background-size: 4.8rem 14.4rem;
+    border-radius:50%;
+    -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+}
