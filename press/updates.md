@@ -12,6 +12,6 @@ Every month, our team posts updates on our work, best practices or progress. Ple
     {% include article-head.html post=post show_initiative=true %}
 {% endfor %}
 
-<button onclick="topFunction()" id="btt" title="Go to top">Top</button>
+<button onclick="btt()" id="btt">Top</button>
 
 For all press inquiries, please contact [press@gsa.gov](mailto:press@gsa.gov)
