@@ -1363,8 +1363,8 @@ h2#service-catalog::before {
     top: 0.9rem;
     left: 1rem;
     display: block;
-    width: 2rem;
-    height: 2rem;
+    width: 50px;
+    height: 50px;
     background-image: url(../img/angle-arrow-up-primary-white.svg);
     background-size: 2rem 2rem;
     background-repeat: no-repeat;
