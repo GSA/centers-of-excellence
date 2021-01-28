@@ -1360,6 +1360,8 @@ h2#service-catalog::before {
 #btt::after {
     content: '';
     position: relative;
+    bottom: 2rem;
+    right: 2rem;
     display: block;
     width: 50px;
     height: 50px;
