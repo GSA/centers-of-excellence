@@ -1360,11 +1360,7 @@ h2#service-catalog::before {
 #btt::after {
     content: '';
     position: relative;
-    top: 0px;
-    left: 0px;
     display: block;
-    width: 50px;
-    height: 50px;
     background-image: url(../img/angle-arrow-up-primary-white.svg);
     background-size: 2rem 2rem;
     background-repeat: no-repeat;
