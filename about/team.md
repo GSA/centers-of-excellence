@@ -1,5 +1,3 @@
-<button onclick="btt()" id="btt"></button>
-
 ---
 layout: team
 title: Our Team
