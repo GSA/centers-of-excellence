@@ -215,6 +215,7 @@ header.main-header nav.usa-nav {
     background-color: #0071bc;
     left: 0rem;
     z-index: 10;
+	display: none;
 }
 .usa-nav-submenu li {
     border-bottom: 1px solid #0090f0;
