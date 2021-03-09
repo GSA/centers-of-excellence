@@ -218,8 +218,12 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-submenu li {
     border-bottom: 1px solid #0090f0;
-	display: none;
 }
+
+.usa-nav-submenu ul ul{
+    display:none;
+}
+
 .usa-nav-submenu li:last-of-type {
     border-bottom: 0;   
 }
