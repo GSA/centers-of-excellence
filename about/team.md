@@ -203,7 +203,7 @@ teams:
         img: AlisonOMara.JPG
         center: Innovation Adoption
         bio: >-
-          Place Holder   
+          Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
         linkedin: alisonomara  
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
