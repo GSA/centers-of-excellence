@@ -205,7 +205,7 @@ teams:
         bio: >-
           Place Holder   
         linkedin: alisonomara  
-       - name: Bethany Blakey
+      - name: Bethany Blakey
         img: BethanyBlakey19.jpg
         center: Innovation Adoption
         bio: >-
