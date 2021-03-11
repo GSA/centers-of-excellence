@@ -18,7 +18,6 @@ teams:
     people:
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
-        center: IT Infrastructure Optimization Lead
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
@@ -202,6 +201,7 @@ teams:
         linkedin: nathanmanzotti   
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
+        center: Innovation Adoption
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey            
