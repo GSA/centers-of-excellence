@@ -75,151 +75,151 @@ teams:
     people:
       - name: Anil 'Neil' Chaudhry
         img: AnilChaudhry20.jpg
-        center: Artificial Intelligence
+        center: Artificial Intelligence Lead
         bio: >-
           Anil Chaudhry has over 20 years of progressive leadership experience in technology delivery, operations, and program management in the defense, intelligence, and national security sectors. At the Artificial Intelligence CoE, Chaudhry advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Chaudhry served in critical leadership positions within US Customs and Border Protection and as a Presidential Management Fellow (PMF) at the Defense Business Transformation Agency. Chaudhry served as an enlisted soldier in the U.S. Army Chemical Corps and as a commissioned officer in the U.S. Army Transportation Corps. Chaudhry was one of three DHS employees selected to attend the National War College in 2016 as part of the DHS Senior Succession Management Program.
         linkedin: anil-neil-chaudhry
       - name: Bryan Lane
         img: BryanLane19.jpg  
-        center: Artificial Intelligence
+        center: Artificial Intelligence Lead
         bio: >-
           Bryan Lane has over 15 years of experience leading advanced analytics and technology initiatives. As a leader within the Data and Analytics CoE and co-creator of the Artificial Intelligence CoE, Lane advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Lane was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
         linkedin: bulletproofbry
       - name: Eric Ewing
         img: EricEwing20.jpg  
-        center: Artificial Intelligence
+        center: Artificial Intelligence Lead
         bio: >-
           Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
         linkedin: eric-ewing-030b2b73
       - name: Kathy McNeill        
         img: KathyMcNeil.png     
-        center: Artificial Intelligence
+        center: Artificial Intelligence Lead
         bio: >-
           Kathy McNeill is an experienced Chief Information Officer/Chief Technology Officer with more than 25 years of experience providing digital and technical solutions to organizations.  McNeill is seasoned in leading initiatives that enhance business capabilities through technology, robotics and data analytics.  At the CoE, McNeill is a Director of Artificial Intelligence identifying technical solutions that will support agency missions, enhance consumer experience and increase operating efficiencies. In addition, McNeill serves on the Advisory Board of STEM for Her.   
         linkedin: kathy-mcneill-6984902    
       - name: Krista Kinnard        
         img: KristaKinnard20.jpg
-        center: Artificial Intelligence
+        center: Artificial Intelligence Lead
         bio: >-
           Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
         linkedin: krista-kinnard
       - name: Joseph Raetano        
         img: JosephRaetano.jpg
-        center: Artifical Intelligence
+        center: Artifical Intelligence Lead
         bio: >-
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
-        center: Artifical Intelligence
+        center: Artifical Intelligence Lead
         bio: >-
           Tom Hallaran has over 20 years experience in public and private sector IT, software engineering, and strategy. Hallaran began his career as a bioinformatician working on automating genome sequencing and plating pipelines. Later, as VP of engineering at a major digital advertising network, Hallaran managed analytics and product teams prior to the company's sale. Before joining GSA, Hallaran’s software and analytics consultancy worked with Fortune 500 clients, leading organizations, and startups to modernize legacy technology and materialize new products. At the CoE, he pairs his private sector experience along with his understanding of Federal IT funding to engineer great outcomes for our partners.  Hallaran also serves as a Technical Advisor to GSA’s Technology Modernization Fund (TMF) and is responsible for advising the TMF board on their investment of $150 Million in Federal Agency modernization projects.
         linkedin: tomhallaran
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
-        center: Cloud Adoption
+        center: Cloud Adoption Lead
         bio: >-
           Brandon Kirby has over 20 years of experience delivering strategy, software, and technology guidance to private and public sector clients.  As a consultant, Kirby worked with numerous Fortune 50 clients.  As an 18F strategist he served 12 government agencies.  He has also worked for mid-sized product companies and founded streaming media and mobile game startups. Kirby is a generalist who enjoys using his experience in software development, agile practices, strategy, and product management to help partners find the right path to achieve their goals.
         linkedin: brandocalrissian
       - name: Calvert Smith
         img: CalvertSmith19.jpg
-        center: Cloud Adoption
+        center: Cloud Adoption Lead
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
         linkedin: calvert-smith-cissp-pmp-4677243
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
-        center: Cloud Adoption
+        center: Cloud Adoption Lead
         bio: >-
           Syed Azeem has over 16 years of experience leading complex and highly-visible IT modernization projects across the federal government and the private sector. With the CoE, Azeem leads Cloud Adoption efforts within agencies across the federal government by developing cloud migration roadmaps and timelines and implementing cloud governance models. With partnerships at the Department of Housing and Urban Development (HUD), Azeem assisted in digitizing manual and paper-based forms into adaptive online forms with digital workflows, electronic signatures and intelligent data extraction.
         linkedin: syedazeem
       - name: Dan Jacobs
         img: DanJacobs19.jpg
-        center: Cybersecurity 
+        center: Cybersecurity Lead
         bio: >-
           Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
         linkedin: danieljacobs      
       - name: Meghan Daly
         img: MeghanDaly19.jpg
-        center: Contact Center
+        center: Contact Center Lead
         bio: >-
           Meghan Daly has 15 years of experience managing highly visible projects in the federal government, with 10 years at GSA. With the CoE, focused on Contact Centers and Customer Experience, Daly’s projects include strategizing with senior leaders to identify clear key priorities and opportunities to modernize IT, performing research on available intelligent systems solutions to enable robotic process automation (RPA), artificial intelligence (AI) and other intelligent systems, and overseeing IT modernization projects at the United States Departments of Agriculture (USDA) and Housing and Urban Development (HUD). Daly has led IT Modernization projects and initiatives valued at $80M at three federal agencies.  
         linkedin: meghan-daly-7057a08
       - name: Sandra Dickinson
         img: SandraDickinson.jpeg
-        center: Contact Center
+        center: Contact Center Lead
         bio: >-
           Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
         linkedin: sandra-dickinson-0764238
       - name: Dan Willis
         img: DanWillis19.jpg
-        center: Customer Experience
+        center: Customer Experience Lead
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
       - name: Lashanda Hodge
         img: LashandaHodge19.jpg
-        center: Customer Experience
+        center: Customer Experience Lead
         bio: >-
           Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
         linkedin: lashandahodge    
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
-        center: Data & Analytics
+        center: Data & Analytics Lead
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
       - name: Ambuj Neupane
         img: AmbujNeupane19.jpg
-        center: Data & Analytics
+        center: Data & Analytics Lead
         bio: >-
           Ambuj Neupane has over 8 years of public sector experience building organizational capacity and managing modernization projects, most recently with the U.S. Small Business Administration. As part of the Data and Analytics CoE, Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. Neupane currently partners with the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). 
         linkedin: ambuj-neupane
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
-        center: Data & Analytics
+        center: Data & Analytics Lead
         bio: >-
           Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management. 
         linkedin: sgdhumne
       - name: Sid Ghatak
         img: SidGhatak.jpg
-        center: Data & Analytics
+        center: Data & Analytics Lead
         bio: >-
           Sid Ghatak has over 20 years of experience deploying innovative, large-scale, mission critical data and analytics solutions for Fortune 500 firms and public organizations.  Ghatak’s unique ability to understand the needs of users and design and deploy solutions that exceed their expectations has earned him numerous industry awards. A completely self-taught technologist, Ghatak has developed the leading Investment Banking analysis application in the world, authored the data strategy for an autonomous vehicle company, and designed and deployed data and analytics solutions for the leading companies in the defense, manufacturing, pharmaceutical, media, entertainment, and financial services industries.  A serial entrepreneur, Sid has launched 3 successful companies. Ghatak is also a highly sought after public speaker and authored and delivered the Masters Program in Business Intelligence for Villanova University as well as written 45 courses on Data, Analytics, Artificial Intelligence, Data Strategy, and Shared Services.
         linkedin: sidghatak         
       - name: Steve Rohall
         img: SteveRohall.png
-        center: Data & Analytics
+        center: Data & Analytics Lead
         bio: >-
           Steven Rohall has more than 25 years of experience in computer science research, software development, and consulting. Rohall’s focus areas include data analytics and machine learning, expertise discovery, collaborative computing, and information visualization. Rohall solves critical business problems by employing computational methods in the analysis of unstructured text and network data.  Rohall is a co-inventor on 17 patents and 5 patents pending and has co-authored 43 technical publications.  Rohall began his career at Bell Communications Research. Later, Rohall was the Program Manager for the Visual Information Environment Prototype at TASC, investigating the combined use of collaborative computing and novel, gesture-based input technologies to support next-generation command and control systems. He also worked as a Sr. Technical Staff Member at IBM Research.  Prior to joining the CoE, Rohall led the Chem Recommender project at the Novartis Institutes for BioMedical Research (NIBR). Rohall received Master and Bachelor of Science degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
         linkedin: slrohall      
       - name: Nathan Manzotti
         img: NathanManzotti.jpg  
-        center: Data & Analytics
+        center: Data & Analytics Lead
         bio: >-
           Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
         linkedin: nathanmanzotti      
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
-        center: IT Infrastructure Optimization
+        center: IT Infrastructure Optimization Lead
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0          
       - name: David Siegrist
         img: DavidSiegrist.jpg
-        center: IT Infrastructure Optimization        
+        center: IT Infrastructure Optimization Lead        
         bio: >-
           David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
         linkedin: david-siegrist-591945b8        
       - name: Sid Sripada
         img: SidSripada.jpeg
-        center: IT Infrastructure Optimization
+        center: IT Infrastructure Optimization Lead
         bio: >-
           Sid Sripada has over 15 years of IT Infrastructure modernization experience in both federal government and private industries. Sripada has a successful track record of engaging various agencies in infrastructure optimization, automation and DevSecOps implementation. Sripada’s leadership and hands-on experience builds fast and efficient enterprise wide solutions to modern Agile initiatives. Sripada’s most recent engagement prior to joining CoE included building out scalable public facing infrastructure in support of first ever internet based US 2020 Census.
         linkedin: sidsripada
       - name: Wouhib Worku
         img: WouhibWorku.jpg
-        center: IT Infrastructure Optimization
+        center: IT Infrastructure Optimization Lead
         bio: >-
           Wouhib Worku has over 15 years of progressive experience in supporting and leading IT transformation. Worku works to implement projects that help organizations realize the benefits of adopting DevSecOps, application security, and agile principles. At the Infrastructure Optimization CoE, Worku plays a critical role in helping agencies across the federal government optimize their infrastructure and IT services by leveraging industry best practices in system architecture, system development, security, and agile practices to build highly resilient enterprise solutions.
         linkedin: wouhib-worku-5b844015      
