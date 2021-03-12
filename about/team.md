@@ -66,11 +66,6 @@ teams:
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
         linkedin: nick-lundin        
-      - name: Victoria Wales
-        img:  VictoriaWales19.jpg
-        bio: >-
-          Victoria Wales has over 15 years of strategic integrated communications and public affairs experience, 8 with the General Services Administration. At the CoE, Wales oversees the brand strategy, digital communications, storytelling, and partnership coordination with customer agencies. She is also managing and supporting workforce solutions in Organizational Change Management. Wales has extensive content strategy, social media strategy, and employee engagement experience. Wales is multilingual, and has supported public service products in partnership with over 25 federal agencies to reach and engage underserved communities. Wales has a Bachelor's from American University in Print Journalism, and is currently earning an MPH at the Milken Institute School of Public Health.
-        linkedin: victoria-bitzer
   - title: Centers of Excellence Leads
     people:
       - name: Anil 'Neil' Chaudhry
@@ -97,12 +92,6 @@ teams:
         bio: >-
           Kathy McNeill is an experienced Chief Information Officer/Chief Technology Officer with more than 25 years of experience providing digital and technical solutions to organizations.  McNeill is seasoned in leading initiatives that enhance business capabilities through technology, robotics and data analytics.  At the CoE, McNeill is a Director of Artificial Intelligence identifying technical solutions that will support agency missions, enhance consumer experience and increase operating efficiencies. In addition, McNeill serves on the Advisory Board of STEM for Her.   
         linkedin: kathy-mcneill-6984902    
-      - name: Krista Kinnard        
-        img: KristaKinnard20.jpg
-        center: Artificial Intelligence Lead
-        bio: >-
-          Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
-        linkedin: krista-kinnard
       - name: Joseph Raetano        
         img: JosephRaetano.jpg
         center: Artifical Intelligence Lead
