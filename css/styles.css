@@ -218,6 +218,7 @@ header.main-header nav.usa-nav {
 }
 .usa-nav-submenu li {
     border-bottom: 1px solid #0090f0;
+    display: none;
 }
 
 .usa-nav-submenu li:last-of-type {
@@ -227,6 +228,7 @@ header.main-header nav.usa-nav {
 .usa-nav-submenu>li.active a:focus,
 .usa-nav-submenu>li.active a:hover {
     background-color: #205493;
+	display: initial;
 }
 .usa-nav-submenu>li>a {
     padding-top: 1.2rem;
