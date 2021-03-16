@@ -220,7 +220,7 @@ header.main-header nav.usa-nav {
     border-bottom: 1px solid #0090f0;
 }
 
-.usa-nav-submenu ul {
+.usa-nav-submenu ul ul li {
     display:none;
 }
 
