@@ -211,7 +211,8 @@ header.main-header nav.usa-nav {
     border-bottom: 0;
     padding-bottom: 0;
 }
-.usa-nav-submenu>li>a, .usa-nav-primary button[aria-expanded=false] {
+.usa-nav-submenu>li>a, 
+.usa-nav-primary button[aria-expanded=false] {
 	display: none;
 }
 .usa-nav-submenu {
