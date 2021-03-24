@@ -211,6 +211,9 @@ header.main-header nav.usa-nav {
     border-bottom: 0;
     padding-bottom: 0;
 }
+.usa-nav-primary button[aria-expanded=false] span {
+    display: none;
+}
 .usa-nav-submenu {
     background-color: #0071bc;
     left: 0rem;
