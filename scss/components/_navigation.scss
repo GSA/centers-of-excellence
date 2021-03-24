@@ -411,6 +411,7 @@
 
   &[aria-hidden=true] {
     display: none;
+	visibility: hidden;
   }
 
   a {
