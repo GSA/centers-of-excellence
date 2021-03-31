@@ -21,11 +21,6 @@ teams:
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
-      - name: Bridget Fields
-        img: BridgetFields19.jpg
-        bio: >-
-          Bridget Fields has 6 years of federal government experience.  As the CoE Acquisitions Lead, Fields serves as a project manager to manage relationships with government stakeholders and contractor teams, find flexibility within contractual terms to provide project teams the ability to achieve their actual objectives, and work on contractual modifications when changes are necessary. In addition, Fields has served as the Administrative Assistant to the Director of Acquisitions while also serving as the project manager responsible for managing the entirety of the organization's SaaS licenses and purchase card (ie, Government credit card) procurements for software. Fields was the recipient of the Special Act Award in 2018.  
-        linkedin: bridget-fields-917a9b62
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
         bio: >-
@@ -190,25 +185,31 @@ teams:
         linkedin: nathanmanzotti   
       - name: Alison O'Mara
         img: AlisonOMara.JPG
-        center: Innovation Adoption
+        center: Innovation Adoption Lead
         bio: >-
           Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
         linkedin: alisonomara  
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
-        center: Innovation Adoption
+        center: Innovation Adoption Lead
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  
+      - name: Bridget Fields
+        img: BridgetFields19.jpg
+        center: Innovation Adoption Lead        
+        bio: >-
+          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
+        linkedin: bridget-fields-917a9b62
       - name: Gopa Nair
         img: GopaNair.jpeg
-        center: Innovation Adoption
+        center: Innovation Adoption Lead
         bio: >-
           Gopa brings over 25 years of experience in innovation, product management, change management, automation, and digital transformation. Nair is skilled at leveraging technical and operational capabilities to re-engineer, re-invent and optimize processes to yield the highest efficiencies and cost benefits. Nair is a change agent and transformation leader who understands the unmet needs of the customer and employees and utilizes tools of design thinking, agile, and lean methodology to create the desired organizational transformation. Before joining GSA, he held various roles at Capital One which gave him strong expertise in product management, leadership, employee culture, and process improvements. Gopa shares his expertise by providing entrepreneurship training to small businesses through a local non-profit. Gopa also loves to speak about Innovation, Change Management and Organizational Transformation. 
         linkedin: gopapnair          
       - name: Jeanette Bruno
         img: JeannetteBruno.jpg
-        center: Innovation Adoption
+        center: Innovation Adoption Lead
         bio: >-
           Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
         linkedin: jeannette-a-bruno1415            
