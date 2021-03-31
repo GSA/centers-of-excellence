@@ -198,7 +198,7 @@ teams:
       - name: Bridget Fields
         img: BridgetFields19.jpg
         bio: >-
-          Bridget Fields has a passion for identifying, understanding, and then developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing more than eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields was the recipient of the Special Act Award in 2018.  
+          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields was the recipient of the Special Act Award in 2018.  
         linkedin: bridget-fields-917a9b62
       - name: Gopa Nair
         img: GopaNair.jpeg
