@@ -170,13 +170,7 @@ teams:
         center: Data & Analytics Lead
         bio: >-
           Sid Ghatak has over 20 years of experience deploying innovative, large-scale, mission critical data and analytics solutions for Fortune 500 firms and public organizations.  Ghatak’s unique ability to understand the needs of users and design and deploy solutions that exceed their expectations has earned him numerous industry awards. A completely self-taught technologist, Ghatak has developed the leading Investment Banking analysis application in the world, authored the data strategy for an autonomous vehicle company, and designed and deployed data and analytics solutions for the leading companies in the defense, manufacturing, pharmaceutical, media, entertainment, and financial services industries.  A serial entrepreneur, Sid has launched 3 successful companies. Ghatak is also a highly sought after public speaker and authored and delivered the Masters Program in Business Intelligence for Villanova University as well as written 45 courses on Data, Analytics, Artificial Intelligence, Data Strategy, and Shared Services.
-        linkedin: sidghatak         
-      - name: Steve Rohall
-        img: SteveRohall.png
-        center: Data & Analytics Lead
-        bio: >-
-          Steven Rohall has more than 25 years of experience in computer science research, software development, and consulting. Rohall’s focus areas include data analytics and machine learning, expertise discovery, collaborative computing, and information visualization. Rohall solves critical business problems by employing computational methods in the analysis of unstructured text and network data.  Rohall is a co-inventor on 17 patents and 5 patents pending and has co-authored 43 technical publications.  Rohall began his career at Bell Communications Research. Later, Rohall was the Program Manager for the Visual Information Environment Prototype at TASC, investigating the combined use of collaborative computing and novel, gesture-based input technologies to support next-generation command and control systems. He also worked as a Sr. Technical Staff Member at IBM Research.  Prior to joining the CoE, Rohall led the Chem Recommender project at the Novartis Institutes for BioMedical Research (NIBR). Rohall received Master and Bachelor of Science degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
-        linkedin: slrohall      
+        linkedin: sidghatak               
       - name: Nathan Manzotti
         img: NathanManzotti.jpg  
         center: Data & Analytics Lead
