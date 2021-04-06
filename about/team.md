@@ -1,7 +1,6 @@
 ---
 layout: team
 title: Our Team
-title: We are a team of Federal employees with public and private sector experience in modern capabilities.
 teams:
   - title: Leadership
     people:
