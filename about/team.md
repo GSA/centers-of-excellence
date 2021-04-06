@@ -3,7 +3,7 @@ layout: team
 title: Our Team
 title: We are a team of Federal employees with public and private sector experience in modern capabilities.
 teams:
-  - title: Centers of Excellence Leadership
+  - title: Leadership
     people:
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
