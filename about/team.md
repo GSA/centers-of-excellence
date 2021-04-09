@@ -163,12 +163,6 @@ teams:
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
         linkedin: david-warren-8abb72103   
-      - name: David Warren
-        img: DavidWarren.jpg
-        center: Agreement Lead     
-        bio: >-
-          David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
-        linkedin: david-warren-8abb72103  
       - name: George Chenkeli
         img: GeorgeChenkeli20-4.jpg
         center: Engagement Lead    
