@@ -132,13 +132,31 @@ teams:
         center: IT Infrastructure Optimization Lead       
         bio: >-
           David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
-        linkedin: david-siegrist-591945b8        
+        linkedin: david-siegrist-591945b8
+      - name: Sid Sripada
+        img: SidSripada.jpeg
+        center: IT Infrastructure Optimization Lead       
+        bio: >-
+          Sid Sripada has over 15 years of IT Infrastructure modernization experience in both federal government and private industries. Sripada has a successful track record of engaging various agencies in infrastructure optimization, automation and DevSecOps implementation. Sripada’s leadership and hands-on experience builds fast and efficient enterprise wide solutions to modern Agile initiatives. Sripada’s most recent engagement prior to joining CoE included building out scalable public facing infrastructure in support of first ever internet based US 2020 Census.
+        linkedin: sidsripada     
+      - name: Wouhib Worku
+        img: WouhibWorku.jpg
+        center: IT Infrastructure Optimization Lead      
+        bio: >-
+          Wouhib Worku has over 15 years of progressive experience in supporting and leading IT transformation. Worku works to implement projects that help organizations realize the benefits of adopting DevSecOps, application security, and agile principles. At the Infrastructure Optimization CoE, Worku plays a critical role in helping agencies across the federal government optimize their infrastructure and IT services by leveraging industry best practices in system architecture, system development, security, and agile practices to build highly resilient enterprise solutions.  
+        linkedin: wouhib-worku-5b844015    		
       - name: Bridget Fields
         img: BridgetFields19.jpg
         center: Innovation Adoption Lead        
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
         linkedin: bridget-fields-917a9b62
+      - name: Danielle Gallant
+        img: DanielleGallant19.jpg
+        center: User Experience Designer       
+        bio: >-
+          Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
+        linkedin: daniellergallant
       - name: Gopa Nair
         img: GopaNair.jpeg
         center: Innovation Adoption Lead
