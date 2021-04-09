@@ -1,6 +1,7 @@
 ---
 layout: team
 title: Our Team
+tagline: We are a team of Federal employees with public and private sector experience in modern capabilities.
 teams:
   - title: Centers of Excellence Leadership
     people:
