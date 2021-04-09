@@ -162,19 +162,31 @@ teams:
         center: Agreement Lead     
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
-        linkedin: david-warren-8abb72103    
-      - name: Sid Sripada
-        img: SidSripada.jpeg
-        center: IT Infrastructure Optimization Lead
+        linkedin: david-warren-8abb72103   
+      - name: David Warren
+        img: DavidWarren.jpg
+        center: Agreement Lead     
         bio: >-
-          Sid Sripada has over 15 years of IT Infrastructure modernization experience in both federal government and private industries. Sripada has a successful track record of engaging various agencies in infrastructure optimization, automation and DevSecOps implementation. Sripada’s leadership and hands-on experience builds fast and efficient enterprise wide solutions to modern Agile initiatives. Sripada’s most recent engagement prior to joining CoE included building out scalable public facing infrastructure in support of first ever internet based US 2020 Census.
-        linkedin: sidsripada
-      - name: Wouhib Worku
-        img: WouhibWorku.jpg
-        center: IT Infrastructure Optimization Lead
+          David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
+        linkedin: david-warren-8abb72103  
+      - name: George Chenkeli
+        img: GeorgeChenkeli20-4.jpg
+        center: Engagement Lead    
         bio: >-
-          Wouhib Worku has over 15 years of progressive experience in supporting and leading IT transformation. Worku works to implement projects that help organizations realize the benefits of adopting DevSecOps, application security, and agile principles. At the Infrastructure Optimization CoE, Worku plays a critical role in helping agencies across the federal government optimize their infrastructure and IT services by leveraging industry best practices in system architecture, system development, security, and agile practices to build highly resilient enterprise solutions.
-        linkedin: wouhib-worku-5b844015      
+          George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M. 
+        linkedin: george-chenkeli    		
+      - name: Jacqueline Snee
+        img: JackieSnee19.jpg
+        center: Chief of Staff
+        bio: >-
+          Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
+        linkedin: jacquelinesnee 
+      - name: Matt Montaño
+        img: MatthewMontano19.2.jpg
+        center: Chief Information Officer
+        bio: >-
+          Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
+        linkedin: mgmontano       
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Lead
