@@ -7,17 +7,20 @@ teams:
     people:
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
+		center: Director (Acting)
         bio: >-
           Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public sector and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
         linkedin: jennifer-rostami-mba-154a5a12
       - name: Ed Golden
         img: EdGolden.jpg
-        bio: >-
+        center: Deputy Executive Director (Acting)
+		bio: >-
           Ed Golden brings over 25 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations to his work at the Centers of Excellence.  As the CoE Acting Deputy Executive Director, Ed oversees the CoE engagement portfolio to assure delivery on our commitment to helping clients accelerate IT modernization and improve customer experience, while at the same time shaping identification of new partnership opportunities and driving CoE financial management toward full cost-recoverability.  Since joining the CoE, Golden has led our partnership with the Food and Drug Administration's Office of Information Management and Technology to drive organizational culture change and data center modernization, while concurrently supporting the CoE's Artificial Intelligence engagement with GSA's Information Technology Category (ITC).  Prior to his work at the CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where for seven years he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems, leading efforts to modernize the Department’s business information systems.    
         linkedin: edward-golden-54242448
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
-        bio: >-
+        center: Chief Modernization Strategist
+		bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  		
   - title: Program Management Office
@@ -189,12 +192,6 @@ teams:
         bio: >-
           Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
         linkedin: alisonomara  
-      - name: Bethany Blakey
-        img: BethanyBlakey19.jpg
-        center: Innovation Adoption Lead
-        bio: >-
-          Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
-        linkedin: bethanyblakey  
       - name: Bridget Fields
         img: BridgetFields19.jpg
         center: Innovation Adoption Lead        
