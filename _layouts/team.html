@@ -4,8 +4,8 @@ layout: default
 <div style="text-align: center;" class="team-page">
     <section class="usa-grid usa-section reduce-bottom">
         <h1>{{ page.title }}</h1>
-		<p>We are a team of Federal employees with public and private sector experience in modern capabilities.</p>
-        <div style="text-align: center;" class="usa-width-one-whole">
+		<p class="intro">{{ page.tagline }}</p>
+        <div class="usa-width-one-whole">
           {% for team in page.teams %}
             <h2>{{ team.title }}</h2>
             <div class="team-members usa-grid">
