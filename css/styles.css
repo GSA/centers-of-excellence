@@ -920,7 +920,7 @@ button[role="tooltip"] {
     font-size: 1.4rem;
 }
 
-.team-page .usa-width-one-half {
+.team-page {
     display: block;
     margin-left: auto;
     margin-right: auto 
