@@ -127,6 +127,12 @@ teams:
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
+      - name: David Siegrist
+        img: DavidSiegrist.jpg
+        center: IT Infrastructure Optimization Lead       
+        bio: >-
+          David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
+        linkedin: david-siegrist-591945b8        
       - name: Bridget Fields
         img: BridgetFields19.jpg
         center: Innovation Adoption Lead        
