@@ -121,24 +121,12 @@ teams:
         bio: >-
           Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management. 
         linkedin: sgdhumne
-      - name: Sid Ghatak
-        img: SidGhatak.jpg
-        center: Data & Analytics Lead
+      - name: Amiad 'Adam' Grandt-Nesher
+        img: AdamGrandt19.jpg
+        center: IT Infrastructure Optimization Lead
         bio: >-
-          Sid Ghatak has over 20 years of experience deploying innovative, large-scale, mission critical data and analytics solutions for Fortune 500 firms and public organizations.  Ghatak’s unique ability to understand the needs of users and design and deploy solutions that exceed their expectations has earned him numerous industry awards. A completely self-taught technologist, Ghatak has developed the leading Investment Banking analysis application in the world, authored the data strategy for an autonomous vehicle company, and designed and deployed data and analytics solutions for the leading companies in the defense, manufacturing, pharmaceutical, media, entertainment, and financial services industries.  A serial entrepreneur, Sid has launched 3 successful companies. Ghatak is also a highly sought after public speaker and authored and delivered the Masters Program in Business Intelligence for Villanova University as well as written 45 courses on Data, Analytics, Artificial Intelligence, Data Strategy, and Shared Services.
-        linkedin: sidghatak               
-      - name: Nathan Manzotti
-        img: NathanManzotti.jpg  
-        center: Data & Analytics Lead
-        bio: >-
-          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
-        linkedin: nathanmanzotti   
-      - name: Alison O'Mara
-        img: AlisonOMara.JPG
-        center: Innovation Adoption Lead
-        bio: >-
-          Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
-        linkedin: alisonomara  
+          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
+        linkedin: adam-grandt-ht0
       - name: Bridget Fields
         img: BridgetFields19.jpg
         center: Innovation Adoption Lead        
