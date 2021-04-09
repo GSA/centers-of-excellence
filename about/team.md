@@ -20,53 +20,7 @@ teams:
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  		
-  - title: Program Management Office
-    people:
-      - name: Amiad 'Adam' Grandt-Nesher
-        img: AdamGrandt19.jpg
-        bio: >-
-          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
-        linkedin: adam-grandt-ht0
-      - name: Danielle Gallant
-        img:  DanielleGallant19.jpg
-        bio: >-
-          Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: daniellergallant      
-      - name: David Warren
-        img: DavidWarren.jpg
-        bio: >-
-          David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
-        linkedin: david-warren-8abb72103
-      - name: George Chenkeli
-        img: GeorgeChenkeli20-4.jpg
-        bio: >-
-          George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M. 
-        linkedin: george-chenkeli
-      - name: Jacqueline Snee
-        img:  JackieSnee19.jpg
-        bio: >-
-          Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
-        linkedin: jacquelinesnee
-      - name: Julie Beararducci
-        img: JulieBerarducci19.jpg
-        bio: >-
-          Julie Berarducci has over 20 years experience in the IT industry supporting public and private organizations. Leveraging her technical background, Berarducci works with senior IT leaders to build strategies and manage implementations. Berarducci joined the CoE in its beginning stages and is focused on programmatic maturation of the organization, ensuring the internal operations are defined and effective. Berarducci helps build the partnerships between agencies and the CoE, leading to modernization initiatives that ultimately improve the customer experience. 
-        linkedin: julie12345
-      - name: Matt Montaño
-        img:  MatthewMontano19.2.jpg
-        bio: >-
-          Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
-        linkedin: mgmontano
-      - name: Michelle McNellis
-        img: MichelleMcNellis19.jpg
-        bio: >-
-          Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
-        linkedin: michelle-mcnellis-9488908
-      - name: Nick Lundin
-        img: NickLundin.jpg
-        bio: >-
-          Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
-        linkedin: nick-lundin        
+     
   - title: Team Members
     people:
       - name: Anil 'Neil' Chaudhry
@@ -159,12 +113,6 @@ teams:
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
-      - name: Ambuj Neupane
-        img: AmbujNeupane19.jpg
-        center: Data & Analytics Lead
-        bio: >-
-          Ambuj Neupane has over 8 years of public sector experience building organizational capacity and managing modernization projects, most recently with the U.S. Small Business Administration. As part of the Data and Analytics CoE, Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. Neupane currently partners with the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). 
-        linkedin: ambuj-neupane
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
@@ -176,37 +124,13 @@ teams:
         center: Data & Analytics Lead
         bio: >-
           Sid Ghatak has over 20 years of experience deploying innovative, large-scale, mission critical data and analytics solutions for Fortune 500 firms and public organizations.  Ghatak’s unique ability to understand the needs of users and design and deploy solutions that exceed their expectations has earned him numerous industry awards. A completely self-taught technologist, Ghatak has developed the leading Investment Banking analysis application in the world, authored the data strategy for an autonomous vehicle company, and designed and deployed data and analytics solutions for the leading companies in the defense, manufacturing, pharmaceutical, media, entertainment, and financial services industries.  A serial entrepreneur, Sid has launched 3 successful companies. Ghatak is also a highly sought after public speaker and authored and delivered the Masters Program in Business Intelligence for Villanova University as well as written 45 courses on Data, Analytics, Artificial Intelligence, Data Strategy, and Shared Services.
-        linkedin: sidghatak               
-      - name: Nathan Manzotti
-        img: NathanManzotti.jpg  
-        center: Data & Analytics Lead
+        linkedin: sidghatak
+      - name: Amiad 'Adam' Grandt-Nesher
+        img: AdamGrandt19.jpg
+        center: IT Infrastructure Optimization Lead
         bio: >-
-          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
-        linkedin: nathanmanzotti   
-      - name: Alison O'Mara
-        img: AlisonOMara.JPG
-        center: Innovation Adoption Lead
-        bio: >-
-          Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
-        linkedin: alisonomara  
-      - name: Bridget Fields
-        img: BridgetFields19.jpg
-        center: Innovation Adoption Lead        
-        bio: >-
-          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
-        linkedin: bridget-fields-917a9b62
-      - name: Gopa Nair
-        img: GopaNair.jpeg
-        center: Innovation Adoption Lead
-        bio: >-
-          Gopa brings over 25 years of experience in innovation, product management, change management, automation, and digital transformation. Nair is skilled at leveraging technical and operational capabilities to re-engineer, re-invent and optimize processes to yield the highest efficiencies and cost benefits. Nair is a change agent and transformation leader who understands the unmet needs of the customer and employees and utilizes tools of design thinking, agile, and lean methodology to create the desired organizational transformation. Before joining GSA, he held various roles at Capital One which gave him strong expertise in product management, leadership, employee culture, and process improvements. Gopa shares his expertise by providing entrepreneurship training to small businesses through a local non-profit. Gopa also loves to speak about Innovation, Change Management and Organizational Transformation. 
-        linkedin: gopapnair          
-      - name: Jeanette Bruno
-        img: JeannetteBruno.jpg
-        center: Innovation Adoption Lead
-        bio: >-
-          Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
-        linkedin: jeannette-a-bruno1415            
+          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
+        linkedin: adam-grandt-ht0
       - name: David Siegrist
         img: DavidSiegrist.jpg
         center: IT Infrastructure Optimization Lead        
@@ -224,5 +148,59 @@ teams:
         center: IT Infrastructure Optimization Lead
         bio: >-
           Wouhib Worku has over 15 years of progressive experience in supporting and leading IT transformation. Worku works to implement projects that help organizations realize the benefits of adopting DevSecOps, application security, and agile principles. At the Infrastructure Optimization CoE, Worku plays a critical role in helping agencies across the federal government optimize their infrastructure and IT services by leveraging industry best practices in system architecture, system development, security, and agile practices to build highly resilient enterprise solutions.
-        linkedin: wouhib-worku-5b844015      
+        linkedin: wouhib-worku-5b844015    		  
+      - name: Bridget Fields
+        img: BridgetFields19.jpg
+        center: Acquisitions Lead        
+        bio: >-
+          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
+        linkedin: bridget-fields-917a9b62
+      - name: Danielle Gallant
+        img:  DanielleGallant19.jpg
+        center: User Experience Designer
+        bio: >-
+          Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
+        linkedin: daniellergallant
+      - name: David Warren
+        img: DavidWarren.jpg
+        center: Agreement Lead
+        bio: >-
+          David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
+        linkedin: david-warren-8abb72103
+      - name: George Chenkeli
+        img: GeorgeChenkeli20-4.jpg
+        center: Engagement Lead
+        bio: >-
+          George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M. 
+        linkedin: george-chenkeli
+      - name: Jacqueline Snee
+        img:  JackieSnee19.jpg
+		center: Chief of Staff
+        bio: >-
+          Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
+        linkedin: jacquelinesnee
+      - name: Julie Beararducci
+        img: JulieBerarducci19.jpg
+		center: IT Innovator
+        bio: >-
+          Julie Berarducci has over 20 years experience in the IT industry supporting public and private organizations. Leveraging her technical background, Berarducci works with senior IT leaders to build strategies and manage implementations. Berarducci joined the CoE in its beginning stages and is focused on programmatic maturation of the organization, ensuring the internal operations are defined and effective. Berarducci helps build the partnerships between agencies and the CoE, leading to modernization initiatives that ultimately improve the customer experience. 
+        linkedin: julie12345
+      - name: Matt Montaño
+        img:  MatthewMontano19.2.jpg
+		center: Chief Information Officer
+        bio: >-
+          Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
+        linkedin: mgmontano
+      - name: Michelle McNellis
+        img: MichelleMcNellis19.jpg
+		center: Acquisitions Lead
+        bio: >-
+          Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
+        linkedin: michelle-mcnellis-9488908
+      - name: Nick Lundin
+        img: NickLundin.jpg
+		center: Product Manager
+        bio: >-
+          Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
+        linkedin: nick-lundin   		
 ---
