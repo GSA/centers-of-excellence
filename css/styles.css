@@ -920,10 +920,6 @@ button[role="tooltip"] {
     font-size: 1.4rem;
 }
 
-.team-page {
-	margin: 0 auto;
-}
-
 @media screen and (max-width: 1200px) {
     .team-members .person {
         margin-bottom: 2rem;
