@@ -169,18 +169,6 @@ teams:
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
         linkedin: bridget-fields-917a9b62
-      - name: Gopa Nair
-        img: GopaNair.jpeg
-        center: Innovation Adoption Lead
-        bio: >-
-          Gopa brings over 25 years of experience in innovation, product management, change management, automation, and digital transformation. Nair is skilled at leveraging technical and operational capabilities to re-engineer, re-invent and optimize processes to yield the highest efficiencies and cost benefits. Nair is a change agent and transformation leader who understands the unmet needs of the customer and employees and utilizes tools of design thinking, agile, and lean methodology to create the desired organizational transformation. Before joining GSA, he held various roles at Capital One which gave him strong expertise in product management, leadership, employee culture, and process improvements. Gopa shares his expertise by providing entrepreneurship training to small businesses through a local non-profit. Gopa also loves to speak about Innovation, Change Management and Organizational Transformation. 
-        linkedin: gopapnair 
-      - name: Jeanette Bruno
-        img: JeannetteBruno.jpg
-        center: Innovation Adoption Lead
-        bio: >-
-          Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
-        linkedin: jeannette-a-bruno1415 
       - name: Danielle Gallant
         img: DanielleGallant19.jpg
         center: User Experience Designer       
