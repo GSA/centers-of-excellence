@@ -115,7 +115,19 @@ teams:
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
-      - name: Satyajeet Dhumne
+      - name: Ambuj Neupane
+        img: AmbujNeupane19.jpg
+        center: Data & Analytics Lead
+        bio: >-
+          Ambuj Neupane has over 8 years of public sector experience building organizational capacity and managing modernization projects, most recently with the U.S. Small Business Administration. As part of the Data and Analytics CoE, Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. Neupane currently partners with the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). 
+        linkedin: ambuj-neupane
+      - name: Nathan Manzotti
+        img: NathanManzotti.jpg  
+        center: Data & Analytics Lead
+        bio: >-
+          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
+        linkedin: nathanmanzotti 		
+	  - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
         bio: >-
@@ -144,13 +156,31 @@ teams:
         center: IT Infrastructure Optimization Lead      
         bio: >-
           Wouhib Worku has over 15 years of progressive experience in supporting and leading IT transformation. Worku works to implement projects that help organizations realize the benefits of adopting DevSecOps, application security, and agile principles. At the Infrastructure Optimization CoE, Worku plays a critical role in helping agencies across the federal government optimize their infrastructure and IT services by leveraging industry best practices in system architecture, system development, security, and agile practices to build highly resilient enterprise solutions.  
-        linkedin: wouhib-worku-5b844015    		
+        linkedin: wouhib-worku-5b844015
+      - name: Alison O'Mara
+        img: AlisonOMara.JPG
+        center: Innovation Adoption Lead
+        bio: >-
+          Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
+        linkedin: alisonomara  		
       - name: Bridget Fields
         img: BridgetFields19.jpg
         center: Innovation Adoption Lead        
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
         linkedin: bridget-fields-917a9b62
+      - name: Gopa Nair
+        img: GopaNair.jpeg
+        center: Innovation Adoption Lead
+        bio: >-
+          Gopa brings over 25 years of experience in innovation, product management, change management, automation, and digital transformation. Nair is skilled at leveraging technical and operational capabilities to re-engineer, re-invent and optimize processes to yield the highest efficiencies and cost benefits. Nair is a change agent and transformation leader who understands the unmet needs of the customer and employees and utilizes tools of design thinking, agile, and lean methodology to create the desired organizational transformation. Before joining GSA, he held various roles at Capital One which gave him strong expertise in product management, leadership, employee culture, and process improvements. Gopa shares his expertise by providing entrepreneurship training to small businesses through a local non-profit. Gopa also loves to speak about Innovation, Change Management and Organizational Transformation. 
+        linkedin: gopapnair 
+      - name: Jeanette Bruno
+        img: JeannetteBruno.jpg
+        center: Innovation Adoption Lead
+        bio: >-
+          Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
+        linkedin: jeannette-a-bruno1415 
       - name: Danielle Gallant
         img: DanielleGallant19.jpg
         center: User Experience Designer       
