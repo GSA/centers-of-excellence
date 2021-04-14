@@ -210,7 +210,13 @@ teams:
         center: Chief of Staff
         bio: >-
           Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
-        linkedin: jacquelinesnee 
+        linkedin: jacquelinesnee
+      - name: Julie Beararducci
+        img: JulieBerarducci19.jpg
+        center: IT Innovator
+        bio: >-
+          Julie Berarducci has over 20 years experience in the IT industry supporting public and private organizations. Leveraging her technical background, Berarducci works with senior IT leaders to build strategies and manage implementations. Berarducci joined the CoE in its beginning stages and is focused on programmatic maturation of the organization, ensuring the internal operations are defined and effective. Berarducci helps build the partnerships between agencies and the CoE, leading to modernization initiatives that ultimately improve the customer experience. 
+        linkedin: julie12345		
       - name: Matt Montaño
         img: MatthewMontano19.2.jpg
         center: Chief Information Officer
