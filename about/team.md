@@ -121,6 +121,12 @@ teams:
         bio: >-
           Ambuj Neupane has over 8 years of public sector experience building organizational capacity and managing modernization projects, most recently with the U.S. Small Business Administration. As part of the Data and Analytics CoE, Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. Neupane currently partners with the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). 
         linkedin: ambuj-neupane
+      - name: Nathan Manzotti
+        img: NathanManzotti.jpg  
+        center: Data & Analytics Lead
+        bio: >-
+          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
+        linkedin: nathanmanzotti
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
