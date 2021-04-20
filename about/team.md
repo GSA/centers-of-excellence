@@ -249,8 +249,8 @@ teams:
         linkedin: nick-lundin   
       - name: Victoria Wales
         img: VictoriaWales19.jpg
-        center: Product Manager
+        center: Campaign Manager
         bio: >-
-          
+          null
         linkedin:    		
 ---
