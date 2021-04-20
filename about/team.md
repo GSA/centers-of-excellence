@@ -47,7 +47,7 @@ teams:
         img: KristaKinnard20.jpg  
         center: Artificial Intelligence Lead
         bio: >-
-          
+          null
         linkedin: krista-kinnard
       - name: Kathy McNeill        
         img: KathyMcNeil.png     
@@ -145,6 +145,12 @@ teams:
         bio: >-
           Sid Ghatak has over 20 years of experience deploying innovative, large-scale, mission critical data and analytics solutions for Fortune 500 firms and public organizations.  Ghatak’s unique ability to understand the needs of users and design and deploy solutions that exceed their expectations has earned him numerous industry awards. A completely self-taught technologist, Ghatak has developed the leading Investment Banking analysis application in the world, authored the data strategy for an autonomous vehicle company, and designed and deployed data and analytics solutions for the leading companies in the defense, manufacturing, pharmaceutical, media, entertainment, and financial services industries.  A serial entrepreneur, Sid has launched 3 successful companies. Ghatak is also a highly sought after public speaker and authored and delivered the Masters Program in Business Intelligence for Villanova University as well as written 45 courses on Data, Analytics, Artificial Intelligence, Data Strategy, and Shared Services.
         linkedin: sidghatak
+      - name: Steve Rohall
+        img: SteveRohall.png
+        center: Data & Analytics Lead
+        bio: >-
+          null
+        linkedin: slrohall
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
         center: IT Infrastructure Optimization Lead
