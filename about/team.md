@@ -43,6 +43,12 @@ teams:
         bio: >-
           Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
         linkedin: eric-ewing-030b2b73
+      - name: Krista Kinnard
+        img: KristaKinnard20.jpg  
+        center: Artificial Intelligence Lead
+        bio: >-
+          
+        linkedin: krista-kinnard
       - name: Kathy McNeill        
         img: KathyMcNeil.png     
         center: Artificial Intelligence Lead
