@@ -228,13 +228,13 @@ teams:
         center: IT Innovator
         bio: >-
           Julie Berarducci has over 20 years experience in the IT industry supporting public and private organizations. Leveraging her technical background, Berarducci works with senior IT leaders to build strategies and manage implementations. Berarducci joined the CoE in its beginning stages and is focused on programmatic maturation of the organization, ensuring the internal operations are defined and effective. Berarducci helps build the partnerships between agencies and the CoE, leading to modernization initiatives that ultimately improve the customer experience. 
-        linkedin: julie12345		
+        linkedin: julie12345
       - name: Matt Montaño
         img: MatthewMontano19.2.jpg
         center: Chief Information Officer
         bio: >-
           Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
-        linkedin: mgmontano       
+        linkedin: mgmontano
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Lead
@@ -246,11 +246,11 @@ teams:
         center: Product Manager
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
-        linkedin: nick-lundin   
+        linkedin: nick-lundin 
       - name: Victoria Wales
         img: VictoriaWales19.jpg
         center: Campaign Manager
         bio: >-
           null
-        linkedin:    		
+        linkedin: 	
 ---
