@@ -73,7 +73,7 @@ teams:
         img: BryanLane19.jpg  
         center: Artificial Intelligence Lead
         bio: >-
-          Bryan Lane has over 15 years of experience leading advanced analytics and technology initiatives. As a leader within the Data and Analytics CoE and co-creator of the Artificial Intelligence CoE, Lane advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Lane was a product manager for a commercial geospatial software company, an analytic consultant in the defense and national security industry, and assisted in managing a $750M rapid acquisition portfolio.
+          Bryan Lane has nearly 20 years of experience leading advanced analytics and technology initiatives. As a leader within the Data and Analytics CoE and co-creator of the Artificial Intelligence CoE, Lane advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for transforming government through AI-powered applications. Currently, Lane is the GSA CoE Lead with the DoD Joint AI Center and is acting as the Mission Chief for the JAIC's Business Process Transformation initiatives. Prior to joining the CoE, Lane was a product manager for a commercial geospatial software company, conducted technology evaluations for intelligence automation and AI systems, and assisted in managing a $750M rapid acquisition portfolio.
         linkedin: bulletproofbry
       - name: Eric Ewing
         img: EricEwing20.jpg  
@@ -93,6 +93,12 @@ teams:
         bio: >-
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
+      - name: Sharon Wilborn        
+        img: SharonWilborn.jpeg
+        center: Artifical Intelligence Lead
+        bio: >-
+         Sharon Wilborn has over 12 years of public sector experience and expertise in Federal HR staffing and consulting.  Wilborn joined the Centers of Excellence through a Presidential Management Council (PMC) Interagency Rotation.  Sharon’s home agency is the Office of Personnel Management (OPM) where she consults with federal agencies on their use of USA Hire online assessments.  Prior to this role, she was the San Francisco Branch Manager for OPM's Staff Acquisition office. In both roles, Wilborn has provided HR consulting services to agencies across the country. One of her notable achievements was managing the first interagency detail cadre to assist with cybersecurity hiring. This included staffing specialists from six different agencies who participated in virtual details from across the country.  
+        linkedin: sharonwilborn
       - name: Thomas Hallaran
         img: ThomasHallaran.jpg
         center: Artifical Intelligence Lead
