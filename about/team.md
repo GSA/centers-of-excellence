@@ -47,7 +47,7 @@ teams:
         img: KristaKinnard20.jpg  
         center: Artificial Intelligence Lead
         bio: >-
-          null
+          Krista Kinnard has over 10 years of experience in the public and private sectors. Kinnard’s expertise in leading artificial intelligence (AI) teams combined with her time as a data scientist gives her the unique ability to bring together technical and business minds to drive innovation in the government space. At the AI CoE Kinnard empowers government agencies to bring artificial intelligence solutions into practice through the development and enhancement of AI infrastructure and governance, workforce development strategy, and AI program and project management.   
         linkedin: krista-kinnard
       - name: Kathy McNeill        
         img: KathyMcNeil.png     
@@ -149,7 +149,7 @@ teams:
         img: SteveRohall.png
         center: Data & Analytics Lead
         bio: >-
-          null
+          Steven Rohall has more than 25 years of experience in computer science research, software development, and consulting. Rohall’s focus areas include data analytics and machine learning, expertise discovery, collaborative computing, and information visualization. Rohall solves critical business problems by employing computational methods in the analysis of unstructured text and network data.  Rohall is a co-inventor on 17 patents and 5 patents pending and has co-authored 43 technical publications.  Rohall began his career at Bell Communications Research. Later, Rohall was the Program Manager for the Visual Information Environment Prototype at TASC, investigating the combined use of collaborative computing and novel, gesture-based input technologies to support next-generation command and control systems. He also worked as a Sr. Technical Staff Member at IBM Research.  Prior to joining the CoE, Rohall led the Chem Recommender project at the Novartis Institutes for BioMedical Research (NIBR). Rohall received Master and Bachelor of Science degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
         linkedin: slrohall
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
@@ -247,10 +247,4 @@ teams:
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
         linkedin: nick-lundin 
-      - name: Victoria Wales
-        img: VictoriaWales19.jpg
-        center: Campaign Manager
-        bio: >-
-          null
-        linkedin: 	
 ---
