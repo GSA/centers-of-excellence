@@ -192,19 +192,19 @@ teams:
         center: Innovation Adoption Lead
         bio: >-
           Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
-        linkedin: alisonomara  
+        linkedin: alisonomara
       - name: Bridget Fields
         img: BridgetFields19.jpg
-        center: Innovation Adoption Lead        
+        center: Innovation Adoption Lead
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
         linkedin: bridget-fields-917a9b62
       - name: Danielle Gallant
         img: DanielleGallant19.jpg
-        center: User Experience Designer       
+        center: User Experience Designer
         bio: >-
           Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: daniellergallant         
+        linkedin: daniellergallant
       - name: David Warren
         img: DavidWarren.jpg
         center: Agreement Lead     
