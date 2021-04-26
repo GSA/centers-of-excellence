@@ -240,7 +240,7 @@ teams:
         center: Acquisitions Lead
         bio: >-
           Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
-        linkedin: michelle-mcnellis-9488908    
+        linkedin: michelle-mcnellis-9488908
       - name: Nick Lundin
         img: NickLundin.jpg
         center: Product Manager
