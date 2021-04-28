@@ -900,6 +900,11 @@ button[role="tooltip"] {
 }
 
 /* -------------------- Team Page -------------------- */
+.team-page {
+    float: none;
+    text-align: center;
+}
+
 .team-members {
     padding: 0;
 }
