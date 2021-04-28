@@ -904,7 +904,6 @@ button[role="tooltip"] {
     float: none;
     text-align: center;
 }
-
 .team-members {
     padding: 0;
 }
@@ -913,7 +912,6 @@ button[role="tooltip"] {
     display: inline-block;
     text-align: center;
 }
-
 .team-members .person img {
     width: 100%;
     height: 17rem;
