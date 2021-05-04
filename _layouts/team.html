@@ -8,7 +8,7 @@ layout: default
         <div class="usa-width-one-whole">
           {% for team in page.teams %}
             <h2 style="text-align=center;">{{ team.title }}</h2>
-            <div style=" grid-auto-flow: column; align-items: center; justify-items: center; " class="team-members usa-grid">
+            <div style="display: grid; grid-auto-flow: column; align-items: center; justify-items: center; " class="team-members usa-grid">
               {% for person in team.people %}
                 <div class="usa-width-one-sixth person">
                   {% if person.bio %}
