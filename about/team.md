@@ -2,6 +2,8 @@
 layout: team
 title: Our Team
 tagline: We are a team of Federal employees with public and private sector experience in modern capabilities.
+[//]: # (Everyone is added that I was able to find a bio for. Victoria Wales still needs a bio)
+
 teams:
   - title: Centers of Excellence Leadership
     people:
@@ -246,5 +248,12 @@ teams:
         center: Product Manager
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
-        linkedin: nick-lundin		
+        linkedin: nick-lundin
+      - name: Victoria Wales
+        img: VictoriaWales19.jpg
+        center: Campaign Manager
+        bio: >-
+          null
+        linkedin: victoria-bitzer	
+
 ---
