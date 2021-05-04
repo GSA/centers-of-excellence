@@ -906,9 +906,6 @@ button[role="tooltip"] {
 }
 .team-members {
     padding: 0;
-	grid-auto-flow: column;
-	align-items: center;
-	justify-items: center;
 }
 .team-members .person {
     margin-bottom: 2.2rem;
