@@ -3,6 +3,7 @@ layout: team
 title: Our Team
 tagline: We are a team of Federal employees with public and private sector experience in modern capabilities.
 [//]: # (Everyone is added that I was able to find a bio for. Victoria Wales still needs a bio)
+[//]: # (There is some issue with displaying the last row, issue is likely in _layouts/team.html)
 
 teams:
   - title: Centers of Excellence Leadership
