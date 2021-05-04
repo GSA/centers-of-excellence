@@ -27,49 +27,6 @@ teams:
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  		     
   - title: Team Members
-    <div class="select-box">
-        <div class="options-container">
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Show All"/>
-            <label for="all">Show All</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Artificial Intelligence CoE"  />
-            <label for="ai">Artificial Intelligence CoE</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Cloud Adoption CoE" />
-            <label for="ca">Cloud Adoption CoE</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Contact Center CoE"  />
-            <label for="cc">Contact Center CoE</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Customer Experience CoE" />
-            <label for="ce">Customer Experience CoE</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Data and Analytics" />
-            <label for="d&a">Data and Analytics</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="IT Infrastructure Optimization" />
-            <label for="it">IT Infrastructure Optimization</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Innovation Adoption Practice Area"/>
-            <label for="iapa">Innovation Adoption Practice Area</label>
-          </div>
-          <div class="option">
-            <input type="radio" class="radio" name="category" value="Front Office"/>
-            <label for="other">Front Office</label>
-          </div>
-        </div>
-        <div class="selected">
-          Show All
-        </div>
-    </div>
     people:
       - name: Anil 'Neil' Chaudhry
         img: AnilChaudhry20.jpg
