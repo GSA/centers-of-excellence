@@ -1,0 +1,116 @@
+<html>
+<! -- Need to figure out how to imbed this on the team page so the selected options filter people --> 
+<! -- Need to be inputed in the _layout/team.html in a way where it only effects select team sections --> 
+<! -- This file will likely need to be cut and pasted into other parts of the branch --> 
+
+<style>
+.select-box {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+}
+
+.select-box .options-container {
+  background-color: #f6f6f6;
+  max-height: 0px;
+  width: 100%;
+  border-radius: 3px;
+  overflow: hidden;
+  order: 1;
+}
+
+.selected {
+  border-style: solid;
+  border-radius: 3px;
+  position: relative;
+}
+
+.select-box .options-container.active {
+  max-height: 240px;
+  overflow-y: scroll;
+}
+
+.select-box .option, .selected {
+  padding: 12px 24px;
+  cursor: pointer;
+}
+
+.select-box .option:hover {
+  background: grey;
+}
+
+.select-box label {
+  cursor: pointer;
+}
+
+.select-box .option .radio {
+  display: none;
+}
+</style>
+
+<body>
+	<div class="select-box">
+		<div class="options-container">
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Show All"/>
+				<label for="all">Show All</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Artificial Intelligence CoE"  />
+				<label for="ai">Artificial Intelligence CoE</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Cloud Adoption CoE" />
+				<label for="ca">Cloud Adoption CoE</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Contact Center CoE"  />
+				<label for="cc">Contact Center CoE</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Customer Experience CoE" />
+				<label for="ce">Customer Experience CoE</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Data and Analytics" />
+				<label for="d&a">Data and Analytics</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="IT Infrastructure Optimization" />
+				<label for="it">IT Infrastructure Optimization</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Innovation Adoption Practice Area"/>
+				<label for="iapa">Innovation Adoption Practice Area</label>
+			</div>
+			<div class="option">
+				<input type="radio" class="radio" name="category" value="Front Office"/>
+				<label for="other">Front Office</label>
+			</div>
+        </div>
+        <div class="selected">
+          Show All
+        </div>
+    </div>   
+
+	<script>
+	const selected = document.querySelector(".selected");
+	const optionsContainer = document.querySelector(".options-container");
+	const optionsList = document.querySelectorAll(".option");
+
+	// opens the dropdown menu
+	selected.addEventListener("click", () => {
+	  optionsContainer.classList.toggle("active");
+	});
+
+	// display matches the selected category
+	optionsList.forEach(o => {
+	  o.addEventListener("click", () => {
+		selected.innerHTML = o.querySelector("label").innerHTML;
+		optionsContainer.classList.remove("active");
+	  });
+	});
+	</script>
+</body>
+
+</html>
