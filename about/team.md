@@ -49,6 +49,7 @@ teams:
         linkedin: jacquelinesnee
       - name: Matt Montaño
         img:  MatthewMontano19.2.jpg
+        center: Site Lead
         bio: >-
           Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
         linkedin: mgmontano
