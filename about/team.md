@@ -38,7 +38,7 @@ teams:
         linkedin: david-warren-8abb72103
       - name: George Chenkeli
         img: GeorgeChenkeli20-4.jpg
-        center: Site Lead
+        center: Engagement Lead
         bio: >-
           George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M. 
         linkedin: george-chenkeli
@@ -49,7 +49,7 @@ teams:
         linkedin: jacquelinesnee
       - name: Matt Montaño
         img:  MatthewMontano19.2.jpg
-        center: Site Lead
+        center: Engagement Lead
         bio: >-
           Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
         linkedin: mgmontano
@@ -61,7 +61,7 @@ teams:
         linkedin: michelle-mcnellis-9488908
       - name: Nick Lundin
         img: NickLundin.jpg
-        center: Site Lead
+        center: Engagement Lead
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
         linkedin: nick-lundin        
