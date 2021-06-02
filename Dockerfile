@@ -21,7 +21,8 @@ RUN cd /app && gem install bundler && bundle install
 # Per OCP Docs, it's a best practice to have root owernship
 # of files that require RWX:
 RUN chgrp -R 0 /app && \
-    chmod -R g=u /app
+    chmod -R g=u /app \
+    chmod +x /app/serve
 
 WORKDIR /app
 EXPOSE 4000
