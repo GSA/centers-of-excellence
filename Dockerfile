@@ -28,4 +28,4 @@ EXPOSE 4000
 
 # The ENTRYPOINT is what ends up requiring `anyuid` or `privledged` container SCC:
 # ENTRYPOINT ["ruby", "/app/docker_entrypoint.rb"]
-CMD ["./serve-blog"]
+CMD ["./serve"]
