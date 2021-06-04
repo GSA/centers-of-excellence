@@ -1,0 +1,33 @@
+{% assign bok_pages = site.ai_bok | sort: "bokSectionId" %}
+
+{% if page.collection %}
+  {% for links in bok_pages %}
+    {% if links.title == page.title %}
+      {% unless forloop.first %}
+        {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next = bok_pages[forloop.index] %}
+        {% assign nexturl = next.url %}
+      {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
+  {% endfor %}
+{% else %}
+  {% assign prevurl = false %}
+  {% assign next = bok_pages | first %}
+  {% assign nexturl = next.url %}
+{% endif %}
+
+<nav class="ai-bok__page-nav">
+  {% if prevurl %}
+  <div class="ai-bok__page-nav__prev">
+    <a class="usa-button usa-button-secondary" rel="prev" href="{{prevurl}}">Previous article</a>
+  </div>
+  {% endif %}
+  {% if nexturl %}
+  <div class="ai-bok__page-nav__next">
+    <a class="usa-button" rel="next" href="{{nexturl}}">Next article</a>
+  </div>
+  {% endif %}
+</nav>

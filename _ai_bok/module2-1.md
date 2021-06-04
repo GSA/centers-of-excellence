@@ -1,0 +1,31 @@
+---
+bokSectionId: 2-1
+created_at: 2021-03-05T20:17:57.105Z
+updated_at: 2021-03-17T16:22:14.358Z
+description: Technological advances allow both the private and public sector to use the resources needed to collect, house, and process large amounts of data, as well as to apply computational methods to it. 
+id: 6
+slug: module2-1
+title: Why you should care about AI
+---
+Technological advances allow both the private and public sector to use the resources needed to collect, house, and process large amounts of data, as well as to apply computational methods to it. This changes the way that humans interact with computers. 
+{: .intro }
+
+AI has already changed the way that businesses interact with their customers. Entire markets have changed around this technology to provide fast, efficient, and personalized service. We should use this transformative technology to enhance and support the many ways that the government serves its people.
+
+We are also facing increasing complexities and interdependencies in our challenges, as well as increasingly large volumes of data we need to use to understand and solve for those challenges. We are past the point where human cognitive abilities can directly process and make sense of all this information. We need AI tools and techniques to support human capabilities to process this volume of information to reveal insights that support better decisions.
+
+Most federal agencies know that input data volumes are increasing relentlessly and not being handled thoroughly. In the past, we have blamed this kind of shortfall on lack of personnel, supplies, or equipment.
+
+But while these factors are still true, there is no practical increase in any of those resources that would itself suffice to address the new information volumes. With thousands or millions of pages of documents, we could never even try to hire enough staff to read through them all. 
+
+The federal government needs AI. The use of AI algorithms informed by domain expertise by humans drive insights and inform decisions and actions. NowThe use of AI will enable the agencies to be able to handle millions or billions of data inputs with a feasible level of personnel and funding.
+
+To keep up with the ever-increasing volume of data and information, we must change the way we think about our work and our processes. AI capabilities will allow us to process input and understand reality in today and tomorrow’s complex world.
+{: .ai-bok-feature }
+
+
+
+
+
+
+

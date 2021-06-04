@@ -1,0 +1,120 @@
+@charset "UTF-8";
+/* CSS Document */
+.ai-bok #ai-bok__hero {
+    text-align: center;
+    background-color: #2a2a2a;
+    background-image: url('images/hero.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:#ffffff;
+}
+.ai-bok #ai-bok__hero .usa-section {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.ai-bok #ai-bok__hero h1 {
+    border-bottom: none;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 8px #2a2a2a;
+}
+.ai-bok #ai-bok__hero p {
+    font-size: 2.2rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-top: 0.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 0.2em;
+    text-shadow: 2px 2px 8px #2a2a2a;
+    max-width: 80;
+}
+@media (min-width: 769px) {
+    .ai-bok #ai-bok__hero p {
+        max-width: 55vw;
+    }
+}
+
+.ai-bok .sidenav {
+    position: sticky;
+    top: 20px;
+}
+
+.ai-bok .ai-bok__content {
+    padding-left: 20px;
+    font-size: 1.8rem;
+}
+.ai-bok__page-nav {
+    margin-top: 6rem;
+    padding-top: 3rem;
+    border-top: 1px solid #aaaaaa;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.ai-bok__page-nav__prev {
+    display: block;
+}
+.ai-bok__page-nav__next {
+    margin-right: 0;
+}
+
+
+.ai-bok__content .usa-content ol:not(.usa-accordion):not(.usa-accordion-bordered), 
+.ai-bok__content .usa-content ul:not(.usa-accordion):not(.usa-accordion-bordered),
+.ai-bok__content .usa-content p, 
+.ai-bok__content .usa-content table {
+    max-width: 100%;
+}
+.ai-bok__content .ai-bok-feature {
+    padding: 2.5rem 3rem;
+    margin: 3rem 0;
+    background: #dbeff8;
+    font-size: 21px;
+    max-width: 100%;
+}
+.ai-bok__content .usa-content {
+    max-width: 80ch;
+}
+.ai-bok__content .usa-content img {
+    margin: 1rem auto;
+    display: block;
+}
+.ai-bok__content ol.ai-bok-feature,
+.ai-bok__content ul.ai-bok-feature {
+    padding-left: 5rem;
+}
+.ai-bok__content blockquote.ai-bok-feature {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.ai-bok__content .ai-myth-header,
+.ai-bok__content .ai-reality-header {
+    font-size: 22px;
+    margin: 2rem 0 1rem;
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+}
+.ai-bok__content .ai-myth-header {
+    color: #981b1e;
+    margin-top: 4rem;
+}
+.ai-bok__content .ai-reality-header {
+    color: #046b99;
+
+}
+.ai-bok__content .ai-myth {
+    font-size: 28px;
+    margin: 1.6rem 0 2rem;
+    font-weight: 700;
+    color: #323a45;
+    text-indent: -1.875rem;
+}
+.ai-bok__content .ai-myth:before {
+    content: "“";
+}
+
+.ai-bok__content .ai-myth:after {
+    content: "”";
+}

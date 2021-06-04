@@ -1,0 +1,39 @@
+---
+bokSectionId: 4-4
+created_at: 2021-03-05T20:18:09.960Z
+updated_at: 2021-04-06T16:13:03.005Z
+description: As AI has become prominent in recent years, the government has problems hiring AI talent. However, the government has to solve this problem if agencies want to remain relevant in the future. 
+id: 26
+slug: module4-4
+title: Recruiting AI talent
+---
+## Competing with private industry 
+
+As AI has become prominent in recent years, the government has problems hiring AI talent. However, the government has to solve this problem if agencies want to remain relevant in the future.
+{: .intro }
+
+The government cannot compete with private industry on salary and bonuses ( but it CAN compete on offering interesting and meaningful work and recognition, though it needs to stop falling behind). Federal recruitment can use this unique advantage when AI work is closely tied to meaningful mission and business objectives that only federal agencies offer. 
+
+AI practitioners, even if they love the agency’s mission, expect to actually practice AI in their jobs. That’s why the supportive and powerful work environment that the central AI resource provides is just as important to the pitch as creating space for AI practitioners in mission areas and program offices. 
+{: .ai-bok-feature }
+
+## Centralized recruitment and certification 
+
+The AI resource, the place in the organization that provides all technical and institutional support to AI practitioners, necessarily knows how to actually practice AI in the agency. They are also the group most able to recruit and certify that AI talent coming into the agency are well-qualified for their roles, and suitable for the agency’s particular practitioner environment. 
+
+For example, the AI resource knows whether certain programming languages or certain hardware capabilities are prevalent. They can assess candidates’ suitability accordingly. If there’s a strategic decision to increase certain platforms or skill sets, the AI resource knows how to do that. While the agency’s HR office is still ultimately in charge of all workforce recruitment, the AI resource works closely with HR to provide the AI domain expertise. 
+
+![Recruiting AI talent](./images/recruiting-ai-talent.png)
+
+
+## Placing AI talent
+ 
+The AI resource supplies a pool of well-qualified candidates for the agency. The mission and business centers looking to fill AI roles should coordinate with existing AI practitioners who know the subject to evaluate whether candidates are qualified as AI practitioners. Once the AI resource confirms candidates’ AI capabilities, the mission and business centers can focus on how these AI qualified candidates can contribute to their mission and program goals. Mission centers and program offices should also coordinate closely with the AI resource to ensure that the pool of vetted candidates aligns with staffing needs. 
+
+
+
+
+
+
+
+
