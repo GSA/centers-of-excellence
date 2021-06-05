@@ -95,7 +95,7 @@ Some aspects of T&E for AI-enabled systems are quite similar to their analogues 
 At a high level, however, T&E of AI-enabled systems is part of the continuous DevSecOps cycle (pictured below) and Agile development process. Regardless of the process, the goal of T&E is to provide timely feedback to developers from various levels of the product: on the code level (unit testing), at the integration level (system testing, security and adversarial testing), and at the operator level (user testing).
 
 
-![DevSecOps cycle](images/dev-sec-ops-cycle.png)
+![DevSecOps cycle](../images/dev-sec-ops-cycle.png)
 
 
 These assessments include defining requirements and metrics by talking with various stakeholders, designing experiments and tests, and doing analysis and making actionable recommendations to the leadership on overall system performance across its operational envelope.

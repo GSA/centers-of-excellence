@@ -31,7 +31,7 @@ Many avenues address these requirements organizationally. Combining any three of
 - **Data Governance Advisory Group** - Collects user and practitioner needs from the enterprise. Generates recommended solutions. Prepares decision documents and corresponding materials regarding data policy and resourcing for the CDO and steering committee.
 - **Working Groups / Communities of Practice** - Practitioners who may or may not be involved in advisory group activities. These groups bring specific data governance and management needs to the advisory group to judge.
 
-![Data governance and management](./images/data-governance-management.png)
+![Data governance and management](../images/data-governance-management.png)
 
 To make things happen, establish a multi-tier governance structure consisting of working groups, advisory boards, and decision-making bodies. An agile implementation of data governance can distribute decision-making authority across tiers so activities and decisions can be made quickly. Elevate decisions only when they cross a defined threshold like resource allocation or level of effort.
 

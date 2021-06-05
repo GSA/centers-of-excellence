@@ -62,13 +62,13 @@ There are three high-level categories of machine learning: supervised learning, 
 
 **Supervised learning** is the most widely adopted ML method, given its clear learning goal and close resemblance to human behavior. A Supervised learning algorithm learns a function that maps an input to an output based on example input-output pairs. The example output is often referred to as “label”, which can be either created manually or taken from outcomes of historical data, such as a picture of a cat with an associated “cat” label. 
 
-![Supervised Learning](./images/supervised-learning.png)
+![Supervised Learning](../images/supervised-learning.png)
 
 Supervised learning is widely used in object recognition for self-driving cars and clinical decision support. Mostly recently, it leads to much improved experience in the state-of-the-art chatbots that have been trained to identify a range of topics (the “label”) by understanding human language as input (a question or comment).
 
 **Unsupervised learning** is often used in data exploration before a learning goal is established. Unlike the training and testing steps in supervised learning, unsupervised learning tends to emphasize the goodness-of-fit (the extent to which observed data match the values expected) of the data. Analysts often independently experiment with multiple unsupervised learning methods or the same method but with different parameters, and evaluate the goodness-of-fit through a mathematical cost function or visualization techniques. 
 
-![Unsupervised Learning](./images/unsupervised-learning.png)
+![Unsupervised Learning](../images/unsupervised-learning.png)
 
 Unsupervised learning is widely used in fraud detection to segment outlier behavior patterns. 
 
@@ -76,7 +76,7 @@ Unsupervised learning is widely used in fraud detection to segment outlier behav
 
 Below is an illustration of a particular state in a navigation problem solved using reinforcement learning. 
 
-![Reinforced Learning](./images/reinforced-learning.png)
+![Reinforced Learning](../images/reinforced-learning.png)
 
 The above figure illustrates how a robot agent learns from the environment and applies the knowledge in future navigation steps. 
 

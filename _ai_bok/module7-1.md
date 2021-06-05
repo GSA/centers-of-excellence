@@ -11,7 +11,7 @@ The AI lifecycle is the iterative process of moving from a business problem to a
 {: .intro }
 
 
-![AI Lifecycle](images/ai-life-cycle.png)
+![AI Lifecycle](../images/ai-life-cycle.png)
 
 ## Design
 1. **Understand the problem:** To share your team’s understanding of their mission challenge, you first have to identify the key project objectives and requirements. Then define the desired outcome from a business perspective. Finally, determining AI will solve this problem. Learn more about this step in the framing AI problems section.

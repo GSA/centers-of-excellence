@@ -67,7 +67,7 @@ Chief information offices, chief Information security offices, chief data office
 > The centralized AI resource provides technical and infrastructure support as well as access to legal, security, and acquisition support for AI professionals in the mission center and program office to succeed in AI adoption efforts. 
 {: .ai-bok-feature }
 
-![Organizing and managing AI](./images/organizing-managing-ai.png)
+![Organizing and managing AI](../images/organizing-managing-ai.png)
 
 
 ## Path to the goal: getting to a central AI resource 
@@ -83,7 +83,7 @@ After more than a few mission centers and program offices start building AI, you
 
 Crucially, these steps do not require immediate enterprise-wide changes. This model works at whatever scale of organic AI adoption the agency can handle at the time. Adding AI personnel to more mission centers and program offices and continuing to scale up AI practitioners’ skills offers a natural and gradual path to the goal state of enabling all agency functions to use AI. 
 
-![Organizing and managing AI](./images/organizing-managing-ai-part-2.png)
+![Organizing and managing AI](../images/organizing-managing-ai-part-2.png)
 
 
 > Start small with a use case that focuses on a unique mission or program challenge.
@@ -126,7 +126,7 @@ But in the spirit of the IPT, also consider roles like change management experts
  
 What makes an IPT team made up of a variety of roles so successful is that they each have the perspectives and knowledge necessary to ensure true value is delivered at all points of a project. The IPT will make many of the decisions that will impact the final deliverable(s). 
 
-![Organizing and managing AI](./images/organizing-managing-ai-part-3.png)
+![Organizing and managing AI](../images/organizing-managing-ai-part-3.png)
 
 ## Security, legal, and acquisition support for practitioners: the Integrated Agency Team
 
