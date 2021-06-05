@@ -45,7 +45,7 @@
 
       {% if _is_top_level or this_page_section == ai_page_section %}
         <li>
-          <a href="{{ ai_page.url }}"
+          <a href="{{site.baseurl}}{{ ai_page.url }}"
             {% if _current_page %} class="usa-current" {% endif %}>
             {{ ai_page.title }}
           </a>
