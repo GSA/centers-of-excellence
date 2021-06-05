@@ -51,7 +51,7 @@ collections:
     output: true
   ai_bok:
     output: true
-    permalink: /coe/ai-guide-for-government/:name
+    permalink: /coe/ai-guide-for-government/:name/index.html
     sort_by: bokSectionId
 
 defaults:
