@@ -18,6 +18,10 @@
       {% assign this_page_section =  page_schema | first | abs %}
       {% assign next_page_section =  page_schema | first | plus: 1 | abs %}
 
+      {% if _is_ai_homepage %}
+        {% assign this_page_section =  null %}
+      {% endif %}
+
       {% assign ai_page_section =  ai_page_schema | first | abs %}
       {% assign ai_page_level =  ai_page_schema | last  %}
 
@@ -27,7 +31,7 @@
       {% endif %}
 
       {% assign _opens_sub_list = false %}
-      {% if this_page_section == ai_page_section and _is_top_level %}
+      {% if this_page_section == ai_page_section and _is_top_level and _is_ai_homepage == false %}
         {% assign _opens_sub_list = true %}
         {% assign _current_page = true %}
       {% endif %}
@@ -39,7 +43,7 @@
 
 
       {% if _closes_previous_list %}
-        </ul> {{ page.ai_bok_homepage }}
+        </ul>
       {% endif %}
 
       {% if _is_top_level or this_page_section == ai_page_section %}
