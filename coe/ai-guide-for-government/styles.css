@@ -192,7 +192,7 @@ html {
 .ai-bok__content [class*="ai-ops-maturity-level-"] + p:after {
     content: "";
     border-bottom: 1px solid grey;
-    width: calc(100% + 10rem);
+    width: calc(100% + 10.75rem);
     left: -10rem;
     display: block;
     position: absolute;
@@ -218,27 +218,27 @@ html {
 .ai-bok__content .ai-ops-maturity-level-1 {
     color: #2e8540;
     border-color: #2e8540;
-    background-color: #2e85401A;
+    background-color: #eaf2eb;
 }
 .ai-bok__content .ai-ops-maturity-level-2 {
     color: #046b99;
     border-color: #046b99;
-    background-color: #046b991A;
+    background-color: #e8f0f4;
 }
 .ai-bok__content .ai-ops-maturity-level-3 {
     color: #205493;
     border-color: #205493;
-    background-color: #2054931A;
+    background-color: #e9edf4;
 }
 .ai-bok__content .ai-ops-maturity-level-4 {
     color: #112e51;
     border-color: #112e51;
-    background-color: #112e511A;
+    background-color: #e7eaed;
 }
 .ai-bok__content .ai-ops-maturity-level-5 {
     color: #323a45;
     border-color: #323a45;
-    background-color: #323a451A;
+    background-color: #eaebec;
 }
 .ai-bok__content .ai-ops-maturity-level-1:before {
     content: "Level 1";
@@ -259,27 +259,27 @@ html {
 .ai-bok__content .ai-ops-maturity-table .level-1 {
     color: #2e8540;
     border-top: 3px solid #2e8540;
-    background-color: #2e85401A;
+    background-color: #eaf2eb;
 }
 .ai-bok__content .ai-ops-maturity-table .level-2 {
     color: #046b99;
     border-top: 3px solid #046b99;
-    background-color: #046b991A;
+    background-color: #e8f0f4;
 }
 .ai-bok__content .ai-ops-maturity-table .level-3 {
     color: #205493;
     border-top: 3px solid #205493;
-    background-color: #2054931A;
+    background-color: #e9edf4;
 }
 .ai-bok__content .ai-ops-maturity-table .level-4 {
     color: #112e51;
     border-top: 3px solid #112e51;
-    background-color: #112e511A;
+    background-color: #e7eaed;
 }
 .ai-bok__content .ai-ops-maturity-table .level-5 {
     color: #323a45;
     border-top: 3px solid #323a45;
-    background-color: #323a451A;
+    background-color: #eaebec;
 }
 
 .ai-bok .ai-bok__content hr {
