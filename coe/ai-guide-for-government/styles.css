@@ -12,6 +12,9 @@
 .ai-bok #ai-bok__hero .usa-section {
     padding-top: 10rem;
     padding-bottom: 10rem;
+    background: rgb(1, 14, 19);
+    background: radial-gradient(circle, rgba(1, 14, 19, .9) 60%, rgba(4,63,94,0) 100%);
+    backdrop-filter: blur(1px);
 }
 .ai-bok #ai-bok__hero h1 {
     border-bottom: none;
