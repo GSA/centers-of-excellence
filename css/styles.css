@@ -875,6 +875,26 @@ hr {
 .sidebar-box.data-story .usa-button-secondary {
     margin-bottom: 2rem;
 }
+.sidebar-box.ai-guide-for-government {
+    background-image: url('../images/AI/ai-guide-for-government-siderail.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.sidebar-box.ai-guide-for-government p {
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    padding: 1rem .5rem;
+}
+.sidebar-box.ai-guide-for-government .usa-button-secondary {
+    margin-bottom: 0;
+}
 .img-border {
     padding:1px;
     border:1px solid #021a40;
