@@ -1,24 +1,24 @@
 <nav>
   <ul class="usa-sidenav-list">
-    {% assign _is_ai_homepage = false %}
-    {% if page.ai_bok_homepage == true %}
-      {% assign _is_ai_homepage = true %}
+    {% assign _is_ai_gfg_homepage = false %}
+    {% if page.ai_gfg_homepage == true %}
+      {% assign _is_ai_gfg_homepage = true %}
     {% endif %}
 
-    {% assign ai_nav = site.ai_bok  %}
+    {% assign ai_nav = site.ai_guide_for_government  %}
     {% for ai_page in ai_nav %}
 
       {% assign _current_page = false %}
       {% if ai_page.url == page.url or ai_page.url == page.permalink %}
         {% assign _current_page = true %}
       {% endif %}
-      {% assign page_schema = page.relative_path  | remove: ".md" | remove: "_ai_bok/"  | split: "-" %}
-      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_bok/"  | split: "-" %}
+      {% assign page_schema = page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
 
       {% assign this_page_section =  page_schema | first | abs %}
       {% assign next_page_section =  page_schema | first | plus: 1 | abs %}
 
-      {% if _is_ai_homepage %}
+      {% if _is_ai_gfg_homepage %}
         {% assign this_page_section =  null %}
       {% endif %}
 
@@ -31,13 +31,13 @@
       {% endif %}
 
       {% assign _opens_sub_list = false %}
-      {% if this_page_section == ai_page_section and _is_top_level and _is_ai_homepage == false %}
+      {% if this_page_section == ai_page_section and _is_top_level and _is_ai_gfg_homepage == false %}
         {% assign _opens_sub_list = true %}
         {% assign _current_page = true %}
       {% endif %}
 
       {% assign _closes_previous_list = false %}
-      {% if next_page_section == ai_page_section and _is_top_level and _is_ai_homepage == false %}
+      {% if next_page_section == ai_page_section and _is_top_level and _is_ai_gfg_homepage == false %}
         {% assign _closes_previous_list = true %}
       {% endif %}
 

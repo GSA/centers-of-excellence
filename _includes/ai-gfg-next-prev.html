@@ -1,13 +1,13 @@
-{% assign bok_pages = site.ai_bok %}
+{% assign gfg_pages = site.ai_guide_for_government %}
 
 {% if page.collection %}
-  {% for links in bok_pages %}
+  {% for links in gfg_pages %}
     {% if links.title == page.title %}
       {% unless forloop.first %}
         {% assign prevurl = prev.url %}
       {% endunless %}
       {% unless forloop.last %}
-        {% assign next = bok_pages[forloop.index] %}
+        {% assign next = gfg_pages[forloop.index] %}
         {% assign nexturl = next.url %}
       {% endunless %}
     {% endif %}
@@ -15,18 +15,18 @@
   {% endfor %}
 {% else %}
   {% assign prevurl = false %}
-  {% assign next = bok_pages | first %}
+  {% assign next = gfg_pages | first %}
   {% assign nexturl = next.url %}
 {% endif %}
 
-<nav class="ai-bok__page-nav">
+<nav class="ai-gfg__page-nav">
   {% if prevurl %}
-  <div class="ai-bok__page-nav__prev">
+  <div class="ai-gfg__page-nav__prev">
     <a class="usa-button usa-button-secondary" rel="prev" href="{{site.baseurl}}{{prevurl}}">Previous article</a>
   </div>
   {% endif %}
   {% if nexturl %}
-  <div class="ai-bok__page-nav__next">
+  <div class="ai-gfg__page-nav__next">
     <a class="usa-button" rel="next" href="{{site.baseurl}}{{nexturl}}">Next article</a>
   </div>
   {% endif %}
