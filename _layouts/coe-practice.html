@@ -7,7 +7,7 @@ layout: default
     <div class="usa-width-two-thirds">
         <p class="intro">{{ page.tagline }}</p>
      
-     <p> <em>A CoE Area of Practice is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </em> </p>  
+     <p> <em>A <strong>CoE Area of Practice</strong> is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </em> </p>  
       
         <div class="page-nav">
             <a href="#service-offerings">Service Offerings</a> | {% if page.service-catalog %} <a href="#service-catalog">Service Catalog</a>  {% endif %} {% for item in page.page-nav.children %} <a href="{{ site.baseurl }}/work/{{ item.url-fragment }}">Our Work at {{ item.agency }}</a> {% if forloop.last == false %} | {% endif %}{% endfor %}
