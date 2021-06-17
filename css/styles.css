@@ -465,7 +465,8 @@ a.card-link.coe-ca-link .centers-graphic::after,
 a.card-link.coe-cc-link .centers-graphic::after,
 a.card-link.coe-cx-link .centers-graphic::after,
 a.card-link.coe-da-link .centers-graphic::after,
-a.card-link.coe-io-link .centers-graphic::after {
+a.card-link.coe-io-link .centers-graphic::after,
+a.card-link.coe-ia-link .centers-graphic::after {
     content: '';
     width: 195px;
     height: 115px;
