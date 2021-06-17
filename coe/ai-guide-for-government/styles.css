@@ -116,6 +116,9 @@ html {
     padding-top: 1px;
     padding-bottom: 1px;
 }
+.ai-gfg__content .ai-gfg-feature a {
+    color: #112e51;
+}
 
 .ai-gfg__content .ai-myth-header,
 .ai-gfg__content .ai-reality-header {
