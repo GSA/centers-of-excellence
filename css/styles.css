@@ -482,6 +482,7 @@ a.card-link.coe-cc-link .centers-graphic::after {background-image: url(../images
 a.card-link.coe-cx-link .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
 a.card-link.coe-da-link .centers-graphic::after {background-image: url(../images/data-analytics-2x.png);}
 a.card-link.coe-io-link .centers-graphic::after {background-image: url(../images/infrastructure-optimization-2x.png);}
+a.card-link.coe-ia-link .centers-graphic::after {background-image: url(../images/innovation-adoption-2x.png);}
 a.card-link .card-link-text {
     padding: 2rem;
     height:27rem;
