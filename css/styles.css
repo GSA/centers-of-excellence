@@ -822,8 +822,7 @@ hr {
 .sidebar-box.coe-io .centers-graphic::after,
 .sidebar-box.coe-ia .centers-graphic::after {
     content: '';
-    width: 195px;
-    height: 115px;
+
     position: absolute;
     top: -32px;
     left: 50%;
