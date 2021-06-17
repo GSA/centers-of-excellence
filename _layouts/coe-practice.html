@@ -38,7 +38,7 @@ layout: default
         {% endfor %}
       {% endif %}
           
-      <h2 id="coe-updates">Latest Updates</h2>
+      <h2 id="coe-updates">"|" Latest Updates</h2>
       {% assign filtered_posts = site.posts | where: 'initiative', page.title %}
       {% for post in filtered_posts %}
           {% include article-head.html show_post_excerpt = true %}
