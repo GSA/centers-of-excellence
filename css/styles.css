@@ -824,6 +824,7 @@ hr {
     content: '';
     width: 195px;
     height: 115px;
+    position: absolute;
     top: -32px;
     left: 50%;
     margin-left: -98px;
