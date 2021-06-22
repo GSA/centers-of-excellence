@@ -43,25 +43,7 @@ html {
         max-width: 55vw;
     }
 }
-@media print {
-    .usa-banner, .usa-menu-btn {
-        display: none;
-    }
-    .usa-navbar {
-        height: auto;
-    }
-    .ai-gfg #ai-gfg__hero {
-        padding: 4rem 2rem;
-    }
-    .ai-gfg #ai-gfg__hero h1 {
-        font-size: 64px;
-    }
-    .ai-gfg #ai-gfg__hero p {
-        font-size: 28px;
-        padding-right: 20rem;
-    }
 
-}
 
 .ai-gfg .sidenav {
     position: sticky;
@@ -100,6 +82,7 @@ html {
     background: #dbeff8;
     font-size: 21px;
     max-width: 100%;
+    page-break-inside: avoid;
 }
 .ai-gfg__content .usa-content {
     max-width: 80ch;
@@ -126,6 +109,8 @@ html {
     margin: 2rem 0 1rem;
     font-family: 'Source Sans Pro';
     font-weight: 700;
+    page-break-after: avoid;
+    page-break-inside: avoid;
 }
 .ai-gfg__content .ai-myth-header {
     color: #981b1e;
@@ -141,6 +126,7 @@ html {
     font-weight: 700;
     color: #323a45;
     text-indent: -1.875rem;
+    page-break-inside: avoid;
 }
 .ai-gfg__content .ai-myth:before {
     content: "“";
@@ -157,6 +143,8 @@ html {
     padding: 1.5rem 0 1.75rem 10rem;
     border-top: 2px solid #112e51;
     position: relative;
+    break-after: avoid;
+    break-inside: avoid;
 }
 .ai-gfg__content [class*="ai-ops-maturity-level-"]:before {
     content: "Level 1";
@@ -288,4 +276,114 @@ html {
 .ai-gfg .ai-gfg__content hr {
     border-color: #aeb0b5;
     margin-top: 4rem;
+}
+
+@media print {
+    @page { margin: 4rem 8rem 4rem 3rem; orphans:4; widows:2; }
+
+    a { page-break-inside:avoid }
+    blockquote { page-break-inside: avoid; }
+    h1, h2, h3, h4, h5, h6 { page-break-after:avoid; page-break-inside:avoid }
+    img { page-break-inside:avoid; page-break-after:avoid; }
+    table, pre { page-break-inside:avoid }
+    ul, ol, dl  { page-break-before:avoid }
+
+
+    a:after > img {
+        content: "";
+    }
+    /* default links */
+    .ai-gfg .ai-gfg__content a:after {
+        content:" (" attr(href) ") ";
+    }
+    /* anchor links */
+    .ai-gfg .ai-gfg__content a[href^="#"]:after {
+        content: "";
+    }
+    /* internal root-relative links */
+    .ai-gfg .ai-gfg__content a[href^='/']:after {
+        content:" (https://coe.gsa.gov" attr(href) ") ";
+    }    
+    /* external full links */
+    .ai-gfg .ai-gfg__content a[href^=http]:after {
+        content:" (" attr(href) ") ";
+    }
+        
+    .usa-banner, .usa-menu-btn, .usa-footer-nav, .ai-gfg__page-nav, #fba-button, #ai-gfg__hero  {
+        display: none !important;
+    }
+    header.main-header {
+        box-shadow: none;
+    }
+    .usa-navbar {
+        height: auto;
+        border: none;
+    }
+    .usa-logo { margin-left: -0.5rem; }
+    /* .ai-gfg #ai-gfg__hero {
+        padding: 4rem 2rem 0 2rem;
+    }
+    .ai-gfg #ai-gfg__hero .usa-section {
+        padding: 1rem 0 1rem 2rem;
+    }
+    .ai-gfg #ai-gfg__hero h1 {
+        font-size: 32px;
+        margin-bottom: .5rem;
+    }
+    .ai-gfg #ai-gfg__hero p {
+        font-size: 22px;
+        padding-right: 0;
+        margin-top: .5rem;
+        max-width: none;
+    } */
+    .usa-layout-docs-sidenav {
+        display: none;
+        margin: 2rem 2rem 2rem 4rem;
+    }
+    .ai-gfg .sidenav {
+        position: relative;
+        top: 0;
+        padding-top: 0;
+        margin-bottom: 3rem;
+        page-break-after: always;
+    }
+    .usa-layout-docs {
+        display: block;
+        max-width: none;
+    }
+    .ai-gfg .ai-gfg__content {
+        padding: 2rem 0;
+        font-size: 13pt;
+    }
+    p.intro {
+        font-size: 16pt;
+    }
+    main#main-content {
+        margin-bottom: 0;
+    }
+    .usa-layout-docs:after {
+        display: inline-block;
+        content: "This Artificial Intelligence Guide for Government is maintained by the Centers of Excellence. Visit https://coe.gsa.gov/coe/ai-guide-for-government to learn more.";
+        font-size: 12pt;
+        font-style: italic;
+        margin: 1rem 0;
+        max-width: 80rem;
+    }
+    .footer-logo-links:after {
+        display: inline-block;
+        font-size: 10pt;
+        height: 3.5rem;
+        line-height: 0;
+        vertical-align: middle;
+        content: "This site is an official website of the US Federal Government.";
+        margin: 0 2rem;
+    }
+    .usa-footer-primary-section {
+        padding: 2rem 1rem 1rem;
+        page-break-inside:avoid;
+    }
+    a.footer-logo[href*="twitter"] {
+        display: none;
+    }
+
 }
