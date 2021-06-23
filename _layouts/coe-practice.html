@@ -7,7 +7,7 @@ layout: default
     <div class="usa-width-two-thirds">
         <p class="intro">{{ page.tagline }}</p>
      
-     <p><strong> A CoE Practice Areas work in conjunction with all CoE projects led by our six Centers or by offering stand-alone services to help our partners meet their modernization goals.  Practice Areas offer services and expertise that are integral to the acceleration of effective, holistic transformation. </strong> </p>  
+     <p> A CoE Practice Areas work in conjunction with all CoE projects led by our six Centers or by offering stand-alone services to help our partners meet their modernization goals.  Practice Areas offer services and expertise that are integral to the acceleration of effective, holistic transformation. </p>  
       
         <div class="page-nav">
             <a href="#service-offerings">Service Offerings</a> | {% if page.service-catalog %} <a href="#service-catalog">Service Catalog</a>  {% endif %} {% for item in page.page-nav.children %} <a href="{{ site.baseurl }}/work/{{ item.url-fragment }}">Our Work at {{ item.agency }}</a> {% if forloop.last == false %} | {% endif %}{% endfor %}
