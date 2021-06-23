@@ -1,0 +1,78 @@
+{% include header.html %}
+<div class="ai-gfg">
+  <div id="ai-gfg__hero">
+    <section class="usa-grid usa-section">
+      <h1>AI Guide for Government</h1>
+      <p>
+        A living and evolving guide to the application of Artificial
+        Intelligence for the U.S. federal government.
+      </p>
+    </section>
+    <!-- /.usa-grid -->
+  </div>
+
+
+  <section class="usa-grid usa-section usa-layout-docs">
+    <aside class="usa-width-one-fourth usa-layout-docs-sidenav sidenav">
+      {% include ai-gfg-sidenav.html  %}
+    </aside>
+    <div class="usa-width-three-fourths usa-layout-docs-main_content ai-gfg__content">
+      <div class="clearfix">
+        <h1 class="title">{{page.title}}</h1>
+        <article class="usa-content">
+        {{ content }}
+        </article>
+        {% include ai-gfg-next-prev.html  %}
+      </div>
+    </div>
+  </section>
+</div> 
+
+{% include footer.html %}
+
+
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="../styles.css"
+/>
+<script src="https://touchpoints.app.cloud.gov/touchpoints/eb13aa58.js" async onload="registerPageUrl('{{ site.baseurl }}{{ page.url }}')"></script>
+<script>
+function registerPageUrl(url) {
+  const touchpointsFormURLField = document.querySelector('.touchpoints-form-body input[value="Page URL"]');
+  if (!!touchpointsFormURLField) {
+    touchpointsFormURLField.value = (url);
+  }
+};
+</script>
+<style type="text/css">
+/* because the Touchpoints form has USWDSv2 and the site already has USWDSv1, */
+/* the form gets really small without these overrides. */
+#fba-button.usa-button {
+  font-size: 17px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 0;
+  width: auto;
+}
+#fba-modal-dialog .usa-button {
+  font-size: 17px;
+  padding: 10px 20px;
+}
+#fba-modal-dialog .usa-label,
+#fba-modal-dialog .usa-fieldset,
+#fba-modal-dialog .usa-input,
+#fba-modal-dialog .usa-textarea {
+  font-size: 17px;
+  line-height: 22px;
+}
+#fba-modal-dialog .usa-input {
+  height: 36px;
+}
+#fba-modal-dialog .usa-textarea {
+  max-width: 100%;
+}
+#fba-modal-dialog .usa-hint {
+  font-size: 15px;
+  line-height: 20px;
+}
+</style>
