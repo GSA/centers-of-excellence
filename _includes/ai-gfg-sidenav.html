@@ -1,9 +1,6 @@
 <nav>
   <ul class="usa-sidenav-list">
-    {% assign _is_ai_gfg_homepage = false %}
-    {% if page.ai_gfg_homepage == true %}
-      {% assign _is_ai_gfg_homepage = true %}
-    {% endif %}
+ 
 
     {% assign ai_nav = site.ai_guide_for_government  %}
     {% for ai_page in ai_nav %}
@@ -18,9 +15,6 @@
       {% assign this_page_section =  page_schema | first | abs %}
       {% assign next_page_section =  page_schema | first | plus: 1 | abs %}
 
-      {% if _is_ai_gfg_homepage %}
-        {% assign this_page_section =  null %}
-      {% endif %}
 
       {% assign ai_page_section =  ai_page_schema | first | abs %}
       {% assign ai_page_level =  ai_page_schema | last  %}
@@ -31,13 +25,13 @@
       {% endif %}
 
       {% assign _opens_sub_list = false %}
-      {% if this_page_section == ai_page_section and _is_top_level and _is_ai_gfg_homepage == false %}
+      {% if this_page_section == ai_page_section and _is_top_level %}
         {% assign _opens_sub_list = true %}
         {% assign _current_page = true %}
       {% endif %}
 
       {% assign _closes_previous_list = false %}
-      {% if next_page_section == ai_page_section and _is_top_level and _is_ai_gfg_homepage == false %}
+      {% if next_page_section == ai_page_section and _is_top_level %}
         {% assign _closes_previous_list = true %}
       {% endif %}
 
@@ -62,3 +56,6 @@
     {% endfor %}
   </ul>
 </nav>
+<a href="{{ baseurl }}/coe/ai-guide-for-government/print-all/index.html" target="_blank" class="usa-button usa-button-secondary">
+  Print the complete guide
+</a>

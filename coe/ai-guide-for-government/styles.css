@@ -49,6 +49,9 @@ html {
     position: sticky;
     top: 20px;
 }
+.usa-sidenav-list {
+    margin-bottom: 2rem;
+}
 
 .ai-gfg .ai-gfg__content {
     padding-left: 20px;
@@ -277,7 +280,45 @@ html {
     border-color: #aeb0b5;
     margin-top: 4rem;
 }
+.ai-gfg__page {
+    width: 7.5in;
+    margin: .25in;
+    page-break-after: always;
+}
+@media screen {
+    .ai-gfg__page > * {
+        padding-left: 20px;
+    }   
+}
+.ai-gfg__page h1 {
+    margin: 0;
+}
+.ai-gfg__page--cover {
+}
+.ai-gfg__page--cover .coe-logo {
+    width: 30rem;
+    padding-left: 0;
+}
+.ai-gfg__page--cover h1 {
+    font-size: 8rem;
+    line-height: 1.1;
+    margin-top: 3in;
+    max-width: 55rem;
+}
+.ai-gfg__page--cover .intro {
+    border-top: 1px solid #aeb0b5;
+    font-size: 3rem;
+    max-width: 55rem;
+    margin-bottom: 3in;
+    margin-top: 1rem;
+    padding-top: 3rem;
+}
 
+.ai-gfg__page--toc h4 {
+    margin: .5rem 0 .5rem 4rem;
+    font-weight: 400;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
 @media print {
     @page { margin: 4rem 8rem 4rem 3rem; orphans:4; widows:2; }
 
@@ -385,5 +426,4 @@ html {
     a.footer-logo[href*="twitter"] {
         display: none;
     }
-
 }
