@@ -819,8 +819,7 @@ hr {
 .sidebar-box.coe-cc .centers-graphic::after,
 .sidebar-box.coe-cx .centers-graphic::after,
 .sidebar-box.coe-da .centers-graphic::after,
-.sidebar-box.coe-io .centers-graphic::after,
-.sidebar-box.coe-ia .centers-graphic::after {
+.sidebar-box.coe-io .centers-graphic::after {
     content: '';
     width: 195px;
     height: 115px;
@@ -837,7 +836,6 @@ hr {
 .sidebar-box.coe-cx .centers-graphic::after {background-image: url(../images/customer-experience-2x.png);}
 .sidebar-box.coe-da .centers-graphic::after {background-image: url(../images/data-analytics-2x.png);}
 .sidebar-box.coe-io .centers-graphic::after {background-image: url(../images/infrastructure-optimization-2x.png);}
-.sidebar-box.coe-ia .centers-graphic::after {background-image: url(../images/innovation-adoption-2x.png);}
 .sidebar-box-content {
     padding:2rem;
 }
