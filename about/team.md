@@ -18,46 +18,48 @@ teams:
     people:
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
+        center: Chief of Staff (Acting)
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
+        center: Communications Lead
         bio: >-
           Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
         linkedin: daniellergallant      
       - name: David Warren
         img: DavidWarren.jpg
+        center: Agreements Lead
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
         linkedin: david-warren-8abb72103
-      - name: George Chenkeli
-        img: GeorgeChenkeli20-4.jpg
-        bio: >-
-          George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M. 
-        linkedin: george-chenkeli
       - name: Jacqueline Snee
         img:  JackieSnee19.jpg
+        center: Chief of Staff
         bio: >-
           Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
         linkedin: jacquelinesnee
-      - name: Julie Beararducci
-        img: JulieBerarducci19.jpg
-        bio: >-
-          Julie Berarducci has over 20 years experience in the IT industry supporting public and private organizations. Leveraging her technical background, Berarducci works with senior IT leaders to build strategies and manage implementations. Berarducci joined the CoE in its beginning stages and is focused on programmatic maturation of the organization, ensuring the internal operations are defined and effective. Berarducci helps build the partnerships between agencies and the CoE, leading to modernization initiatives that ultimately improve the customer experience. 
-        linkedin: julie12345
-      - name: Matt Montaño
-        img:  MatthewMontano19.2.jpg
-        bio: >-
-          Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
-        linkedin: mgmontano
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         bio: >-
           Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
         linkedin: michelle-mcnellis-9488908
+      - name: George Chenkeli
+        img: GeorgeChenkeli20-4.jpg
+        center: Engagement Lead
+        bio: >-
+          George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M.
+        linkedin: george-chenkeli  
+      - name: Matt Montaño
+        img:  MatthewMontano19.2.jpg
+        center: Engagement Lead
+        bio: >-
+          Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
+        linkedin: mgmontano
       - name: Nick Lundin
         img: NickLundin.jpg
+        center: Engagement Lead
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
         linkedin: nick-lundin        
