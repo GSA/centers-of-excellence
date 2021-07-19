@@ -14,7 +14,7 @@ teams:
         bio: >-
           Ed Golden brings over 25 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations to his work at the Centers of Excellence.  As the CoE Acting Deputy Executive Director, Ed oversees the CoE engagement portfolio to assure delivery on our commitment to helping clients accelerate IT modernization and improve customer experience, while at the same time shaping identification of new partnership opportunities and driving CoE financial management toward full cost-recoverability.  Since joining the CoE, Golden has led our partnership with the Food and Drug Administration's Office of Information Management and Technology to drive organizational culture change and data center modernization, while concurrently supporting the CoE's Artificial Intelligence engagement with GSA's Information Technology Category (ITC).  Prior to his work at the CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where for seven years he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems, leading efforts to modernize the Department’s business information systems.    
         linkedin: edward-golden-54242448   
-  - title: Program Management Office
+  - title: Centers of Excellence
     people:
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
