@@ -61,8 +61,6 @@ teams:
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
         linkedin: nick-lundin        
-  - title: Centers of Excellence Leads
-    people:
       - name: Anil 'Neil' Chaudhry
         img: AnilChaudhry20.jpg
         center: Artificial Intelligence Lead
