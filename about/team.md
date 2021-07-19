@@ -6,13 +6,13 @@ teams:
     people:
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
-        center: Executive Director (Acting)
+        center: Acting Executive Director
         bio: >-
           Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public sector and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
         linkedin: jennifer-rostami-mba-154a5a12
       - name: Ed Golden
         img: EdGolden.jpg
-        center: Deputy Director (Acting)
+        center: Acting Deputy Director
         bio: >-
           Ed Golden brings over 25 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations to his work at the Centers of Excellence.  As the CoE Acting Deputy Executive Director, Ed oversees the CoE engagement portfolio to assure delivery on our commitment to helping clients accelerate IT modernization and improve customer experience, while at the same time shaping identification of new partnership opportunities and driving CoE financial management toward full cost-recoverability.  Since joining the CoE, Golden has led our partnership with the Food and Drug Administration's Office of Information Management and Technology to drive organizational culture change and data center modernization, while concurrently supporting the CoE's Artificial Intelligence engagement with GSA's Information Technology Category (ITC).  Prior to his work at the CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where for seven years he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems, leading efforts to modernize the Department’s business information systems.    
         linkedin: edward-golden-54242448   
@@ -20,7 +20,7 @@ teams:
     people:
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
-        center: Chief of Staff (Acting)
+        center: Acting Chief of Staff
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
@@ -96,12 +96,6 @@ teams:
         bio: >-
          Sharon Wilborn has over 12 years of public sector experience and expertise in Federal HR staffing and consulting.  Wilborn joined the Centers of Excellence through a Presidential Management Council (PMC) Interagency Rotation.  Sharon’s home agency is the Office of Personnel Management (OPM) where she consults with federal agencies on their use of USA Hire online assessments.  Prior to this role, she was the San Francisco Branch Manager for OPM's Staff Acquisition office. In both roles, Wilborn has provided HR consulting services to agencies across the country. One of her notable achievements was managing the first interagency detail cadre to assist with cybersecurity hiring. This included staffing specialists from six different agencies who participated in virtual details from across the country.  
         linkedin: sharonwilborn
-      - name: Thomas Hallaran
-        img: ThomasHallaran.jpg
-        center: Artifical Intelligence Lead
-        bio: >-
-          Tom Hallaran has over 20 years experience in public and private sector IT, software engineering, and strategy. Hallaran began his career as a bioinformatician working on automating genome sequencing and plating pipelines. Later, as VP of engineering at a major digital advertising network, Hallaran managed analytics and product teams prior to the company's sale. Before joining GSA, Hallaran’s software and analytics consultancy worked with Fortune 500 clients, leading organizations, and startups to modernize legacy technology and materialize new products. At the CoE, he pairs his private sector experience along with his understanding of Federal IT funding to engineer great outcomes for our partners.  Hallaran also serves as a Technical Advisor to GSA’s Technology Modernization Fund (TMF) and is responsible for advising the TMF board on their investment of $150 Million in Federal Agency modernization projects.
-        linkedin: tomhallaran
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption Lead
