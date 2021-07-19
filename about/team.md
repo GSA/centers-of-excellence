@@ -2,7 +2,7 @@
 layout: team
 title: Our Team
 teams:
-  - title: Centers of Excellence Leadership
+  - title: Leadership
     people:
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
