@@ -96,7 +96,7 @@ teams:
         bio: >-
          Sharon Wilborn has over 12 years of public sector experience and expertise in Federal HR staffing and consulting.  Wilborn joined the Centers of Excellence through a Presidential Management Council (PMC) Interagency Rotation.  Sharon’s home agency is the Office of Personnel Management (OPM) where she consults with federal agencies on their use of USA Hire online assessments.  Prior to this role, she was the San Francisco Branch Manager for OPM's Staff Acquisition office. In both roles, Wilborn has provided HR consulting services to agencies across the country. One of her notable achievements was managing the first interagency detail cadre to assist with cybersecurity hiring. This included staffing specialists from six different agencies who participated in virtual details from across the country.  
         linkedin: sharonwilborn
-       - name: Steve Babitch        
+      - name: Steve Babitch        
         img: SteveBabitch21.png
         center: Artifical Intelligence Lead
         bio: >-
