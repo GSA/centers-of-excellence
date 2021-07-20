@@ -107,7 +107,13 @@ teams:
         center: Cloud Adoption Lead
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
-        linkedin: calvert-smith-cissp-pmp-4677243
+        linkedin: calvert-smith-cissp-pmp-4677243     
+      - name: Ron Williams
+        img: RonWilliams21.jpg
+        center: Cloud Adoption Lead
+        bio: >-
+          Ron Williams brings over 9 years of state and federal government experience to his role as Cloud Adoption Lead. Williams supports federal agencies with adoption of modern cloud native DevOps and Security practices. Williams helps partners identify and overcome challenges faced when transitioning to cloud services. Previously, Williams served as the Deputy Director for Cloud.gov, and the Director of IT for USDA Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public.
+        linkedin: ronwilliamsio
       - name: Syed Azeem
         img: SyedAzeem19.2.jpg
         center: Cloud Adoption Lead
