@@ -145,7 +145,7 @@ teams:
           Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
         linkedin: sandra-dickinson-0764238
       - name: Wayne Harrington
-        img: WayneH.png
+        img: WayneHv2.jpg
         center: Contact Center Lead
         bio: >-
           Wayne Harrington has almost 20 years of Contact Center and Operations leadership experience in the Financial and IT industries. Harrington has led major high-profile digital transformation programs. Most recently he was leading the a major Call Center Operation along with the Artificial Intelligence and Telephony teams for an IT BPO. Harrington attended The College of Saint Scholastica where he was studied Marketing & Sales.
