@@ -36,24 +36,12 @@ teams:
         bio: >-
           David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
         linkedin: david-warren-8abb72103
-      - name: Jacqueline Snee
-        img:  JackieSnee19.jpg
-        center: Chief of Staff
-        bio: >-
-          Jacqueline Snee has over 20 years of experience managing high level priorities inside and outside of government. Currently, Snee splits her time between working with the HUD site lead, CoE directors and HUD Stakeholders to identify, prioritize, plan, and implement HUD IT modernization initiatives and assisting with CoE program priorities. Previously, Snee was the Acting Chief of Staff with GSA’s Technology Transformation Service (TTS). Responsibilities included: working with stakeholders from across GSA to organize and execute key strategic priorities, partnerships, and initiatives for TTS.
-        linkedin: jacquelinesnee
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Director 
         bio: >-
           Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
-        linkedin: michelle-mcnellis-9488908
-      - name: George Chenkeli
-        img: GeorgeChenkeli20-4.jpg
-        center: Engagement Lead
-        bio: >-
-          George Chenkeli has over 25 years of progressive leadership experience in IT delivery, operations, and program management in private and public sectors. Additionally, Chenkeli has served as an Agile Coach at various agencies and currently serves as a member of the GAO Agile Experts Group. Currently, as the CoE Site Lead at the U.S. Department of Housing and Urban Development (HUD), Chenkeli is responsible for the executive stakeholder engagement and leads a cross-functional team of digital transformation specialists with expertise in human centered design, data analytics, cloud architecture, inter-agency agreements and procurement of multi-year contracts valued over $200M.
-        linkedin: george-chenkeli  
+        linkedin: michelle-mcnellis-9488908  
       - name: Matt Montaño
         img:  MatthewMontano19.2.jpg
         center: Engagement Lead
