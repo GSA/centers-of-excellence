@@ -895,6 +895,35 @@ hr {
 .sidebar-box.ai-guide-for-government .usa-button-secondary {
     margin-bottom: 0;
 }
+
+.sidebar-box.ai-resilience-challenge {
+    background-image: url('../images/AI/ai-challenge-bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.sidebar-box.ai-resilience-challenge p {
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    padding: 1rem .5rem;
+}
+.sidebar-box.ai-resilience-challenge p:before {
+    content: "AI Grand Challenge for Resilience";
+    background: url('../images/AI/ai-challenge-logo.png') left top no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 6rem;
+    margin-bottom: 3rem;
+    display: block;
+    font-size: 0;
+}
+
 .img-border {
     padding:1px;
     border:1px solid #021a40;
