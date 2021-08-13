@@ -884,6 +884,8 @@ hr {
     color:#ffffff;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    -webkit-font-smoothing: antialiased;
+    cursor: auto;
 }
 .sidebar-box.ai-guide-for-government p {
     text-shadow: 2px 2px 4px #000000;
@@ -896,6 +898,45 @@ hr {
     margin-bottom: 0;
 }
 
+.sidebar-box.ai-portfolio {
+    background-image: url('../images/AI/ai-portfolio-siderail.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    -webkit-font-smoothing: antialiased;
+    cursor: auto;
+}
+.sidebar-box.ai-portfolio p {
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    padding: 1rem .5rem;
+}
+.sidebar-box.ai-portfolio p:before {
+    content: "Accelerating the use of AI in Government";
+    background: #ffffffdb;
+    width: 100%;
+    margin-bottom: 3rem;
+    padding: .75rem 1rem;
+    display: block;
+    font-weight: 400;
+    font-family: Georgia,Cambria,"Times New Roman",serif;
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+    text-shadow: none;
+    color: #1c304a;
+    -webkit-font-smoothing: auto;
+    box-shadow: 2px 2px 4px #00000080;
+}
+.sidebar-box.ai-portfolio .usa-button-secondary {
+    margin-bottom: 0;
+}
+
 .sidebar-box.ai-resilience-challenge {
     background-image: url('../images/AI/ai-challenge-bg.png');
     background-repeat: no-repeat;
@@ -905,6 +946,8 @@ hr {
     color:#ffffff;
     padding-top: 1rem;
     padding-bottom: 2rem;
+    -webkit-font-smoothing: antialiased;
+    cursor: auto;
 }
 .sidebar-box.ai-resilience-challenge p {
     text-shadow: 2px 2px 4px #000000;
