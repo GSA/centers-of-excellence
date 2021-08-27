@@ -108,12 +108,6 @@ teams:
         bio: >-
           Ron Williams brings over 9 years of state and federal government experience to his role as Cloud Adoption Lead. Williams supports federal agencies with adoption of modern cloud native DevOps and Security practices. Williams helps partners identify and overcome challenges faced when transitioning to cloud services. Previously, Williams served as the Deputy Director for Cloud.gov, and the Director of IT for USDA Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public.
         linkedin: ronwilliamsio
-      - name: Syed Azeem
-        img: SyedAzeem19.2.jpg
-        center: Cloud Adoption Lead
-        bio: >-
-          Syed Azeem has over 16 years of experience leading complex and highly-visible IT modernization projects across the federal government and the private sector. With the CoE, Azeem leads Cloud Adoption efforts within agencies across the federal government by developing cloud migration roadmaps and timelines and implementing cloud governance models. With partnerships at the Department of Housing and Urban Development (HUD), Azeem assisted in digitizing manual and paper-based forms into adaptive online forms with digital workflows, electronic signatures and intelligent data extraction.
-        linkedin: syedazeem
       - name: Dan Jacobs
         img: DanJacobs19.jpg
         center: Cybersecurity Lead
