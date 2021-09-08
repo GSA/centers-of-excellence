@@ -1,0 +1,89 @@
+---
+sitemap: false
+permalink: /coe/ai-guide-for-government/print-all/index.html
+redirect_from: 
+  - /ai-guide-for-government/print-all/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
+  <!-- Title -->
+  <title>AI Guide for Government - AI CoE</title>
+
+  {% assign description = page.description | default: site.description %}
+  {% if description %}
+  <meta name="description" content="{{ description }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{site.baseurl}}/css/uswds.min.css">
+  <link rel="stylesheet" type="text/css" href="../styles.css" />
+</head>
+
+{% assign ai_g4g = site.ai_guide_for_government  %}
+
+<body>
+  <div class="ai-gfg">
+    <div class="ai-gfg__page ai-gfg__page--cover">
+      <img src="{{site.baseurl}}/images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
+      <h1>AI Guide for Government</h1>
+      <p class="intro">
+        A living and evolving guide to the application of Artificial
+        Intelligence for the U.S. federal government.
+      </p>
+      <p>Printed <time id="now">today</time>. For the most up-to-date content, visit the live site at 
+      <b><nowrap>{{ site.url }}/ai-guide-for-government/</nowrap></b>.</p>
+    </div>
+    <div class="ai-gfg__page ai-gfg__page--toc">
+      <h2>Table of Contents</h2>
+      {% for ai_page in ai_g4g %}
+        {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+        {% assign ai_page_section =  ai_page_schema | first | abs %}
+        {% assign ai_page_level =  ai_page_schema | last  %}
+        {% if ai_page_level == "0" %}
+          <h3>{{ ai_page.title }}</h3>
+        {% else %}
+          <h4>{{ ai_page_section }}.{{ ai_page_level }} — {{ ai_page.title }}</h4>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <!-- actual book here -->
+    {% for ai_page in ai_g4g %}
+      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+      {% assign ai_page_section =  ai_page_schema | first | abs %}
+      {% assign ai_page_level =  ai_page_schema | last  %}
+      <div class="ai-gfg__page">
+        <h1>
+          {% if ai_page_level != "0" %}
+            <span>Section {{ ai_page_section }}.{{ ai_page_level }}: </span>
+          {% endif %}
+          {{ ai_page.title }}
+        </h1>
+        <div class="ai-gfg__content">
+          {{ ai_page.content }}
+          <hr />
+        </div>
+
+        {% if forloop.last %}
+          <p>Thank you for printing the AI Guide for Government, a resource maintained by the Artificial Intelligence 
+          Center of Excellence (AI CoE). You can return to print a new version and see recent updates at 
+          <b><nowrap>{{ site.url }}/ai-guide-for-government/</nowrap></b>.
+        {% endif %}
+
+      </div>
+    {% endfor %}
+  </div>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var today = new Date();
+    document.getElementById("now").innerHTML = today.toLocaleDateString();
+    document.getElementById("now").setAttribute("datetime", today.toISOString());
+    setTimeout( ()=> {
+      window.print();
+    }, 100)
+  });
+</script>
+</body>
