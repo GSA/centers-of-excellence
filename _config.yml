@@ -49,14 +49,3 @@ exclude:
 collections:
   category:
     output: true
-  ai_guide_for_government:
-    output: true
-    permalink: /coe/ai-guide-for-government/:slug/index.html
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "ai_guide_for_government"
-    values:
-      layout: "ai-gfg"
