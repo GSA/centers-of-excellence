@@ -1,8 +1,8 @@
 ---
 sitemap: false
-permalink: /coe/ai-guide-for-government/print-all/index.html
+permalink: /coe/ai-use-case-library/print-all/index.html
 redirect_from: 
-  - /ai-guide-for-government/print-all/
+  - /ai-use-case-library/print-all/
 ---
 <!doctype html>
 <html lang="en">
@@ -12,7 +12,7 @@ redirect_from:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
   <!-- Title -->
-  <title>AI Guide for Government - AI CoE</title>
+  <title>AI Use Case Library - AI CoE</title>
 
   {% assign description = page.description | default: site.description %}
   {% if description %}
@@ -23,24 +23,24 @@ redirect_from:
   <link rel="stylesheet" type="text/css" href="../styles.css" />
 </head>
 
-{% assign ai_g4g = site.ai_guide_for_government  %}
+{% assign ai_ucl = site.ai_use_case_library  %}
 
 <body>
-  <div class="ai-gfg">
-    <div class="ai-gfg__page ai-gfg__page--cover">
+  <div class="ai-ucl">
+    <div class="ai-ucl__page ai-ucl__page--cover">
       <img src="{{site.baseurl}}/images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
-      <h1>AI Guide for Government</h1>
+      <h1>AI Use Case Library</h1>
       <p class="intro">
         A living and evolving guide to the application of Artificial
         Intelligence for the U.S. federal government.
       </p>
       <p>Printed <time id="now">today</time>. For the most up-to-date content, visit the live site at 
-      <b><nowrap>{{ site.url }}/ai-guide-for-government/</nowrap></b>.</p>
+      <b><nowrap>{{ site.url }}/ai-use-case-library/</nowrap></b>.</p>
     </div>
-    <div class="ai-gfg__page ai-gfg__page--toc">
+    <div class="ai-ucl__page ai-ucl__page--toc">
       <h2>Table of Contents</h2>
-      {% for ai_page in ai_g4g %}
-        {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+      {% for ai_page in ai_ucl %}
+        {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_library/"  | split: "-" %}
         {% assign ai_page_section =  ai_page_schema | first | abs %}
         {% assign ai_page_level =  ai_page_schema | last  %}
         {% if ai_page_level == "0" %}
@@ -51,26 +51,26 @@ redirect_from:
       {% endfor %}
     </div>
     <!-- actual book here -->
-    {% for ai_page in ai_g4g %}
-      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+    {% for ai_page in ai_ucl %}
+      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_library/"  | split: "-" %}
       {% assign ai_page_section =  ai_page_schema | first | abs %}
       {% assign ai_page_level =  ai_page_schema | last  %}
-      <div class="ai-gfg__page">
+      <div class="ai-ucl__page">
         <h1>
           {% if ai_page_level != "0" %}
             <span>Section {{ ai_page_section }}.{{ ai_page_level }}: </span>
           {% endif %}
           {{ ai_page.title }}
         </h1>
-        <div class="ai-gfg__content">
+        <div class="ai-ucl__content">
           {{ ai_page.content }}
           <hr />
         </div>
 
         {% if forloop.last %}
-          <p>Thank you for printing the AI Guide for Government, a resource maintained by the Artificial Intelligence 
+          <p>Thank you for printing the AI Use Case Library, a resource maintained by the Artificial Intelligence 
           Center of Excellence (AI CoE). You can return to print a new version and see recent updates at 
-          <b><nowrap>{{ site.url }}/ai-guide-for-government/</nowrap></b>.
+          <b><nowrap>{{ site.url }}/ai-use-case-library/</nowrap></b>.
         {% endif %}
 
       </div>

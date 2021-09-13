@@ -877,7 +877,7 @@ hr {
 .sidebar-box.data-story .usa-button-secondary {
     margin-bottom: 2rem;
 }
-.sidebar-box.ai-guide-for-government {
+.sidebar-box.ai-use-case-library {
     background-image: url('../images/AI/ai-guide-for-government-siderail.jpg');
     background-repeat: no-repeat;
     background-position: center center;
@@ -889,14 +889,14 @@ hr {
     -webkit-font-smoothing: antialiased;
     cursor: auto;
 }
-.sidebar-box.ai-guide-for-government p {
+.sidebar-box.ai-use-case-library p {
     text-shadow: 2px 2px 4px #000000;
     font-weight: bold;
     font-size: 19px;
     line-height: 23px;
     padding: 1rem .5rem;
 }
-.sidebar-box.ai-guide-for-government .usa-button-secondary {
+.sidebar-box.ai-use-case-library .usa-button-secondary {
     margin-bottom: 0;
 }
 

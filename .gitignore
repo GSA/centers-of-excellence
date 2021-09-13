@@ -4,3 +4,5 @@ _site
 .DS_Store
 images/team/miattamyers.jpg
 images/team/MiattaMyers.jpg
+.bundle/
+vendor/

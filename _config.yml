@@ -49,14 +49,14 @@ exclude:
 collections:
   category:
     output: true
-  ai_guide_for_government:
+  ai_use_case_library:
     output: true
-    permalink: /coe/ai-guide-for-government/:slug/index.html
+    permalink: /coe/ai-use-case-library/:slug/index.html
 
 defaults:
   -
     scope:
       path: ""
-      type: "ai_guide_for_government"
+      type: "ai_use_case_library"
     values:
-      layout: "ai-gfg"
+      layout: "ai-ucl"
