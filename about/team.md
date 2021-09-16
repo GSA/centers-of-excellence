@@ -60,12 +60,6 @@ teams:
         bio: >-
           Anil Chaudhry has over 20 years of progressive leadership experience in technology delivery, operations, and program management in the defense, intelligence, and national security sectors. At the Artificial Intelligence CoE, Chaudhry advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Chaudhry served in critical leadership positions within US Customs and Border Protection and as a Presidential Management Fellow (PMF) at the Defense Business Transformation Agency. Chaudhry served as an enlisted soldier in the U.S. Army Chemical Corps and as a commissioned officer in the U.S. Army Transportation Corps. Chaudhry was one of three DHS employees selected to attend the National War College in 2016 as part of the DHS Senior Succession Management Program.
         linkedin: anil-neil-chaudhry
-      - name: Bryan Lane
-        img: BryanLane19.jpg  
-        center: Artificial Intelligence Lead
-        bio: >-
-          Bryan Lane has nearly 20 years of experience leading advanced analytics and technology initiatives. As a leader within the Data and Analytics CoE and co-creator of the Artificial Intelligence CoE, Lane advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for transforming government through AI-powered applications. Currently, Lane is the GSA CoE Lead with the DoD Joint AI Center and is acting as the Mission Chief for the JAIC's Business Process Transformation initiatives. Prior to joining the CoE, Lane was a product manager for a commercial geospatial software company, conducted technology evaluations for intelligence automation and AI systems, and assisted in managing a $750M rapid acquisition portfolio.
-        linkedin: bulletproofbry
       - name: Eric Ewing
         img: EricEwing20.jpg  
         center: Artificial Intelligence Lead
@@ -84,12 +78,6 @@ teams:
         bio: >-
          Sharon Wilborn has over 12 years of public sector experience and expertise in Federal HR staffing and consulting.  Wilborn joined the Centers of Excellence through a Presidential Management Council (PMC) Interagency Rotation.  Sharon’s home agency is the Office of Personnel Management (OPM) where she consults with federal agencies on their use of USA Hire online assessments.  Prior to this role, she was the San Francisco Branch Manager for OPM's Staff Acquisition office. In both roles, Wilborn has provided HR consulting services to agencies across the country. One of her notable achievements was managing the first interagency detail cadre to assist with cybersecurity hiring. This included staffing specialists from six different agencies who participated in virtual details from across the country.  
         linkedin: sharonwilborn
-      - name: Steve Babitch        
-        img: SteveBabitch21.png
-        center: Artifical Intelligence Lead
-        bio: >-
-         Steven Babitch uses design, data, and technology to build better products and policy. He is focused on helping federal agencies invest in and use AI to achieve their missions. In 2015, Babitch was a Presidential Innovation Fellow at the Federal Bureau of Investigation where he worked on the information sharing challenge between industry and government, resulting in new models of information sharing and the mitigation of threats to national security.  Babitch was awarded for Exceptional Service in the Public Interest by FBI Director Christopher Wray. In 2015, Steve founded his own consultancy where he focused on emerging market ventures, entrepreneurship, and climate change. Previously, Babitch worked for design strategy consultancies, with a focus on health care, technology, consumer goods, and civic tech. He also helped the Mayo Clinic develop their wellness and telemedicine strategies and establish their Center for Innovation.
-        linkedin: stevenbabitch
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption Lead
