@@ -18,7 +18,7 @@ html {
         padding-top: 10rem;
         padding-bottom: 10rem;
         background: rgb(1, 14, 19);
-        background: radial-gradient(circle, rgba(1, 14, 19, .9) 60%, rgba(4,63,94,0) 100%);
+        background: radial-gradient(circle, rgba(1, 14, 19, .6) 60%, rgba(4,63,94,0) 100%);
         backdrop-filter: blur(1px);
     }
     .ai-ucl #ai-ucl__hero h1 {
@@ -404,7 +404,7 @@ html {
     }
     .usa-layout-docs:after {
         display: inline-block;
-        content: "This Artificial Intelligence Use Case Library is maintained by the Centers of Excellence. Visit https://coe.gsa.gov/coe/ai-use-case-library to learn more.";
+        content: "This Artificial Intelligence Use Case Abstracts is maintained by the Centers of Excellence. Visit https://coe.gsa.gov/coe/ai-use-case-abstracts to learn more.";
         font-size: 12pt;
         font-style: italic;
         margin: 1rem 0;

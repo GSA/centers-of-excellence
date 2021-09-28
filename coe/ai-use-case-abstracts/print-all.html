@@ -1,8 +1,8 @@
 ---
 sitemap: false
-permalink: /coe/ai-use-case-library/print-all/index.html
+permalink: /coe/ai-use-case-abstracts/print-all/index.html
 redirect_from: 
-  - /ai-use-case-library/print-all/
+  - /ai-use-case-abstracts/print-all/
 ---
 <!doctype html>
 <html lang="en">
@@ -12,7 +12,7 @@ redirect_from:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icons/favicon-16x16.png">
   <!-- Title -->
-  <title>AI Use Case Library - AI CoE</title>
+  <title>AI Use Case Abstracts - AI CoE</title>
 
   {% assign description = page.description | default: site.description %}
   {% if description %}
@@ -23,24 +23,24 @@ redirect_from:
   <link rel="stylesheet" type="text/css" href="../styles.css" />
 </head>
 
-{% assign ai_ucl = site.ai_use_case_library  %}
+{% assign ai_ucl = site.ai_use_case_abstracts  %}
 
 <body>
   <div class="ai-ucl">
     <div class="ai-ucl__page ai-ucl__page--cover">
       <img src="{{site.baseurl}}/images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
-      <h1>AI Use Case Library</h1>
+      <h1>AI Use Case Abstracts</h1>
       <p class="intro">
-        A Use Case Library for the application of Artificial
+        Use Case Abstracts for the application of Artificial
         Intelligence inside the U.S. federal government.
       </p>
       <p>Printed <time id="now">today</time>. For the most up-to-date content, visit the live site at 
-      <b><nowrap>{{ site.url }}/ai-use-case-library/</nowrap></b>.</p>
+      <b><nowrap>{{ site.url }}/ai-use-case-abstracts/</nowrap></b>.</p>
     </div>
     <div class="ai-ucl__page ai-ucl__page--toc">
       <h2>Table of Contents</h2>
       {% for ai_page in ai_ucl %}
-        {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_library/"  | split: "-" %}
+        {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_abstracts/"  | split: "-" %}
         {% assign ai_page_section =  ai_page_schema | first | abs %}
         {% assign ai_page_level =  ai_page_schema | last  %}
         {% if ai_page_level == "0" %}
@@ -52,7 +52,7 @@ redirect_from:
     </div>
     <!-- actual book here -->
     {% for ai_page in ai_ucl %}
-      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_library/"  | split: "-" %}
+      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_abstracts/"  | split: "-" %}
       {% assign ai_page_section =  ai_page_schema | first | abs %}
       {% assign ai_page_level =  ai_page_schema | last  %}
       <div class="ai-ucl__page">
@@ -68,9 +68,9 @@ redirect_from:
         </div>
 
         {% if forloop.last %}
-          <p>Thank you for printing the AI Use Case Library, a resource maintained by the Artificial Intelligence 
+          <p>Thank you for printing the AI Use Case Abstracts, a resource maintained by the Artificial Intelligence 
           Center of Excellence (AI CoE). You can return to print a new version and see recent updates at 
-          <b><nowrap>{{ site.url }}/ai-use-case-library/</nowrap></b>.
+          <b><nowrap>{{ site.url }}/ai-use-case-abstracts/</nowrap></b>.
         {% endif %}
 
       </div>

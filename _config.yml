@@ -49,14 +49,14 @@ exclude:
 collections:
   category:
     output: true
-  ai_use_case_library:
+  ai_use_case_abstracts:
     output: true
-    permalink: /coe/ai-use-case-library/:slug/index.html
+    permalink: /coe/ai-use-case-abstracts/:slug/index.html
 
 defaults:
   -
     scope:
       path: ""
-      type: "ai_use_case_library"
+      type: "ai_use_case_abstracts"
     values:
-      layout: "ai-ucl"
+      layout: "ai-uca"
