@@ -26,8 +26,8 @@ redirect_from:
 {% assign ai_ucl = site.ai_use_case_abstracts  %}
 
 <body>
-  <div class="ai-ucl">
-    <div class="ai-ucl__page ai-ucl__page--cover">
+  <div class="ai-uca">
+    <div class="ai-uca__page ai-uca__page--cover">
       <img src="{{site.baseurl}}/images/coe-logo.svg" alt="IT Modernization Centers of Excellence" class="coe-logo">
       <h1>AI Use Case Abstracts</h1>
       <p class="intro">
@@ -37,7 +37,7 @@ redirect_from:
       <p>Printed <time id="now">today</time>. For the most up-to-date content, visit the live site at 
       <b><nowrap>{{ site.url }}/ai-use-case-abstracts/</nowrap></b>.</p>
     </div>
-    <div class="ai-ucl__page ai-ucl__page--toc">
+    <div class="ai-uca__page ai-uca__page--toc">
       <h2>Table of Contents</h2>
       {% for ai_page in ai_ucl %}
         {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_abstracts/"  | split: "-" %}
@@ -55,14 +55,14 @@ redirect_from:
       {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_use_case_abstracts/"  | split: "-" %}
       {% assign ai_page_section =  ai_page_schema | first | abs %}
       {% assign ai_page_level =  ai_page_schema | last  %}
-      <div class="ai-ucl__page">
+      <div class="ai-uca__page">
         <h1>
           {% if ai_page_level != "0" %}
             <span>Section {{ ai_page_section }}.{{ ai_page_level }}: </span>
           {% endif %}
           {{ ai_page.title }}
         </h1>
-        <div class="ai-ucl__content">
+        <div class="ai-uca__content">
           {{ ai_page.content }}
           <hr />
         </div>
