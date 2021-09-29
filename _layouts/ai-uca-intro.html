@@ -14,7 +14,7 @@
 
   <div class="usa-grid">
     <h2 class="centers-subhead">
-        <a href="{{site.baseurl}}/coe/ai-use-case-abstracts.html">{{page.title}}</a>
+        {{page.title}}
     </h2>
     <p class="centers-subtext">{{page.sub-text}}</p>
 
@@ -23,6 +23,12 @@
             {% include card.html card=card %}
         </div>
     {% endfor %}
+  </div>
+
+  <div class="view-all">
+    <a href="{{site.baseurl}}/coe/ai-use-case-abstracts/nasas-cnn-for-mars-exploration/index.html" class="usa-button-primary">
+      {{page.view-all-text}}
+    </a>
   </div>
 
   {% include quotes.html quotes=page.quotes %}

@@ -319,6 +319,14 @@ html {
     font-weight: 400;
     font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
+.view-all {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-top: 3rem;
+}
 @media print {
     @page { margin: 4rem 8rem 4rem 3rem; orphans:4; widows:2; }
 
