@@ -325,8 +325,15 @@ html {
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: center;
-    margin-top: 3rem;
+    margin: 3rem 3rem 0 0;
 }
+
+@media (max-width: 768px) {
+  .view-all {
+      margin: 3rem 0 3rem 0;
+  }
+}
+
 @media print {
     @page { margin: 4rem 8rem 4rem 3rem; orphans:4; widows:2; }
 
