@@ -3,10 +3,16 @@
         <div class="usa-width-one-whole">
             <div id="quote-container">
                 {% for quote in include.quotes %}
+                  {% if quote.url %}
+                  <a href="{{quote.url}}">
+                  {% endif %}
                     <div class="quote {% if forloop.first==true %}active{% endif %}">
                         <blockquote>{{quote.text}}”</blockquote>
                         <cite>— {{quote.author}}</cite>
                     </div>
+                  {% if quote.url %}
+                  </a>
+                  {% endif %}
                 {% endfor %}
             </div> <!-- /.quote-container -->
         </div> <!-- /.usa-width-one-whole -->
