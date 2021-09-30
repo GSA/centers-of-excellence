@@ -4,7 +4,7 @@
             <div id="quote-container">
                 {% for quote in include.quotes %}
                   {% if quote.url %}
-                  <a href="{{quote.url}}">
+                  <a href="{{site.baseurl}}{{quote.url}}">
                   {% endif %}
                     <div class="quote {% if forloop.first==true %}active{% endif %}">
                         <blockquote>{{quote.text}}”</blockquote>
