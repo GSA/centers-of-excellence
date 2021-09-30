@@ -25,10 +25,12 @@
     {% endfor %}
   </div>
 
-  <div class="view-all">
-    <a href="{{site.baseurl}}/coe/ai-use-case-abstracts/nasas-cnn-for-mars-exploration/index.html" class="usa-button-primary">
-      {{page.view-all-text}}
-    </a>
+  <div class="usa-grid">
+    {% for card-mini in page.card-minis %}
+        <div class="usa-width-one-third usa-width-one-third--small-margin">
+            {% include card-mini.html card-mini=card-mini %}
+        </div>
+    {% endfor %}
   </div>
 
   {% include quotes.html quotes=page.quotes %}
