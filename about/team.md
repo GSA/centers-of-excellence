@@ -30,12 +30,6 @@ teams:
         bio: >-
           Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
         linkedin: daniellergallant      
-      - name: David Warren
-        img: DavidWarren.jpg
-        center: Agreements Lead
-        bio: >-
-          David Warren has over 5 years of federal government experience. As the CoE Agreement Lead, Warren coordinates with partner agencies as well as GSA stakeholder groups to move agreements through GSA Interagency Agreement review processes. Warren also serves as the business operations lead for CoE finances and is responsible for budget projections, billing, and project cost tracking. Warren previously served on 18F’s business operations team where he supported management of the Federalist program and conducted financial analysis across several 18F programs.
-        linkedin: david-warren-8abb72103
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Director 
@@ -72,12 +66,6 @@ teams:
         bio: >-
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
-      - name: Sharon Wilborn        
-        img: SharonWilborn.jpeg
-        center: Artifical Intelligence Lead
-        bio: >-
-         Sharon Wilborn has over 12 years of public sector experience and expertise in Federal HR staffing and consulting.  Wilborn joined the Centers of Excellence through a Presidential Management Council (PMC) Interagency Rotation.  Sharon’s home agency is the Office of Personnel Management (OPM) where she consults with federal agencies on their use of USA Hire online assessments.  Prior to this role, she was the San Francisco Branch Manager for OPM's Staff Acquisition office. In both roles, Wilborn has provided HR consulting services to agencies across the country. One of her notable achievements was managing the first interagency detail cadre to assist with cybersecurity hiring. This included staffing specialists from six different agencies who participated in virtual details from across the country.  
-        linkedin: sharonwilborn
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption Lead
