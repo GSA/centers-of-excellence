@@ -613,6 +613,9 @@ a.card-mini-link:hover p {
     width: 100%;
     margin: 1rem;
 }
+.quote-row a {
+    text-decoration: none;
+}
 .quote {
     display: none;
 }
