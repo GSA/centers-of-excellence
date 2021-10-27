@@ -187,7 +187,7 @@ teams:
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  
       - name: Bridget Fields
-        img: BridgetFields19.jpg
+        img: Bridget Fields 21.jpg
         center: Innovation Adoption Lead        
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
