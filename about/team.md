@@ -102,12 +102,6 @@ teams:
         bio: >-
           Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
         linkedin: sandra-dickinson-0764238
-      - name: Wayne Harrington
-        img: WayneHv2.jpg
-        center: Contact Center Lead
-        bio: >-
-          Wayne Harrington has almost 20 years of Contact Center and Operations leadership experience in the Financial and IT industries. Harrington has led major high-profile digital transformation programs. Most recently he was leading the a major Call Center Operation along with the Artificial Intelligence and Telephony teams for an IT BPO. Harrington attended The College of Saint Scholastica where he was studied Marketing & Sales.
-        linkedin: wayne-harrington-5146621
       - name: Dan Willis
         img: DanWillis19.jpg
         center: Customer Experience Lead
@@ -166,7 +160,7 @@ teams:
         img: Bridget Fields 21.jpg
         center: Innovation Adoption Lead        
         bio: >-
-          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018.  
+          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018 and the Service to the Citizen award in 2021.  
         linkedin: bridget-fields-917a9b62
       - name: Gopa Nair
         img: GopaNair.jpeg
