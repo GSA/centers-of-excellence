@@ -36,12 +36,6 @@ teams:
         bio: >-
           Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
         linkedin: michelle-mcnellis-9488908  
-      - name: Matt Montaño
-        img:  MatthewMontano19.2.jpg
-        center: Engagement Lead
-        bio: >-
-          Matt Montano is an experienced Chief Information Officer with 20 years of experience providing technical services and solutions, improving services through innovation and leading diverse teams through change. At the CoE, Montano works with Agency Secretaries, executives and staff to kick start modernization, introduce modern problem-solving methods and establish a culture of continuous improvement. Montano has overseen $30M in infrastructure, cybersecurity modernization improvements at HUD and OPM.
-        linkedin: mgmontano
       - name: Nick Lundin
         img: NickLundin.jpg
         center: Engagement Lead
@@ -83,13 +77,7 @@ teams:
         center: Cloud Adoption Lead
         bio: >-
           Ron Williams brings over 9 years of state and federal government experience to his role as Cloud Adoption Lead. Williams supports federal agencies with adoption of modern cloud native DevOps and Security practices. Williams helps partners identify and overcome challenges faced when transitioning to cloud services. Previously, Williams served as the Deputy Director for Cloud.gov, and the Director of IT for USDA Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public.
-        linkedin: ronwilliamsio
-      - name: Dan Jacobs
-        img: DanJacobs19.jpg
-        center: Cybersecurity Lead
-        bio: >-
-          Dan Jacobs has over 20 years of combined IT/Cybersecurity experience and IT service management. At the CoE Jacobs supports cyber and information security modernization through accelerated adoption of enterprise-wide security processes and technologies. Jacobs shares a wealth of experience with as many cross-government initiatives as possible. Whether co-chairing the Small and Micro Agency CISO Council, supporting the Federal CIO Council’s Zero Trust Working Group, helping to create the Federal CISO Handbook, or participating in whole-of-government cyber policy, Jacobs is constantly looking to evolve cyber defense capabilities.
-        linkedin: danieljacobs      
+        linkedin: ronwilliamsio      
       - name: Meghan Daly
         img: MeghanDaly19.jpg
         center: Contact Center Lead
@@ -131,13 +119,7 @@ teams:
         center: Data & Analytics Lead
         bio: >-
           Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management. 
-        linkedin: sgdhumne
-      - name: Sid Ghatak
-        img: SidGhatak.jpg
-        center: Data & Analytics Lead
-        bio: >-
-          Sid Ghatak has over 20 years of experience deploying innovative, large-scale, mission critical data and analytics solutions for Fortune 500 firms and public organizations.  Ghatak’s unique ability to understand the needs of users and design and deploy solutions that exceed their expectations has earned him numerous industry awards. A completely self-taught technologist, Ghatak has developed the leading Investment Banking analysis application in the world, authored the data strategy for an autonomous vehicle company, and designed and deployed data and analytics solutions for the leading companies in the defense, manufacturing, pharmaceutical, media, entertainment, and financial services industries.  A serial entrepreneur, Sid has launched 3 successful companies. Ghatak is also a highly sought after public speaker and authored and delivered the Masters Program in Business Intelligence for Villanova University as well as written 45 courses on Data, Analytics, Artificial Intelligence, Data Strategy, and Shared Services.
-        linkedin: sidghatak               
+        linkedin: sgdhumne              
       - name: Nathan Manzotti
         img: NathanManzotti.jpg  
         center: Data & Analytics Lead
@@ -168,7 +150,7 @@ teams:
         bio: >-
           Gopa brings over 25 years of experience in innovation, product management, change management, automation, and digital transformation. Nair is skilled at leveraging technical and operational capabilities to re-engineer, re-invent and optimize processes to yield the highest efficiencies and cost benefits. Nair is a change agent and transformation leader who understands the unmet needs of the customer and employees and utilizes tools of design thinking, agile, and lean methodology to create the desired organizational transformation. Before joining GSA, he held various roles at Capital One which gave him strong expertise in product management, leadership, employee culture, and process improvements. Gopa shares his expertise by providing entrepreneurship training to small businesses through a local non-profit. Gopa also loves to speak about Innovation, Change Management and Organizational Transformation. 
         linkedin: gopapnair          
-      - name: Jeanette Bruno
+      - name: Jeannette Bruno
         img: JeannetteBruno.jpg
         center: Innovation Adoption Lead
         bio: >-
