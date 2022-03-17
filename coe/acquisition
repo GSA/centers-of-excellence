@@ -1,0 +1,20 @@
+---
+layout: coe-practice
+title: Acquisition
+tagline: Support Modern and Innovative Acquisition Approaches Across Government
+intro: "The CoE Acquisition Practice was established to ensure the teams leverage innovative and efficient procurement methods to  effectively achieve the mission of the CoE and our agency partners. Our team focuses on creating procurement best practices that can be adopted and adapted by any government organization. Our approach emphasizes the importance of generalized best practices to allow for a consistent approach across the government to take advantage of economies of scale and mutually beneficial learnings from individuals who have been performing similar work."
+
+service-offerings:
+  - Acquisition Strategy and Consulting
+  - Training and Documentation Development 
+  - Technical Assistance and Capacity Building 
+  - Industry Engagement
+
+
+
+sidebar-graphic-class: coe-ia
+pdfs:
+  - title: Innovation Adoption Full Service Catalog
+    link: /docs/2020/CoE Innovation Adoption Service Catalog 2021.pdf
+
+---
