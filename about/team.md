@@ -8,7 +8,7 @@ teams:
         img:  JenniferRostami19.jpg
         center: Acting Executive Director
         bio: >-
-          Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public sector and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
+          Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
         linkedin: jennifer-rostami-mba-154a5a12
       - name: Ed Golden
         img: EdGolden.jpg
@@ -41,7 +41,13 @@ teams:
         center: Engagement Lead
         bio: >-
           Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
-        linkedin: nick-lundin        
+        linkedin: nick-lundin  
+      - name: Omar Saeb
+        img: OmarSaeb.png
+        center: Acquisitions Lead
+        bio: >-
+          Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
+        linkedin: omarsaeb  
       - name: Anil 'Neil' Chaudhry
         img: AnilChaudhry20.jpg
         center: Artificial Intelligence Lead
