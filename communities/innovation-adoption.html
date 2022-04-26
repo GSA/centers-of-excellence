@@ -2,7 +2,7 @@
 layout: communities
 title: Innovation Adoption
 tagline: Join the conversation
-intro: "Government contact centers are often the primary means of communication between an organization and its customers. In government, customer experiences in contact centers often set expectations for satisfaction and trust across the customer experience. Simply put, the voice of the organization and the customer is fostered across the contact center experience. "
+intro: "Have you ever struggled to bring about changes that would improve government programs and services? Do you want to learn how to cut through skepticism and ignite an intrapreneurial mindset across your program or organization? Look no further."
 
 
 ---
@@ -32,20 +32,32 @@ intro: "Government contact centers are often the primary means of communication 
 
 <div class="usa-width-two-thirds">
 
-      <h2>About the G3C</h2>
+      <h2>About the Innovation Adoption Community of Practice</h2>
 	<div class="community-about">
-      	<p>The G3C is a collaborative  interagency group of contact center professionals that work together to improve the performance, experience, and efficiency of government contact centers across  federal, tribal, state, and local agencies.</p>
+      	<p>Our purpose is to <strong>build innovation and intrapreneurship capacity</strong> across the federal government by generating and sharing useful information, advice, and assistance. </p>
 
+		<p>We invite members to:</p>
+		<ul>
+			<li>Connect with new, practicing, and expert intrapreneurs in government.</li>
+			<li>Learn to leverage available tools and technologies, including shared solutions.</li>
+			<li>Explore your approaches to challenges, failure, how we work, and what’s possible.</li>
+			<li>Collaborate with each other to create real change by sharing questions, stories, and advice.</li>
+		</ul>
 
-		<p>The G3C brings leaders together to explore methods of service delivery that improve customer experience. The community’s mission is to share information and news, identify contact center best-in-class practices, and evaluate evolving contact center technologies.</p> 
-
-		<p>G3C’s educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s contact centers. Members share ideas, ask questions, and request assistance on their agency’s projects through our community listserv. All federal, tribal, local, and state government employees working towards  best-in-class contact centers are invited to join the G3C.</p>
 
 	</div>
 
   
    <h2 id="cop-events">Events</h2>
-	<p>G3C hosts monthly meetings to connect with colleagues across agencies, learn about each other's best practices in contact center operations and share success stories and lessons learned implementing new or innovative tools or technologies. The community also hosts educational webinars, and networking events. Access to events are shared through our listserv. </p>
+	<p>The IA CoP regularly hosts opportunities to:</p>
+	<ul>
+		<li>connect with peers, trail blazers and thought leaders,</li>
+		<li>learn how to use relevant frameworks and honing your skills for making good things happen’ exploring common challenges and ways to turn them into opportunities,</li>
+		<li>and collaborate to create a shared resource or solution. </li>
+	</ul>
+	 
+	<p>Event updates and registration are accessible through the IA CoP listserv.</p>
+
 	
 	<div class="community-quote">
 		<p>“The AI Community of Practice has enhanced my ability to grasp lorem ipsum dolor by many lorem ipsum dolor.”</p>
@@ -53,18 +65,6 @@ intro: "Government contact centers are often the primary means of communication 
 	
 	</div>
 	
-	
-	<h2 id="cop-focus">Focus Area</h2>
-	<p>Focus Areas, or working groups are composed of community members  working on a specific topic to empower the federal AI community by designing and developing products, tools, frameworks necessary to support practical implementation and use of responsible, trustworthy AI. All AI CoP community members are welcomed to join existing focus areas and/or request the creation of a new area. Current focus areas include:</p>
-	<ul>
-		<li>Privacy and AI </li>
-		<li>Responsible AI</li>
-		<li>Computer Vision</li>
-		<li>Natural Language Processing</li>
-	</ul>
-
-
-
     
       <h2 id="coe-updates">Activity</h2>
       {% assign filtered_posts = site.posts | where: 'cop', page.title %}
@@ -84,15 +84,17 @@ intro: "Government contact centers are often the primary means of communication 
 	
 	
 	<div id="join-cop"></div>
-	<h2 id="cop-join">Join the AI CoP!</h2>
-	<p>Any federal employee is welcome to become a member of the AI CoP. Through the AI CoP listserv, members can: </p>
+	<h2 id="cop-join">Join Us!</h2>
+	<p>Any federal employee is welcome to become a member of the IA CoP. Through the IA CoP listserv, members receive information about how to: </p>
 	<ul>
 		<li>Join Monthly community meetings</li>
-		<li>Participate in working groups</li>
 		<li>Attend virtual trainings & events</li>
 		<li>Connect with their peers through the CoP’s listserv</li>
+
 	</ul>
-	<p>Join the AI CoP list serv by emailing: <a href="mailto:AI-subscribe-request@listserve.gsa.gov" class=""><strong>AI-subscribe-request@listserve.gsa.gov</strong></a> with an empty subject line. Note you mush have a .gov or .mil email to join</p>
+	<p>Communications in the Communities of Practice are subject to the Freedom of Information Act (FOIA) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.</p>
+
+	<p>When participating in this CoP, follow <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank">Digital.gov Community Guidelines</a>.</p>
 	
 	<a href="mailto:AI-subscribe-request@listserve.gsa.gov" class="usa-button">Join by Email</a>
 	
@@ -106,18 +108,8 @@ intro: "Government contact centers are often the primary means of communication 
 			
 			
          
-            <div class="sidebar-box-content  communities-sidebar-main-text">
-				<img src="/img/ai-sidebar-photo.jpg" alt="">
-                <h4 class="first">Grow your Expertise in Areas that Matter Across Government</h4>
-                <p><strong>Communities of practice</strong> are government-wide interest groups that provide opportunities for members to support, challenge and inspire one another. Cross-disciplinary and cross-agency by design, the goal of the communities is to expand your knowledge and practice in a given area of interest. You get what you give, so we encourage active participation through networking, discussions, live and virtual events and more.</p>
-				
-				<h4>Current Active CoPs</h4>
-				<ul>
-					<li><a href="#">Artificial Intelligence (AI CoP)</a></li>
-					<li><a href="#">Innovation Adoption (IA CoP)</a></li>
-					<li><a href="#">Contact Center (CC CoP)</a></li>
-				</ul>
-            </div>
+            {% include cop-sidebar.html %}
+			
 			<div>
 				<h4>Related Policies and Resources</h4>
 				<ul>
@@ -129,10 +121,14 @@ intro: "Government contact centers are often the primary means of communication 
 			</div>
 			
 			<div>
-				<h4>AI Community Managers</h4>
+				<h4>Community Managers</h4>
 				<ul>
-					<li>Eric Ewing, GSA</li>
-					<li>Sabrina Mohamed, GSA </li>
+					<li>Bethany Blakey, GSA</li>
+					<li>Brooke Dine, HHS</li>
+					<li>Julia Begley, CFPB</li>
+					<li>Tina Chen, EPA</li>
+					<li>Vanessa Watters, GSA</li>
+
 				</ul>
 			</div>
         </div>
