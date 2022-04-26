@@ -1389,12 +1389,23 @@ h2#service-catalog::before {
 
 
 .communities-header {
-	background-image: url(../images/communities-ai-bkg.jpg);
 	background-position: center;
 	background-size: cover;
 	text-align: center;
 	padding: 12rem 0rem;
 	color: #ffffff;
+}
+
+.cop-artifical-intelligence {
+	background-image: url(../images/communities-ai-bkg.jpg);
+}
+
+.cop-contact {
+	background-image: url(../images/contact-center-bkg.jpg);
+}
+
+.cop-innovation {
+	background-image: url(../images/innovation-adaption-banner.jpg);
 }
 
 .communities-header h1 {
