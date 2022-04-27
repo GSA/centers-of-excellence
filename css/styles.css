@@ -1492,6 +1492,30 @@ p.quote-citation {
 	margin-right: 0;
 }
 
+p.cop-intro {
+	padding-left: 6rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+}
+
+p.cop-intro::before {
+	content: '';
+    position: absolute;
+    top: 0rem;
+    margin-left: -50px;
+    width: 4.1rem;
+    height: 4.1rem;
+    background-color: #3c8bc9;
+    background-image: url(../images/cop-symbol-intro.png);
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
+    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
+}
+
 h2#cop-events, h2#cop-focus, h2#cop-join  {
     padding-left: 6rem;
     margin-bottom: 1.5rem;
