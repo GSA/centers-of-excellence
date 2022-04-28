@@ -73,12 +73,12 @@ testimonial-citation: George Smith, Senior Executive Analyst, NASA
       {% assign filtered_posts = site.posts | where: 'cop', page.title %}
       {% for post in filtered_posts %}
 	<div class="blog-cop-container">
-		<div class="cop-blog-image">
+		<div class="usa-width-one-third">
 			<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">
-				<img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> 
+				<img class="cop-blog-feature-image" src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> 
 			</a>
 		</div>
-		<div class="cop-blog-title-text">
+		<div class="usa-width-two-thirds">
 			  {% include article-head.html show_post_excerpt = true %}
 		</div>
 	</div>

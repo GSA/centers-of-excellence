@@ -1610,3 +1610,11 @@ h2#cop-join::before {
 	width: 65.6673%;
 	float: left;
 }
+
+@media screen and (max-width: 850px) {
+	 .cop-blog-feature-image {
+		max-width: 300px;
+	}
+}
+
+

@@ -50,7 +50,7 @@ testimonial-citation: Maria Patterson, Presidential Innovation Fellow, Departmen
 	<p>The AI CoP also hosts monthly huddles to connect AI leaders, practitioners, and researchers through an open forum.</p>
 	
 	<h3>Find Past Presentations</h3>
-	<p>Members can find past presentations & resources on our <a href="https://portal.max.gov/portal/home" target="_blank">Max.gov page</a>.</p>
+	<p>Members can find past presentations & resources on our <a href=" https://community.max.gov/pages/viewpage.action?pageId=2172176006" target="_blank">Max.gov page</a>.</p>
 	
 
 	
@@ -61,7 +61,7 @@ testimonial-citation: Maria Patterson, Presidential Innovation Fellow, Departmen
 	
 	
 	<h2 id="cop-focus">Focus Areas</h2>
-	<p>Focus Areas, or working groups are composed of community members  working on a specific topic to empower the federal AI community by designing and developing products, tools, frameworks necessary to support practical implementation and use of responsible, trustworthy AI. All AI CoP community members are welcomed to join existing focus areas and/or request the creation of a new area. Current focus areas include:</p>
+	<p>Focus Areas, or working groups, are composed of community members  working on a specific topic to empower the federal AI community by designing and developing products, tools, frameworks necessary to support practical implementation and use of responsible, trustworthy AI. All AI CoP community members are welcomed to join existing focus areas and/or request the creation of a new area. Current focus areas include:</p>
 	<ul>
 		<li>Privacy and AI </li>
 		<li>Responsible AI</li>
@@ -76,12 +76,12 @@ testimonial-citation: Maria Patterson, Presidential Innovation Fellow, Departmen
       {% assign filtered_posts = site.posts | where: 'cop', page.title %}
       {% for post in filtered_posts %}
 	<div class="blog-cop-container">
-		<div class="cop-blog-image">
+		<div class="usa-width-one-third">
 			<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">
-				<img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> 
+				<img class="cop-blog-feature-image" src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> 
 			</a>
 		</div>
-		<div class="cop-blog-title-text">
+		<div class="usa-width-two-thirds">
 			  {% include article-head.html show_post_excerpt = true %}
 		</div>
 	</div>
@@ -93,7 +93,7 @@ testimonial-citation: Maria Patterson, Presidential Innovation Fellow, Departmen
 	<h2 id="cop-join">Join the AI CoP!</h2>
 	<p>Any federal employee is welcome to become a member of the AI CoP. Through the AI CoP listserv, members can: </p>
 	<ul>
-		<li>Join Monthly community meetings</li>
+		<li>Join monthly community meetings</li>
 		<li>Participate in working groups</li>
 		<li>Attend virtual trainings & events</li>
 		<li>Connect with their peers through the CoP’s listserv</li>
