@@ -1484,13 +1484,14 @@ p.quote-citation {
 .cop-button {
 	padding: 3rem 2rem;
 	background-image: url(../images/arrow-circle.png);
-	background-position: 300px center;
+	background-position: 92% center;
 	background-repeat: no-repeat;
 	background-color: #0d6da8;
 	text-align: left;
 	font-size: 1.25em;
 	margin-right: 0;
 }
+
 
 p.cop-intro {
 	padding-left: 6rem;
