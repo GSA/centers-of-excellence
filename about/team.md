@@ -6,7 +6,7 @@ teams:
     people:
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
-        center: Acting Executive Director
+        center: Executive Director
         bio: >-
           Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
         linkedin: jennifer-rostami-mba-154a5a12
@@ -114,12 +114,6 @@ teams:
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
-      - name: Ambuj Neupane
-        img: AmbujNeupane19.jpg
-        center: Data & Analytics Lead
-        bio: >-
-          Ambuj Neupane has over 8 years of public sector experience building organizational capacity and managing modernization projects, most recently with the U.S. Small Business Administration. As part of the Data and Analytics CoE, Neupane’s responsibilities include advising partner agencies on best practices for data governance and lifecycle data management as well as managing technical deliverables to advance data-driven decision making. Neupane currently partners with the Office of Personnel Management (OPM) and the U.S. Department of Housing and Urban Development (HUD). 
-        linkedin: ambuj-neupane
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
@@ -173,11 +167,5 @@ teams:
         center: IT Infrastructure Optimization Lead
         bio: >-
           Sid Sripada has over 15 years of IT Infrastructure modernization experience in both federal government and private industries. Sripada has a successful track record of engaging various agencies in infrastructure optimization, automation and DevSecOps implementation. Sripada’s leadership and hands-on experience builds fast and efficient enterprise wide solutions to modern Agile initiatives. Sripada’s most recent engagement prior to joining CoE included building out scalable public facing infrastructure in support of first ever internet based US 2020 Census.
-        linkedin: sidsripada
-      - name: Wouhib Worku
-        img: WouhibWorku.jpg
-        center: IT Infrastructure Optimization Lead
-        bio: >-
-          Wouhib Worku has over 15 years of progressive experience in supporting and leading IT transformation. Worku works to implement projects that help organizations realize the benefits of adopting DevSecOps, application security, and agile principles. At the Infrastructure Optimization CoE, Worku plays a critical role in helping agencies across the federal government optimize their infrastructure and IT services by leveraging industry best practices in system architecture, system development, security, and agile practices to build highly resilient enterprise solutions.
-        linkedin: wouhib-worku-5b844015      
+        linkedin: sidsripada      
 ---
