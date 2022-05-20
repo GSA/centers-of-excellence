@@ -10,10 +10,9 @@ Last year CoE leadership talked with our partners and asked how we could better 
 
 We’ve collected key findings on what we’ve learned from our work with more than 25 federal agencies, and are pleased to share a new collection of resources from our 8 centers and practice areas. 
 
-##CoE Resources & Advisory Support 
+## CoE Resources & Advisory Support 
 These Starter Guides, Models & Templates will be available to support federal agencies undergoing technology transformation projects. Through funding from 
-e American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost 
-to users.  
+the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.  
 
 Using these resources, any Federal agency can take the first steps in their modernization journey by considering concepts themselves and get live support 
 at virtual workshops and office hours hosted by CoE leads. 
