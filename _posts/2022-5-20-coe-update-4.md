@@ -20,4 +20,4 @@ at virtual workshops and office hours hosted by CoE leads.
 Each resource will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is 
 available to all participants. The sessions are open only for federal employees. 
 
-Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to Stay tuned for details on each new offering! 
+Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
