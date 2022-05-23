@@ -5,6 +5,8 @@ initiative: Centers of Excellence
 date: May 20, 2022
 
 ---
+<a href="{{site.baseurl}}/images/GAOVaccine1.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/GAOVaccine1.png" alt="stock image of virus"></a>
 
 Last year CoE leadership talked with our partners and asked how we could better serve federal agencies and the public, and many said they’d really like to know what other agencies are doing to modernize successfully. So here it is! 
 
