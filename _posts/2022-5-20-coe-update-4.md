@@ -5,8 +5,8 @@ initiative: Centers of Excellence
 date: May 20, 2022
 
 ---
-<a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
+<a href="{{site.baseurl}}/images/ResourcesAdvSupport.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/ResourcesAdvSupport.png" alt="CoE Resources and Advisory Support Banner"></a>
 
 Last year CoE leadership talked with our partners and asked how we could better serve federal agencies and the public, and many said they’d really like to know what other agencies are doing to modernize successfully. So here it is! 
 
