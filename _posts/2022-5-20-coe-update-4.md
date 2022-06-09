@@ -21,3 +21,8 @@ Using these resources, any Federal agency can take the first steps in their mode
 Each resource will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
 
 Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
+
+## Check out our new releases
+* [IA Culture Pre-Assessment Guide](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf)
+* [Data Governance Charter Templates](https://coe.gsa.gov/coe/data-analytics.html) and [Office Hours](https://www.eventbrite.com/e/da-coe-resources-advisory-support-tickets-141474097835)
+* [Strategic Foresight 101 Workshops](https://www.eventbrite.com/e/ia-coe-strategic-foresight-resources-advisory-support-tickets-358842978007)   
