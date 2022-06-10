@@ -3,15 +3,6 @@ All the excellent centers
 
 ---
 
-## Stand up site locally
-
-Run the following commands (first command may be optional):
-```
-bundle config set --local path 'vendor/bundle'
-bundle install
-bundle exec jekyll serve
-```
-
 ## Images
 
 Images can be uploaded into the `/images/` folder:
