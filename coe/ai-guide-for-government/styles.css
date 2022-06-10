@@ -1,0 +1,429 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+    scroll-behavior: smooth;
+}
+@media screen {
+
+    .ai-gfg #ai-gfg__hero {
+        text-align: center;
+        background-color: #2a2a2a;
+        background-image: url('images/hero.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color:#ffffff;
+    }
+    .ai-gfg #ai-gfg__hero .usa-section {
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+        background: rgb(1, 14, 19);
+        background: radial-gradient(circle, rgba(1, 14, 19, .9) 60%, rgba(4,63,94,0) 100%);
+        backdrop-filter: blur(1px);
+    }
+    .ai-gfg #ai-gfg__hero h1 {
+        border-bottom: none;
+        margin-bottom: 0;
+        text-shadow: 2px 2px 8px #2a2a2a;
+    }
+    .ai-gfg #ai-gfg__hero p {
+        font-size: 2.2rem;
+        font-weight: 300;
+        text-transform: uppercase;
+        margin-top: 0.2rem;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: 0.2em;
+        text-shadow: 2px 2px 8px #2a2a2a;
+        max-width: 80;
+    }
+}
+@media (min-width: 769px) {
+    .ai-gfg #ai-gfg__hero p {
+        max-width: 55vw;
+    }
+}
+
+
+.ai-gfg .sidenav {
+    position: sticky;
+    top: 20px;
+}
+.usa-sidenav-list {
+    margin-bottom: 2rem;
+}
+
+.ai-gfg .ai-gfg__content {
+    padding-left: 20px;
+    font-size: 1.8rem;
+}
+.ai-gfg__page-nav {
+    margin-top: 6rem;
+    padding-top: 3rem;
+    border-top: 1px solid #aaaaaa;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.ai-gfg__page-nav__prev {
+    display: block;
+}
+.ai-gfg__page-nav__next {
+    margin-right: 0;
+}
+
+
+.ai-gfg__content .usa-content ol:not(.usa-accordion):not(.usa-accordion-bordered), 
+.ai-gfg__content .usa-content ul:not(.usa-accordion):not(.usa-accordion-bordered),
+.ai-gfg__content .usa-content p, 
+.ai-gfg__content .usa-content table {
+    max-width: 100%;
+}
+.ai-gfg__content .ai-gfg-feature {
+    padding: 2.5rem 3rem;
+    margin: 3rem 0;
+    background: #dbeff8;
+    font-size: 21px;
+    max-width: 100%;
+    page-break-inside: avoid;
+}
+.ai-gfg__content .usa-content {
+    max-width: 80ch;
+}
+.ai-gfg__content .usa-content img {
+    margin: 1rem auto;
+    display: block;
+}
+.ai-gfg__content ol.ai-gfg-feature,
+.ai-gfg__content ul.ai-gfg-feature {
+    padding-left: 5rem;
+}
+.ai-gfg__content blockquote.ai-gfg-feature {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.ai-gfg__content .ai-gfg-feature a {
+    color: #112e51;
+}
+
+.ai-gfg__content .ai-myth-header,
+.ai-gfg__content .ai-reality-header {
+    font-size: 22px;
+    margin: 2rem 0 1rem;
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+}
+.ai-gfg__content .ai-myth-header {
+    color: #981b1e;
+    margin-top: 4rem;
+}
+.ai-gfg__content .ai-reality-header {
+    color: #046b99;
+
+}
+.ai-gfg__content .ai-myth {
+    font-size: 28px;
+    margin: 1.6rem 0 2rem;
+    font-weight: 700;
+    color: #323a45;
+    text-indent: -1.875rem;
+    page-break-inside: avoid;
+}
+.ai-gfg__content .ai-myth:before {
+    content: "“";
+}
+
+.ai-gfg__content .ai-myth:after {
+    content: "”";
+}
+
+.ai-gfg__content [class*="ai-ops-maturity-level-"] {
+    font-size: 20px;
+    font-family: "Source Sans Pro", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    margin: 2rem 0 1.5rem;
+    padding: 1.5rem 0 1.75rem 10rem;
+    border-top: 2px solid #112e51;
+    position: relative;
+    break-after: avoid;
+    break-inside: avoid;
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"]:before {
+    content: "Level 1";
+    position: absolute;
+    left: 1.5rem;
+    top: 2rem;
+    font-size: 17px;
+    line-height: 17px;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+}
+
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + p {
+    position: relative;
+    margin: 1rem 1rem 3rem 10rem;
+    top: 1px;
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + ul {
+    position: relative;
+    margin: 1rem 1rem 3rem 4.75rem;
+    top: 1px;
+    list-style-image: url("data:image/svg+xml,%3Csvg width='18' height='14' viewBox='0 0 18 14' fill='212121' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5.99991 11.17L1.82991 6.99997L0.409912 8.40997L5.99991 14L17.9999 1.99997L16.5899 0.589966L5.99991 11.17Z' fill='currentColor'/%3E%3C/svg%3E%0A");
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + ul li {
+    padding-left: 1.75rem;
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + ul:after {
+    content: "";
+    border-bottom: 1px solid grey;
+    width: calc(100% + 5.75rem);
+    left: -4.75rem;
+    display: block;
+    position: absolute;
+    bottom: -3rem;
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + p:after {
+    content: "";
+    border-bottom: 1px solid grey;
+    width: calc(100% + 10.75rem);
+    left: -10rem;
+    display: block;
+    position: absolute;
+    bottom: -3.25rem;
+}
+@media (max-width: 768px) {
+    .ai-gfg__content [class*="ai-ops-maturity-level-"] + p,
+    .ai-gfg__content [class*="ai-ops-maturity-level-"] + ul {
+        margin-left: 0;
+    }
+    .ai-gfg__content [class*="ai-ops-maturity-level-"] + p:after,
+    .ai-gfg__content [class*="ai-ops-maturity-level-"] + ul:after {
+        left: 0;
+        width: calc(100% + 1rem);
+    }
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + ul + h3 {
+    margin-top: 4em;
+}
+.ai-gfg__content [class*="ai-ops-maturity-level-"] + p + *:not(h3) {
+    margin-top: 3em;
+}
+.ai-gfg__content .ai-ops-maturity-level-1 {
+    color: #2e8540;
+    border-color: #2e8540;
+    background-color: #eaf2eb;
+}
+.ai-gfg__content .ai-ops-maturity-level-2 {
+    color: #046b99;
+    border-color: #046b99;
+    background-color: #e8f0f4;
+}
+.ai-gfg__content .ai-ops-maturity-level-3 {
+    color: #205493;
+    border-color: #205493;
+    background-color: #e9edf4;
+}
+.ai-gfg__content .ai-ops-maturity-level-4 {
+    color: #112e51;
+    border-color: #112e51;
+    background-color: #e7eaed;
+}
+.ai-gfg__content .ai-ops-maturity-level-5 {
+    color: #323a45;
+    border-color: #323a45;
+    background-color: #eaebec;
+}
+.ai-gfg__content .ai-ops-maturity-level-1:before {
+    content: "Level 1";
+}
+.ai-gfg__content .ai-ops-maturity-level-2:before {
+    content: "Level 2";
+}
+.ai-gfg__content .ai-ops-maturity-level-3:before {
+    content: "Level 3";
+}
+.ai-gfg__content .ai-ops-maturity-level-4:before {
+    content: "Level 4";
+}
+.ai-gfg__content .ai-ops-maturity-level-5:before {
+    content: "Level 5";
+}
+
+.ai-gfg__content .ai-ops-maturity-table .level-1 {
+    color: #2e8540;
+    border-top: 3px solid #2e8540;
+    background-color: #eaf2eb;
+}
+.ai-gfg__content .ai-ops-maturity-table .level-2 {
+    color: #046b99;
+    border-top: 3px solid #046b99;
+    background-color: #e8f0f4;
+}
+.ai-gfg__content .ai-ops-maturity-table .level-3 {
+    color: #205493;
+    border-top: 3px solid #205493;
+    background-color: #e9edf4;
+}
+.ai-gfg__content .ai-ops-maturity-table .level-4 {
+    color: #112e51;
+    border-top: 3px solid #112e51;
+    background-color: #e7eaed;
+}
+.ai-gfg__content .ai-ops-maturity-table .level-5 {
+    color: #323a45;
+    border-top: 3px solid #323a45;
+    background-color: #eaebec;
+}
+
+.ai-gfg .ai-gfg__content hr {
+    border-color: #aeb0b5;
+    margin-top: 4rem;
+}
+.ai-gfg__page {
+    width: 7.5in;
+    margin: .25in;
+    page-break-after: always;
+}
+@media screen {
+    .ai-gfg__page > * {
+        padding-left: 20px;
+    }   
+}
+.ai-gfg__page h1 {
+    margin: 0;
+}
+.ai-gfg__page--cover {
+}
+.ai-gfg__page--cover .coe-logo {
+    width: 30rem;
+    padding-left: 0;
+}
+.ai-gfg__page--cover h1 {
+    font-size: 8rem;
+    line-height: 1.1;
+    margin-top: 3in;
+    max-width: 55rem;
+}
+.ai-gfg__page--cover .intro {
+    border-top: 1px solid #aeb0b5;
+    font-size: 3rem;
+    max-width: 55rem;
+    margin-bottom: 3in;
+    margin-top: 1rem;
+    padding-top: 3rem;
+}
+
+.ai-gfg__page--toc h4 {
+    margin: .5rem 0 .5rem 4rem;
+    font-weight: 400;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+@media print {
+    @page { margin: 4rem 8rem 4rem 3rem; orphans:4; widows:2; }
+
+    a { page-break-inside:avoid }
+    blockquote { page-break-inside: avoid; }
+    h1, h2, h3, h4, h5, h6 { page-break-after:avoid; page-break-inside:avoid }
+    img { page-break-inside:avoid; page-break-after:avoid; }
+    table, pre { page-break-inside:avoid }
+    ul, ol, dl  { page-break-before:avoid }
+
+
+    a:after > img {
+        content: "";
+    }
+    /* default links */
+    .ai-gfg .ai-gfg__content a:after {
+        content:" (" attr(href) ") ";
+    }
+    /* anchor links */
+    .ai-gfg .ai-gfg__content a[href^="#"]:after {
+        content: "";
+    }
+    /* internal root-relative links */
+    .ai-gfg .ai-gfg__content a[href^='/']:after {
+        content:" (https://coe.gsa.gov" attr(href) ") ";
+    }    
+    /* external full links */
+    .ai-gfg .ai-gfg__content a[href^=http]:after {
+        content:" (" attr(href) ") ";
+    }
+        
+    .usa-banner, .usa-menu-btn, .usa-footer-nav, .ai-gfg__page-nav, #fba-button, #ai-gfg__hero  {
+        display: none !important;
+    }
+    header.main-header {
+        box-shadow: none;
+    }
+    .usa-navbar {
+        height: auto;
+        border: none;
+    }
+    .usa-logo { margin-left: -0.5rem; }
+    /* .ai-gfg #ai-gfg__hero {
+        padding: 4rem 2rem 0 2rem;
+    }
+    .ai-gfg #ai-gfg__hero .usa-section {
+        padding: 1rem 0 1rem 2rem;
+    }
+    .ai-gfg #ai-gfg__hero h1 {
+        font-size: 32px;
+        margin-bottom: .5rem;
+    }
+    .ai-gfg #ai-gfg__hero p {
+        font-size: 22px;
+        padding-right: 0;
+        margin-top: .5rem;
+        max-width: none;
+    } */
+    .usa-layout-docs-sidenav {
+        display: none;
+        margin: 2rem 2rem 2rem 4rem;
+    }
+    .ai-gfg .sidenav {
+        position: relative;
+        top: 0;
+        padding-top: 0;
+        margin-bottom: 3rem;
+        page-break-after: always;
+    }
+    .usa-layout-docs {
+        display: block;
+        max-width: none;
+    }
+    .ai-gfg .ai-gfg__content {
+        padding: 2rem 0;
+        font-size: 13pt;
+    }
+    p.intro {
+        font-size: 16pt;
+    }
+    main#main-content {
+        margin-bottom: 0;
+    }
+    .usa-layout-docs:after {
+        display: inline-block;
+        content: "This Artificial Intelligence Guide for Government is maintained by the Centers of Excellence. Visit https://coe.gsa.gov/coe/ai-guide-for-government to learn more.";
+        font-size: 12pt;
+        font-style: italic;
+        margin: 1rem 0;
+        max-width: 80rem;
+    }
+    .footer-logo-links:after {
+        display: inline-block;
+        font-size: 10pt;
+        height: 3.5rem;
+        line-height: 0;
+        vertical-align: middle;
+        content: "This site is an official website of the US Federal Government.";
+        margin: 0 2rem;
+    }
+    .usa-footer-primary-section {
+        padding: 2rem 1rem 1rem;
+        page-break-inside:avoid;
+    }
+    a.footer-logo[href*="twitter"] {
+        display: none;
+    }
+}

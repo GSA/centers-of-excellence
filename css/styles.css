@@ -820,8 +820,7 @@ hr {
 .sidebar-box.coe-cx .centers-graphic::after,
 .sidebar-box.coe-da .centers-graphic::after,
 .sidebar-box.coe-io .centers-graphic::after,
-.sidebar-box.coe-ia .centers-graphic::after,
-.sidebar-box.coe-acq .centers-graphic::after {
+.sidebar-box.coe-ia .centers-graphic::after {
     content: '';
     width: 195px;
     height: 115px;
@@ -839,7 +838,6 @@ hr {
 .sidebar-box.coe-da .centers-graphic::after {background-image: url(../images/data-analytics-2x.png);}
 .sidebar-box.coe-io .centers-graphic::after {background-image: url(../images/infrastructure-optimization-2x.png);}
 .sidebar-box.coe-ia .centers-graphic::after {background-image: url(../images/innovation-adoption-2x.png);}
-.sidebar-box.coe-acq .centers-graphic::after {background-image: url(../images/acquisitions-2x.png);}
 .sidebar-box-content {
     padding:2rem;
 }
@@ -879,6 +877,98 @@ hr {
 .sidebar-box.data-story .usa-button-secondary {
     margin-bottom: 2rem;
 }
+.sidebar-box.ai-guide-for-government {
+    background-image: url('../images/AI/ai-guide-for-government-siderail.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    -webkit-font-smoothing: antialiased;
+    cursor: auto;
+}
+.sidebar-box.ai-guide-for-government p {
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    padding: 1rem .5rem;
+}
+.sidebar-box.ai-guide-for-government .usa-button-secondary {
+    margin-bottom: 0;
+}
+
+.sidebar-box.ai-portfolio {
+    background-image: url('../images/AI/ai-portfolio-siderail.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    -webkit-font-smoothing: antialiased;
+    cursor: auto;
+}
+.sidebar-box.ai-portfolio p {
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    padding: 1rem .5rem;
+}
+.sidebar-box.ai-portfolio p:before {
+    content: "Accelerating the use of AI in Government";
+    background: #ffffffdb;
+    width: 100%;
+    margin-bottom: 3rem;
+    padding: .75rem 1rem;
+    display: block;
+    font-weight: 400;
+    font-family: Georgia,Cambria,"Times New Roman",serif;
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+    text-shadow: none;
+    color: #1c304a;
+    -webkit-font-smoothing: auto;
+    box-shadow: 2px 2px 4px #00000080;
+}
+.sidebar-box.ai-portfolio .usa-button-secondary {
+    margin-bottom: 0;
+}
+
+.sidebar-box.ai-resilience-challenge {
+    background-image: url('../images/AI/ai-challenge-bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 2rem;
+    color:#ffffff;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    -webkit-font-smoothing: antialiased;
+    cursor: auto;
+}
+.sidebar-box.ai-resilience-challenge p {
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    padding: 1rem .5rem;
+}
+.sidebar-box.ai-resilience-challenge p:before {
+    content: "AI Grand Challenge for Resilience";
+    background: url('../images/AI/ai-challenge-logo.png') left top no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 6rem;
+    margin-bottom: 3rem;
+    display: block;
+    font-size: 0;
+}
+
 .img-border {
     padding:1px;
     border:1px solid #021a40;
@@ -1386,235 +1476,3 @@ h2#service-catalog::before {
   opacity: 1;
   visibility: visible;
 }
-
-
-.communities-header {
-	background-position: center;
-	background-size: cover;
-	text-align: center;
-	padding: 12rem 0rem;
-	color: #ffffff;
-}
-
-.cop-artifical-intelligence {
-	background-image: url(../images/communities-ai-bkg.jpg);
-}
-
-.cop-contact {
-	background-image: url(../images/contact-center-bkg.jpg);
-}
-
-.cop-innovation {
-	background-image: url(../images/innovatoin-banner.jpg);
-}
-
-.communities-header h1 {
-	border-bottom: none;
-	font-weight: normal;
-}
-
-.community-about p {
-	font-size: 1.25em;
-}
-
-.communities-header .intro {
-	text-transform: uppercase;
-	font-weight: 500;
-}
-
-.communities-page-intro {
-	background: #0d6da8;
-	color: #ffffff;
-	font-size: 2.75rem;
-	font-weight: 300;
-}
-
-.community-quote {
-	font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
-	font-style: italic;
-	font-weight: bold;
-	text-align: center;
-	padding: .125em 2em;
-	font-size: 1.75em;
-	position: relative;
-	width: 80%;
-	margin: 6rem auto;
-}
-
-.community-quote::before {
-	content: " ";
-   position: absolute;
-   border-left: 2px solid #fdb81e;
-   border-top: 2px solid #fdb81e;
-   border-bottom: 2px solid #fdb81e;
-   padding: 30px;
-   top: -10px;
-   bottom: -10px;
-   left: -5px;
-}
-
-.community-quote::after {
-   content: " ";
-   position: absolute;
-   border-right: 2px solid #fdb81e;
-   border-top: 2px solid #fdb81e;
-   border-bottom: 2px solid #fdb81e;
-   padding: 30px;
-   top: -10px;
-   bottom: -10px;
-   right: -5px;
-}
-
-p.quote-citation {
-	font-size: .625em;
-	text-align: left;
-}
-
-.communities-sidebar {
-	border: none;
-	margin-top: 0 !important;
-	cursor: default;
-}
-
-.communities-sidebar-main-text {
-	border: solid 5px #def4ff;
-	padding: 4rem;
-}
-
-.cop-button {
-	padding: 3rem 2rem;
-	background-image: url(../images/arrow-circle.png);
-	background-position: 92% center;
-	background-repeat: no-repeat;
-	background-color: #0d6da8;
-	text-align: left;
-	font-size: 1.25em;
-	margin-right: 0;
-}
-
-
-p.cop-intro {
-	padding-left: 6rem;
-    margin-bottom: 1.5rem;
-    position: relative;
-}
-
-p.cop-intro::before {
-	content: '';
-    position: absolute;
-    top: 0rem;
-    margin-left: -50px;
-    width: 4.1rem;
-    height: 4.1rem;
-    background-color: #3c8bc9;
-    background-image: url(../images/cop-symbol-intro.png);
-    background-repeat: no-repeat;
-    border-radius: 50%;
-    -webkit-box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-}
-
-h2#cop-events, h2#cop-focus, h2#cop-join  {
-    padding-left: 6rem;
-    margin-bottom: 1.5rem;
-    position: relative;
-}
-
-h2#cop-events::before {
-	content: '';
-    position: absolute;
-    top: -0.6rem;
-    left: 0;
-    width: 4.1rem;
-    height: 4.1rem;
-    border: 0.3rem solid #ffffff;
-    background-color: #3c8bc9;
-    background-image: url(../images/subpage-section-icons-new.png);
-    background-repeat: no-repeat;
-    background-size: 4.8rem 26.4rem;
-	background-position: 0px -93px;
-    border-radius: 50%;
-    -webkit-box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-}
-
-h2#cop-focus::before {
-	content: '';
-    position: absolute;
-    top: -0.6rem;
-    left: 0;
-    width: 4.1rem;
-    height: 4.1rem;
-    border: 0.3rem solid #ffffff;
-    background-color: #3c8bc9;
-    background-image: url(../images/subpage-section-icons-new.png);
-    background-repeat: no-repeat;
-    background-size: 4.8rem 26.4rem;
-	background-position: -7px -48px;
-    border-radius: 50%;
-    -webkit-box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-}
-
-h2#cop-join::before {
-	content: '';
-    position: absolute;
-    top: -0.6rem;
-    left: 0;
-    width: 4.1rem;
-    height: 4.1rem;
-    border: 0.3rem solid #ffffff;
-    background-color: #3c8bc9;
-    background-image: url(../images/subpage-section-icons-new.png);
-    background-repeat: no-repeat;
-    background-size: 4.8rem 26.4rem;
-	background-position: -6px -10px;
-    border-radius: 50%;
-    -webkit-box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-    -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.12);
-    box-shadow: 0 1px 9px rgb(0 0 0 / 12%);
-}
-
-.blog-cop-line {
-	border-bottom: 1px solid #fdb81e;
-	clear: both;
-	margin-bottom: 4rem;
-}
-
-.blog-cop-container .article-head {
-	border-bottom: none;
-}
-
-.cop-blog-image {
-	width: 33.333%;
-	float: left;
-}
-
-
-.cop-blog-image img {
-	max-width: 220px;
-}
-
-.cop-blog-title-text {
-	width: 65.6673%;
-	float: left;
-}
-
-@media screen and (max-width: 850px) {
-	 .cop-blog-feature-image {
-		max-width: 300px;
-	}
-}
-
-
