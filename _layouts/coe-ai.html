@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<section class="usa-grid usa-section">
+    <h1>{{ page.title }}</h1>
+    <div class="usa-width-two-thirds">
+        <p class="intro">{{ page.tagline }}</p>
+
+        <div class="page-nav">
+            <a href="#service-offerings">Service Offerings</a> | {% if page.service-catalog %}<a href="#service-catalog">Service Catalog</a> | {% endif %}<a href="#coe-updates">Latest Updates</a> {% for item in page.page-nav.children %}<a href="{{ site.baseurl }}/work/{{ item.url-fragment }}">Our Work at {{ item.agency }}</a> {% if forloop.last == false %} {% endif %}{% endfor %}
+        </div>
+
+      <p>{{ page.intro }}</p>
+
+      <h2 id="service-offerings">Service Offerings</h2>
+      <ul>
+      {% for offering in page.service-offerings %}
+        <li>{{ offering }}</li>
+      {% endfor %}
+      </ul>
+
+      {% if page.service-catalog %}
+        <h2 id="service-catalog">Service Catalog</h2>
+        {% for child in page.service-catalog.children %}
+          {% if child.description %}
+            <p>{{ child.description }}</p>
+          {% endif %}
+          {% if child.list %}
+            <ul>
+              {% for item in child.list %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    
+      <h2 id="coe-updates">Latest Updates</h2>
+      {% assign filtered_posts = site.posts | where: 'initiative', page.title %}
+      {% for post in filtered_posts %}
+          {% include article-head.html show_post_excerpt = true %}
+      {% endfor %}
+    </div> <!-- /.usa-width-two-thirds -->
+    <div class="usa-width-one-third sticky sidebar">
+        <div class="sidebar-box {{ page.sidebar-graphic-class }}">
+            <div class="centers-graphic"></div>
+            <div class="sidebar-box-content">
+                <h4 class="first">Explore the {{ page.title }} CoE</h4>
+                {% for pdf in page.pdfs %}
+                  <div style="min-height: 3rem;"><a href="{{site.baseurl}}{{ pdf.link }}" target="_blank" class="pdf">{{ pdf.title }} <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a></div>
+                {% endfor %}
+            </div>
+        </div>
+        {% if page.sidebar-extra-content %}
+        {% for sidebar-box in page.sidebar-extra-content.children %}
+        <div class="sidebar-box {{ sidebar-box.img-class }}">
+            <div class="sidebar-box-content">
+                <p>{{ sidebar-box.text }}</p>
+                <a href="{{ sidebar-box.button-link }}" class="usa-button usa-button-secondary">{{ sidebar-box.button-text }}</a>
+            </div> <!-- /.sidebar-box-content -->
+        </div> <!-- /.sidebar-box -->
+        {% endfor %}
+        {% endif %}
+		<button onclick="btt()" id="btt"></button>
+    </div> <!-- /.usa-width-one-third -->
+</section> <!-- /.usa-grid -->
+
