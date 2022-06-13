@@ -1,0 +1,61 @@
+<nav>
+  <ul class="usa-sidenav-list">
+ 
+
+    {% assign ai_nav = site.ai_guide_for_government  %}
+    {% for ai_page in ai_nav %}
+
+      {% assign _current_page = false %}
+      {% if ai_page.url == page.url or ai_page.url == page.permalink %}
+        {% assign _current_page = true %}
+      {% endif %}
+      {% assign page_schema = page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+      {% assign ai_page_schema = ai_page.relative_path  | remove: ".md" | remove: "_ai_guide_for_government/"  | split: "-" %}
+
+      {% assign this_page_section =  page_schema | first | abs %}
+      {% assign next_page_section =  page_schema | first | plus: 1 | abs %}
+
+
+      {% assign ai_page_section =  ai_page_schema | first | abs %}
+      {% assign ai_page_level =  ai_page_schema | last  %}
+
+      {% assign _is_top_level = false %}
+      {% if ai_page_level == "0" %}
+        {% assign _is_top_level = true %}
+      {% endif %}
+
+      {% assign _opens_sub_list = false %}
+      {% if this_page_section == ai_page_section and _is_top_level %}
+        {% assign _opens_sub_list = true %}
+        {% assign _current_page = true %}
+      {% endif %}
+
+      {% assign _closes_previous_list = false %}
+      {% if next_page_section == ai_page_section and _is_top_level %}
+        {% assign _closes_previous_list = true %}
+      {% endif %}
+
+
+      {% if _closes_previous_list %}
+        </ul>
+      {% endif %}
+
+      {% if _is_top_level or this_page_section == ai_page_section %}
+        <li>
+          <a href="{{site.baseurl}}{{ ai_page.url }}"
+            {% if _current_page %} class="usa-current" {% endif %}>
+            {{ ai_page.title }}
+          </a>
+
+          {% if _opens_sub_list %}
+            <ul class="usa-sidenav-sub_list">
+          {% endif %}
+        </li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+</nav>
+<a href="{{ site.baseurl }}/coe/ai-guide-for-government/print-all/index.html" target="_blank" class="usa-button usa-button-secondary">
+  Print the complete guide
+</a>

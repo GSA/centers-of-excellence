@@ -1,0 +1,16 @@
+{% assign post=include.post %}
+<div class="article-head">
+    <em class="date">{{ post.date | date: '%B %d, %Y' }}</em>
+    {% if include.show_initiative == true %}
+        {% include initiative.html initiative=post.initiative %}
+    {% endif %}
+    <h3 class="title">
+        <a href="{{site.baseurl}}{{post.url}}">
+            {{post.title}}
+        </a>
+    </h3>
+    {% if include.show_post_excerpt == true %}
+        {{ post.excerpt }}
+        <p><a href="{{site.baseurl}}{{post.url}}">Continue reading this article »</a></p>
+    {% endif %}
+</div>
