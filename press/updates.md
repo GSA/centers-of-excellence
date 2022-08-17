@@ -9,7 +9,7 @@ Every month, our team posts updates on our work, best practices or progress. Ple
 {: .intro}
 
 {% for post in site.posts %}
-     {% if post.initiative != "Artificial Intelligence" and post.initiative != "Cloud Adaption" and post.initiative != "Contact Center" and post.initiative != "Customer Experience" and post.initiative != "Data and Analytics" and post.initiative != "Infrastructure Optimization" %}
+     {% if post.initiative != "AI" or post.initiative != "COP" or post.initiative != "IA" %}
         {% include article-head.html post=post show_initiative=true %}
      {% endif %}
 {% endfor %}
