@@ -56,7 +56,7 @@ teams:
         linkedin: omarsaeb
       - name: Sam Navarro
         img: SamNavarro2022.jpg
-        center: Acquisitions Lead
+        center: Customer Services Lead
         bio: >-
           Samuel Navarro, CoE’s Director of Customer Services, is responsible for planning and implementing customer development strategies including the support of operational capabilities. Since 2014, Navarro has held positions across GSA including Wireless Mobility Program Manager, Contract Modifications Manager, and Contracting Officer Representative for the third largest network and telecommunications contract in the agency. Prior to joining CoE, Navarro served as the Director for GSA’s Customer Strategic Solutions Division (CSSD). He also held the position of Federal Agency Manager assisting agencies in modernizing their network infrastructure across the United States. 
         linkedin: samuel-navarro-6036258
