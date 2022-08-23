@@ -46,14 +46,20 @@ teams:
         img: NickLundin.jpg
         center: Engagement Lead
         bio: >-
-          Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
+          Nick Lundin has 8 years of experience working with and leading teams within the DoD and federal government. At the CoE, Nick provides product management expertise to help partner agencies understand and define growth opportunities based on employee experience, customer feedback, and data. Nick has advised agencies on their technology and delivery scaling strategies to ensure sustained success enterprise-wide.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption. 
         linkedin: nick-lundin  
       - name: Omar Saeb
         img: OmarSaeb.png
         center: Acquisitions Lead
         bio: >-
           Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
-        linkedin: omarsaeb  
+        linkedin: omarsaeb
+      - name: Sam Navarro
+        img: SamNavarro2022.jpg
+        center: Acquisitions Lead
+        bio: >-
+          Samuel Navarro, CoE’s Director of Customer Services, is responsible for planning and implementing customer development strategies including the support of operational capabilities. Since 2014, Navarro has held positions across GSA including Wireless Mobility Program Manager, Contract Modifications Manager, and Contracting Officer Representative for the third largest network and telecommunications contract in the agency. Prior to joining CoE, Navarro served as the Director for GSA’s Customer Strategic Solutions Division (CSSD). He also held the position of Federal Agency Manager assisting agencies in modernizing their network infrastructure across the United States. 
+        linkedin: samuel-navarro-6036258
       - name: Anil 'Neil' Chaudhry
         img: AnilChaudhry20.jpg
         center: Artificial Intelligence Lead
