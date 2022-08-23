@@ -179,7 +179,11 @@ teams:
         center: Innovation Adoption Lead
         bio: >-
           Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
-        linkedin: jeannette-a-bruno1415            
+        linkedin: jeannette-a-bruno1415   
+      - name: Zaree Singer
+        img: ZareeSinger2022.jpg
+        center: Innovation Adoption Lead
+        linkedin: zaree-s-290a0b10 
       - name: David Siegrist
         img: DavidSiegrist.jpg
         center: IT Infrastructure Optimization Lead        
