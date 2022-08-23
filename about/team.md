@@ -37,7 +37,7 @@ teams:
           Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
         linkedin: michelle-mcnellis-9488908  
       - name: Michelle Petryszyn
-        img: CathyBeil2022.jpg
+        img: MichellePetryszyn2022.jpeg
         center: Acquisitions Lead 
         bio: >-
           Michelle Petryszyn serves as an Acquisition Lead supporting CoE’s partner agencies in implementing modern acquisition techniques to support their IT modernization efforts. Prior to joining CoE, Petryszyn held positions across GSA in TTS’ Office of Acquisition, FAS’ Office of Information Technology Category, and the Office of Travel, Transportation, and Logistics Category. Petryszyn has a Bachelor of Science degree in Finance from Pennsylvania State University. 
