@@ -12,7 +12,7 @@ teams:
         linkedin: jennifer-rostami-mba-154a5a12
       - name: Ed Golden
         img: EdGolden.jpg
-        center: Acting Deputy Director
+        center: Deputy Director
         bio: >-
           Ed Golden brings over 25 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations to his work at the Centers of Excellence.  As the CoE Acting Deputy Executive Director, Ed oversees the CoE engagement portfolio to assure delivery on our commitment to helping clients accelerate IT modernization and improve customer experience, while at the same time shaping identification of new partnership opportunities and driving CoE financial management toward full cost-recoverability.  Since joining the CoE, Golden has led our partnership with the Food and Drug Administration's Office of Information Management and Technology to drive organizational culture change and data center modernization, while concurrently supporting the CoE's Artificial Intelligence engagement with GSA's Information Technology Category (ITC).  Prior to his work at the CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where for seven years he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems, leading efforts to modernize the Department’s business information systems.    
         linkedin: edward-golden-54242448   
@@ -36,18 +36,30 @@ teams:
         bio: >-
           Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
         linkedin: michelle-mcnellis-9488908  
+      - name: Michelle Petryszyn
+        img: MichellePetryszyn2022.jpeg
+        center: Acquisitions Lead 
+        bio: >-
+          Michelle Petryszyn serves as an Acquisition Lead supporting CoE’s partner agencies in implementing modern acquisition techniques to support their IT modernization efforts. Prior to joining CoE, Petryszyn held positions across GSA in TTS’ Office of Acquisition, FAS’ Office of Information Technology Category, and the Office of Travel, Transportation, and Logistics Category. Petryszyn has a Bachelor of Science degree in Finance from Pennsylvania State University. 
+        linkedin: michelle-petryszyn-1a931792 
       - name: Nick Lundin
         img: NickLundin.jpg
         center: Engagement Lead
         bio: >-
-          Nick Lundin has 8 years of experience working with and leading teams within the DoD.  At the CoE, Nick provides software product management expertise to partner agencies by helping their teams better understand and manage stakeholders, key product metrics, and external measures of effectiveness to identify growth opportunities and iterate from customer feedback.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption.
+          Nick Lundin has 8 years of experience working with and leading teams within the DoD and federal government. At the CoE, Nick provides product management expertise to help partner agencies understand and define growth opportunities based on employee experience, customer feedback, and data. Nick has advised agencies on their technology and delivery scaling strategies to ensure sustained success enterprise-wide.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption. 
         linkedin: nick-lundin  
       - name: Omar Saeb
         img: OmarSaeb.png
         center: Acquisitions Lead
         bio: >-
           Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
-        linkedin: omarsaeb  
+        linkedin: omarsaeb
+      - name: Sam Navarro
+        img: SamNavarro2022.jpg
+        center: Customer Services Lead
+        bio: >-
+          Samuel Navarro, CoE’s Director of Customer Services, is responsible for planning and implementing customer development strategies including the support of operational capabilities. Since 2014, Navarro has held positions across GSA including Wireless Mobility Program Manager, Contract Modifications Manager, and Contracting Officer Representative for the third largest network and telecommunications contract in the agency. Prior to joining CoE, Navarro served as the Director for GSA’s Customer Strategic Solutions Division (CSSD). He also held the position of Federal Agency Manager assisting agencies in modernizing their network infrastructure across the United States. 
+        linkedin: samuel-navarro-6036258
       - name: Anil 'Neil' Chaudhry
         img: AnilChaudhry20.jpg
         center: Artificial Intelligence Lead
@@ -102,6 +114,12 @@ teams:
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
+      - name: Olivia Thom
+        img: OliviaThom2022.jpg
+        center: Customer Experience Lead
+        bio: >-
+          Olivia Thom has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
+        linkedin: oliviathom
       - name: Lashanda Hodge
         img: LashandaHodge19.jpg
         center: Customer Experience Lead
@@ -144,6 +162,12 @@ teams:
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018 and the Service to the Citizen award in 2021.  
         linkedin: bridget-fields-917a9b62
+      - name: Cathy Beil
+        img: CathyBeil2022.jpg
+        center: Innovation Adoption Lead 
+        bio: >-
+          Cathy Beil empowers passionate public servants to innovate and public organizations to make change with empathy and evidence. Beil joins the Innovation Adoption practice with over 20 years of experience promoting efficiency and effectiveness in public services at the state level, where she built lasting trust with agency commissioners, staff, and public customers. For the State of Minnesota Office of Continuous Improvement, Beil led the standup of a new Office of Enterprise Sustainability and coordinated cross-agency efforts to simplify early childhood care and education assistance processes. She has extensive expertise building collaborations and coalitions across and within organizations to reset culture and foster change, and has a unique capacity for connecting with stakeholders at all levels. Beil’s passion for asking tough questions, organizing and communicating information, and continuously improving processes are bolstered by a Master’s Degree in Library and Information Science, Lean Six Sigma Black Belt, and extensive training in Human-Centered Design, Data Visualization, and Plain Language. 
+        linkedin: cathryn-beil 
       - name: Gopa Nair
         img: GopaNair.jpeg
         center: Innovation Adoption Lead
@@ -155,7 +179,11 @@ teams:
         center: Innovation Adoption Lead
         bio: >-
           Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
-        linkedin: jeannette-a-bruno1415            
+        linkedin: jeannette-a-bruno1415   
+      - name: Zaree Singer
+        img: ZareeSinger2022.jpg
+        center: Innovation Adoption Lead
+        linkedin: zaree-s-290a0b10 
       - name: David Siegrist
         img: DavidSiegrist.jpg
         center: IT Infrastructure Optimization Lead        
