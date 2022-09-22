@@ -28,7 +28,7 @@ teams:
         img:  DanielleGallant19.jpg
         center: Communications Lead
         bio: >-
-          Danielle Gallant has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
+          Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
         linkedin: daniellergallant      
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
@@ -54,6 +54,10 @@ teams:
         bio: >-
           Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
         linkedin: omarsaeb
+      - name: Ekwutosi "Kwi" Okoli
+        img: SamNavarro2022.jpg
+        center: Customer Services Lead
+        linkedin: kwi-okoli-mba-ms
       - name: Sam Navarro
         img: SamNavarro2022.jpg
         center: Customer Services Lead
@@ -78,6 +82,12 @@ teams:
         bio: >-
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
+      - name: Sabrina Mohamed        
+        img: JosephRaetano.jpg
+        center: Artifical Intelligence Lead
+        bio: >-
+         Sabrina Mohamed (she/her) is a Presidential Innovation Fellow (PIF) detailed to GSA's Technology Transformation Services. She leads the Artificial Intelligence Community of Practice, which brings together federal employees to support the practical implementation of responsible AI in the federal government. Prior to PIF, Sabrina worked at Microsoft. She most recently worked on Word, building AI-powered ways for information workers to collaborate and stay on top of personal productivity. Sabrina’s mission as a product leader is to incorporate ethics and human-centered design into technological conversations. 
+        linkedin: sabrina-mohamed
       - name: Brandon Kirby
         img: BrandonKirby.jpeg
         center: Cloud Adoption Lead
@@ -120,6 +130,10 @@ teams:
         bio: >-
           Olivia Thom has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
         linkedin: oliviathom
+      - name: Rachel Edelman
+        img: LashandaHodge19.jpg
+        center: Customer Experience Lead
+        linkedin: rachel-edelman-aa530488
       - name: Lashanda Hodge
         img: LashandaHodge19.jpg
         center: Customer Experience Lead
@@ -179,7 +193,13 @@ teams:
         center: Innovation Adoption Lead
         bio: >-
           Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
-        linkedin: jeannette-a-bruno1415   
+        linkedin: jeannette-a-bruno1415
+      - name: Vanessa Watters
+        img: JeannetteBruno.jpg
+        center: Innovation Adoption Lead
+        bio: >-
+          Vanessa Watters brings years of experience in both the private and public health care sectors to her role as an Innovation Adoption Lead at CoE.  Her federal experience includes leadership roles in quality improvement, performance management, strategic planning and succession planning with the Department of Health and Human Services.  As an expert problem solver, she successfully navigates intrapreneurial practices, problem exploration and solution design.  She is skilled in peer-to-peer facilitation and enjoys helping teams apply innovative practices and adopt technologies that modernize their day-to-day work. In addition to her education and experience, she holds certification in Project Management.
+        linkedin: vanessa-watters-65159080
       - name: Zaree Singer
         img: ZareeSinger2022.jpg
         center: Innovation Adoption Lead
