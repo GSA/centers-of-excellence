@@ -55,7 +55,7 @@ teams:
           Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
         linkedin: omarsaeb
       - name: Ekwutosi "Kwi" Okoli
-        img: Kwi Okoli.png
+        img: KwiOkoli.png
         center: Customer Services Lead
         linkedin: kwi-okoli-mba-ms
       - name: Sam Navarro
