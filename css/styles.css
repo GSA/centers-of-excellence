@@ -1502,6 +1502,10 @@ h2#service-catalog::before {
 	background-image: url(../images/innovatoin-banner.jpg);
 }
 
+.cop-itacq {
+	background-image: url(../images/itacq-banner.jpg);
+}
+
 .communities-header h1 {
 	border-bottom: none;
 	font-weight: normal;
