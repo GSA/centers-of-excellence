@@ -1,0 +1,146 @@
+---
+layout: communities
+title: IT Acquisition
+tagline: Join the conversation
+intro: "IT acquisitions are at the heart of federal IT modernization efforts. They support agencies in delivering modern, digital services to the public more effectively and efficiently."
+
+testimonial: There’s all this information out there about new emerging technologies, but I want to know specifically how to buy it. What Terms & Conditions do I need to include in my contract? What kind of data rights is appropriate?
+testimonial-citation: Federal Contracting Officer
+---
+
+<section class="usa-section communities-header cop-itacq">
+	<div class="usa-grid ">
+	
+		<div class="usa-width-one-whole">
+			<h1>Community of Practice: <strong>{{ page.title }}</strong></h1>
+			<p class="intro cop-intro">{{ page.tagline }}</p>
+		</div>
+	</div>
+	</section>
+		
+<section class="usa-section communities-page-intro ">
+	<div class="usa-grid ">
+		<div class="usa-width-one-whole">
+			<p>{{ page.intro }}</p>
+
+		</div>	
+	</div>
+	
+</section>		
+
+<section class="usa-grid usa-section">  
+
+
+<div class="usa-width-two-thirds">
+
+      <h2>About the IT Acquisition Community of Practice</h2>
+	<div class="community-about">
+      		<p><strong>Our vision:</strong> The process for buying IT is an uncomplicated practice across the U.S. Government. 
+ 		<p><strong>Our mission:</strong> To collectively build a knowledge base and inter-agency forum on new and existing best practices, tools, and resources that enable the federal workforce to successfully buy IT in order to meet their agency’s missions.
+		
+		<p>The <strong> IT Acquisition Community of Practice (IT Acq CoP)</strong> unites federal employees to improve the IT acquisition experience across the government. The community promotes a modern acquisition environment by:</p>
+
+		<p>Any federal employee or mission-supporting contractor is welcome to become a member of the AI CoP. Members can join monthly community meetings, participate in working groups, attend virtual trainings & events, and connect with their peers through the CoP’s listserv.</p>
+
+		<ul>
+		<li>Fostering connections and partnerships at the interagency level;</li>
+		<li>Building IT acquisition related products and deliverables and sharing across the community;</li>
+		<li>Ensuring resources align with acquisition best practices and agency priorities;</li>
+		<li>Solving shared problems with interagency working groups;</li>
+		<li>Guiding agencies and procurement officials to acquire IT as efficiently and effectively as possible; and</li>
+		<li>Fostering the culture change necessary to enable the federal government to embrace and leverage modern acquisition practices for IT.</li>
+	</ul>
+		
+	</div>
+
+  
+   <h2 id="cop-events">Events</h2>
+	<p>The Acq CoP regularly hosts events for government-wide audiences to share opportunities and challenges with IT acquisitions in the federal government, promoting case studies and showcasing best practices.</p>
+	<p>Join our listserv to access event updates and invitations. </p>
+	
+
+	
+	<div class="community-quote">
+		<p>“{{ page.testimonial }}”</p>
+		<p class="quote-citation">— {{ page.testimonial-citation }}</p>
+	</div>
+	
+	
+	<h2 id="cop-focus">Working Groups</h2>
+	<p>The IT Acq CoP working groups are composed of community members working on a specific topic to empower the federal acquisition community by designing and developing products, tools, frameworks necessary to support implementation of modern and innovative acquisition methods. All IT Acq CoP members are welcomed to join a working group.</p>
+	<p>As a new community, the IT Acq CoP is working with members to identify working group topic areas. Working group topics may include:</p>
+	<ul>
+		<li><strong>SaaS:</strong> This group would aim to build resources and guidance on how to effectively buy SaaS in the government.</li>
+		<li><strong>Modernization of Legacy Systems:</strong> This group would aim to build resources and guidance on how to effectively buy modernization efforts for legacy systems in the government.</li>
+		<li><strong>Cloud Migration:</strong> This group would aim to build resources and guidance on how to effectively buy cloud migration services in the government.</li>
+		<li><strong>Data Rights:</strong> This group would aim to build resources and guidance on appropriate data rights for IT acquisitions.</li>
+	</ul>
+
+
+<!-- Activity
+    
+      <h2 id="coe-updates">Activity</h2>
+      {% assign filtered_posts = site.posts | where: 'cop', page.title %}
+      {% for post in filtered_posts %}
+	<div class="blog-cop-container">
+		<div class="usa-width-one-third">
+			<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">
+				<img class="cop-blog-feature-image" src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> 
+			</a>
+		</div>
+		<div class="usa-width-two-thirds">
+			  {% include article-head.html show_post_excerpt = true %}
+		</div>
+	</div>
+	<div class="blog-cop-line"></div>
+      {% endfor %}
+	
+-->
+	
+	<div id="join-cop"></div>
+	<h2 id="cop-join">Join the IT Acquisition CoP!</h2>
+	<p>Any federal employee in the acquisition field is welcome to become a member of the IT Acq CoP. Through the IT Acq CoP listserv, members receive information about how to: </p>
+	<ul>
+		<li>Join monthly community meetings</li>
+		<li>Attend virtual trainings & events</li>
+		<li>Connect with their peers through the CoP’s listserv</li>
+		<li>Contribute to the development of valuable resources for the IT acquisition community</li>
+		<li>Share feedback on CoP content and events</li>
+	</ul>
+	<p>To join our listserv, email <a href="mailto:IT-ACQ-COP-subscribe-request@LISTSERV.GSA.GOV" class=""><strong>IT-ACQ-COP-subscribe-request@LISTSERV.GSA.GOV </strong></a> with an empty subject line. </p>
+	<p><strong>Note:</strong> Federal government employees only are eligible to join. </p>
+		
+	<a href="mailto:IT-ACQ-COP-subscribe-request@LISTSERV.GSA.GOV" class="usa-button">Join by Email</a>
+	
+    </div> <!-- /.usa-width-two-thirds -->
+   
+	
+	<div class="usa-width-one-third "> <!-- sticky sidebar -->
+        <div class="sidebar-box communities-sidebar">
+			
+			<a href="#join-cop" class="usa-button cop-button">Join the IT Acquisition CoP</a>
+			
+			
+         
+           {% include cop-sidebar.html %}
+			
+			
+<!--			<div>
+				<h4>Related Policies and Resources</h4>
+				<ul>
+					<li><a href="https://www.ai.gov/" target="_blank">AI.gov</a>, The National Artificial Intelligence Initiative</li>				
+					 <li>{% include download_pdf.html download_title="AI Governance Toolkit"
+						download_url="docs/AICoP-AIGovernanceToolkit.pdf" %}, AI CoP </li>
+				</ul>
+			
+			</div>
+-->
+			
+			
+        </div>
+       
+		
+    </div> <!-- /.usa-width-one-third -->
+	
+	
+</section> <!-- /.usa-grid -->
