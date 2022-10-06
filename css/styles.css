@@ -1506,6 +1506,10 @@ h2#service-catalog::before {
 	background-image: url(../images/itacq-banner.jpg);
 }
 
+.cop-cx {
+	background-image: url(../images/cxcopbanner.jpg);
+}
+
 .communities-header h1 {
 	border-bottom: none;
 	font-weight: normal;

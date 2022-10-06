@@ -1,0 +1,142 @@
+---
+layout: communities
+title: Customer Experience
+tagline: Join the conversation
+intro: "Customer Experience is at the forefront of modernization efforts across the federal government, leveraging design methods to help build a foundation for improved customer experiences for all people. "
+
+testimonial: I really want to learn from what others are doing and build a culture where we communicate and evangelize CX
+testimonial-citation: Federal CX Practitioner 
+---
+
+<section class="usa-section communities-header cop-cx">
+	<div class="usa-grid ">
+	
+		<div class="usa-width-one-whole">
+			<h1>Community of Practice: <strong>{{ page.title }}</strong></h1>
+			<p class="intro cop-intro">{{ page.tagline }}</p>
+		</div>
+	</div>
+	</section>
+		
+<section class="usa-section communities-page-intro ">
+	<div class="usa-grid ">
+		<div class="usa-width-one-whole">
+			<p>{{ page.intro }}</p>
+
+		</div>	
+	</div>
+	
+</section>		
+
+<section class="usa-grid usa-section">  
+
+
+<div class="usa-width-two-thirds">
+
+      <h2>About the Customer Experience Community of Practice</h2>
+	<div class="community-about">
+      		
+		<p>The <strong> Customer Experience Community of Practice (CX CoP)</strong> unites federal employees to improve the experience that the American public has with government services, organizations, and agencies. This community exists to:</p>
+
+		<ul>
+		<li>Increase the professional capabilities of members;</li>
+		<li>Highlight successful CX work happening across government;</li>
+		<li>Create tools and  resources for agencies to integrate into their practices;</li>
+		<li>Learn from government and industry experts; </li>
+		<li>Create a collaborative and cohesive community for all federal CX professionals to share and learn from one another; and</li>
+		<li>Provide an interactive and supportive network across government.</li>
+	</ul>
+		
+	</div>
+
+  
+   <h2 id="cop-events">Events</h2>
+	<p>The CX CoP regularly hosts events for government-wide audiences designed to build community, expand CX knowledge, and share successes and failures to better serve the American public. </p>
+	<p>Join our listserv to access event updates and invitations. </p>
+	
+
+	
+	<div class="community-quote">
+		<p>“{{ page.testimonial }}”</p>
+		<p class="quote-citation">— {{ page.testimonial-citation }}</p>
+	</div>
+	
+	
+<!--	<h2 id="cop-focus">Working Groups</h2>
+	<p>The IT Acq CoP working groups are composed of community members working on a specific topic to empower the federal acquisition community by designing and developing products, tools, frameworks necessary to support implementation of modern and innovative acquisition methods. All IT Acq CoP members are welcomed to join a working group.</p>
+	<p>As a new community, the IT Acq CoP is working with members to identify working group topic areas. Working group topics may include:</p>
+	<ul>
+		<li><strong>SaaS:</strong> This group would aim to build resources and guidance on how to effectively buy SaaS in the government.</li>
+		<li><strong>Modernization of Legacy Systems:</strong> This group would aim to build resources and guidance on how to effectively buy modernization efforts for legacy systems in the government.</li>
+		<li><strong>Cloud Migration:</strong> This group would aim to build resources and guidance on how to effectively buy cloud migration services in the government.</li>
+		<li><strong>Data Rights:</strong> This group would aim to build resources and guidance on appropriate data rights for IT acquisitions.</li>
+	</ul>
+-->
+
+<!-- Activity
+    
+      <h2 id="coe-updates">Activity</h2>
+      {% assign filtered_posts = site.posts | where: 'cop', page.title %}
+      {% for post in filtered_posts %}
+	<div class="blog-cop-container">
+		<div class="usa-width-one-third">
+			<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">
+				<img class="cop-blog-feature-image" src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> 
+			</a>
+		</div>
+		<div class="usa-width-two-thirds">
+			  {% include article-head.html show_post_excerpt = true %}
+		</div>
+	</div>
+	<div class="blog-cop-line"></div>
+      {% endfor %}
+	
+-->
+	
+	<div id="join-cop"></div>
+	<h2 id="cop-join">Join the CX CoP!</h2>
+	<p>Any federal employee interested in customer experience  is welcome to become a member of the CX CoP. Through the CX CoP listserv, members receive information about how to:</p>
+	<ul>
+		<li>Join monthly community meetings</li>
+		<li>Attend virtual trainings & events</li>
+		<li>Connect with their peers through the CoP’s listserv</li>
+		<li>Contribute to the development of valuable resources for the federal CX community</li>
+		<li>Share feedback on CoP content and events</li>
+	</ul>
+	<p>To join our listserv, email <a href="mailto:CX-COP-subscribe-request@listserv.gsa.gov" class=""><strong>CX-COP-subscribe-request@listserv.gsa.gov </strong></a> with an empty subject line. </p>
+	<p><strong>Note:</strong> Federal government employees only are eligible to join. </p>
+		
+	<a href="mailto:CX-COP-subscribe-request@listserv.gsa.gov" class="usa-button">Join by Email</a>
+	
+    </div> <!-- /.usa-width-two-thirds -->
+   
+	
+	<div class="usa-width-one-third "> <!-- sticky sidebar -->
+        <div class="sidebar-box communities-sidebar">
+			
+			<a href="#join-cop" class="usa-button cop-button">Join the Customer Experience CoP</a>
+			
+			
+         
+           {% include cop-sidebar.html %}
+			
+			
+<!--			<div>
+				<h4>Related Policies and Resources</h4>
+				<ul>
+					<li><a href="https://www.ai.gov/" target="_blank">AI.gov</a>, The National Artificial Intelligence Initiative</li>				
+					 <li>{% include download_pdf.html download_title="AI Governance Toolkit"
+						download_url="docs/AICoP-AIGovernanceToolkit.pdf" %}, AI CoP </li>
+				</ul>
+			
+			</div>
+-->
+			
+			
+        </div>
+       
+		
+    </div> <!-- /.usa-width-one-third -->
+	
+	
+</section> <!-- /.usa-grid -->
