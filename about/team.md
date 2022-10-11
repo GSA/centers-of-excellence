@@ -41,13 +41,7 @@ teams:
         center: Acquisitions Lead 
         bio: >-
           Michelle Petryszyn serves as an Acquisition Lead supporting CoE’s partner agencies in implementing modern acquisition techniques to support their IT modernization efforts. Prior to joining CoE, Petryszyn held positions across GSA in TTS’ Office of Acquisition, FAS’ Office of Information Technology Category, and the Office of Travel, Transportation, and Logistics Category. Petryszyn has a Bachelor of Science degree in Finance from Pennsylvania State University. 
-        linkedin: michelle-petryszyn-1a931792 
-      - name: Nick Lundin
-        img: NickLundin.jpg
-        center: Engagement Lead
-        bio: >-
-          Nick Lundin has 8 years of experience working with and leading teams within the DoD and federal government. At the CoE, Nick provides product management expertise to help partner agencies understand and define growth opportunities based on employee experience, customer feedback, and data. Nick has advised agencies on their technology and delivery scaling strategies to ensure sustained success enterprise-wide.  Prior to joining, Nick worked with the Air Force’s Kessel Run, helping them scale their software development teams and practices as well as accelerate product market fit and user adoption. 
-        linkedin: nick-lundin  
+        linkedin: michelle-petryszyn-1a931792   
       - name: Omar Saeb
         img: OmarSaeb.png
         center: Acquisitions Lead
@@ -84,12 +78,6 @@ teams:
         bio: >-
          Sabrina Mohamed (she/her) is a Presidential Innovation Fellow (PIF) detailed to GSA's Technology Transformation Services. She leads the Artificial Intelligence Community of Practice, which brings together federal employees to support the practical implementation of responsible AI in the federal government. Prior to PIF, Sabrina worked at Microsoft. She most recently worked on Word, building AI-powered ways for information workers to collaborate and stay on top of personal productivity. Sabrina’s mission as a product leader is to incorporate ethics and human-centered design into technological conversations. 
         linkedin: sabrina-mohamed
-      - name: Brandon Kirby
-        img: BrandonKirby.jpeg
-        center: Cloud Adoption Lead
-        bio: >-
-          Brandon Kirby has over 20 years of experience delivering strategy, software, and technology guidance to private and public sector clients.  As a consultant, Kirby worked with numerous Fortune 50 clients.  As an 18F strategist he served 12 government agencies.  He has also worked for mid-sized product companies and founded streaming media and mobile game startups. Kirby is a generalist who enjoys using his experience in software development, agile practices, strategy, and product management to help partners find the right path to achieve their goals.
-        linkedin: brandocalrissian
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption Lead
