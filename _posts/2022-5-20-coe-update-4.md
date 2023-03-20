@@ -1,5 +1,5 @@
 ---
-title: Announcing CoE Resources & Advisory Support
+title: Announcing CoE Resources + Advisory Support
 layout: post
 initiative: Centers of Excellence
 date: May 20, 2022
@@ -12,7 +12,7 @@ Last year CoE leadership talked with our partners and asked how we could better 
 
 We’ve collected key findings on what we’ve learned from our work with more than 25 federal agencies, and are pleased to share a new collection of resources from our 8 centers and practice areas. 
 
-## CoE Resources & Advisory Support 
+## CoE Resources + Advisory Support 
 These Starter Guides, Models & Templates will be available to support federal agencies undergoing technology transformation projects. Through funding from 
 the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.  
 
@@ -27,4 +27,5 @@ Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tu
 * [Data Governance Charter Templates](https://coe.gsa.gov/coe/data-analytics.html)
 * [Strategic Foresight 101 Workshops](https://coe.gsa.gov/docs/StrategicForesight101.pdf)   
 * [CX Maturity Model](https://coe.gsa.gov/docs/CXMaturityModel.pdf)
-* [Building Effective Industry Engagement Guide ](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+* [Building Effective Industry Engagement Guide](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+* [Cloud Migration Acquisition Journey Map](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf)
