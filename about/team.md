@@ -11,7 +11,7 @@ teams:
           Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
         linkedin: jennifer-rostami-mba-154a5a12
       - name: Ed Golden
-        img: EdGolden.jpg
+        img: EdGolden22.png
         center: Deputy Director
         bio: >-
           Ed Golden brings over 25 years of experience and expertise in information technology (IT) consulting, program and project management, and government operations to his work at the Centers of Excellence.  As the CoE Acting Deputy Executive Director, Ed oversees the CoE engagement portfolio to assure delivery on our commitment to helping clients accelerate IT modernization and improve customer experience, while at the same time shaping identification of new partnership opportunities and driving CoE financial management toward full cost-recoverability.  Since joining the CoE, Golden has led our partnership with the Food and Drug Administration's Office of Information Management and Technology to drive organizational culture change and data center modernization, while concurrently supporting the CoE's Artificial Intelligence engagement with GSA's Information Technology Category (ITC).  Prior to his work at the CoE, Ed served as a Senior Manager with Deloitte Consulting LLP, where for seven years he led projects at the FDA’s Center for Drug Evaluation and Research (CDER) to implement, expand and operate components of CDER’s Informatics Platform for human drug review.  Before joining Deloitte, Ed spent 17 years at the U.S Department of Energy, where he served as a Program Manager for the Office of Corporate Information Systems, leading efforts to modernize the Department’s business information systems.    
@@ -72,12 +72,6 @@ teams:
         bio: >-
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
-      - name: Sabrina Mohamed        
-        img: SabrinaMohamed.png
-        center: Artifical Intelligence Lead
-        bio: >-
-         Sabrina Mohamed (she/her) is a Presidential Innovation Fellow (PIF) detailed to GSA's Technology Transformation Services. She leads the Artificial Intelligence Community of Practice, which brings together federal employees to support the practical implementation of responsible AI in the federal government. Prior to PIF, Sabrina worked at Microsoft. She most recently worked on Word, building AI-powered ways for information workers to collaborate and stay on top of personal productivity. Sabrina’s mission as a product leader is to incorporate ethics and human-centered design into technological conversations. 
-        linkedin: sabrina-mohamed
       - name: Calvert Smith
         img: CalvertSmith19.jpg
         center: Cloud Adoption Lead
@@ -130,6 +124,12 @@ teams:
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
+      - name: Ryan Dolan        
+        img: RyanDolan22.png
+        center: Data & Analytics Lead
+        bio: >-
+         Ryan Dolan has over 13 years of experience leading public sector data visualization, business intelligence and data modernization initiatives.  Prior to joining CoE, Ryan served as a data scientist for the U.S. Department of Justice, Civil Rights Division and as the data visualization lead for the U.S. Census Bureau.  Additionally, Ryan is an adjunct professor teaching machine learning and data visualization to graduate students seeking their MSBA. At the Data and Analytics CoE, Ryan works closely with partner organizations to identify challenges, develop solutions, and share best practices among all stakeholders. 
+        linkedin: ryansdolan
       - name: Satyajeet Dhumne
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
@@ -178,6 +178,12 @@ teams:
         bio: >-
           Jeannette Bruno has over nine years of experience managing complex projects, conducting program evaluations, and supporting change management initiatives in the public and non-profit sectors. As Director of Projects at the City of Philadelphia, she led process improvement, change management, and digital transformation projects to promote efficiency in government. She managed a team responsible for building a universal benefits portal and partnered with an agency to implement new program metrics. Bruno is passionate about centering change at the intersection of people, process, and technology. She is a skilled relationship manager with a track record of building trust with key stakeholders to achieve project goals. As a qualitative researcher, Bruno managed evaluations for the Wallace Foundation, the Boys and Girls Clubs of America, the Wharton School, and Fabretto Children’s Foundation. She is a graduate of Next Generation Consulting’s 2018 Futurist cohort and embeds the principles of strategic foresight into her work.
         linkedin: jeannette-a-bruno1415
+      - name: Vanessa Watters
+        img: VanessaWatters22.jpg
+        center: Innovation Adoption Lead
+        bio: >-
+          Vanessa Watters brings years of experience in both the private and public health care sectors to her role as an Innovation Adoption Lead at CoE.  Her federal experience includes leadership roles in quality improvement, performance management, strategic planning and succession planning with the Department of Health and Human Services.  As an expert problem solver, she successfully navigates intrapreneurial practices, problem exploration and solution design.  She is skilled in peer-to-peer facilitation and enjoys helping teams apply innovative practices and adopt technologies that modernize their day-to-day work. In addition to her education and experience, she holds certification in Project Management.
+        linkedin: vanessa-watters-65159080    
       - name: Zaree Singer
         img: ZareeSinger2022.jpg
         center: Innovation Adoption Lead
@@ -187,11 +193,5 @@ teams:
         center: IT Infrastructure Optimization Lead        
         bio: >-
           David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
-        linkedin: david-siegrist-591945b8        
-      - name: Sid Sripada
-        img: SidSripada.jpeg
-        center: IT Infrastructure Optimization Lead
-        bio: >-
-          Sid Sripada has over 15 years of IT Infrastructure modernization experience in both federal government and private industries. Sripada has a successful track record of engaging various agencies in infrastructure optimization, automation and DevSecOps implementation. Sripada’s leadership and hands-on experience builds fast and efficient enterprise wide solutions to modern Agile initiatives. Sripada’s most recent engagement prior to joining CoE included building out scalable public facing infrastructure in support of first ever internet based US 2020 Census.
-        linkedin: sidsripada      
+        linkedin: david-siegrist-591945b8             
 ---
