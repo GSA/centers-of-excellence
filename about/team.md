@@ -182,7 +182,7 @@ teams:
         img: VanessaWatters22.jpg
         center: Innovation Adoption Lead
         bio: >-
-         Vanessa Watters brings years of experience in both the private and public health care sectors to her role as an Innovation Adoption Lead at CoE.  Her federal experience includes leadership roles in quality improvement, performance management, strategic planning and succession planning with the Department of Health and Human Services.  As an expert problem solver, she successfully navigates intrapreneurial practices, problem exploration and solution design.  She is skilled in peer-to-peer facilitation and enjoys helping teams apply innovative practices and adopt technologies that modernize their day-to-day work. In addition to her education and experience, she holds certification in Project Management.
+          Vanessa Watters brings years of experience in both the private and public health care sectors to her role as an Innovation Adoption Lead at CoE.  Her federal experience includes leadership roles in quality improvement, performance management, strategic planning and succession planning with the Department of Health and Human Services.  As an expert problem solver, she successfully navigates intrapreneurial practices, problem exploration and solution design.  She is skilled in peer-to-peer facilitation and enjoys helping teams apply innovative practices and adopt technologies that modernize their day-to-day work. In addition to her education and experience, she holds certification in Project Management.
         linkedin: vanessa-watters-65159080    
       - name: Zaree Singer
         img: ZareeSinger2022.jpg
