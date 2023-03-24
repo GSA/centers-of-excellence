@@ -48,12 +48,6 @@ teams:
         bio: >-
           Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
         linkedin: omarsaeb
-      - name: Ekwutosi "Kwi" Okoli
-        img: KwiOkoli.png 
-        center: Customer Services Lead
-        bio: >-
-          Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
-        linkedin: kwi-okoli-mba-ms
       - name: Sam Navarro
         img: SamNavarro2022.jpg
         center: Customer Services Lead
