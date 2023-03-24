@@ -142,12 +142,6 @@ teams:
         bio: >-
           Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
         linkedin: nathanmanzotti   
-      - name: Alison O'Mara
-        img: AlisonOMara.JPG
-        center: Innovation Adoption Lead
-        bio: >-
-          Alison O’Mara has over twenty years of consulting experience supporting federal agencies including the Department of State and Department of Homeland Security. O’Mara has proven expertise integrating people, process, and technology to drive maximum outcomes for her clients. Her experience ranges from conducting organizational transitions and process assessments to designing and deploying digital transformation and supply chain management solutions that optimize mission operations and drive multi-millions of dollars in cost savings. Having a certification in Organizational Change Management, Ms. O’Mara understands that transparent and proactive communication is key to navigating the change journey. Her approach is centered upon partnering with her clients to deliver tailored solutions that will meet their needs and drive the organization forward, with a continued focus on tangible metrics and measurement along the way. O’Mara holds additional certifications in Project Management, Agile Scrum, and Lean Management as well as an active Top Secret clearance.  
-        linkedin: alisonomara  
       - name: Bethany Blakey
         img: BethanyBlakey19.jpg
         center: Innovation Adoption Lead
@@ -184,6 +178,12 @@ teams:
         bio: >-
           Vanessa Watters brings years of experience in both the private and public health care sectors to her role as an Innovation Adoption Lead at CoE.  Her federal experience includes leadership roles in quality improvement, performance management, strategic planning and succession planning with the Department of Health and Human Services.  As an expert problem solver, she successfully navigates intrapreneurial practices, problem exploration and solution design.  She is skilled in peer-to-peer facilitation and enjoys helping teams apply innovative practices and adopt technologies that modernize their day-to-day work. In addition to her education and experience, she holds certification in Project Management.
         linkedin: vanessa-watters-65159080    
+      - name: Mike Matis
+        img: MikeMatis23.png
+        center: Innovation Adoption Lead
+        bio: >-
+         Mike Matis has 20 years of experience in public service, education, and IT. His specialties include adult learning strategy, accessibility, and digital content development. He holds a Phd in Public Policy & Education Leadership which allowed him to hone his qualitative and quantitative research skills. Professionally, he has 15 years of experience as an IT professional in Maine's Public Higher Education system. Prior to joining CoE, Mike served as a Learning Designer where he directed his institution’s transition to a new online course platform, helped faculty retrofit their courses to be taught online, coached them in inclusive teaching practices, and designed faculty development programs on the use of technology in teaching, course design, and assessment.
+        linkedin: mikematis  
       - name: Zaree Singer
         img: ZareeSinger2022.jpg
         center: Innovation Adoption Lead
