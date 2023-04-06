@@ -1,7 +1,7 @@
 <div>
 {% if include.download_url %}
-    <a class="pdf" href="{{site.baseurl}}/{{include.download_url}}">{{include.download_title}}<img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a>
+    <a class="pdf" href="{{site.baseurl}}/{{include.download_url}}">{{include.download_title}} <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a> {{include.end_title}}
 {% else %}
-    <a class="pdf" href="{{site.baseurl}}/{{page.download_url}}">{{include.download_title}}<img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a>
+    <a class="pdf" href="{{site.baseurl}}/{{page.download_url}}">{{include.download_title}} <img class="icon" src="{{site.baseurl}}/images/icon-pdf.png" alt="View the PDF"></a> {{include.end_title}}
 {% endif %}
 </div>
