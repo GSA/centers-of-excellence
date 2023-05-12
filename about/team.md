@@ -30,9 +30,9 @@ teams:
         bio: >-
           Bridget Fields has a passion for identifying, understanding, and then developing solutions to challenges facing individual users and enterprises alike. Bringing more than 10 years of public sector experience to her role as the Director for Strategic Partnerships and Client Success, she supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. She is the recipient of the Special Act Award in 2018, 2022 and the Service to the Citizen award in 2021.  
         linkedin: bridget-fields-917a9b62
-        center: Communications Lead
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
+        center: Communications Lead
         bio: >-
           Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
         linkedin: daniellergallant      
