@@ -9,7 +9,7 @@ teams:
         center: Executive Director
         bio: >-
           Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
-        linkedin: jennifer-rostami-mba-154a5a12
+        linkedin: jennifer-rostami-154a5a12
       - name: Ed Golden
         img: EdGolden22.png
         center: Deputy Director
@@ -24,9 +24,15 @@ teams:
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
+      - name: Bridget Fields
+        img: Bridget Fields 21.jpg
+        center: Strategic Partnerships Lead        
+        bio: >-
+          Bridget Fields has a passion for identifying, understanding, and then developing solutions to challenges facing individual users and enterprises alike. Bringing more than 10 years of public sector experience to her role as the Director for Strategic Partnerships and Client Success, she supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. She is the recipient of the Special Act Award in 2018, 2022 and the Service to the Citizen award in 2021.  
+        linkedin: bridget-fields-917a9b62
+        center: Communications Lead
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
-        center: Communications Lead
         bio: >-
           Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
         linkedin: daniellergallant      
@@ -102,11 +108,11 @@ teams:
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
-      - name: Olivia Thom
+      - name: Olivia Olson
         img: OliviaThom2022.jpg
         center: Customer Experience Lead
         bio: >-
-          Olivia Thom has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
+          Olivia Olson has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
         linkedin: oliviathom
       - name: Rachel Edelman
         img: RachelEdelman.png
@@ -148,12 +154,6 @@ teams:
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  
-      - name: Bridget Fields
-        img: Bridget Fields 21.jpg
-        center: Innovation Adoption Lead        
-        bio: >-
-          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018 and the Service to the Citizen award in 2021.  
-        linkedin: bridget-fields-917a9b62
       - name: Cathy Beil
         img: CathyBeil2022.jpg
         center: Innovation Adoption Lead 
