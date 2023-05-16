@@ -120,6 +120,12 @@ teams:
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
+      - name: Lashanda Hodge
+        img: LashandaHodge19.jpg
+        center: Customer Experience Lead
+        bio: >-
+          Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
+        linkedin: lashandahodge
       - name: Olivia Olson
         img: OliviaThom2022.jpg
         center: Customer Experience Lead
@@ -130,12 +136,12 @@ teams:
         img: RachelEdelman.png
         center: Customer Experience Lead
         linkedin: rachel-edelman-aa530488
-      - name: Lashanda Hodge
-        img: LashandaHodge19.jpg
+      - name: Soni Meckem
+        img: SoniMeckem23.jpeg
         center: Customer Experience Lead
         bio: >-
-          Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
-        linkedin: lashandahodge    
+          Soni Meckem’s passion is making radical improvements in outcomes for the public, business, and the planet. Soni excels at leading and re-engineering complex organizations experiencing periods of strategic change. Using an iterative, rapid, results-oriented approach to success, she has a passion for white spaces, collaborative work environments, and tackling barriers to customer and employee success. Soni has 16+ years experience in civic tech and joins the CoE after completing four years as a PIF where she was detailed to NIH, VA, and DOT. She has consulted for local and state governments and was the CIO of the 4th largest court system in the U.S.. Silicon Valley positions with Cisco, Intuit, PayPal, and Sun include extensive experience in enterprise-wide Customer Experience, Service Design, Customer Driven Innovation, Operational Excellence, Change Adoption, and Business Operations. Human Centered Design (HCD), Agile, lean process reengineering and rapid experimentation are just a few tools in her toolbox.  
+        linkedin: sonimeckem    
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
         center: Data & Analytics Lead
