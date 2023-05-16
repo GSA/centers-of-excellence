@@ -35,7 +35,13 @@ teams:
         center: Communications Lead
         bio: >-
           Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: daniellergallant      
+        linkedin: daniellergallant    
+      - name: Eboni J.D. Freeman
+        img:  EboniFreeman23.jpg
+        center: Presidential Innovation Fellow
+        bio: >-
+          From organizing Google’s first disability-focused hackathon, to expanding grant access for young artists across the Front Range, to amplifying the impact of 300+ grassroots nonprofits, Eboni J.D. Freeman is dedicated to the underestimated. Eboni launched her first startup - Ability Enabled - to create more inclusive working environments for People with Disabilities (PWDs). After co-publishing Ability Enabled's workplace inclusion guidebook, Eboni joined Google as a Solutions Consultant, Hackathon Organizer, and Accessibility Educator. With her days dedicated to service design, customer experience optimization, and product management, Eboni spent her nights founding her interdisciplinary practice - Wonder Stars of the Universe - encouraging creative tension as Vice Chair of the Boulder Art Commission, and motivating entrepreneurs as a Pitch Coach for the University of Colorado, Boulder. Before joining the COE, she served as Senior Director of Programs for an international entrepreneurship accelerator serving founders focused on UN Sustainable Development Goals.
+        linkedin: ebonifreeman 
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Director 
