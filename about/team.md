@@ -38,7 +38,7 @@ teams:
         linkedin: daniellergallant    
       - name: Eboni J.D. Freeman
         img:  EboniFreeman23.jpg
-        center: Presidential Innovation Fellow
+        center: Presidential Innovation 
         bio: >-
           From organizing Google’s first disability-focused hackathon, to expanding grant access for young artists across the Front Range, to amplifying the impact of 300+ grassroots nonprofits, Eboni J.D. Freeman is dedicated to the underestimated. Eboni launched her first startup - Ability Enabled - to create more inclusive working environments for People with Disabilities (PWDs). After co-publishing Ability Enabled's workplace inclusion guidebook, Eboni joined Google as a Solutions Consultant, Hackathon Organizer, and Accessibility Educator. With her days dedicated to service design, customer experience optimization, and product management, Eboni spent her nights founding her interdisciplinary practice - Wonder Stars of the Universe - encouraging creative tension as Vice Chair of the Boulder Art Commission, and motivating entrepreneurs as a Pitch Coach for the University of Colorado, Boulder. Before joining the COE, she served as Senior Director of Programs for an international entrepreneurship accelerator serving founders focused on UN Sustainable Development Goals.
         linkedin: ebonifreeman 
@@ -196,7 +196,7 @@ teams:
         linkedin: zaree-s-290a0b10 
       - name: David Siegrist
         img: DavidSiegrist.jpg
-        center: IT Infrastructure Optimization Lead        
+        center: Infrastructure Optimization Lead        
         bio: >-
           David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
         linkedin: david-siegrist-591945b8             
