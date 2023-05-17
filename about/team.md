@@ -135,13 +135,7 @@ teams:
       - name: Rachel Edelman
         img: RachelEdelman.png
         center: Customer Experience Lead
-        linkedin: rachel-edelman-aa530488
-      - name: Soni Meckem
-        img: SoniMeckem23.jpeg
-        center: Customer Experience Lead
-        bio: >-
-          Soni Meckem’s passion is making radical improvements in outcomes for the public, business, and the planet. Soni excels at leading and re-engineering complex organizations experiencing periods of strategic change. Using an iterative, rapid, results-oriented approach to success, she has a passion for white spaces, collaborative work environments, and tackling barriers to customer and employee success. Soni has 16+ years experience in civic tech and joins the CoE after completing four years as a PIF where she was detailed to NIH, VA, and DOT. She has consulted for local and state governments and was the CIO of the 4th largest court system in the U.S.. Silicon Valley positions with Cisco, Intuit, PayPal, and Sun include extensive experience in enterprise-wide Customer Experience, Service Design, Customer Driven Innovation, Operational Excellence, Change Adoption, and Business Operations. Human Centered Design (HCD), Agile, lean process reengineering and rapid experimentation are just a few tools in her toolbox.  
-        linkedin: sonimeckem    
+        linkedin: rachel-edelman-aa530488    
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
         center: Data & Analytics Lead
