@@ -20,7 +20,7 @@ teams:
     people:
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
-        center: Acting Chief of Staff
+        center: Chief of Staff
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
