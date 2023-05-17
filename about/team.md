@@ -9,7 +9,7 @@ teams:
         center: Executive Director
         bio: >-
           Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
-        linkedin: jennifer-rostami-mba-154a5a12
+        linkedin: jennifer-rostami-154a5a12
       - name: Ed Golden
         img: EdGolden22.png
         center: Deputy Director
@@ -20,16 +20,28 @@ teams:
     people:
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
-        center: Acting Chief of Staff
+        center: Chief of Staff
         bio: >-
           Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
         linkedin: adam-grandt-ht0
+      - name: Bridget Fields
+        img: Bridget Fields 21.jpg
+        center: Strategic Partnerships Lead        
+        bio: >-
+          Bridget Fields has a passion for identifying, understanding, and then developing solutions to challenges facing individual users and enterprises alike. Bringing more than 10 years of public sector experience to her role as the Director for Strategic Partnerships and Client Success, she supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. She is the recipient of the Special Act Award in 2018, 2022 and the Service to the Citizen award in 2021.  
+        linkedin: bridget-fields-917a9b62
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
         center: Communications Lead
         bio: >-
           Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: daniellergallant      
+        linkedin: daniellergallant    
+      - name: Eboni J.D. Freeman
+        img:  EboniFreeman23.jpg
+        center: Communities Lead 
+        bio: >-
+          From organizing Google’s first disability-focused hackathon, to expanding grant access for young artists across the Front Range, to amplifying the impact of 300+ grassroots nonprofits, Eboni J.D. Freeman is dedicated to the underestimated. Eboni launched her first startup - Ability Enabled - to create more inclusive working environments for People with Disabilities (PWDs). After co-publishing Ability Enabled's workplace inclusion guidebook, Eboni joined Google as a Solutions Consultant, Hackathon Organizer, and Accessibility Educator. With her days dedicated to service design, customer experience optimization, and product management, Eboni spent her nights founding her interdisciplinary practice - Wonder Stars of the Universe - encouraging creative tension as Vice Chair of the Boulder Art Commission, and motivating entrepreneurs as a Pitch Coach for the University of Colorado, Boulder. Before joining the COE, she served as Senior Director of Programs for an international entrepreneurship accelerator serving founders focused on UN Sustainable Development Goals.
+        linkedin: ebonifreeman 
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Director 
@@ -48,6 +60,12 @@ teams:
         bio: >-
           Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
         linkedin: omarsaeb
+      - name: Ekwutosi ‘Kwi’ Okoli
+        img: Okoli23.png
+        center: Customer Services Lead
+        bio: >-
+          Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
+        linkedin: kwi-okoli-mba-ms
       - name: Sam Navarro
         img: SamNavarro2022.jpg
         center: Customer Services Lead
@@ -102,22 +120,22 @@ teams:
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
         linkedin: uxcrank
-      - name: Olivia Thom
-        img: OliviaThom2022.jpg
-        center: Customer Experience Lead
-        bio: >-
-          Olivia Thom has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
-        linkedin: oliviathom
-      - name: Rachel Edelman
-        img: RachelEdelman.png
-        center: Customer Experience Lead
-        linkedin: rachel-edelman-aa530488
       - name: Lashanda Hodge
         img: LashandaHodge19.jpg
         center: Customer Experience Lead
         bio: >-
           Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
-        linkedin: lashandahodge    
+        linkedin: lashandahodge
+      - name: Olivia Olson
+        img: OliviaThom2022.jpg
+        center: Customer Experience Lead
+        bio: >-
+          Olivia Olson has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
+        linkedin: oliviathom
+      - name: Rachel Edelman
+        img: RachelEdelman.png
+        center: Customer Experience Lead
+        linkedin: rachel-edelman-aa530488    
       - name: Alexandra Porter
         img: AlexandraPorter19.jpg
         center: Data & Analytics Lead
@@ -148,12 +166,6 @@ teams:
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
         linkedin: bethanyblakey  
-      - name: Bridget Fields
-        img: Bridget Fields 21.jpg
-        center: Innovation Adoption Lead        
-        bio: >-
-          Bridget Fields has a passion for identifying, understanding, and developing solutions to challenges facing a variety of users, including those unique to the civil service. Bringing over eight years of public sector experience to her role as an Innovation Adoption Lead, Fields supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. Fields recieved the Special Act Award in 2018 and the Service to the Citizen award in 2021.  
-        linkedin: bridget-fields-917a9b62
       - name: Cathy Beil
         img: CathyBeil2022.jpg
         center: Innovation Adoption Lead 
@@ -190,7 +202,7 @@ teams:
         linkedin: zaree-s-290a0b10 
       - name: David Siegrist
         img: DavidSiegrist.jpg
-        center: IT Infrastructure Optimization Lead        
+        center: Infrastructure Optimization Lead        
         bio: >-
           David Siegrist has over 20 years of Information Technology experience. Prior to joining CoE, Siegrist worked at the Department of Veterans Affairs (VA) providing telecommunications, cloud computing, data center modernization, and cyber security expertise. Siegrist served as a Senior Subject Matter Expert to the Deputy Assistant Secretary for Veterans Affairs on cloud modernization and cyber security.  He was the National Capital Area Service Line Director supporting Washington D.C headquarters including the White House / VA National Contact Center of Excellence and Disaster Recovery Data Centers. Siegrist served as a Senior Solutions Architect and Program Manager for the VA Enterprise Infrastructure Solutions Office.  Siegrist also worked at the Department of State as a Senior Network Engineer/ Security and Telecommunications Engineer supporting the Diplomatic Mission and National Security initiatives.  Siegrist is an Army Veteran who served with the 2-43rd Air Defense Artillery Brigade Providing tactical frontline support. 
         linkedin: david-siegrist-591945b8             
