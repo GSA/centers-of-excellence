@@ -6,7 +6,7 @@ title: Resources and Workshops
 <img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
 
 ## CoE Resources + Advisory Support 
-The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners.
+intro: "The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners."
 
 These Starter Guides, Models & Templates are available to support federal agencies undergoing technology transformation projects. CoE leads host virtual workshops and office hours to offer live support.
 
