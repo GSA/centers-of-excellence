@@ -10,22 +10,22 @@ title: Webcasts and Speaking Events
 ## CoE Resources + Advisory Support 
 The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners. 
 
-These Starter Guides, Models & Templates will be available to support federal agencies undergoing technology transformation projects. Through funding from 
+These Starter Guides, Models & Templates are available to support federal agencies undergoing technology transformation projects. Through funding from 
 the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.  
 
 Using these resources, any Federal agency can take the first steps in their modernization journey by considering concepts themselves. CoE leads are also hosting live support at virtual workshops and office hours. 
 
-Each resource will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
+Resources are will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
 
 Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
 
 ## Check out our available resources
-* [IA Culture Pre-Assessment Guide](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf)
-* [Data Governance Charter Templates](https://coe.gsa.gov/coe/data-analytics.html)
-* [Strategic Foresight 101](https://coe.gsa.gov/docs/StrategicForesight101.pdf)   
-* [CX Maturity Model](https://coe.gsa.gov/docs/CXMaturityModel.pdf)
-* [Building Effective Industry Engagement Guide](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
-* [Cloud Migration Acquisition Journey Map](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf)
+* [IA Culture Pre-Assessment Guide (PDF):](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
+* [Data Governance Charter Templates (DOC)](https://coe.gsa.gov/coe/data-analytics.html)
+* [Strategic Foresight 101: Futures Methods for Government (PDF):](https://coe.gsa.gov/docs/StrategicForesight101.pdf) This introductory guide was desiged to orient you to foresight and design futures methods and help your organization better anticipate risk and prepare proactively for the future. 
+* [CX Maturity Model (PDF)](https://coe.gsa.gov/docs/CXMaturityModel.pdf)
+* [Building Effective Industry Engagement Guide (PDF)](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+* [Cloud Migration Acquisition Journey Map (PDF)](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf)
 
 ## Upcoming Events
 **New!** [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
