@@ -3,10 +3,6 @@ layout: with-grid
 title: Webcasts and Speaking Events 
 ---
 
-<a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
-
-
 ## CoE Resources + Advisory Support 
 The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners. 
 
@@ -18,6 +14,9 @@ Using these resources, any Federal agency can take the first steps in their mode
 Resources are will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
 
 Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
+
+<a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
 
 ## Check out our available resources
 * [IA Culture Pre-Assessment Guide (PDF):](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
