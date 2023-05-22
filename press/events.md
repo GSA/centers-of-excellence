@@ -23,7 +23,7 @@ Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration
 
 ## Check out our available resources
 * [**IA Culture Pre-Assessment Guide (PDF):**](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
-* **Data Governance Charter Templates (DOC):**(These customizable charter templates are designed to help federal government agencies set up data governance bodies to better use agency data securely and strategically. 
+* **Data Governance Charter Templates (DOC):** These customizable charter templates are designed to help federal government agencies set up data governance bodies to better use agency data securely and strategically. 
   - [Data Governance Advisory Group (DGAG) Charter](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Advisory-Group-(DGAG)-Charter-Template.docx)
   - [Data Governance Steering Committee (DGSC) Charter](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Steering-Committee-(DGSC)-Charter-Template.docx)
   - [Office of the Chief Data Officer (OCDO) Charter](https://coe.gsa.gov/docs/DA-CoE-Office-of-the-Chief-Data-Officer-(OCDO)-Charter-Template.docx)
