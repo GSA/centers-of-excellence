@@ -29,32 +29,34 @@ Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tu
 
 ## Upcoming Events
 **New!** [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
-* June 1, 2023: **CX Intro:** Part 1 in the series will dive into the foundations of CX and give insight into basic definitions and concepts, including how to create a customer-centric culture.  
+* June 1: **CX Intro:** Part 1 in the series will dive into the foundations of CX and give insight into basic definitions and concepts, including how to create a customer-centric culture.  
 * June 8 : **Human Centered Design Intro:** Part 2 will explore Human-Centered Design by understanding the user, identifying their needs, and building solutions based on those needs. 
 * June 15: **Journey Mapping Intro:** Part 3 will look at the practice of journey mapping: what it is, what it does, and how to create their own. 
+
 Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration is required via [Eventbrite](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207). Participants receive a ZoomGov link prior to the event.  
 
 ## Past Events
 ### 2023
 * [Journey Mapping for Data Science](https://www.eventbrite.com/e/journey-mapping-for-data-science-tickets-541636899547): March 2, 2023 10:30 a.m. – 12 p.m. 
-* [Cloud Migration Acquisition Journey Mapping Workshop](https://www.eventbrite.com/e/journey-mapping-for-cloud-migration-acquisition-tickets-576286166437): March 23, 2023 11am - 12pm EDT
+* [Cloud Migration Acquisition Journey Mapping Workshop](https://www.eventbrite.com/e/journey-mapping-for-cloud-migration-acquisition-tickets-576286166437): March 23, 2023 11 a.m. - 12 p.m. EST
+* [Moving beyond Mainframes: Leveraging Legacy Systems to build the future of CivicTech](https://www.eventbrite.com/e/lets-talk-transformation-ltt-moving-beyond-mainframes-5182023-tickets-629222620797): May 18, 2023 11 a.m. - 12 p.m. EST
 
 ### 2022
-* [IT Change Readiness Workshop Series](https://www.eventbrite.com/e/it-change-readiness-workshop-series-hosted-by-centers-of-excellence-coe-tickets-337459288817)
+* [IT Change Readiness Workshop Series:](https://www.eventbrite.com/e/it-change-readiness-workshop-series-hosted-by-centers-of-excellence-coe-tickets-337459288817)
   - May 26, 2022: Workshop 1: Introduction to Culture
   - June 2, 2022: Workshop 2: Culture Pre-Assessment
   - June 16, 2022: Office Hours: Learn more about your Culture Pre-Assessment
 * June 23, 2022: [Data Governance Charter Template Office Hour](https://www.eventbrite.com/e/data-analytics-da-coe-data-governance-office-hour-tickets-141474097835)
-* [Strategic Foresight 101](https://www.eventbrite.com/e/strategic-foresight-101-hosted-by-innovation-adoptionia-coe-tickets-358842978007))   
+* [Strategic Foresight 101 Workshop Series:](https://www.eventbrite.com/e/strategic-foresight-101-hosted-by-innovation-adoptionia-coe-tickets-358842978007)
   - Introduction and Overview: June 21, 2022 11 a.m. - 12 p.m. EST
   - Practice Foresight Methods: June 28, 2022 10:30 a.m. - 12 pm. EST
   - Optional Office Hours: June 30, 2022 11 a.m. - 12 p.m. EST
 * [CX Maturity Model Office Hour](https://www.eventbrite.com/e/cx-maturity-model-office-hour-tickets-358835936947): July 13, 2022, 11 a.m. to 12 p.m. EST
-* [Building Effective Industry Engagement Workshop](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
-  - Workshop 1: IE Overview & Make Connections: July 12, 2022, 1- 2 p.m. EST
-  - Workshop 1 Optional Office Hours: July 19, 2022 1-1:30 p.m. EST
+* [Building Effective Industry Engagement Workshop Series:](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+  - Workshop 1: IE Overview & Make Connections: July 12, 2022, 1 - 2 p.m. EST
+  - Optional Office Hours: July 19, 2022 1 - 1:30 p.m. EST
   - Workshop 2: Techniques & Forums: July 21, 2022 11 a.m. - 12 p.m. EST
-  - Optional Office Hours: July 26, 2022 1-1:30 p.m. EST
+  - Optional Office Hours: July 26, 2022 1 - 1:30 p.m. EST
 
 
 
