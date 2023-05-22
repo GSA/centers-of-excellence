@@ -37,7 +37,8 @@ Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration
 
 ## Past Events
 ### 2023
-* [Journey Mapping for Data Science](https://www.eventbrite.com/e/journey-mapping-for-data-science-tickets-541636899547): March 2, 2023 10:30 a.m. – 12 p.m. 
+* [Journey Mapping for Data Science](https://www.eventbrite.com/e/journey-mapping-for-data-science-tickets-541636899547): March 2, 2023 10:30 a.m. – 12 p.m. EST
+* [Customer Experience 101:](https://www.eventbrite.com/e/lets-talk-transformation-ltt-cx-101-tickets-593330265797) March 3, 2023 12:30 – 1:20 p.m. EST
 * [Cloud Migration Acquisition Journey Mapping Workshop](https://www.eventbrite.com/e/journey-mapping-for-cloud-migration-acquisition-tickets-576286166437): March 23, 2023 11 a.m. - 12 p.m. EST
 * [Moving beyond Mainframes: Leveraging Legacy Systems to build the future of CivicTech](https://www.eventbrite.com/e/lets-talk-transformation-ltt-moving-beyond-mainframes-5182023-tickets-629222620797): May 18, 2023 11 a.m. - 12 p.m. EST
 
@@ -46,17 +47,17 @@ Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration
   - May 26, 2022: Workshop 1: Introduction to Culture
   - June 2, 2022: Workshop 2: Culture Pre-Assessment
   - June 16, 2022: Office Hours: Learn more about your Culture Pre-Assessment
-* June 23, 2022: [Data Governance Charter Template Office Hour](https://www.eventbrite.com/e/data-analytics-da-coe-data-governance-office-hour-tickets-141474097835)
+* [Data Governance Charter Template Office Hour:](https://www.eventbrite.com/e/data-analytics-da-coe-data-governance-office-hour-tickets-141474097835)June 23, 2022, 10 - 11 a.m. EST
 * [Strategic Foresight 101 Workshop Series:](https://www.eventbrite.com/e/strategic-foresight-101-hosted-by-innovation-adoptionia-coe-tickets-358842978007)
-  - Introduction and Overview: June 21, 2022 11 a.m. - 12 p.m. EST
-  - Practice Foresight Methods: June 28, 2022 10:30 a.m. - 12 pm. EST
-  - Optional Office Hours: June 30, 2022 11 a.m. - 12 p.m. EST
+  - Introduction and Overview: June 21, 2022, 11 a.m. - 12 p.m. EST
+  - Practice Foresight Methods: June 28, 2022, 10:30 a.m. - 12 pm. EST
+  - Optional Office Hours: June 30, 2022, 11 a.m. - 12 p.m. EST
 * [CX Maturity Model Office Hour](https://www.eventbrite.com/e/cx-maturity-model-office-hour-tickets-358835936947): July 13, 2022, 11 a.m. to 12 p.m. EST
 * [Building Effective Industry Engagement Workshop Series:](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
   - Workshop 1: IE Overview & Make Connections: July 12, 2022, 1 - 2 p.m. EST
-  - Optional Office Hours: July 19, 2022 1 - 1:30 p.m. EST
-  - Workshop 2: Techniques & Forums: July 21, 2022 11 a.m. - 12 p.m. EST
-  - Optional Office Hours: July 26, 2022 1 - 1:30 p.m. EST
+  - Optional Office Hours: July 19, 2022, 1 - 1:30 p.m. EST
+  - Workshop 2: Techniques & Forums: July 21, 2022, 11 a.m. - 12 p.m. EST
+  - Optional Office Hours: July 26, 2022, 1 - 1:30 p.m. EST
 
 
 
