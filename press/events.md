@@ -1,19 +1,17 @@
 ---
 layout: with-grid
-title: Webcasts and Speaking Events 
+title: Resources and Workshops
 ---
 <a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
 <img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
 
 ## CoE Resources + Advisory Support 
-The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners. 
+The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners.
+{: .intro} 
 
-These Starter Guides, Models & Templates are available to support federal agencies undergoing technology transformation projects. Through funding from 
-the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.  
+These Starter Guides, Models & Templates are available to support federal agencies undergoing technology transformation projects. CoE leads host virtual workshops and office hours to offer live support.
 
-Using these resources, any Federal agency can take the first steps in their modernization journey by considering concepts themselves. CoE leads are also hosting live support at virtual workshops and office hours. 
-
-Resources are will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
+Through funding from the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.
 
 ## Upcoming Events
 **New!** [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
@@ -25,7 +23,10 @@ Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration
 
 ## Check out our available resources
 * [**IA Culture Pre-Assessment Guide (PDF):**](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
-* [**Data Governance Charter Templates (DOC):**](https://coe.gsa.gov/coe/data-analytics.html)These customizable charter templates are designed to help federal government agencies set up data governance bodies (Data Governance Advisory Group, Data Governance Steering Committee, Office of the Chief Data Officer) to better use agency data securely and strategically. 
+* **Data Governance Charter Templates (DOC):**(These customizable charter templates are designed to help federal government agencies set up data governance bodies to better use agency data securely and strategically. 
+  - [Data Governance Advisory Group (DGAG) Charter](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Advisory-Group-(DGAG)-Charter-Template.docx)
+  - [Data Governance Steering Committee (DGSC) Charter](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Steering-Committee-(DGSC)-Charter-Template.docx)
+  - [Office of the Chief Data Officer (OCDO) Charter](https://coe.gsa.gov/docs/DA-CoE-Office-of-the-Chief-Data-Officer-(OCDO)-Charter-Template.docx)
 * [**Strategic Foresight 101: Futures Methods for Government (PDF):**](https://coe.gsa.gov/docs/StrategicForesight101.pdf) This introductory guide was designed to orient you to foresight and design futures methods and help your organization better anticipate risk and prepare proactively for the future. 
 * [**CX Maturity Model (PDF):**](https://coe.gsa.gov/docs/CXMaturityModel.pdf) CX work is wide-ranging. The CX Maturity Model was designed to provide organizations with a deeper understanding of how to measure their current maturity, and how to advance to the next level.
 * [**Building Effective Industry Engagement Guide (PDF):**](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf) This guide to was designed to prepare organizations across government to develop
@@ -50,7 +51,7 @@ and improve Industry Engagement (IE) in relation to IT modernization.
   - Practice Foresight Methods: June 28, 2022, 10:30 a.m. - 12 pm. EST
   - Optional Office Hours: June 30, 2022, 11 a.m. - 12 p.m. EST
 * [CX Maturity Model Office Hour](https://www.eventbrite.com/e/cx-maturity-model-office-hour-tickets-358835936947): July 13, 2022, 11 a.m. to 12 p.m. EST
-* [Building Effective Industry Engagement Workshop Series:](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+* [Building Effective Industry Engagement Workshop Series:](https://www.eventbrite.com/e/better-industry-engagement-workshop-series-tickets-377457143477)
   - Workshop 1: IE Overview & Make Connections: July 12, 2022, 1 - 2 p.m. EST
   - Optional Office Hours: July 19, 2022, 1 - 1:30 p.m. EST
   - Workshop 2: Techniques & Forums: July 21, 2022, 11 a.m. - 12 p.m. EST
