@@ -1,6 +1,6 @@
 ---
 layout: with-grid
-title: Webcasts and Speaking Events 
+title: Resources and Workshops
 ---
 <a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
 <img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
@@ -50,7 +50,7 @@ and improve Industry Engagement (IE) in relation to IT modernization.
   - Practice Foresight Methods: June 28, 2022, 10:30 a.m. - 12 pm. EST
   - Optional Office Hours: June 30, 2022, 11 a.m. - 12 p.m. EST
 * [CX Maturity Model Office Hour](https://www.eventbrite.com/e/cx-maturity-model-office-hour-tickets-358835936947): July 13, 2022, 11 a.m. to 12 p.m. EST
-* [Building Effective Industry Engagement Workshop Series:](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+* [Building Effective Industry Engagement Workshop Series:](https://www.eventbrite.com/e/better-industry-engagement-workshop-series-tickets-377457143477)
   - Workshop 1: IE Overview & Make Connections: July 12, 2022, 1 - 2 p.m. EST
   - Optional Office Hours: July 19, 2022, 1 - 1:30 p.m. EST
   - Workshop 2: Techniques & Forums: July 21, 2022, 11 a.m. - 12 p.m. EST
