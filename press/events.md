@@ -20,12 +20,13 @@ Resources are will be hosted here on our website and the interactive workshop se
 Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
 
 ## Check out our available resources
-* [IA Culture Pre-Assessment Guide (PDF):](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
-* [Data Governance Charter Templates (DOC)](https://coe.gsa.gov/coe/data-analytics.html)
-* [Strategic Foresight 101: Futures Methods for Government (PDF):](https://coe.gsa.gov/docs/StrategicForesight101.pdf) This introductory guide was desiged to orient you to foresight and design futures methods and help your organization better anticipate risk and prepare proactively for the future. 
-* [CX Maturity Model (PDF)](https://coe.gsa.gov/docs/CXMaturityModel.pdf)
-* [Building Effective Industry Engagement Guide (PDF)](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
-* [Cloud Migration Acquisition Journey Map (PDF)](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf)
+* [IA Culture Pre-Assessment Guide (PDF):](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
+* [Data Governance Charter Templates (DOC):](https://coe.gsa.gov/coe/data-analytics.html)These customizable charter templates are designed to help federal government agencies set up data governance bodies (Data Governance Advisory Group, Data Governance Steering Committee, Office of the Chief Data Officer) to better use agency data securely and strategically. 
+* [Strategic Foresight 101: Futures Methods for Government (PDF):](https://coe.gsa.gov/docs/StrategicForesight101.pdf) This introductory guide was designed to orient you to foresight and design futures methods and help your organization better anticipate risk and prepare proactively for the future. 
+* [CX Maturity Model (PDF):](https://coe.gsa.gov/docs/CXMaturityModel.pdf) CX work is wide-ranging. The CX Maturity Model was designed to provide organizations with a deeper understanding of how to measure their current maturity, and how to advance to the next level.
+* [Building Effective Industry Engagement Guide (PDF):](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf) This guide to was designed to prepare organizations across government to develop
+and improve Industry Engagement (IE) in relation to IT modernization.
+* [Cloud Migration Acquisition Journey Map (PDF):](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf) How the government buys cloud migration services is crucial to the success of the agency’s cloud adoption. This journey map template explores the often complex process of Cloud Migration Acquisition and includes requirement documents such as PWS, RFQ, and QASP. etc.
 
 ## Upcoming Events
 **New!** [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
