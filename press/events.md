@@ -3,6 +3,62 @@ layout: with-grid
 title: Webcasts and Speaking Events 
 ---
 
+<a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
+
+Last year CoE leadership talked with our partners and asked how we could better serve federal agencies and the public, and many said they’d really like to know what other agencies are doing to modernize successfully. So here it is! 
+
+
+## CoE Resources + Advisory Support 
+The CoE collects key findings from our work with more than 25 federal agencies, and are pleased to share with federal IT practitioners. 
+
+These Starter Guides, Models & Templates will be available to support federal agencies undergoing technology transformation projects. Through funding from 
+the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.  
+
+Using these resources, any Federal agency can take the first steps in their modernization journey by considering concepts themselves. CoE leads are also hosting live support at virtual workshops and office hours. 
+
+Each resource will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
+
+Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
+
+## Check out our new releases
+* [IA Culture Pre-Assessment Guide](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf)
+* [Data Governance Charter Templates](https://coe.gsa.gov/coe/data-analytics.html)
+* [Strategic Foresight 101](https://coe.gsa.gov/docs/StrategicForesight101.pdf)   
+* [CX Maturity Model](https://coe.gsa.gov/docs/CXMaturityModel.pdf)
+* [Building Effective Industry Engagement Guide](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+* [Cloud Migration Acquisition Journey Map](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf)
+
+## Upcoming Events
+**New!** [Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
+* June 1: CX Intro: Part 1 in the series will dive into the foundations of CX and give insight into basic definitions and concepts, including how to create a customer-centric culture.  
+* June 8 : Human Centered Design Intro: Part 2 will explore Human-Centered Design by understanding the user, identifying their needs, and building solutions based on those needs. 
+* June 15: Journey Mapping Intro: Part 3 will look at the practice of journey mapping: what it is, what it does, and how to create their own. 
+Registration is required via [Eventbrite](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207). Participants receive a ZoomGov link prior to the event.  
+
+## Past Events
+* [IT Change Readiness Workshop Series](https://www.eventbrite.com/e/it-change-readiness-workshop-series-hosted-by-centers-of-excellence-coe-tickets-337459288817))
+  - May 26, 2022: Workshop 1: Introduction to Culture
+  - June 2, 2022: Workshop 2: Culture Pre-Assessment
+  - June 16, 2022: Office Hours: Learn more about your Culture Pre-Assessment
+* June 23, 2022: [Data Governance Charter Template Office Hour](https://www.eventbrite.com/e/data-analytics-da-coe-data-governance-office-hour-tickets-141474097835)
+* [Strategic Foresight 101](https://www.eventbrite.com/e/strategic-foresight-101-hosted-by-innovation-adoptionia-coe-tickets-358842978007))   
+  - Introduction and Overview: June 21, 2022 11 a.m. - 12 p.m. EST
+  - Practice Foresight Methods: June 28, 2022 10:30 a.m. - 12 pm. EST
+  - Optional Office Hours: June 30, 2022 11 a.m. - 12 p.m. EST
+* [CX Maturity Model]((https://www.eventbrite.com/e/cx-maturity-model-office-hour-tickets-358835936947)
+  - CX Office Hour: July 13, 2022, 11 a.m. to 12 p.m. EST
+* [Building Effective Industry Engagement Guide](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+  - Workshop 1: IE Overview & Make Connections: July 12, 2022, 1- 2 p.m. EST
+  - Workshop 1 Optional Office Hours: July 19, 2022 1-1:30 p.m. EST
+  - Workshop 2: Techniques & Forums: July 21, 2022 11 a.m. - 12 p.m. EST
+  - Optional Office Hours: July 26, 2022 1-1:30 p.m. EST
+* [Cloud Migration Acquisition Journey Map](https://www.eventbrite.com/e/journey-mapping-for-cloud-migration-acquisition-tickets-576286166437): March 23, 2023 11am - 12pm EDT
+
+
+
+
+
 <!-- # Webcasts and Speaking Events
 
 ## Previous
