@@ -13,8 +13,6 @@ Using these resources, any Federal agency can take the first steps in their mode
 
 Resources are will be hosted here on our website and the interactive workshop series will be held virtually through Zoom for Government. Live captioning is available to all participants. The sessions are open only for federal employees. 
 
-Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
-
 <a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
 <img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
 
@@ -59,7 +57,7 @@ Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration
   - Workshop 2: Techniques & Forums: July 21, 2022, 11 a.m. - 12 p.m. EST
   - Optional Office Hours: July 26, 2022, 1 - 1:30 p.m. EST
 
-
+Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tuned for details on each new offering! 
 
 
 
