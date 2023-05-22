@@ -25,10 +25,10 @@ Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration
 
 ## Check out our available resources
 * [**IA Culture Pre-Assessment Guide (PDF):**](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
-* [**Data Governance Charter Templates (DOC):**](https://coe.gsa.gov/coe/data-analytics.html)These customizable charter templates are designed to help federal government agencies set up data governance bodies to better use agency data securely and strategically. 
-  - [Data Governance Advisory Group](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Advisory-Group-(DGAG)-Charter-Template.docx)
-  - [Data Governance Steering Committee](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Steering-Committee-(DGSC)-Charter-Template.docx)
-  - [Office of the Chief Data Officer](https://coe.gsa.gov/docs/DA-CoE-Office-of-the-Chief-Data-Officer-(OCDO)-Charter-Template.docx)
+* **Data Governance Charter Templates (DOC):**(These customizable charter templates are designed to help federal government agencies set up data governance bodies to better use agency data securely and strategically. 
+  - [Data Governance Advisory Group (DGAG) Charter](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Advisory-Group-(DGAG)-Charter-Template.docx)
+  - [Data Governance Steering Committee (DGSC) Charter](https://coe.gsa.gov/docs/DA-CoE-Data-Governance-Steering-Committee-(DGSC)-Charter-Template.docx)
+  - [Office of the Chief Data Officer (OCDO) Charter](https://coe.gsa.gov/docs/DA-CoE-Office-of-the-Chief-Data-Officer-(OCDO)-Charter-Template.docx)
 * [**Strategic Foresight 101: Futures Methods for Government (PDF):**](https://coe.gsa.gov/docs/StrategicForesight101.pdf) This introductory guide was designed to orient you to foresight and design futures methods and help your organization better anticipate risk and prepare proactively for the future. 
 * [**CX Maturity Model (PDF):**](https://coe.gsa.gov/docs/CXMaturityModel.pdf) CX work is wide-ranging. The CX Maturity Model was designed to provide organizations with a deeper understanding of how to measure their current maturity, and how to advance to the next level.
 * [**Building Effective Industry Engagement Guide (PDF):**](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf) This guide to was designed to prepare organizations across government to develop
