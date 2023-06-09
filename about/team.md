@@ -62,22 +62,16 @@ teams:
         linkedin: omarsaeb
       - name: Ekwutosi ‘Kwi’ Okoli
         img: Okoli23.png
-        center: Customer Services Lead
+        center: Client Services Lead
         bio: >-
           Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
         linkedin: kwi-okoli-mba-ms
       - name: Sam Navarro
         img: SamNavarro2022.jpg
-        center: Customer Services Lead
+        center: Client Services Lead
         bio: >-
           Samuel Navarro, CoE’s Director of Customer Services, is responsible for planning and implementing customer development strategies including the support of operational capabilities. Since 2014, Navarro has held positions across GSA including Wireless Mobility Program Manager, Contract Modifications Manager, and Contracting Officer Representative for the third largest network and telecommunications contract in the agency. Prior to joining CoE, Navarro served as the Director for GSA’s Customer Strategic Solutions Division (CSSD). He also held the position of Federal Agency Manager assisting agencies in modernizing their network infrastructure across the United States. 
         linkedin: samuel-navarro-6036258
-      - name: Anil 'Neil' Chaudhry
-        img: AnilChaudhry20.jpg
-        center: Artificial Intelligence Lead
-        bio: >-
-          Anil Chaudhry has over 20 years of progressive leadership experience in technology delivery, operations, and program management in the defense, intelligence, and national security sectors. At the Artificial Intelligence CoE, Chaudhry advises federal agencies on establishing mature data governance and management practices, developing innovative approaches for leveraging data as a strategic asset, and laying the foundation for advancing data discovery, access, and use through artificial intelligence and machine learning. Prior to joining the CoE, Chaudhry served in critical leadership positions within US Customs and Border Protection and as a Presidential Management Fellow (PMF) at the Defense Business Transformation Agency. Chaudhry served as an enlisted soldier in the U.S. Army Chemical Corps and as a commissioned officer in the U.S. Army Transportation Corps. Chaudhry was one of three DHS employees selected to attend the National War College in 2016 as part of the DHS Senior Succession Management Program.
-        linkedin: anil-neil-chaudhry
       - name: Eric Ewing
         img: EricEwing20.jpg  
         center: Artificial Intelligence Lead
