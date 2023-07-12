@@ -14,12 +14,7 @@ These Starter Guides, Models & Templates are available to support federal agenci
 Through funding from the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.
 
 ## Upcoming Events
-**New!** [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
-* June 1: **CX Intro:** Part 1 in the series will dive into the foundations of CX and give insight into basic definitions and concepts, including how to create a customer-centric culture.  
-* June 8 : **Human Centered Design Intro:** Part 2 will explore Human-Centered Design by understanding the user, identifying their needs, and building solutions based on those needs. 
-* June 15: **Journey Mapping Intro:** Part 3 will look at the practice of journey mapping: what it is, what it does, and how to create their own. 
-
-Workshops take place on Thursdays at 12:00 - 1:00 pm (EST) on Zoom. Registration is required via [Eventbrite](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207). Participants receive a ZoomGov link prior to the event.  
+**Coming Soon!**  
 
 ## Check out our available resources
 * [**IA Culture Pre-Assessment Guide (PDF):**](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
@@ -39,6 +34,10 @@ and improve Industry Engagement (IE) in relation to IT modernization.
 * [Customer Experience 101:](https://www.eventbrite.com/e/lets-talk-transformation-ltt-cx-101-tickets-593330265797) March 3, 2023 12:30 – 1:20 p.m. EST
 * [Cloud Migration Acquisition Journey Mapping Workshop](https://www.eventbrite.com/e/journey-mapping-for-cloud-migration-acquisition-tickets-576286166437): March 23, 2023 11 a.m. - 12 p.m. EST
 * [Moving beyond Mainframes: Leveraging Legacy Systems to build the future of CivicTech](https://www.eventbrite.com/e/lets-talk-transformation-ltt-moving-beyond-mainframes-5182023-tickets-629222620797): May 18, 2023 11 a.m. - 12 p.m. EST
+* [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
+  - June 1: **CX Intro:** Part 1 in the series dives into the foundations of CX and give insight into basic definitions and concepts, including how to create a customer-centric culture.  
+  - June 8 : **Human Centered Design Intro:** Part 2 explores Human-Centered Design by understanding the user, identifying their needs, and building solutions based on those needs. 
+  - June 15: **Journey Mapping Intro:** Part 3 looks at the practice of journey mapping: what it is, what it does, and how to create their own. 
 
 ### 2022
 * [IT Change Readiness Workshop Series:](https://www.eventbrite.com/e/it-change-readiness-workshop-series-hosted-by-centers-of-excellence-coe-tickets-337459288817)
