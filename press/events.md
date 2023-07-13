@@ -35,9 +35,9 @@ and improve Industry Engagement (IE) in relation to IT modernization.
 * [Cloud Migration Acquisition Journey Mapping Workshop](https://www.eventbrite.com/e/journey-mapping-for-cloud-migration-acquisition-tickets-576286166437): March 23, 2023 11 a.m. - 12 p.m. EST
 * [Moving beyond Mainframes: Leveraging Legacy Systems to build the future of CivicTech](https://www.eventbrite.com/e/lets-talk-transformation-ltt-moving-beyond-mainframes-5182023-tickets-629222620797): May 18, 2023 11 a.m. - 12 p.m. EST
 * [CX Workshop Series: Enabling Customer-Centric Innovation in Government Agencies](https://www.eventbrite.com/e/enabling-customer-centric-innovation-in-government-agencies-cx-workshop-tickets-637527932207)
-  - June 1: **CX Intro:** Part 1 in the series dives into the foundations of CX and give insight into basic definitions and concepts, including how to create a customer-centric culture.  
-  - June 8 : **Human Centered Design Intro:** Part 2 explores Human-Centered Design by understanding the user, identifying their needs, and building solutions based on those needs. 
-  - June 15: **Journey Mapping Intro:** Part 3 looks at the practice of journey mapping: what it is, what it does, and how to create their own. 
+  - June 1: CX Intro
+  - June 8 : Human Centered Design Intro
+  - June 15: Journey Mapping Intro
 
 ### 2022
 * [IT Change Readiness Workshop Series:](https://www.eventbrite.com/e/it-change-readiness-workshop-series-hosted-by-centers-of-excellence-coe-tickets-337459288817)
