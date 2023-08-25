@@ -125,7 +125,7 @@ teams:
           Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
         linkedin: lashandahodge
       - name: Olivia Olson
-        img: OliviaThom2022.jpg
+        img: OliviaOlson23.jpg
         center: Customer Experience Lead
         bio: >-
           Olivia Olson has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
@@ -163,13 +163,7 @@ teams:
         center: Innovation Adoption Lead
         bio: >-
           Bethany Blakey has worked over 25 years with state, local, and federal governments, instituting intrapreneurial practices with leaders and surge teams to modernize management, improve programs and services, and transform government programs. As the Chief Modernization Strategist, Blakey leads the human aspect of modernization by leveraging her unique talent model that helps employees, managers, and leaders maximize their best role in driving transformation. Blakey’s multi-faceted service catalog includes evidence-based capability-building and culture-shifting interventions. From Governing Magazine’s Best Practices list during her local government days to the Harvard Ash Center Top 25 Innovations in Government list during her federal government days, Blakey is recognized for creative problem-solving that engages the talents and motivations of citizens and its supporting workforce.  
-        linkedin: bethanyblakey  
-      - name: Cathy Beil
-        img: CathyBeil2022.jpg
-        center: Innovation Adoption Lead 
-        bio: >-
-          Cathy Beil empowers passionate public servants to innovate and public organizations to make change with empathy and evidence. Beil joins the Innovation Adoption practice with over 20 years of experience promoting efficiency and effectiveness in public services at the state level, where she built lasting trust with agency commissioners, staff, and public customers. For the State of Minnesota Office of Continuous Improvement, Beil led the standup of a new Office of Enterprise Sustainability and coordinated cross-agency efforts to simplify early childhood care and education assistance processes. She has extensive expertise building collaborations and coalitions across and within organizations to reset culture and foster change, and has a unique capacity for connecting with stakeholders at all levels. Beil’s passion for asking tough questions, organizing and communicating information, and continuously improving processes are bolstered by a Master’s Degree in Library and Information Science, Lean Six Sigma Black Belt, and extensive training in Human-Centered Design, Data Visualization, and Plain Language. 
-        linkedin: cathryn-beil 
+        linkedin: bethanyblakey   
       - name: Gopa Nair
         img: GopaNair.jpeg
         center: Innovation Adoption Lead
@@ -189,13 +183,13 @@ teams:
           Vanessa Watters brings years of experience in both the private and public health care sectors to her role as an Innovation Adoption Lead at CoE.  Her federal experience includes leadership roles in quality improvement, performance management, strategic planning and succession planning with the Department of Health and Human Services.  As an expert problem solver, she successfully navigates intrapreneurial practices, problem exploration and solution design.  She is skilled in peer-to-peer facilitation and enjoys helping teams apply innovative practices and adopt technologies that modernize their day-to-day work. In addition to her education and experience, she holds certification in Project Management.
         linkedin: vanessa-watters-65159080    
       - name: Mike Matis
-        img: MikeMatis23.png
+        img: MikeMatis23.jpg
         center: Innovation Adoption Lead
         bio: >-
          Mike Matis has 20 years of experience in public service, education, and IT. His specialties include adult learning strategy, accessibility, and digital content development. He holds a Phd in Public Policy & Education Leadership which allowed him to hone his qualitative and quantitative research skills. Professionally, he has 15 years of experience as an IT professional in Maine's Public Higher Education system. Prior to joining CoE, Mike served as a Learning Designer where he directed his institution’s transition to a new online course platform, helped faculty retrofit their courses to be taught online, coached them in inclusive teaching practices, and designed faculty development programs on the use of technology in teaching, course design, and assessment.
         linkedin: mikematis  
       - name: Zaree Singer
-        img: ZareeSinger2022.jpg
+        img: ZareeSinger23.jpg
         center: Innovation Adoption Lead
         linkedin: zaree-s-290a0b10 
       - name: David Siegrist
