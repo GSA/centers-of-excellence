@@ -92,6 +92,8 @@ teams:
         linkedin: calvert-smith-cissp-pmp-4677243     
       - name: Nick Rampersad
         img: NickRampersad23.jpg
+        center: Cloud Adoption Lead
+        linkedin: nick-rampersad
       - name: Ron Williams
         img: RonWilliams21.jpg
         center: Cloud Adoption Lead
