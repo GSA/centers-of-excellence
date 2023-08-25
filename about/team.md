@@ -141,7 +141,7 @@ teams:
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
       - name: Ryan Dolan        
-        img: RyanDolan23.png
+        img: RyanDolan23.jpg
         center: Data & Analytics Lead
         bio: >-
          Ryan Dolan has over 13 years of experience leading public sector data visualization, business intelligence and data modernization initiatives.  Prior to joining CoE, Ryan served as a data scientist for the U.S. Department of Justice, Civil Rights Division and as the data visualization lead for the U.S. Census Bureau.  Additionally, Ryan is an adjunct professor teaching machine learning and data visualization to graduate students seeking their MSBA. At the Data and Analytics CoE, Ryan works closely with partner organizations to identify challenges, develop solutions, and share best practices among all stakeholders. 
