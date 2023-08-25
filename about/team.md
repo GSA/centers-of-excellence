@@ -67,13 +67,13 @@ teams:
           Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
         linkedin: kwi-okoli-mba-ms
       - name: Sam Navarro
-        img: SamNavarro2022.jpg
+        img: SamNavarro23.jpg
         center: Client Services Lead
         bio: >-
           Samuel Navarro, CoE’s Director of Customer Services, is responsible for planning and implementing customer development strategies including the support of operational capabilities. Since 2014, Navarro has held positions across GSA including Wireless Mobility Program Manager, Contract Modifications Manager, and Contracting Officer Representative for the third largest network and telecommunications contract in the agency. Prior to joining CoE, Navarro served as the Director for GSA’s Customer Strategic Solutions Division (CSSD). He also held the position of Federal Agency Manager assisting agencies in modernizing their network infrastructure across the United States. 
         linkedin: samuel-navarro-6036258
       - name: Eric Ewing
-        img: EricEwing20.jpg  
+        img: EricEwing23.jpg  
         center: Artificial Intelligence Lead
         bio: >-
           Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
@@ -85,7 +85,7 @@ teams:
          Joseph Raetano is a highly trained veteran Naval Officer and Department of Energy researcher with research and development (R&D) innovation experience. Raetano has been consistently selected and trusted throughout his career to develop successful special technical programs. He has over 3 years of experience developing new programs in Artificial Intelligence/Machine Learning and over 15 years of offensive and defensive cyberspace R&D testing and operations experience. His skills have been utilized in concept development that set cyber vision, strategy, and implementation at the national and service level. He also has over 10 years of Explosive Ordnance Disposal experience. Raetano’s career is supported by a MS Computer Science and Ph.D. candidacy in Computer Science focusing on Edge Artificial Intelligence. 
         linkedin: josephraetano
       - name: Calvert Smith
-        img: CalvertSmith19.jpg
+        img: CalvertSmith23.jpg
         center: Cloud Adoption Lead
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
@@ -131,7 +131,7 @@ teams:
           Olivia Olson has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.   
         linkedin: oliviathom
       - name: Rachel Edelman
-        img: RachelEdelman.png
+        img: RachelEdelman23.jpg
         center: Customer Experience Lead
         linkedin: rachel-edelman-aa530488    
       - name: Alexandra Porter
@@ -141,7 +141,7 @@ teams:
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
       - name: Ryan Dolan        
-        img: RyanDolan22.png
+        img: RyanDolan23.png
         center: Data & Analytics Lead
         bio: >-
          Ryan Dolan has over 13 years of experience leading public sector data visualization, business intelligence and data modernization initiatives.  Prior to joining CoE, Ryan served as a data scientist for the U.S. Department of Justice, Civil Rights Division and as the data visualization lead for the U.S. Census Bureau.  Additionally, Ryan is an adjunct professor teaching machine learning and data visualization to graduate students seeking their MSBA. At the Data and Analytics CoE, Ryan works closely with partner organizations to identify challenges, develop solutions, and share best practices among all stakeholders. 
@@ -153,7 +153,7 @@ teams:
           Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management. 
         linkedin: sgdhumne              
       - name: Nathan Manzotti
-        img: NathanManzotti.jpg  
+        img: NathanManzotti23.jpg  
         center: Data & Analytics Lead
         bio: >-
           Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.        
