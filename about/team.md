@@ -90,6 +90,8 @@ teams:
         bio: >-
           Calvert Smith has over 20 years of experience in the areas of tech innovation, cloud computing, application development, website management, business intelligence, project management, and vendor/contract management. At the CoE, Smith assists in IT modernization Cloud Adoption efforts with agencies across the federal government. His projects include analyzing current systems and applications to provide recommendations for planning cloud migration; and implementing cloud governance models incorporating best practices from both government and commercial areas that allow strategic oversight of cloud programs. Smith has recently been awarded the Discovery and Innovation in Government IT Award for Open Data Initiatives within the public sector.
         linkedin: calvert-smith-cissp-pmp-4677243     
+      - name: Nick Rampersad
+        img: NickRampersad23.jpg
       - name: Ron Williams
         img: RonWilliams21.jpg
         center: Cloud Adoption Lead
