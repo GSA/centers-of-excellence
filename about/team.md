@@ -14,7 +14,7 @@ teams:
         img: MichelleMcNellis19.jpg
         center: Acquisitions Director 
         bio: >-
-          Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
+          Michelle McNellis is the Director of Acquisitions at Centers of Excellence (CoE) in GSA’s Technology Transformation Service. Michelle has over 15 years of experience of managing complex Information Technology acquisitions for the United States Government. In her current role, she is responsible for creating, implementing, and finding innovative solutions to help the government modernize their technology through acquisition strategies and procurement methodologies, with recognition of her work as FedScoop Top 50 Innovation of the Year Nominee. She leads a cross-functional team of highly-advanced technical and acquisition experts who have been recognized across the public and private sector as innovators in digital services. 
         linkedin: michelle-mcnellis-9488908 
   - title: Centers of Excellence
     people:
