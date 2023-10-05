@@ -18,12 +18,6 @@ teams:
         linkedin: michelle-mcnellis-9488908 
   - title: Centers of Excellence
     people:
-      - name: Amiad 'Adam' Grandt-Nesher
-        img: AdamGrandt19.jpg
-        center: Chief of Staff
-        bio: >-
-          Adam Grandt is a highly technical, hands-on leader and software architect with an agile skillset.  Grandt has a proven track record of effecting technological evolution to meet organizational needs. At the CoE Grandt leads the Cloud Adoption and Infrastructure Optimization Centers, while directing agency efforts to optimize IT infrastructure at an enterprise level. Grandt helps agencies plan lasting and resilient modernization efforts by introducing best practices in infrastructure architecture and systems development. Grandt’s projects have included the acquisition of modern mainframe hardware and the migration process of critical governmentwide applications.  Prior to joining the CoE, Grandt launched several financial technology companies and partnered with federal and local law enforcement agencies to build systems to reduce human trafficking and internet crimes against children. 
-        linkedin: adam-grandt-ht0
       - name: Bridget Fields
         img: Bridget Fields 21.jpg
         center: Strategic Partnerships Lead        
@@ -41,13 +35,7 @@ teams:
         center: Communities Lead 
         bio: >-
           From organizing Google’s first disability-focused hackathon, to expanding grant access for young artists across the Front Range, to amplifying the impact of 300+ grassroots nonprofits, Eboni J.D. Freeman is dedicated to the underestimated. Eboni launched her first startup - Ability Enabled - to create more inclusive working environments for People with Disabilities (PWDs). After co-publishing Ability Enabled's workplace inclusion guidebook, Eboni joined Google as a Solutions Consultant, Hackathon Organizer, and Accessibility Educator. With her days dedicated to service design, customer experience optimization, and product management, Eboni spent her nights founding her interdisciplinary practice - Wonder Stars of the Universe - encouraging creative tension as Vice Chair of the Boulder Art Commission, and motivating entrepreneurs as a Pitch Coach for the University of Colorado, Boulder. Before joining the COE, she served as Senior Director of Programs for an international entrepreneurship accelerator serving founders focused on UN Sustainable Development Goals.
-        linkedin: ebonifreeman
-      - name: Michelle McNellis
-        img: MichelleMcNellis19.jpg
-        center: Acquisitions Director 
-        bio: >-
-          Michelle McNeills has over 10 years of experience in the federal government. As the CoE Acquisition Lead, McNellis ensures that CoE procurement packages are compliant with Federal Acquisition Regulations and innovative in their acquisition approach. Prior to joining CoE, McNellis served as the Director of Acquisitions at TTS Solutions. McNellis led the very first procurements awarded by TTS and 18F including the TTS Bug Bounty program. McNellis has also served as an acquisition subject matter expert for GSA’s Public Buildings Service in GSA and the U.S. Coast Guard. 
-        linkedin: michelle-mcnellis-9488908  
+        linkedin: ebonifreeman  
       - name: Michelle Petryszyn
         img: MichellePetryszyn23.jpg
         center: Acquisitions Lead 
