@@ -10,12 +10,6 @@ teams:
         bio: >-
           Amiad "Adam" Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological change to meet organizational objectives. Grandt has over 20 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the Centers of Excellence. In this role, Grandt leads a team of senior experts, enabling technological and organizational growth across the federal government. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to further the cause. 
         linkedin: adam-grandt-ht0
-      - name: name: Michelle McNellis
-        img: MichelleMcNellis19.jpg
-        center: Acting Deputy Director 
-        bio: >-
-          Michelle McNellis is the Director of Acquisitions at Centers of Excellence (CoE) in GSA’s Technology Transformation Service. Michelle has over 15 years of experience of managing complex Information Technology acquisitions for the United States Government. In her current role, she is responsible for creating, implementing, and finding innovative solutions to help the government modernize their technology through acquisition strategies and procurement methodologies, with recognition of her work as FedScoop Top 50 Innovation of the Year Nominee. She leads a cross-functional team of highly-advanced technical and acquisition experts who have been recognized across the public and private sector as innovators in digital services.
-        linkedin: michelle-mcnellis-9488908
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acting Deputy Director 
