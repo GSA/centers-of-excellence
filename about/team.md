@@ -2,6 +2,8 @@
 layout: team
 title: Our Team
 teams:
+  - title: Leadership
+    people:
       - name: Jennifer Rostami
         img:  JenniferRostami19.jpg
         center: Executive Director
