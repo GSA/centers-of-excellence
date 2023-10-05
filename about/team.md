@@ -4,12 +4,12 @@ title: Our Team
 teams:
   - title: Leadership
     people:
-      - name: Jennifer Rostami
-        img:  JenniferRostami19.jpg
-        center: Executive Director
+      - name: Amiad 'Adam' Grandt-Nesher
+        img:  AdamGrandt19.jpg
+        center: Acting Executive Director
         bio: >-
-          Jennifer Rostami has over 15 years of experience working in the public and private sector with a background in finance and a specialization in transformation. She joined the Centers of Excellence in 2019 and spearheaded Agency Partnerships by helping to grow the reach of the CoE across the federal government. Currently serving as CoE Acting Director, Rostami is passionate about the CoE talent and mission of helping agencies modernize. Prior to joining GSA, Jennifer served as the Director of Finance and Operations at a marketing technology company, where she helped reduce costs, increase new revenue streams, and streamlined operations. Her previous experience also includes working as a management consultant in public and private sector Fortune 100 firms focused on improving operations, and managing and growing a $31M sales territory for a luxury goods manufacturer. While earning her M.B.A, Rostami founded a non-profit to help middle school kids learn about their dream careers and connect with professionals for mentoring. 
-        linkedin: jennifer-rostami-154a5a12
+          Amiad "Adam" Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological change to meet organizational objectives. Grandt has over 20 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the Centers of Excellence. In this role, Grandt leads a team of senior experts, enabling technological and organizational growth across the federal government. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to further the cause. 
+        linkedin: adam-grandt-ht0
       - name: Amiad 'Adam' Grandt-Nesher
         img: AdamGrandt19.jpg
         center: Acting Executive Director
