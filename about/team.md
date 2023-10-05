@@ -15,7 +15,7 @@ teams:
         center: Acting Deputy Director 
         bio: >-
           Michelle McNellis is the Director of Acquisitions at Centers of Excellence (CoE) in GSA’s Technology Transformation Service. Michelle has over 15 years of experience of managing complex Information Technology acquisitions for the United States Government. In her current role, she is responsible for creating, implementing, and finding innovative solutions to help the government modernize their technology through acquisition strategies and procurement methodologies, with recognition of her work as FedScoop Top 50 Innovation of the Year Nominee. She leads a cross-functional team of highly-advanced technical and acquisition experts who have been recognized across the public and private sector as innovators in digital services. 
-        linkedin: michelle-mcnellis-9488908 
+        linkedin: michelle-mcnellis-9488908
   - title: Centers of Excellence
     people:
       - name: Bridget Fields
