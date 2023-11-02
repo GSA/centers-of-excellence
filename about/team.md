@@ -13,7 +13,6 @@ teams:
       - name: Rebecca McBride
         img: RebeccaMcBride.png
         center: Acting Deputy Director 
-        bio: >- 
         linkedin: believeinhumanity
   - title: Centers of Excellence
     people:
