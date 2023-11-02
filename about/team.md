@@ -11,7 +11,7 @@ teams:
           Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 20 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the IT Modernization Centers of Excellence. In this role, Grandt leads a team of senior experts, enabling technological and organizational growth across the federal government. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause.
         linkedin: adam-grandt-ht0
       - name: Rebecca McBride
-        img: MichelleMcNellis19.jpg
+        img: RebeccaMcBride.jpg
         center: Acting Deputy Director 
         bio: >- 
         linkedin: believeinhumanity
