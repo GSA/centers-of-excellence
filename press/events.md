@@ -14,8 +14,8 @@ These Starter Guides, Models & Templates are available to support federal agenci
 Through funding from the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.
 
 ## Upcoming Events
-**Coming Soon!**  
-
+*  [Plain Language Power Hour](https://gsa.zoomgov.com/webinar/register/WN_YyqbGDowT7mci0ETWy4rPA#/registration): February 8, 2024 12:00 p.m. - 1:00 p.m. EST
+  
 ## Check out our available resources
 * [**IA Culture Pre-Assessment Guide (PDF):**](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
 * **Data Governance Charter Templates (DOC):** These customizable charter templates are designed to help federal government agencies set up data governance bodies to better use agency data securely and strategically. 
@@ -29,6 +29,9 @@ and improve Industry Engagement (IE) in relation to IT modernization.
 * [**Cloud Migration Acquisition Journey Map (PDF):**](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf) How the government buys cloud migration services is crucial to the success of the agency’s cloud adoption. This journey map template explores the often complex process of Cloud Migration Acquisition and includes requirement documents such as PWS, RFQ, and QASP. etc.
 
 ## Past Events
+### 2024
+* [Journey Mapping for Data Science](https://gsa.zoomgov.com/webinar/register/WN_JVE69RVYTyiTESmIfvTPEw#/registration): January 25, 2024 12:00 p.m. – 1 p.m. EST
+  
 ### 2023
 * [Journey Mapping for Data Science](https://www.eventbrite.com/e/journey-mapping-for-data-science-tickets-541636899547): March 2, 2023 10:30 a.m. – 12 p.m. EST
 * [Customer Experience 101:](https://www.eventbrite.com/e/lets-talk-transformation-ltt-cx-101-tickets-593330265797) March 3, 2023 12:30 – 1:20 p.m. EST
