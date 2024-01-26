@@ -30,7 +30,7 @@ and improve Industry Engagement (IE) in relation to IT modernization.
 
 ## Past Events
 ### 2024
-* [Journey Mapping for Data Science]((https://gsa.zoomgov.com/webinar/register/WN_JVE69RVYTyiTESmIfvTPEw#/registration): January 25, 2024 12:00 p.m. – 1 p.m. EST
+* [Journey Mapping for Data Science](https://gsa.zoomgov.com/webinar/register/WN_JVE69RVYTyiTESmIfvTPEw#/registration): January 25, 2024 12:00 p.m. – 1 p.m. EST
   
 ### 2023
 * [Journey Mapping for Data Science](https://www.eventbrite.com/e/journey-mapping-for-data-science-tickets-541636899547): March 2, 2023 10:30 a.m. – 12 p.m. EST
