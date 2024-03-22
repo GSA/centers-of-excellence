@@ -162,10 +162,6 @@ teams:
         bio: >-
          Mike Matis has 20 years of experience in public service, education, and IT. His specialties include adult learning strategy, accessibility, and digital content development. He holds a Phd in Public Policy & Education Leadership which allowed him to hone his qualitative and quantitative research skills. Professionally, he has 15 years of experience as an IT professional in Maine's Public Higher Education system. Prior to joining CoE, Mike served as a Learning Designer where he directed his institution’s transition to a new online course platform, helped faculty retrofit their courses to be taught online, coached them in inclusive teaching practices, and designed faculty development programs on the use of technology in teaching, course design, and assessment.
         linkedin: mikematis  
-      - name: Zaree Singer
-        img: ZareeSinger23.jpg
-        center: Innovation Adoption Lead
-        linkedin: zaree-s-290a0b10 
       - name: David Siegrist
         img: DavidSiegrist.jpg
         center: Infrastructure Optimization Lead        
