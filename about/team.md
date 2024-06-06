@@ -111,8 +111,10 @@ teams:
         linkedin: alexandra-porter-497b7498
       - name: Bernadeau Chery
         img: BernadeauChery24.jpeg
+        center: Data & Analytics Lead
       - name: Dominique Shelton
         img: DominiqueShelton.jpg
+        center: Data & Analytics Lead
       - name: Ryan Dolan        
         img: RyanDolan23.jpg
         center: Data & Analytics Lead
