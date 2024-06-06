@@ -10,10 +10,6 @@ teams:
         bio: >-
           Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 20 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the IT Modernization Centers of Excellence. In this role, Grandt leads a team of senior experts, enabling technological and organizational growth across the federal government. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause.
         linkedin: adam-grandt-ht0
-      - name: Rebecca McBride
-        img: RebeccaMcBride.png
-        center: Acting Deputy Director 
-        linkedin: believeinhumanity
   - title: Centers of Excellence
     people:
       - name: Bridget Fields
@@ -27,25 +23,13 @@ teams:
         center: Communications Lead
         bio: >-
           Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful. 
-        linkedin: daniellergallant    
-      - name: Eboni J.D. Freeman
-        img:  EboniFreeman23.jpg
-        center: Communities Lead 
-        bio: >-
-          From organizing Google’s first disability-focused hackathon, to expanding grant access for young artists across the Front Range, to amplifying the impact of 300+ grassroots nonprofits, Eboni J.D. Freeman is dedicated to the underestimated. Eboni launched her first startup - Ability Enabled - to create more inclusive working environments for People with Disabilities (PWDs). After co-publishing Ability Enabled's workplace inclusion guidebook, Eboni joined Google as a Solutions Consultant, Hackathon Organizer, and Accessibility Educator. With her days dedicated to service design, customer experience optimization, and product management, Eboni spent her nights founding her interdisciplinary practice - Wonder Stars of the Universe - encouraging creative tension as Vice Chair of the Boulder Art Commission, and motivating entrepreneurs as a Pitch Coach for the University of Colorado, Boulder. Before joining the COE, she served as Senior Director of Programs for an international entrepreneurship accelerator serving founders focused on UN Sustainable Development Goals.
-        linkedin: ebonifreeman  
+        linkedin: daniellergallant      
       - name: Michelle McNellis
         img: MichelleMcNellis19.jpg
         center: Acquisitions Director 
         bio: >-
           Michelle McNellis is the Director of Acquisitions at Centers of Excellence (CoE) in GSA’s Technology Transformation Service. Michelle has over 15 years of experience of managing complex Information Technology acquisitions for the United States Government. In her current role, she is responsible for creating, implementing, and finding innovative solutions to help the government modernize their technology through acquisition strategies and procurement methodologies, with recognition of her work as FedScoop Top 50 Innovation of the Year Nominee. She leads a cross-functional team of highly-advanced technical and acquisition experts who have been recognized across the public and private sector as innovators in digital services. 
-        linkedin: michelle-mcnellis-9488908 
-      - name: Michelle Petryszyn
-        img: MichellePetryszyn23.jpg
-        center: Acquisitions Lead 
-        bio: >-
-          Michelle Petryszyn serves as an Acquisition Lead supporting CoE’s partner agencies in implementing modern acquisition techniques to support their IT modernization efforts. Prior to joining CoE, Petryszyn held positions across GSA in TTS’ Office of Acquisition, FAS’ Office of Information Technology Category, and the Office of Travel, Transportation, and Logistics Category. Petryszyn has a Bachelor of Science degree in Finance from Pennsylvania State University. 
-        linkedin: michelle-petryszyn-1a931792   
+        linkedin: michelle-mcnellis-9488908    
       - name: Omar Saeb
         img: OmarSaeb.png
         center: Acquisitions Lead
@@ -58,12 +42,6 @@ teams:
         bio: >-
           Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
         linkedin: kwi-okoli-mba-ms
-      - name: Sam Navarro
-        img: SamNavarro23.jpg
-        center: Client Services Lead
-        bio: >-
-          Samuel Navarro, CoE’s Director of Customer Services, is responsible for planning and implementing customer development strategies including the support of operational capabilities. Since 2014, Navarro has held positions across GSA including Wireless Mobility Program Manager, Contract Modifications Manager, and Contracting Officer Representative for the third largest network and telecommunications contract in the agency. Prior to joining CoE, Navarro served as the Director for GSA’s Customer Strategic Solutions Division (CSSD). He also held the position of Federal Agency Manager assisting agencies in modernizing their network infrastructure across the United States. 
-        linkedin: samuel-navarro-6036258
       - name: Eric Ewing
         img: EricEwing23.jpg  
         center: Artificial Intelligence Lead
