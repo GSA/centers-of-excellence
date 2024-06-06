@@ -109,6 +109,10 @@ teams:
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
+      - name: Bernadeau Chery
+        img: BernadeauChery24.png
+        center: Data & Analytics Lead
+        linkedin: bchery
       - name: Dominique Shelton
         img: DominiqueShelton.jpg
         center: Data & Analytics Lead
