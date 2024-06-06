@@ -91,7 +91,7 @@ teams:
         img: LashandaHodge19.jpg
         center: Customer Experience Lead
         bio: >-
-          Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC.  
+          Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC. 
         linkedin: lashandahodge
       - name: Olivia Olson
         img: OliviaOlson23.jpg
@@ -109,9 +109,6 @@ teams:
         bio: >-
           Alexandra Porter has served in the public sector for at least 8 years, working with various government agencies. At the Data and Analytics Center with the Centers of Excellence, she enhances data maturity across the federal government through the development of a strong, tailored data strategy. Alexandra has also conducted assessments of the Office of Personnel Management data environment, addressed gaps and provided recommendations for improvements and enhancement opportunities.
         linkedin: alexandra-porter-497b7498
-      - name: Bernadeau Chery
-        img: BernadeauChery24.jpeg
-        center: Data & Analytics Lead
       - name: Dominique Shelton
         img: DominiqueShelton.jpg
         center: Data & Analytics Lead
