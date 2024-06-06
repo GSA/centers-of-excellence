@@ -112,9 +112,11 @@ teams:
       - name: Bernadeau Chery
         img: BernadeauChery24.jpeg
         center: Data & Analytics Lead
+        linkedin: bchery
       - name: Dominique Shelton
         img: DominiqueShelton.jpg
         center: Data & Analytics Lead
+        linkedin: dominique-shelton-03353a2b9
       - name: Ryan Dolan        
         img: RyanDolan23.jpg
         center: Data & Analytics Lead
