@@ -56,6 +56,7 @@ teams:
           Ron Williams brings over 9 years of state and federal government experience to his role as Cloud Adoption Lead. Williams supports federal agencies with adoption of modern cloud native DevOps and Security practices. Williams helps partners identify and overcome challenges faced when transitioning to cloud services. Previously, Williams served as the Deputy Director for Cloud.gov, and the Director of IT for USDA Communications working on USDA.gov, ChooseMyPlate.gov, Farmers.gov, other public facing websites. As an open-source advocate, Ron focuses on deploying disruptive technologies within public sector institutions to improve services provided to the general public.
       - name: Susan Yim
         img: SusanYim23.jpg
+        center: Cloud Adoption Lead
         bio: >-
           Susan Yim has spent the last 20 years developing and managing software products in the financial industry to modernize and improve efficiency of the financial operations. Susan is a highly motivated individual and effective technical manager in managing, organizing and directing software projects from inception to completion. She is proficient with stakeholder management, software project management, budgeting and planning as well as managing large scale concurrent projects with a global user base. Susan has a proven track record of delivery as software development manager leading workflow analysis, modern distributed and microservice system design for industry-leading capital markets trading and sales franchises.   
       - name: Meghan Daly
