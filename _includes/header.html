@@ -21,6 +21,10 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="{{site.baseurl}}/icons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
+   <!-- Redirect -->	
+  {% if page.redirect %}
+    <meta http-equiv="refresh" content="0; url={{ page.new-address }}" />
+  {% endif %}
   <!-- Title -->
   {% if page.title %}
     <title>{{ page.title }} | {{ site.title }}</title>
@@ -182,7 +186,6 @@
                     </button>
                     <ul id="extended-nav-section-six" class="usa-nav-submenu">
                       <li><a href="{{site.baseurl}}/communities/ai.html">Artifical Intelligence</a></li>
-						<li><a href="{{site.baseurl}}/communities/contact-center.html">Contact Center</a></li>
 			    			<li><a href="{{site.baseurl}}/communities/cx.html">Customer Experience</a></li>
 						<li><a href="{{site.baseurl}}/communities/innovation-adoption.html">Innovation Adoption</a></li>
 			    			<li><a href="{{site.baseurl}}/communities/techacq.html">TechAcq</a></li>
