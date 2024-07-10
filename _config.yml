@@ -35,6 +35,7 @@ plugins:
   # you don't want the sitemap to include the generated content from the gems. 
   #                                 see: https://github.com/jekyll/jekyll-sitemap
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
