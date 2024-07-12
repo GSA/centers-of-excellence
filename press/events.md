@@ -12,9 +12,6 @@ The CoE collects key findings from our work with more than 25 federal agencies, 
 These Starter Guides, Models & Templates are available to support federal agencies undergoing technology transformation projects. CoE leads host virtual workshops and office hours to offer live support.
 
 Through funding from the American Rescue Plan, this work furthers our mission of centralizing best practices and expertise for holistic transformation and is provided at no cost to users.
-
-## Upcoming Events
-*  [Plain Language Power Hour](https://gsa.zoomgov.com/webinar/register/WN_YyqbGDowT7mci0ETWy4rPA#/registration): February 8, 2024 12:00 p.m. - 1:00 p.m. EST
   
 ## Check out our available resources
 * [**IA Culture Pre-Assessment Guide (PDF):**](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf) Is your organization ready for change? This guide includes a variety of activities to help you understand and pre-assess your agency's culture and its potential impact on your technology modernization initiative.
@@ -30,6 +27,7 @@ and improve Industry Engagement (IE) in relation to IT modernization.
 
 ## Past Events
 ### 2024
+* [Plain Language Power Hour](https://gsa.zoomgov.com/webinar/register/WN_YyqbGDowT7mci0ETWy4rPA#/registration): February 8, 2024 12:00 p.m. - 1:00 p.m. EST
 * [Journey Mapping for Data Science](https://gsa.zoomgov.com/webinar/register/WN_JVE69RVYTyiTESmIfvTPEw#/registration): January 25, 2024 12:00 p.m. – 1 p.m. EST
   
 ### 2023
