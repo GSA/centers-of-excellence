@@ -20,7 +20,7 @@ The goals of the training series are to:
 * Encourage responsible use of AI across the government to improve operations
 The training is open to ALL government employees. This training fulfills the mandates included in the AI Training Act and Responsible AI EO 13960. 
 
-##Register Now!
+## Register Now!
 
 Pre-registration for each track is now open: 
 * Acquisitions Track Registration Link
@@ -29,16 +29,16 @@ Pre-registration for each track is now open:
 
 **When you register for one of the three tracks, the link you will receive after registration confirmation will provide you access to any of the sessions within that track that you are able to attend. If you would like to attend a session in a different track, you must register separately for that track. Links to all three are provided below.**
  
-##Schedules and Courses
+## Schedules and Courses
 
 *Coming Soon: Full schedules and course descriptions are pending parter aproval.*
 
-###Acquisition Track###
+### Acquisition Track
 In Partnership with The George Washington University Law School, the Acquisition Track focuses on equipping government employees with knowledge to effectively procure and manage AI technologies. Participants will encounter the fundamentals of procuring government AI solutions, better understand the potential of AI in public service, and consider current challenges in risk management and ethics. Additionally, they will learn to craft an approach to AI acquisition, gain critical insights for safeguarding national security, and understand guidelines for managing sensitive information responsibly.
 
-###Technical Track##
+### Technical Track
 In partnership with Stanford University’s Human-Centered Artificial Intelligence Institute (HAI), the Technical Track is designed for government employees with a background in technology and aims to deepen their understanding of AI algorithms, data science, and implementation strategies. Stanford HAI promotes human-centered uses of AI, and strives to ensure that humanity equitably benefits from the technology.
 
-###Leadership Track###
+### Leadership Track
 In partnership with the Center for Information Technology Policy (CITP) at Princeton University, the Leadership Track aims to empower government leaders with the insights and strategies necessary to guide AI initiatives within their organizations and to better understand and improve the relationship between technology and society. This track covers AI policy development, ethical leadership, and strategic planning. The Center for Information Technology Policy is a nonprofit, nonpartisan, interdisciplinary hub where researchers study the impact of digital technologies on society for the good of society.
 
