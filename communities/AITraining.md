@@ -28,7 +28,6 @@ The training is open to ALL government employees. This training fulfills the man
 *  To attend sessions in multiple tracks, you must select each trackin the pre-registration form.
 *  All training sessions will be conducted as a ZoomGov Webinar. Recordings will be made available after the sessions to those not able to attend live.
 
-**When you register for one of the three tracks, the link you will receive after registration confirmation will provide you access to any of the sessions within that track that you are able to attend. If you would like to attend a session in a different track, you must register separately for that track. Links to all three are provided below.**
  
 ## Schedules and Courses
 
