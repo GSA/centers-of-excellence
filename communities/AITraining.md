@@ -2,8 +2,8 @@
 layout: with-grid
 title: AI Training Series for Government Employees
 ---
-<a href="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" target="_blank" rel="noopener noreferrer">
-<img src="{{site.baseurl}}/images/ResourcesAdvisorySupportBanner.png" alt="CoE Resources and Advisory Support Banner"></a>
+<a href="{{site.baseurl}}/images/2024AITrainingSeriesLogo.png" target="_blank" rel="noopener noreferrer">
+<img src="{{site.baseurl}}/images/2024AITrainingSeriesLogo.png" alt="2024 AI Community Of Practice Training Series for Government Employees"></a>
 
 ## Welcome to the AI Training Series for Government Employees
 Enhance your skills and knowledge of the rapidly evolving world of artificial intelligence (AI).
