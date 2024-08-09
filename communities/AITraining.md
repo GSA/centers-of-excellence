@@ -20,12 +20,11 @@ Registration for each track is now open:
 
 **Notes on Registration:**
 *  All government employees with a .GOV or .MIL email address may register for any track.
-*  By completing this pre-registration form with a valid .GOV or .MIL email address, you will be registered for the different tracks you indicate on the form. When registration opens, you will receive a confirmation email from Zoom containing your unique session links.
-*  To attend sessions in multiple tracks, you must select each trackin the pre-registration form.
+*  To attend sessions in multiple tracks, you must individual register for each track.
 *  All training sessions will be conducted as a ZoomGov Webinar. Recordings will be made available after the sessions to those not able to attend live.
     
 ## About the 2024 Series
-The AI Training Series is designed to provide you with practical knowledge and leading academic centers’ experience in artificial intelligence. It is divided into three distinct tracks - Acquisition, Technical, and Leadership — each containing multiple AI-related sessions to provide valuable information for a wide range of roles and responsibilities within the government workforce. All government employees may attend any sessions in any track at no cost. No prior expertise is required to attend. All training sessions will be conducted as a ZoomGov Webinar, and participants will register through Zoom. Live captioning will be available to all participants. Recordings will be made available after the sessions to those not able to attend live.  
+The AI Training Series is designed to provide you with practical knowledge and leading academic centers’ experience in artificial intelligence. It is divided into three distinct tracks — Acquisition, Technical, and Leadership — each containing multiple AI-related sessions to provide valuable information for a wide range of roles and responsibilities within the government workforce. All government employees may attend any sessions in any track at no cost. No prior expertise is required to attend. All training sessions will be conducted as a ZoomGov Webinar, and participants will register through Zoom. Live captioning will be available to all participants. Recordings will be made available after the sessions to those not able to attend live.  
 
 The goals of the training series are to:
 * Educate the government workforce on the basics and current landscape of AI as it relates to Acquisition, Technology, and Leadership
