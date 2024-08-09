@@ -10,7 +10,20 @@ Enhance your skills and knowledge of the rapidly evolving world of artificial in
 {: .intro} 
 
 Our comprehensive training series, which meets the training requirements of the [Artificial Intelligence Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/), is designed to inform and educate government employees at all levels, offering specialized tracks to meet the diverse needs of the government workforce. The TTS Centers of Excellence [AI Community of Practice (AI CoP)](https://coe.gsa.gov/communities/ai.html) is conducting this AI Training in partnership with [Stanford HAI](https://hai.stanford.edu/), [GWU Law School](https://www.law.gwu.edu/), [Princeton CITP](https://citp.princeton.edu/), [Wilson Center](https://www.wilsoncenter.org/), [GSA OGP](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy), and [OMB OFCIO](https://www.whitehouse.gov/omb/management/ofcio/). 
-  
+
+## Register Today!
+
+Registration for each track is now open: 
+* **[Acquisitions](https://gsa.zoomgov.com/webinar/register/WN_rIQTaru0ROStaQcHHQQ-8A):** Equipping government employees with knowledge to effectively procure and manage AI technologies
+* **[Leadership Track](https://gsa.zoomgov.com/webinar/register/WN_HqXAmCa6T1ePgxJATAiWrA):** Empowering government leaders with the insights and strategies necessary to guide AI initiatives within their organizations
+* **[Technical Track](https://gsa.zoomgov.com/webinar/register/WN_rZvY9jHIRv-7tTCwUNQSsA):** Equipping government employees with the knowledge to understand, implement, and govern AI technologies
+
+**Notes on Registration:**
+*  All government employees with a .GOV or .MIL email address may register for any track.
+*  By completing this pre-registration form with a valid .GOV or .MIL email address, you will be registered for the different tracks you indicate on the form. When registration opens, you will receive a confirmation email from Zoom containing your unique session links.
+*  To attend sessions in multiple tracks, you must select each trackin the pre-registration form.
+*  All training sessions will be conducted as a ZoomGov Webinar. Recordings will be made available after the sessions to those not able to attend live.
+    
 ## About the 2024 Series
 The AI Training Series is designed to provide you with practical knowledge and leading academic centers’ experience in artificial intelligence. It is divided into three distinct tracks - Acquisition, Technical, and Leadership — each containing multiple AI-related sessions to provide valuable information for a wide range of roles and responsibilities within the government workforce. All government employees may attend any sessions in any track at no cost. No prior expertise is required to attend. All training sessions will be conducted as a ZoomGov Webinar, and participants will register through Zoom. Live captioning will be available to all participants. Recordings will be made available after the sessions to those not able to attend live.  
 
@@ -19,18 +32,6 @@ The goals of the training series are to:
 * Provide access to academic AI leaders for all government employees
 * Encourage responsible use of AI across the government to improve operations
 The training is open to ALL government employees. This training fulfills the mandates included in the [AI Training Act](https://www.congress.gov/117/plaws/publ207/PLAW-117publ207.pdf) and [Responsible AI EO 13960](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government). 
-
-## Register Today!
-
-Registration for each track is now open: 
-* **[Acquisitions](https://gsa.zoomgov.com/webinar/register/WN_rIQTaru0ROStaQcHHQQ-8A):** Equipping government employees with knowledge to effectively procure and manage AI technologies
-* **[Leadership Track](https://gsa.zoomgov.com/webinar/register/WN_HqXAmCa6T1ePgxJATAiWrA):** Empowering government leaders with the insights and strategies necessary to guide AI initiatives within their organizations
-* **[Technical Track](https://gsa.zoomgov.com/webinar/register/WN_rZvY9jHIRv-7tTCwUNQSsA):** Equipping government employees with the knowledge to understand, implement, and govern AI technologies
-**Notes on Registration:**
-*  All government employees with a .GOV or .MIL email address may register for any track.
-*  By completing this pre-registration form with a valid .GOV or .MIL email address, you will be registered for the different tracks you indicate on the form. When registration opens, you will receive a confirmation email from Zoom containing your unique session links.
-*  To attend sessions in multiple tracks, you must select each trackin the pre-registration form.
-*  All training sessions will be conducted as a ZoomGov Webinar. Recordings will be made available after the sessions to those not able to attend live.
 
  
 ## Schedules and Courses
