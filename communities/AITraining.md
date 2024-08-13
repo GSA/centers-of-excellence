@@ -16,11 +16,11 @@ Our comprehensive training series, which meets the training requirements of the 
 Registration for each track is now open: 
 * **[Acquisitions](https://gsa.zoomgov.com/webinar/register/WN_rIQTaru0ROStaQcHHQQ-8A):** Equipping government employees with knowledge to effectively procure and manage AI technologies
 * **[Leadership Track](https://gsa.zoomgov.com/webinar/register/WN_HqXAmCa6T1ePgxJATAiWrA):** Empowering government leaders with the insights and strategies necessary to guide AI initiatives within their organizations
-* **[Technical Track](https://gsa.zoomgov.com/webinar/register/WN_rZvY9jHIRv-7tTCwUNQSsA):** Equipping government employees with the knowledge to understand, implement, and govern AI technologies
+* **[Technical Track](https://gsa.zoomgov.com/webinar/register/WN_rZvY9jHIRv-7tTCwUNQSsA):** Equipping government employees with the knowledge to understand, implement, and govern AI technologies 
 
 **Notes on Registration:**
 *  All government employees with a .GOV or .MIL email address may register for any track.
-*  To attend sessions in multiple tracks, you must individual register for each track.
+*  To attend sessions in multiple tracks, you must individually register for each track.
 *  All training sessions will be conducted as a ZoomGov Webinar. Recordings will be made available after the sessions to those not able to attend live.
     
 ## About the 2024 Series
