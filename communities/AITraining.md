@@ -44,11 +44,32 @@ In partnership with The George Washington University Law School, the Acquisition
 
 **Developing a Long-Term AI Acquisition Strategy** | Sept. 17, 2024, 12-1pm EST | This session will focus on special considerations for a long-term AI acquisition strategy, such as ensuring explainability, how AI could harm the federal government and U.S. citizens, as well as statutory and policy compliance, including meeting U.S. government technical best practices. 
 **National Security AI Acquisitions** | Sept. 19, 2024, 12-1pm EST | AI acquisitions to advance national security agency missions and programs or those that enhance tech stacks require special considerations of existing and new requirements. This session will survey the landscape and outline key considerations to make sound decisions.
-**Data Privacy Considerations** | Sept. 24, 2024, 1-2pm EST | An overview of the general and AI procurement-specific data privacy considerations that are crucial to an effective and compliant procurement strategy, including mitigating the risks of harms associated with AI.
-**Compliance with AI-Related Regulations** | Sept. 25, 2024,12-1pm EST | The acquisition of AI is governed by a myriad regulatory requirements. This session will help attendees identify and understand the key regulations that govern the purchase of this technology.
+**Data Privacy Considerations** | Sept. 24, 1-2pm EST | An overview of the general and AI procurement-specific data privacy considerations that are crucial to an effective and compliant procurement strategy, including mitigating the risks of harms associated with AI.
+**Compliance with AI-Related Regulations** | Sept. 25,12-1pm EST | The acquisition of AI is governed by a myriad regulatory requirements. This session will help attendees identify and understand the key regulations that govern the purchase of this technology.
 
 ### Technical
 In collaboration with the Stanford Institute for Human-Centered Artificial Intelligence (HAI), the Technical Track aims to equip federal employees with the knowledge to understand, implement, and govern AI technologies. These sessions break down complex AI concepts into digestible lessons, grounded in multidisciplinary research. Participants will learn about human-centered AI development, implementation, and application, including topics on the technical underpinnings of foundation models, examples of risks, privacy and security, as well as techniques that AI developers can use to evaluate and mitigate risks. The mission of HAI is to advance AI research, education, policy and practice to improve the human condition.
+
+* **Navigating the AI Landscape**
+** Date: Tuesday, October 1, 2024
+** Time: 12-1pm EST
+** Description: This course provides a comprehensive overview of AI, including the definition, theories of AI and machine learning, neural networks, narrow vs. general AI, gradient descent, use cases, and more.
+
+* **Privacy & Security**
+** Date: Thursday, October 3, 2024
+** Time: 12-1pm EST
+** Description: This course covers how different social values around privacy, data ownership, and data creation will impact what AI technologies are possible today and what the future paths of innovation in AI will look like.
+
+* **AI Safety & Robustness**
+** Date: Monday October 7, 2024
+** Time: 12-1pm EST
+** Description: The course looks at the considerations that AI developers must evaluate when designing AI systems for safety such as how to ensure inputs aren’t biased and maintain explainability of the system. The course will look at some of the risks attendant to deploying AI and ways those risks can be mitigated. 
+
+* **Generative AI Fairness**
+** Date: Tuesday, October 8, 2024
+** Time: 12-1pm EST
+** Description: This course focuses on how the technical capabilities of AI systems impact the ability of the systems to promulgate bias and discrimination. It examines how the government should think about AI capabilities when designing systems for fairness. 
+
 
 ### Leadership and Policy
 In partnership with the Center for Information Technology Policy (CITP) at Princeton University, the Leadership and Policy Track aims to empower government leaders with the insights and strategies necessary to guide AI initiatives within their organizations and to better understand and improve the relationship between technology and society. This track covers AI policy development, ethical leadership, and strategic planning. The Center for Information Technology Policy is a nonprofit, nonpartisan, interdisciplinary hub where researchers study the impact of digital technologies on society for the good of society.
