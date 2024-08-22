@@ -51,7 +51,7 @@ In partnership with The George Washington University Law School, the Acquisition
 In collaboration with the Stanford Institute for Human-Centered Artificial Intelligence (HAI), the Technical Track aims to equip federal employees with the knowledge to understand, implement, and govern AI technologies. These sessions break down complex AI concepts into digestible lessons, grounded in multidisciplinary research. Participants will learn about human-centered AI development, implementation, and application, including topics on the technical underpinnings of foundation models, examples of risks, privacy and security, as well as techniques that AI developers can use to evaluate and mitigate risks. The mission of HAI is to advance AI research, education, policy and practice to improve the human condition.
 
 * **Navigating the AI Landscape** | Tuesday, October 1, 2024 | 12-1pm EST
-This course provides a comprehensive overview of AI, including the definition, theories of AI and machine learning, neural networks, narrow vs. general AI, gradient descent, use cases, and more.
+ This course provides a comprehensive overview of AI, including the definition, theories of AI and machine learning, neural networks, narrow vs. general AI, gradient descent, use cases, and more.
 
 * **Privacy & Security**, October 3, 2024, 12-1pm EST
 Description: This course covers how different social values around privacy, data ownership, and data creation will impact what AI technologies are possible today and what the future paths of innovation in AI will look like.
@@ -62,9 +62,9 @@ Description: This course covers how different social values around privacy, data
 ** Description: The course looks at the considerations that AI developers must evaluate when designing AI systems for safety such as how to ensure inputs aren’t biased and maintain explainability of the system. The course will look at some of the risks attendant to deploying AI and ways those risks can be mitigated. 
 
 * **Generative AI Fairness**
-** Date: Tuesday, October 8, 2024
-** Time: 12-1pm EST
-** Description: This course focuses on how the technical capabilities of AI systems impact the ability of the systems to promulgate bias and discrimination. It examines how the government should think about AI capabilities when designing systems for fairness. 
+, October 8, 2024
+, 12-1pm EST
+This course focuses on how the technical capabilities of AI systems impact the ability of the systems to promulgate bias and discrimination. It examines how the government should think about AI capabilities when designing systems for fairness. 
 
 
 ### Leadership and Policy
