@@ -52,24 +52,25 @@ In collaboration with the Stanford Institute for Human-Centered Artificial Intel
 **Navigating the AI Landscape:** Tuesday, October 1, 2024 | 12-1pm EST\
 This course provides a comprehensive overview of AI, including the definition, theories of AI and machine learning, neural networks, narrow vs. general AI, gradient descent, use cases, and more.
 
-**Privacy & Security:** Thursday, October 3, 2024 | 12-1pm EST  This course covers how different social values around privacy, data ownership, and data creation will impact what AI technologies are possible today and what the future paths of innovation in AI will look like.
+**Privacy & Security:** Thursday, October 3, 2024 | 12-1pm EST\
+This course covers how different social values around privacy, data ownership, and data creation will impact what AI technologies are possible today and what the future paths of innovation in AI will look like.
 
-**AI Safety & Robustness** | Monday, October 7, 2024 | 12-1pm EST
+**AI Safety & Robustness** | Monday, October 7, 2024 | 12-1pm EST\
 The course looks at the considerations that AI developers must evaluate when designing AI systems for safety such as how to ensure inputs aren’t biased and maintain explainability of the system. The course will look at some of the risks attendant to deploying AI and ways those risks can be mitigated. 
 
-**Generative AI Fairness** | Tuesday, October 8, 2024 | 12-1pm EST
+**Generative AI Fairness** | Tuesday, October 8, 2024 | 12-1pm EST\
 This course focuses on how the technical capabilities of AI systems impact the ability of the systems to promulgate bias and discrimination. It examines how the government should think about AI capabilities when designing systems for fairness. 
 
-**HELM and Benchmarking Foundation Models** | Thursday, October 10, 2024 | 12-1pm EST
+**HELM and Benchmarking Foundation Models** | Thursday, October 10, 2024 | 12-1pm EST\
 This course covers the importance of benchmarking AI models as a way to understand the capabilities of systems and promote transparency amongst model developers. The course will also discuss Stanford’s Holistic Evaluation of Language Models (HELM) benchmarking approach which serves as a model to evaluate language models. 
 
-**Building and Training Foundation Models** |Tuesday, October 15, 2024 | 12-1pm EST
+**Building and Training Foundation Models** |Tuesday, October 15, 2024 | 12-1pm EST\
 This course provides more depth into how foundation models interact with downstream AI applications. It provides detail on how others in the AI ecosystem build tools off of foundation models.
 
-**Multimodal Foundation Models** | TBD 
+**Multimodal Foundation Models** | TBD\
 Multimodal foundation models are capable of processing and generating both visual and textual information. This course will discuss how the development of these models could further expand generative AI capabilities and their potential downstream uses.
 
-**Training Cost-Effective Large Language Models** | Thursday, October 23, 2024 | 12-1pm EST
+**Training Cost-Effective Large Language Models** | Thursday, October 23, 2024 | 12-1pm EST\
 The cost of training large language models (LLM) is currently quite high with top of the line models costing billions of dollars to train. However, are costs expected to always remain that high? This course looks into the resources required to train LLMs and what could be done to make training them more cost effective. 
 
 
