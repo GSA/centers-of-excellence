@@ -38,14 +38,15 @@ The training is open to ALL government employees. This training fulfills the man
 ### Acquisition
 In partnership with The George Washington University Law School, the Acquisition Track focuses on equipping government employees with knowledge to effectively procure and manage AI technologies. Participants will encounter the fundamentals of procuring government AI solutions, better understand the potential of AI in public service, and consider current challenges in risk management and ethics. Additionally, they will learn to craft an approach to AI acquisition, gain critical insights for safeguarding national security, and understand guidelines for managing sensitive information responsibly. GW Law is the academic birthplace of the study of government procurement law with the leading government contracts law program and a mission to provide a richer understanding of how procurement systems operate.
 
-* **Buying AI: Government Contracts 101** | Wednesday, Sept. 4, 2024 | 12-1pm EST
-* **How Does AI Benefit the Federal Government?** | Wednesday Sept. 11, 2024 | 12-1pm EST
-* **Risk Management & Ethics** | Monday, Sept. 16, 2024 | 12-1pm EST
-* **Developing a Long-Term AI Acquisition Strategy** | Tuesday, Sept. 17, 2024| 12-1pm EST 
-* **National Security AI Acquisitions** | Thursday, Sept. 19, 2024 | 12-1pm EST
-* **Data Privacy Considerations** | Tuesday, Sept. 24, 2024 | 1-2pm EST
-* **Compliance with AI-Related Regulations** | Wednesday Sept 25, 2024 |12-1pm EST
-  The acquisition of AI is governed by a myriad regulatory requirements. This session will help attendees identify and understand the key regulations that govern the purchase of this technology.
+**Buying AI: Government Contracts 101** | Wednesday, Sept. 4, 2024 | 12-1pm EST
+**How Does AI Benefit the Federal Government?** | Wednesday Sept. 11, 2024 | 12-1pm EST
+**Risk Management & Ethics** | Monday, Sept. 16, 2024 | 12-1pm EST
+**Developing a Long-Term AI Acquisition Strategy** | Tuesday, Sept. 17, 2024| 12-1pm EST 
+**National Security AI Acquisitions** | Thursday, Sept. 19, 2024 | 12-1pm EST
+**Data Privacy Considerations** | Tuesday, Sept. 24, 2024 | 1-2pm EST
+
+**Compliance with AI-Related Regulations** | Wednesday Sept 25, 2024 |12-1pm EST |
+The acquisition of AI is governed by a myriad regulatory requirements. This session will help attendees identify and understand the key regulations that govern the purchase of this technology.
 
 ### Technical
 In collaboration with the Stanford Institute for Human-Centered Artificial Intelligence (HAI), the Technical Track aims to equip federal employees with the knowledge to understand, implement, and govern AI technologies. These sessions break down complex AI concepts into digestible lessons, grounded in multidisciplinary research. Participants will learn about human-centered AI development, implementation, and application, including topics on the technical underpinnings of foundation models, examples of risks, privacy and security, as well as techniques that AI developers can use to evaluate and mitigate risks. The mission of HAI is to advance AI research, education, policy and practice to improve the human condition.
