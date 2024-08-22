@@ -38,10 +38,9 @@ The training is open to ALL government employees. This training fulfills the man
 ### Acquisition
 In partnership with The George Washington University Law School, the Acquisition Track focuses on equipping government employees with knowledge to effectively procure and manage AI technologies. Participants will encounter the fundamentals of procuring government AI solutions, better understand the potential of AI in public service, and consider current challenges in risk management and ethics. Additionally, they will learn to craft an approach to AI acquisition, gain critical insights for safeguarding national security, and understand guidelines for managing sensitive information responsibly. GW Law is the academic birthplace of the study of government procurement law with the leading government contracts law program and a mission to provide a richer understanding of how procurement systems operate.
 
-**Buying AI: Government Contracts 101** | Wednesday, Sept. 4, 2024 | 12-1pm EST | This session will focus on special considerations for a long-term AI acquisition strategy, such as ensuring explainability, how AI could harm the federal government and U.S. citizens, as well as statutory and policy compliance, including meeting U.S. government technical best practices. 
-**How Does AI Benefit the Federal Government?** | Wednesday Sept. 11, 2024 | 12-1pm EST | AI acquisitions to advance national security agency missions and programs or those that enhance tech stacks require special considerations of existing and new requirements. This session will survey the landscape and outline key considerations to make sound decisions.
-**Risk Management & Ethics** | Monday, Sept. 16, 2024 | 12-1pm EST | An overview of the ethical considerations and risk mitigation measures essential to responsible AI acquisition.
-
+**Buying AI: Government Contracts 101** | Wednesday, Sept. 4, 2024, 12-1pm EST | This session will focus on special considerations for a long-term AI acquisition strategy, such as ensuring explainability, how AI could harm the federal government and U.S. citizens, as well as statutory and policy compliance, including meeting U.S. government technical best practices. 
+**How Does AI Benefit the Federal Government?** | Wednesday Sept. 11, 2024, 12-1pm EST | AI acquisitions to advance national security agency missions and programs or those that enhance tech stacks require special considerations of existing and new requirements. This session will survey the landscape and outline key considerations to make sound decisions.
+**Risk Management & Ethics** | Monday, Sept. 16, 2024, 12-1pm EST | An overview of the ethical considerations and risk mitigation measures essential to responsible AI acquisition.
 **Developing a Long-Term AI Acquisition Strategy** | Sept. 17, 2024, 12-1pm EST | This session will focus on special considerations for a long-term AI acquisition strategy, such as ensuring explainability, how AI could harm the federal government and U.S. citizens, as well as statutory and policy compliance, including meeting U.S. government technical best practices. 
 **National Security AI Acquisitions** | Sept. 19, 2024, 12-1pm EST | AI acquisitions to advance national security agency missions and programs or those that enhance tech stacks require special considerations of existing and new requirements. This session will survey the landscape and outline key considerations to make sound decisions.
 **Data Privacy Considerations** | Sept. 24, 1-2pm EST | An overview of the general and AI procurement-specific data privacy considerations that are crucial to an effective and compliant procurement strategy, including mitigating the risks of harms associated with AI.
@@ -61,6 +60,19 @@ The course looks at the considerations that AI developers must evaluate when des
 
 **Generative AI Fairness** | Tuesday, October 8, 2024 | 12-1pm EST
 This course focuses on how the technical capabilities of AI systems impact the ability of the systems to promulgate bias and discrimination. It examines how the government should think about AI capabilities when designing systems for fairness. 
+
+**HELM and Benchmarking Foundation Models** | Thursday, October 10, 2024 | 12-1pm EST
+This course covers the importance of benchmarking AI models as a way to understand the capabilities of systems and promote transparency amongst model developers. The course will also discuss Stanford’s Holistic Evaluation of Language Models (HELM) benchmarking approach which serves as a model to evaluate language models. 
+
+**Building and Training Foundation Models** |Tuesday, October 15, 2024 | 12-1pm EST
+This course provides more depth into how foundation models interact with downstream AI applications. It provides detail on how others in the AI ecosystem build tools off of foundation models.
+
+**Multimodal Foundation Models** | TBD 
+Multimodal foundation models are capable of processing and generating both visual and textual information. This course will discuss how the development of these models could further expand generative AI capabilities and their potential downstream uses.
+
+**Training Cost-Effective Large Language Models** | Thursday, October 23, 2024 | 12-1pm EST
+The cost of training large language models (LLM) is currently quite high with top of the line models costing billions of dollars to train. However, are costs expected to always remain that high? This course looks into the resources required to train LLMs and what could be done to make training them more cost effective. 
+
 
 
 ### Leadership and Policy
