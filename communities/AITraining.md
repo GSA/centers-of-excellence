@@ -30,7 +30,8 @@ The goals of the training series are to:
 * Educate the government workforce on the basics and current landscape of AI as it relates to Acquisition, Technology, and Leadership and Policy
 * Provide access to academic AI leaders for all government employees
 * Encourage responsible use of AI across the government to improve operations
-The training is open to ALL government employees. This training fulfills the mandates included in the [AI Training Act](https://www.congress.gov/117/plaws/publ207/PLAW-117publ207.pdf) and [Responsible AI EO 13960](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government). 
+
+Training is open to ALL government employees. This training fulfills the mandates included in the [AI Training Act](https://www.congress.gov/117/plaws/publ207/PLAW-117publ207.pdf) and [Responsible AI EO 13960](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government). 
 
  
 ## Schedules and Courses
