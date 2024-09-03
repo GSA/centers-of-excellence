@@ -25,11 +25,41 @@ Each track has a different focus and intended audience. The Acquisition Track fo
 
 ## Registration 
 
-**What does it cost?**
+### What does it cost?
 The AI Training Series is available at no cost to government employees.
 
-**When is the registration deadline?**
+### When is the registration deadline?
 To expand access across government and encourage open participation, registration is ongoing throughout the duration of each training track. 
 
-Is it worth registering if I will be out for nearly a month?
+### Is it worth registering if I will be out for nearly a month?
 The series will last from the beginning of September through to the end of October. Those who register for the training series will receive an email when the e-Learning modules based on the recordings of the training sessions become available in late 2024. 
+
+## Zoom
+
+### Will the courses have closed captioning?
+Yes, live captioning is available to all participants.
+
+### Can I register for more than one track? 
+Yes, you can register for every track that interests you. Registration will give you access to every session within the track, but you are not required to attend every session. 
+
+### Where can I find my Zoom link to the trainings?
+Search your inbox or junk mail for emails from no-reply@zoom.us to find confirmation emails related to the AI training webinars you have registered for. Calendar invites are included in the registration confirmation emails as well.
+  
+### How long are the sessions? Will there be assignments outside of the live Zoom?
+Each of the 21 sessions across the three knowledge tracks will last for one hour. There will be no assignments in between sessions.  
+
+
+## Recordings and Credits
+### When and where will the recordings be available?
+Thank you for your interest in the AI Training Series! If you are not able to make a session, we will be providing training recordings as e-Learning modules [here on the FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of Q2 of FY25.
+
+We will notify all registered participants when the training modules are available. If you have not already done so, please sign up to [join the AI CoP mailing list](https://coe.gsa.gov/communities/ai.html#join-cop) for the latest updates on the training series and other events in the community. 
+
+### Can I get a copy of the slides?
+We are not able to release the slides from the instructors for the courses, but training recordings will be available as e-Learning modules [here on the FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of 2024 calendar year.
+
+### Can I get a certificate of attendance for the courses I attend? 
+Yes, we will provide individual certificates for attendees to complete following each training. Additionally, if you are able to attend the courses live and are a member of the Acquisition workforce, we will request the email associated with your FAI CSOD account at the conclusion of each training session.
+
+### Can I get CLPs for attending these courses? 
+We have submitted all of the AI Training courses to FAI CSOD for approval of CLPs for participants who attend the entire session. A polling question will be provided at the conclusion of each session prompting members of the Acquisition workforce to provide the email associated with their FAI CSOD account. This information will be used to verify acquisition professionals with accounts on FAI CSOD and award CLPs after the training series has ended. 
