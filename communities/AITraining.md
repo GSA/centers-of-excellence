@@ -33,7 +33,7 @@ The goals of the training series are to:
 
 Training is open to ALL government employees. This training fulfills the mandates included in the [AI Training Act](https://www.congress.gov/117/plaws/publ207/PLAW-117publ207.pdf) and [Responsible AI EO 13960](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government). 
 
-<a href="{{site.baseurl}}/communities/AITrainingFAQ" class="usa-button">2024 AI Training Series Frequently Asked Questions</a>
+<a href="{{site.baseurl}}/communities/AITrainingFAQ.html" class="usa-button">2024 AI Training Series Frequently Asked Questions</a>
  
 ## Schedules and Courses
 
