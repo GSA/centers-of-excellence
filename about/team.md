@@ -8,7 +8,7 @@ teams:
         img: AdamGrandt19.jpg
         center: Acting Executive Director
         bio: >-
-          Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 20 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the IT Modernization Centers of Excellence. In this role, Grandt leads a team of senior experts, enabling technological and organizational growth across the federal government. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause.
+          Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 25 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the IT Modernization Centers of Excellence, where he has ushered more than a dozen federal agencies in their IT modernization journeys. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause. 
   - title: Centers of Excellence
     people: 
       - name: Danielle Gallant
@@ -31,11 +31,6 @@ teams:
         center: Client Services Lead
         bio: >-
           Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
-      - name: Eric Ewing
-        img: EricEwing23.jpg  
-        center: Artificial Intelligence Lead
-        bio: >-
-          Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners. 
       - name: Calvert Smith
         img: CalvertSmith23.jpg
         center: Cloud Adoption Lead
