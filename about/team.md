@@ -64,6 +64,9 @@ teams:
         center: Customer Experience Lead
         bio: >-
           Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013).  
+     - name: Megan Moser
+        img: MeganMoser23.jpg
+        center: Customer Experience Lead
       - name: Olivia Olson
         img: OliviaOlson23.jpg
         center: Customer Experience Lead
