@@ -31,8 +31,8 @@ The AI Training Series is available at no cost to government employees.
 ### When is the registration deadline?
 To expand access across government and encourage open participation, registration is ongoing throughout the duration of each training track. 
 
-### Is it worth registering if I will be out for nearly a month?
-The series will last from the beginning of September through to the end of October. Those who register for the training series will receive an email when the e-Learning modules based on the recordings of the training sessions become available in late 2024. 
+### Is it worth registering if the training track has already started?
+Yes! The series will last from the beginning of September through to the end of October. Sessions are independent from one another, you may register at any time. All registrations must be processed and approved, so please try to register before session you wish to attend. Those who register for the training series will receive an email when the e-Learning modules based on the recordings of the training sessions become available in Q2 of FY25. 
 
 ## Zoom
 
@@ -51,15 +51,15 @@ Each of the 21 sessions across the three knowledge tracks will last for one hour
 
 ## Recordings and Credits
 ### When and where will the recordings be available?
-Thank you for your interest in the AI Training Series! If you are not able to make a session, we will be providing training recordings as e-Learning modules [here on the FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of Q2 of FY25.
+Thank you for your interest in the AI Training Series! If you are not able to make a session, we will be providing training recordings as e-Learning modules [here on the FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of Q2 of FY25. We are also exploring other platforms to host the training recordings outside of FAI.
 
 We will notify all registered participants when the training modules are available. If you have not already done so, please sign up to [join the AI CoP mailing list](https://coe.gsa.gov/communities/ai.html#join-cop) for the latest updates on the training series and other events in the community. 
 
-### Can I get a copy of the slides?
-We are not able to release the slides from the instructors for the courses, but training recordings will be available as e-Learning modules [here on the FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of 2024 calendar year.
+### Can I have a copy of the slides?
+We are not able to release the slides from the instructors for the courses, but training recordings will be available as e-Learning modules [here on the FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the Q2 of FY25.
 
 ### Can I get a certificate of attendance for the courses I attend? 
-Yes, we will provide individual certificates for attendees to complete following each training. Additionally, if you are able to attend the courses live and are a member of the Acquisition workforce, we will request the email associated with your FAI CSOD account at the conclusion of each training session.
+Yes, we will provide individual certificates for attendees to complete at the conclusion of the 2024 AI Training Series. Additionally, if you are able to attend the courses live and are a member of the Acquisition workforce, we will request the email associated with your FAI CSOD account at the conclusion of each training session.
 
 ### Can I get CLPs for attending these courses? 
-We have submitted all of the AI Training courses to FAI CSOD for approval of CLPs for participants who attend the entire session. A polling question will be provided at the conclusion of each session prompting members of the Acquisition workforce to provide the email associated with their FAI CSOD account. This information will be used to verify acquisition professionals with accounts on FAI CSOD and award CLPs after the training series has ended. 
+We have submitted all of the AI Training courses to FAI CSOD for approval of CLPs for participants who attend the entire session. A polling question will be provided at the conclusion of each session prompting members of the Acquisition workforce to provide the email associated with their FAI CSOD account. This information will be used to verify acquisition professionals with accounts on FAI CSOD and award CLPs after the 2024 AI Training Series has ended. 
