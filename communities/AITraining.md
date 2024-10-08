@@ -72,4 +72,4 @@ In partnership with the Center for Information Technology Policy (CITP) at Princ
 **Future Trends in AI** | Tuesday, October 22, 2024, 12-1pm EST | This course examines emerging trends in artificial intelligence and provides insights on how to anticipate and prepare for future developments in the field.
 **AI & Security** | Tuesday, October 29, 2024, 12-1pm EST | This course explores the vulnerabilities of AI systems to potential attacks and methods for protecting against these threats. The session also highlights efforts to develop and identify AI that is reliable, safe, and trustworthy.
 
-* In observance of two Jewish holidays this October, we are arranging additional dates to view the recordings of two technical trainings. Please note, the reruns of these trainings will not include an interactive Q&A portion for participants. 
+*In observance of two Jewish holidays this October, we are arranging additional dates to view the recordings of two technical trainings. Please note, the reruns of these trainings will not include an interactive Q&A portion for participants. 
