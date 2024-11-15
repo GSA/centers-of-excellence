@@ -18,7 +18,7 @@ The 2024 AI Training Series held live sessions in September and October. The rec
 **Notes on Registration:**
 *  All government employees with a .GOV or .MIL email address may register for any track.
 *  You must individually register for each session you wish you attend.
-*  All training sessions will be conducted as a ZoomGov Webinar. Recordings will be made available as e-Learning modules on the [FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of Q2 of FY25.
+*  Rebroadcast sessions will be conducted as a ZoomGov Webinar. Recordings will be made available as e-Learning modules on the [FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of Q2 of FY25.
 *  Rebroadcasts will not include an interactive portion.
 *  CLPs for members of the Acquisition workforce will be awarded to participants who attend the full rebroadcast of a session. 
 
