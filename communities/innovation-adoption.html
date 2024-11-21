@@ -107,6 +107,19 @@ testimonial-citation: Jillian Brooks, Deputy, Innovation Support Services, US Na
 	<p><strong>Note:</strong> Federal government employees only are eligible to join. </p>
 	
 	<a href="mailto:INNOVATION-ADOPTION-subscribe-request@listserv.gsa.gov" class="usa-button">Join by Email</a>
+
+	<h2 id="coe-updates">Latest Updates</h2>
+      {% assign filtered_posts = site.posts | where: 'initiative', "IA" %}
+	  {% assign i = 0 %}
+      {% for post in filtered_posts limit:3%}
+	    {% assign i = i | plus: 1 %}
+		{% include article-head.html show_post_excerpt = true %}
+      {% endfor %}
+	  {% if i == 3 %}
+		<a href="{{site.baseurl}}/communities/ia-blogs" class="usa-button">See All</a>
+	  {% endif %}
+
+
 	
     </div> <!-- /.usa-width-two-thirds -->
    
