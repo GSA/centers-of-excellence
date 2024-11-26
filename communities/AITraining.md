@@ -39,6 +39,8 @@ In partnership with Stanford Human-Centered AI, this track breaks down complex A
 ### Acquisition Track
 In partnership with George Washington University Law School, these sessions cover the fundamentals of AI procurement to understanding risk management and ethics in AI acquisition.
 
+#### To Register: You must individually register for each session you wish you attend with the links below. 
+
 [**Buying AI: Government Contracts 101**](https://gsa.zoomgov.com/webinar/register/WN_5E3L-vgxTv2HQZ7hLtX0JQ#/registration) | Tuesday, December 10, 2024, 11 am-12pm EST | A foundational overview of basic federal procurement policies and requirements as they relate to AI, so that attendees have a better understanding of the goals and constraints of U.S. federal acquisition. 
 [**How Does AI Benefit the Federal Government?**](https://gsa.zoomgov.com/webinar/register/WN_0W-UG0HFRciZ_bK42lATAA#/registration) | Tuesday, December 10, 2024, 12:30-1:30 pm EST | Customer needs and satisfaction are a foundational underpinning of the U.S. procurement system. This session will discuss the ways in which AI may benefit "the business" of the U.S. federal government.
 [**Risk Management & Ethics**](https://gsa.zoomgov.com/webinar/register/WN_gae5Y6RHR1uWAYEu3QsDwQ#/registration) | Tuesday, December 10, 2024, 2-3 pm EST | An overview of the ethical considerations and risk mitigation measures essential to responsible AI acquisition.
@@ -50,6 +52,8 @@ In partnership with George Washington University Law School, these sessions cove
 
 ### Leadership and Policy Track
 In partnership with the Center for Information Technology Policy (CITP) at Princeton University, these sessions explore AI policy development, ethical leadership, and strategic planning, ensuring leaders are well-prepared to handle the societal impacts of AI technologies.
+
+#### To Register: You must individually register for each session you wish you attend with the links below. 
 
 [**AI Foundations for Decision Makers**](https://gsa.zoomgov.com/webinar/register/WN_eW9Xc4SMREqgEh5QqniqHA) | Tuesday, December 17, 2024, 11 am-12 pm EST | This session provides a comprehensive introduction to the science behind artificial intelligence, focusing on how AI systems work and their key technological features. It also equips decision-makers with the skills to identify misleading AI claims and distinguish them from genuine technological advances.
 [**AI Strategies and Insights**](https://gsa.zoomgov.com/webinar/register/WN_0K_RcGgwTsiES9Hmrmt_3A) | Tuesday, December 17, 2024, 12:30-1:30 pm EST | This session looks at how the government can leverage AI for enhanced decision-making and operational efficiency. The session also introduces frameworks for the ethical adoption and implementation of AI tools in public sector initiatives.
