@@ -60,8 +60,6 @@ teams:
       - name: Megan Moser
         img: MeganMoser23.jpg
         center: Customer Experience Lead
-        bio: >-
-          Olivia Olson has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.
       - name: Olivia Olson
         img: OliviaOlson23.jpg
         center: Customer Experience Lead
