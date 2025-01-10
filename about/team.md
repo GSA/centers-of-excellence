@@ -2,13 +2,6 @@
 layout: team
 title: Our Team
 teams:
-  - title: Leadership
-    people:
-      - name: Amiad 'Adam' Grandt-Nesher
-        img: AdamGrandt19.jpg
-        center: Acting Executive Director
-        bio: >-
-          Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 25 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the IT Modernization Centers of Excellence, where he has ushered more than a dozen federal agencies in their IT modernization journeys. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause. 
   - title: Centers of Excellence
     people: 
       - name: Danielle Gallant
@@ -31,6 +24,11 @@ teams:
         center: Client Services Lead
         bio: >-
           Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
+      - name: Amiad 'Adam' Grandt-Nesher
+        img: AdamGrandt19.jpg
+        center: Cloud Adoption Lead
+        bio: >-
+          Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 25 years of experience leading organizations in the financial and public sectors. Grandt is currently serving as the Managing Director of the Cloud Adoption and Infrastructure Optimization Centers, where he has supported more than a dozen federal agencies in their IT modernization journeys. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause.
       - name: Calvert Smith
         img: CalvertSmith23.jpg
         center: Cloud Adoption Lead
@@ -58,12 +56,7 @@ teams:
         img: SandraDickinson.jpeg
         center: Contact Center Lead
         bio: >-
-          Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
-      - name: Dan Willis
-        img: DanWillis19.jpg
-        center: Customer Experience Lead
-        bio: >-
-          Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013).  
+          Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.  
       - name: Olivia Olson
         img: OliviaOlson23.jpg
         center: Customer Experience Lead
@@ -92,12 +85,7 @@ teams:
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
         bio: >-
-          Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management.               
-      - name: Nathan Manzotti
-        img: NathanManzotti23.jpg  
-        center: Data & Analytics Lead
-        bio: >-
-          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.           
+          Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management.                          
       - name: Bethany Blakey
         img: BethanyBlakey23.jpg
         center: Innovation Adoption Lead
