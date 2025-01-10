@@ -57,6 +57,11 @@ teams:
         center: Contact Center Lead
         bio: >-
           Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.  
+      - name: Megan Moser
+        img: MeganMoser23.jpg
+        center: Customer Experience Lead
+        bio: >-
+          Olivia Olson has 7 years of experience working in the areas of public participation, information literacy, additive manufacturing, affective behavior change, and healthcare. She has a background in cognitive science, human-computer interactions, service and experience design, strategy, design thinking, and workshop facilitation. At the CoE, Olivia is working with agencies to define and deliver on their customer experience and service delivery using human centered design methodologies and empirical customer research.
       - name: Olivia Olson
         img: OliviaOlson23.jpg
         center: Customer Experience Lead
