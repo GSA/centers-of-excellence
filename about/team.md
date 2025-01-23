@@ -2,45 +2,33 @@
 layout: team
 title: Our Team
 teams:
-  - title: Leadership
-    people:
-      - name: Amiad 'Adam' Grandt-Nesher
-        img: AdamGrandt19.jpg
-        center: Acting Executive Director
-        bio: >-
-          Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 20 years of experience leading organizations in the financial and public sectors. Grandt is currently acting as the Executive Director of the IT Modernization Centers of Excellence. In this role, Grandt leads a team of senior experts, enabling technological and organizational growth across the federal government. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause.
   - title: Centers of Excellence
-    people:
-      - name: Bridget Fields
-        img: Bridget Fields 21.jpg
-        center: Strategic Partnerships Lead        
-        bio: >-
-          Bridget Fields has a passion for identifying, understanding, and then developing solutions to challenges facing individual users and enterprises alike. Bringing more than 10 years of public sector experience to her role as the Director for Strategic Partnerships and Client Success, she supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. She is the recipient of the Special Act Award in 2018, 2022 and the Service to the Citizen award in 2021.  
+    people: 
       - name: Danielle Gallant
         img:  DanielleGallant19.jpg
         center: Communications Lead
         bio: >-
-          Danielle Gallant (she/her) has over 5 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful.       
-      - name: Michelle McNellis
-        img: MichelleMcNellis19.jpg
-        center: Acquisitions Director 
-        bio: >-
-          Michelle McNellis is the Director of Acquisitions at Centers of Excellence (CoE) in GSA’s Technology Transformation Service. Michelle has over 15 years of experience of managing complex Information Technology acquisitions for the United States Government. In her current role, she is responsible for creating, implementing, and finding innovative solutions to help the government modernize their technology through acquisition strategies and procurement methodologies, with recognition of her work as FedScoop Top 50 Innovation of the Year Nominee. She leads a cross-functional team of highly-advanced technical and acquisition experts who have been recognized across the public and private sector as innovators in digital services.  
+          Danielle Gallant (she/her) has 10 years of public sector experience supporting high visibility, government-wide programs. At the CoE, Gallant serves as a User Experience and Content Designer. Gallant manages the CoE website, supports UX strategy for other digital products, and supports digital communication initiatives.  Gallant engages with CoE experts and stakeholders to produce content and design that is innovative and meaningful.         
       - name: Omar Saeb
         img: OmarSaeb.png
         center: Acquisitions Lead
         bio: >-
-          Omar Saeb has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
+          Omar Saeb is the Director of Acquisitions at Centers of Excellence (CoE) in GSA’s Technology Transformation Service. He has over 15 years of experience working in the public and private sectors with a background in managing complex contracts and program delivery. Within the CoE acquisitions team, Omar leads the technical assistance program supporting foreign technical assistance engagement in the area of public procurement and works with federal agencies on acquisition strategies and procurement methodologies. He also serves as a procurement expert on international technical assistance programs for the Department of Commerce Commercial Law Development Program. Prior to joining CoE, Omar was the Program Manager of the $50 Billion Alliant 2 Information Technology Government-Wide Acquisition Contract. He worked with a number of federal agencies and military commands on acquisition and contract formation strategies under Alliant 2. His federal career encompasses broad acquisition experience working as a warranted Senior Contracting Officer at The White House during the Obama Administration and in the Department of the Navy at the Naval Information Warfare Center Pacific. Prior to his Government service, Omar spent time in the financial sector working for domestic and international financial institutions. 
+      - name: Bridget Fields
+        img: Bridget Fields 21.jpg
+        center: Client Services Lead     
+        bio: >-
+          Bridget Fields has a passion for identifying, understanding, and then developing solutions to challenges facing individual users and enterprises alike. Bringing more than 10 years of public sector experience to her role a Client Services Lead, she supports federal agencies with their IT modernization efforts. She is driven to help teams achieve their organizational and professional missions by adopting the principles, products, and practices that have proven to be successful - as well as those that will be influential in the future. She is the recipient of the Special Act Award in 2018, 2022 and the Service to the Citizen award in 2021. 
       - name: Ekwutosi ‘Kwi’ Okoli
         img: KwiOkoli23.jpg
         center: Client Services Lead
         bio: >-
           Ekwutosi “Kwi “ Okoli is an accomplished business strategy and IT program management leader with over 17 years of experience leading cross-functional teams in  delivering modern IT systems, products and services which drive innovation and performance enhancement. Kwi has worked in both the private and public sector including Mercedes Benz USA, Humana and most recently the Texas Education Agency, where she managed software development initiatives for a state agency system supporting more than 5.3M students throughout the State of Texas. Kwi also partners actively with nonprofits in her community to teach project management skills to high school and university students. Kwi has an MBA from Fordham University and an MS in Global Management Systems from the Thunderbird School of Global Management. She is certified in agile and project management methodologies and holds ScrumMaster (SCM) and Project Management Professional (PMP) certifications.  
-      - name: Eric Ewing
-        img: EricEwing23.jpg  
-        center: Artificial Intelligence Lead
+      - name: Amiad 'Adam' Grandt-Nesher
+        img: AdamGrandt19.jpg
+        center: Cloud Adoption Lead
         bio: >-
-          Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives.  Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Ewing consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners. 
+          Amiad 'Adam' Grandt-Nesher is an experienced enterprise leader with a proven track record of bringing about technological evolution to meet organizational needs. Grandt has over 25 years of experience leading organizations in the financial and public sectors. Grandt is currently serving as the Managing Director of the Cloud Adoption and Infrastructure Optimization Centers, where he has supported more than a dozen federal agencies in their IT modernization journeys. Before joining the CoE, Grandt led Architecture and development teams across the financial industry, where he led the development of global Infrastructure as a Service (IaaS) and Platform (PaaS) offerings. Throughout his career, Grandt has been active in the fight against human trafficking and internet crimes against children. He has established and supported several NGOs that partnered with federal and local law enforcement agencies to build systems to further support the cause.
       - name: Calvert Smith
         img: CalvertSmith23.jpg
         center: Cloud Adoption Lead
@@ -68,17 +56,10 @@ teams:
         img: SandraDickinson.jpeg
         center: Contact Center Lead
         bio: >-
-          Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.
-      - name: Dan Willis
-        img: DanWillis19.jpg
+          Sandra Dickinson has over 25 years of progressive experience in the contact center/operations field including over 17 years of corporate-level responsibilities. With the CoE, Dickinson leads team efforts to modernize contact centers at partner agencies, including the implementation phases for OneUSDA Contact Center. Dickinson engages with partner agency stakeholders and collaborate to determine best practices for contact center infrastructure, staffing, and technology implementation.  
+      - name: Megan Moser
+        img: MeganMoser23.jpg
         center: Customer Experience Lead
-        bio: >-
-          Dan Willis spends most of his time helping organizations and their leaders define and address the critical needs of their most important customers. Willis has provided leadership and innovative solutions in the government, commercial, and nonprofit sectors. Willis is an expert in design, design management, DesignOps, user-centered product development, user research, and facilitation. Willis has given talks and run workshops at local, national, and international conferences including South by Southwest, UX Australia, and EuroIA. Willis is the co-author and illustrator of Designing the Conversation: Techniques for Successful Facilitation (New Riders, 2013). 
-      - name: Lashanda Hodge
-        img: LashandaHodge19.jpg
-        center: Customer Experience Lead
-        bio: >-
-          Lashanda Hodge has over 12 years of experience creating compelling experiences in a variety of industries for customers and employees. Hodge guides organizations to solutions using a holistic and human-centered approach, infusing user insights and creativity.  With the CoE, Hodge works with the Joint Artificial Intelligence Agency (JAIC) to establish a customer experience baseline that can be tested and improved as JAIC matures.  Hodge is also helping to modernize business processes to ensure an effective customer experience throughout the customer lifecycle at JAIC. 
       - name: Olivia Olson
         img: OliviaOlson23.jpg
         center: Customer Experience Lead
@@ -107,12 +88,7 @@ teams:
         img: SatyajeetDhumne19.jpg
         center: Data & Analytics Lead
         bio: >-
-          Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management.               
-      - name: Nathan Manzotti
-        img: NathanManzotti23.jpg  
-        center: Data & Analytics Lead
-        bio: >-
-          Nathan Manzotti has over 10 years of public sector experience. Manzotti has a proven track record of breaking down organizational silos, using digital solutions to reduce manual workloads, and enabling better data driven decision making. Prior to joining CoE Manzotti’s worked with the U.S. Customs and Border Protection modernizing legacy reporting systems and overseeing feature development on systems used by the Office of Field Operations for official statistical reporting. As part of the Data & Analytics CoE Nathan will work closely with partner agencies to improve data lifecycle management and data governance best practices.           
+          Satyajeet Dhumne has over 20 years of industry experience in Business Intelligence, Analytics, and Data Management. In his previous roles at Fannie Mae, Verizon, Deloitte and Sprint/Nextel Dhumne transformed organizational capabilities enabling data driven decision making and maturing analytics practices. As a CoE Data and Analytics Director he has led a large-scale implementation for the U.S. Department of Agriculture, building Data Visualization capabilities and Analytics capacity. He also led the development of Data and Analytics strategy and implementation plan for the Consumer Product Safety Commision. Currently Dhumne is leading a large-scale implementation for Housing and Urban Development where he is responsible for building Data Visualization, Advanced Analytics, and Office of the Chief Data Officer capabilities. Satyajeet specializes in Data and Analytics Strategy, Technology Portfolio Management, Data Management and Technical Program Management.                          
       - name: Bethany Blakey
         img: BethanyBlakey23.jpg
         center: Innovation Adoption Lead
