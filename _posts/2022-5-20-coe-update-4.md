@@ -25,7 +25,7 @@ Follow us on Twitter <a href="https://twitter.com/GSACoE">@GSACoE</a> to stay tu
 ## Check out our new releases
 * [IA Culture Pre-Assessment Guide](https://coe.gsa.gov/docs/CulturePreAssessmentGuide.pdf)
 * [Data Governance Charter Templates](https://coe.gsa.gov/coe/data-analytics.html)
-* [Strategic Foresight 101 Workshops](https://coe.gsa.gov/docs/StrategicForesight101.pdf)   
-* [CX Maturity Model](https://coe.gsa.gov/docs/CXMaturityModel.pdf)
-* [Building Effective Industry Engagement Guide](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf)
+<!-- * [Strategic Foresight 101 Workshops](https://coe.gsa.gov/docs/StrategicForesight101.pdf)    -->
+<!-- * [CX Maturity Model](https://coe.gsa.gov/docs/CXMaturityModel.pdf) -->
+<!-- * [Building Effective Industry Engagement Guide](https://coe.gsa.gov/docs/BuildingEffectiveIndustryEngagementGuide.pdf) -->
 * [Cloud Migration Acquisition Journey Map](https://coe.gsa.gov/docs/CloudMigration/JourneyMap.pdf)
