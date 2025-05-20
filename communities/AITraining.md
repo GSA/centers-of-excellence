@@ -9,11 +9,11 @@ title: AI Training Series for Government Employees
 Enhance your skills and knowledge of the rapidly evolving world of artificial intelligence (AI).
 {: .intro} 
 
-Our comprehensive training series, which meets the training requirements of the [Artificial Intelligence Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/), is designed to inform and educate government employees at all levels, offering specialized tracks to meet the diverse needs of the government workforce. The TTS Centers of Excellence [AI Community of Practice (AI CoP)](https://coe.gsa.gov/communities/ai.html) is conducting this AI Training in partnership with [Stanford HAI](https://hai.stanford.edu/), [GWU Law School](https://www.law.gwu.edu/), [Princeton CITP](https://citp.princeton.edu/), [Wilson Center](https://www.wilsoncenter.org/), [GSA OGP](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy), and [OMB](https://www.whitehouse.gov/omb/). 
+Our comprehensive training series, which meets the training requirements of the [Artificial Intelligence Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/), is designed to inform and educate government employees at all levels, offering specialized tracks to meet the diverse needs of the government workforce. The TTS Centers of Excellence [AI Community of Practice (AI CoP)](https://coe.gsa.gov/communities/ai.html) conducted this AI Training in partnership with [Stanford HAI](https://hai.stanford.edu/), [GWU Law School](https://www.law.gwu.edu/), [Princeton CITP](https://citp.princeton.edu/), [Wilson Center](https://www.wilsoncenter.org/), [GSA OGP](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy), and [OMB](https://www.whitehouse.gov/omb/). 
 
 ## Access the 2024 Training Series
 
-The 2024 AI Training Series held live sessions in September and October. The recorded sessions have been transformed into e-learning modules and are **now available for government employees via [USA Learning]**(https://cldcentral.usalearning.gov/course/index.php?categoryid=1201). 
+The 2024 AI Training Series held live sessions in September and October 2024. The recorded sessions have been transformed into e-learning modules and are **now available for government employees via [USA Learning]** (https://cldcentral.usalearning.gov/course/index.php?categoryid=1201). 
 
 ### Technical Track
 In partnership with Stanford Human-Centered AI, this track breaks down complex AI concepts into plain language, covering human-centered AI development, privacy and security concerns, and risk mitigation techniques.
@@ -50,7 +50,7 @@ In partnership with the Center for Information Technology Policy (CITP) at Princ
 **AI & Security** | This course explores the vulnerabilities of AI systems to potential attacks and methods for protecting against these threats. The session also highlights efforts to develop and identify AI that is reliable, safe, and trustworthy.
     
 ## Access the 2023 Trainings Series
-The recordings of the 2023 and 2024 sessions are available to government employees on the **AI CoP [USDA Connect page]**(https://community.connect.gov/x/iSE9n). 
+The recordings of the 2023 and 2024 sessions are available to government employees on the **AI CoP [USDA Connect page]** (https://community.connect.gov/x/iSE9n). 
 
 <a href="{{site.baseurl}}/communities/AITrainingFAQ.html" class="usa-button">2024 AI Training Series Frequently Asked Questions</a>
  
