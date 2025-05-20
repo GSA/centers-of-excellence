@@ -11,24 +11,15 @@ Enhance your skills and knowledge of the rapidly evolving world of artificial in
 
 Our comprehensive training series, which meets the training requirements of the [Artificial Intelligence Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/), is designed to inform and educate government employees at all levels, offering specialized tracks to meet the diverse needs of the government workforce. The TTS Centers of Excellence [AI Community of Practice (AI CoP)](https://coe.gsa.gov/communities/ai.html) is conducting this AI Training in partnership with [Stanford HAI](https://hai.stanford.edu/), [GWU Law School](https://www.law.gwu.edu/), [Princeton CITP](https://citp.princeton.edu/), [Wilson Center](https://www.wilsoncenter.org/), [GSA OGP](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy), and [OMB](https://www.whitehouse.gov/omb/). 
 
-## Register Today!
+## Access the 2024 Training Series
 
-The 2024 AI Training Series held live sessions in September and October. The recorded sessions will be available for rebroadcast on the Zoom platform in December. If you missed a session or would like to refresh your knowledge, you can register to attend individual sessions using the links below. 
-
-**Notes on Registration:**
-*  All government employees with a .GOV or .MIL email address may register for any track.
-*  You must individually register for each session you wish you attend.
-*  Rebroadcast sessions will be conducted as a ZoomGov Webinar. Recordings will be made available as e-Learning modules on the [FAI system](https://id.dau.edu/app/dau_virtualcampus_1/exk5bw8t33Hj4e8mo297/sso/saml) by the end of Q2 of FY25.
-*  Rebroadcasts will not include an interactive portion.
-*  CLPs for members of the Acquisition workforce will be awarded to participants who attend the full rebroadcast of a session. 
+The 2024 AI Training Series held live sessions in September and October. The recorded sessions have been transformed into e-learning modules and are now available for government employees via USA Learning (https://cldcentral.usalearning.gov/course/index.php?categoryid=1201). 
 
 ### Technical Track
 In partnership with Stanford Human-Centered AI, this track breaks down complex AI concepts into plain language, covering human-centered AI development, privacy and security concerns, and risk mitigation techniques.
 
-#### To Register: You must individually register for each session you wish you attend with the links below. 
-
-[**Navigating the AI Landscape**](https://gsa.zoomgov.com/webinar/register/WN_KCRGl8TEQb6PZHDYKr3XyQ) | Tuesday, December 3, 2024, 11 am-12 pm EST| This course provides a comprehensive overview of AI, including the definition, theories of AI and machine learning, neural networks, narrow vs. general AI, gradient descent, use cases, and more.
-[**Privacy & Security**](https://gsa.zoomgov.com/webinar/register/WN_-R1y4vRQRm2ddrcUFbj7Rw#/registration) | Tuesday, December 3, 2024, 12:30-1:30 pm EST |This course covers how different social values around privacy, data ownership, and data creation will impact what AI technologies are possible today and what the future paths of innovation in AI will look like.
+**Navigating the AI Landscape** | This course provides a comprehensive overview of AI, including the definition, theories of AI and machine learning, neural networks, narrow vs. general AI, gradient descent, use cases, and more.
+**Privacy & Security** | This course covers how different social values around privacy, data ownership, and data creation will impact what AI technologies are possible today and what the future paths of innovation in AI will look like.
 [**AI Safety & Robustness**](https://gsa.zoomgov.com/webinar/register/WN_6PSxUTNdQ7OaBwLNx3tA6w#/registration) | Tuesday, December 3, 2024, 2-3 pm EST | The course looks at the considerations that AI developers must evaluate when designing AI systems for safety such as how to address biased inputs, navigate constantly evolving conditions, and address explainability issues. The course will look at how we can navigate all these risks and design the right parameters for safety. 
 [**Generative AI Fairness**](https://gsa.zoomgov.com/webinar/register/WN_L6BZl1wvTtu9WhXCHhK0pg#/registration) | Wednesday, December 4, 2024, 11 am-12 pm EST | This course provides an in-depth understanding of how biases embedded in data can lead generative AI models to make certain predictions that are systematically different across groups and how to assess algorithmic fairness for human-facing applications of generative AI. 
 [**HELM and Benchmarking Foundation Models**](https://gsa.zoomgov.com/webinar/register/WN_cmokgc34T8iUOyeCM5lJXw#/registration) | Wednesday, December 4, 2024, 12:30-1:30 pm EST | This course covers the importance of benchmarking AI models as a way to understand the capabilities of systems and promote transparency amongst model developers. The course will also discuss Stanford’s Holistic Evaluation of Language Models (HELM) benchmarking approach which serves as a model to evaluate language models. 
@@ -38,8 +29,6 @@ In partnership with Stanford Human-Centered AI, this track breaks down complex A
  
 ### Acquisition Track
 In partnership with George Washington University Law School, these sessions cover the fundamentals of AI procurement to understanding risk management and ethics in AI acquisition.
-
-#### To Register: You must individually register for each session you wish you attend with the links below. 
 
 [**Buying AI: Government Contracts 101**](https://gsa.zoomgov.com/webinar/register/WN_5E3L-vgxTv2HQZ7hLtX0JQ#/registration) | Tuesday, December 10, 2024, 11 am-12pm EST | A foundational overview of basic federal procurement policies and requirements as they relate to AI, so that attendees have a better understanding of the goals and constraints of U.S. federal acquisition. 
 [**How Does AI Benefit the Federal Government?**](https://gsa.zoomgov.com/webinar/register/WN_0W-UG0HFRciZ_bK42lATAA#/registration) | Tuesday, December 10, 2024, 12:30-1:30 pm EST | Customer needs and satisfaction are a foundational underpinning of the U.S. procurement system. This session will discuss the ways in which AI may benefit "the business" of the U.S. federal government.
@@ -51,9 +40,7 @@ In partnership with George Washington University Law School, these sessions cove
 
 
 ### Leadership and Policy Track
-In partnership with the Center for Information Technology Policy (CITP) at Princeton University, these sessions explore AI policy development, ethical leadership, and strategic planning, ensuring leaders are well-prepared to handle the societal impacts of AI technologies.
-
-#### To Register: You must individually register for each session you wish you attend with the links below. 
+In partnership with the Center for Information Technology Policy (CITP) at Princeton University, these sessions explore AI policy development, ethical leadership, and strategic planning, ensuring leaders are well-prepared to handle the societal impacts of AI technologies. 
 
 [**AI Foundations for Decision Makers**](https://gsa.zoomgov.com/webinar/register/WN_eW9Xc4SMREqgEh5QqniqHA) | Tuesday, December 17, 2024, 11 am-12 pm EST | This session provides a comprehensive introduction to the science behind artificial intelligence, focusing on how AI systems work and their key technological features. It also equips decision-makers with the skills to identify misleading AI claims and distinguish them from genuine technological advances.
 [**AI Strategies and Insights**](https://gsa.zoomgov.com/webinar/register/WN_0K_RcGgwTsiES9Hmrmt_3A) | Tuesday, December 17, 2024, 12:30-1:30 pm EST | This session looks at how the government can leverage AI for enhanced decision-making and operational efficiency. The session also introduces frameworks for the ethical adoption and implementation of AI tools in public sector initiatives.
