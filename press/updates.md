@@ -9,7 +9,9 @@ Every month, our team posts updates on our work, best practices or progress. Ple
 {: .intro}
 
 {% for post in site.posts %}
-    {% include article-head.html post=post show_initiative=true %}
+     {% if post.initiative != "AI" or post.initiative != "COP" or post.initiative != "IA" %}
+        {% include article-head.html post=post show_initiative=true %}
+     {% endif %}
 {% endfor %}
 
 <button onclick="btt()" id="btt"></button>
